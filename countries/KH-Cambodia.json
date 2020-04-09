@@ -1,0 +1,14 @@
+[
+    {
+        "id_location": 270824,
+        "id_location_parent": 1,
+        "name": "Phnom Penh",
+        "seoname": "phnom-penh-782858"
+    },
+    {
+        "id_location": 270825,
+        "id_location_parent": 270824,
+        "name": "Phnom Penh",
+        "seoname": "phnom-penh-514269"
+    }
+]

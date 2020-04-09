@@ -1,0 +1,572 @@
+[
+    {
+        "id_location": 75093,
+        "id_location_parent": 1,
+        "name": "Bafing",
+        "seoname": "bafing-782793"
+    },
+    {
+        "id_location": 75094,
+        "id_location_parent": 75093,
+        "name": "Koro",
+        "seoname": "koro-512286"
+    },
+    {
+        "id_location": 75095,
+        "id_location_parent": 75093,
+        "name": "Touba",
+        "seoname": "touba-512287"
+    },
+    {
+        "id_location": 75096,
+        "id_location_parent": 1,
+        "name": "Bas-Sassandra",
+        "seoname": "bas-sassandra-782794"
+    },
+    {
+        "id_location": 75097,
+        "id_location_parent": 75096,
+        "name": "Gu\u00e9yo",
+        "seoname": "gueyo-512288"
+    },
+    {
+        "id_location": 75098,
+        "id_location_parent": 75096,
+        "name": "San-P\u00e9dro",
+        "seoname": "san-pedro-512289"
+    },
+    {
+        "id_location": 75099,
+        "id_location_parent": 75096,
+        "name": "Sassandra",
+        "seoname": "sassandra-512290"
+    },
+    {
+        "id_location": 75100,
+        "id_location_parent": 75096,
+        "name": "Soubr\u00e9",
+        "seoname": "soubre-512291"
+    },
+    {
+        "id_location": 75101,
+        "id_location_parent": 75096,
+        "name": "Tabou",
+        "seoname": "tabou-512292"
+    },
+    {
+        "id_location": 75102,
+        "id_location_parent": 1,
+        "name": "Dengu\u00e9l\u00e9",
+        "seoname": "denguele-782795"
+    },
+    {
+        "id_location": 75103,
+        "id_location_parent": 75102,
+        "name": "Madinani",
+        "seoname": "madinani-512293"
+    },
+    {
+        "id_location": 75104,
+        "id_location_parent": 75102,
+        "name": "Minignan",
+        "seoname": "minignan-512294"
+    },
+    {
+        "id_location": 75105,
+        "id_location_parent": 75102,
+        "name": "Odienn\u00e9",
+        "seoname": "odienne-512295"
+    },
+    {
+        "id_location": 75106,
+        "id_location_parent": 75102,
+        "name": "Samatiguila",
+        "seoname": "samatiguila-512296"
+    },
+    {
+        "id_location": 75107,
+        "id_location_parent": 1,
+        "name": "Fromager",
+        "seoname": "fromager-782796"
+    },
+    {
+        "id_location": 75108,
+        "id_location_parent": 75107,
+        "name": "Gagnoa",
+        "seoname": "gagnoa-512297"
+    },
+    {
+        "id_location": 75109,
+        "id_location_parent": 75107,
+        "name": "Oum\u00e9",
+        "seoname": "oume-512298"
+    },
+    {
+        "id_location": 75110,
+        "id_location_parent": 1,
+        "name": "Haut-sassandra",
+        "seoname": "haut-sassandra-782797"
+    },
+    {
+        "id_location": 75111,
+        "id_location_parent": 75110,
+        "name": "Daloa",
+        "seoname": "daloa-512299"
+    },
+    {
+        "id_location": 75112,
+        "id_location_parent": 75110,
+        "name": "Issia",
+        "seoname": "issia-512300"
+    },
+    {
+        "id_location": 75113,
+        "id_location_parent": 75110,
+        "name": "Vavoua",
+        "seoname": "vavoua-512301"
+    },
+    {
+        "id_location": 75114,
+        "id_location_parent": 75110,
+        "name": "Zoukougbeu",
+        "seoname": "zoukougbeu-512302"
+    },
+    {
+        "id_location": 75115,
+        "id_location_parent": 1,
+        "name": "Lacs",
+        "seoname": "lacs-782798"
+    },
+    {
+        "id_location": 75116,
+        "id_location_parent": 75115,
+        "name": "Didi\u00e9vi",
+        "seoname": "didievi-512303"
+    },
+    {
+        "id_location": 75117,
+        "id_location_parent": 75115,
+        "name": "Ti\u00e9bissou",
+        "seoname": "tiebissou-512304"
+    },
+    {
+        "id_location": 75118,
+        "id_location_parent": 75115,
+        "name": "Toumodi",
+        "seoname": "toumodi-512305"
+    },
+    {
+        "id_location": 75119,
+        "id_location_parent": 75115,
+        "name": "Yamoussoukro",
+        "seoname": "yamoussoukro-512306"
+    },
+    {
+        "id_location": 75120,
+        "id_location_parent": 1,
+        "name": "Lagunes",
+        "seoname": "lagunes-782799"
+    },
+    {
+        "id_location": 75121,
+        "id_location_parent": 75120,
+        "name": "Abidjan",
+        "seoname": "abidjan-512307"
+    },
+    {
+        "id_location": 75122,
+        "id_location_parent": 75120,
+        "name": "Al\u00e9p\u00e9",
+        "seoname": "alepe-512308"
+    },
+    {
+        "id_location": 75123,
+        "id_location_parent": 75120,
+        "name": "Dabou",
+        "seoname": "dabou-512309"
+    },
+    {
+        "id_location": 75124,
+        "id_location_parent": 75120,
+        "name": "Grand-Lahou",
+        "seoname": "grand-lahou-512310"
+    },
+    {
+        "id_location": 75125,
+        "id_location_parent": 75120,
+        "name": "Jacqueville",
+        "seoname": "jacqueville-512311"
+    },
+    {
+        "id_location": 75126,
+        "id_location_parent": 75120,
+        "name": "Sikensi",
+        "seoname": "sikensi-512312"
+    },
+    {
+        "id_location": 75127,
+        "id_location_parent": 75120,
+        "name": "Tiassal\u00e9",
+        "seoname": "tiassale-512313"
+    },
+    {
+        "id_location": 75128,
+        "id_location_parent": 1,
+        "name": "Marahou\u00e9",
+        "seoname": "marahoue-782800"
+    },
+    {
+        "id_location": 75129,
+        "id_location_parent": 75128,
+        "name": "Bouafl\u00e9",
+        "seoname": "bouafle-512314"
+    },
+    {
+        "id_location": 75130,
+        "id_location_parent": 75128,
+        "name": "Kounahiri",
+        "seoname": "kounahiri-512315"
+    },
+    {
+        "id_location": 75131,
+        "id_location_parent": 75128,
+        "name": "Sinfra",
+        "seoname": "sinfra-512316"
+    },
+    {
+        "id_location": 75132,
+        "id_location_parent": 75128,
+        "name": "Zu\u00e9noula",
+        "seoname": "zuenoula-512317"
+    },
+    {
+        "id_location": 75133,
+        "id_location_parent": 1,
+        "name": "18 Montagnes",
+        "seoname": "18-montagnes-782801"
+    },
+    {
+        "id_location": 75134,
+        "id_location_parent": 75133,
+        "name": "Bangolo",
+        "seoname": "bangolo-512318"
+    },
+    {
+        "id_location": 75135,
+        "id_location_parent": 75133,
+        "name": "Biankouma",
+        "seoname": "biankouma-512319"
+    },
+    {
+        "id_location": 75136,
+        "id_location_parent": 75133,
+        "name": "Danan\u00e9",
+        "seoname": "danane-512320"
+    },
+    {
+        "id_location": 75137,
+        "id_location_parent": 75133,
+        "name": "Kouibly",
+        "seoname": "kouibly-512321"
+    },
+    {
+        "id_location": 75138,
+        "id_location_parent": 75133,
+        "name": "Man",
+        "seoname": "man-512322"
+    },
+    {
+        "id_location": 75139,
+        "id_location_parent": 75133,
+        "name": "Zouan-Hounien",
+        "seoname": "zouan-hounien-512323"
+    },
+    {
+        "id_location": 75140,
+        "id_location_parent": 1,
+        "name": "Moyen Cavally",
+        "seoname": "moyen-cavally-782802"
+    },
+    {
+        "id_location": 75141,
+        "id_location_parent": 75140,
+        "name": "Blol\u00e9quin",
+        "seoname": "blolequin-512324"
+    },
+    {
+        "id_location": 75142,
+        "id_location_parent": 75140,
+        "name": "Du\u00e9kou\u00e9",
+        "seoname": "duekoue-512325"
+    },
+    {
+        "id_location": 75143,
+        "id_location_parent": 75140,
+        "name": "Guiglo",
+        "seoname": "guiglo-512326"
+    },
+    {
+        "id_location": 75144,
+        "id_location_parent": 75140,
+        "name": "Toulepleu",
+        "seoname": "toulepleu-512327"
+    },
+    {
+        "id_location": 75145,
+        "id_location_parent": 1,
+        "name": "Moyen Como\u00e9",
+        "seoname": "moyen-comoe-782803"
+    },
+    {
+        "id_location": 75146,
+        "id_location_parent": 75145,
+        "name": "Abengourou",
+        "seoname": "abengourou-512328"
+    },
+    {
+        "id_location": 75147,
+        "id_location_parent": 75145,
+        "name": "Agnibil\u00e9krou",
+        "seoname": "agnibilekrou-512329"
+    },
+    {
+        "id_location": 75148,
+        "id_location_parent": 75145,
+        "name": "Betti\u00e9",
+        "seoname": "bettie-512330"
+    },
+    {
+        "id_location": 75149,
+        "id_location_parent": 1,
+        "name": "N'Zi Como\u00e9",
+        "seoname": "nzi-comoe-782804"
+    },
+    {
+        "id_location": 75150,
+        "id_location_parent": 75149,
+        "name": "Bocanda",
+        "seoname": "bocanda-512331"
+    },
+    {
+        "id_location": 75151,
+        "id_location_parent": 75149,
+        "name": "Bongouanou",
+        "seoname": "bongouanou-512332"
+    },
+    {
+        "id_location": 75152,
+        "id_location_parent": 75149,
+        "name": "Daoukro",
+        "seoname": "daoukro-512333"
+    },
+    {
+        "id_location": 75153,
+        "id_location_parent": 75149,
+        "name": "Dimbokro",
+        "seoname": "dimbokro-512334"
+    },
+    {
+        "id_location": 75154,
+        "id_location_parent": 75149,
+        "name": "M'Bahiakro",
+        "seoname": "mbahiakro-512335"
+    },
+    {
+        "id_location": 75155,
+        "id_location_parent": 75149,
+        "name": "Prikro",
+        "seoname": "prikro-512336"
+    },
+    {
+        "id_location": 75156,
+        "id_location_parent": 1,
+        "name": "Savanes",
+        "seoname": "savanes-782805"
+    },
+    {
+        "id_location": 75157,
+        "id_location_parent": 75156,
+        "name": "Boundiali",
+        "seoname": "boundiali-512337"
+    },
+    {
+        "id_location": 75158,
+        "id_location_parent": 75156,
+        "name": "Ferkess\u00e9dougou",
+        "seoname": "ferkessedougou-512338"
+    },
+    {
+        "id_location": 75159,
+        "id_location_parent": 75156,
+        "name": "Korhogo",
+        "seoname": "korhogo-512339"
+    },
+    {
+        "id_location": 75160,
+        "id_location_parent": 75156,
+        "name": "Kouto",
+        "seoname": "kouto-512340"
+    },
+    {
+        "id_location": 75161,
+        "id_location_parent": 75156,
+        "name": "Ouangolodougou",
+        "seoname": "ouangolodougou-512341"
+    },
+    {
+        "id_location": 75162,
+        "id_location_parent": 75156,
+        "name": "Sin\u00e9matiali",
+        "seoname": "sinematiali-512342"
+    },
+    {
+        "id_location": 75163,
+        "id_location_parent": 75156,
+        "name": "Tengr\u00e9la",
+        "seoname": "tengrela-512343"
+    },
+    {
+        "id_location": 75164,
+        "id_location_parent": 1,
+        "name": "Sud Bandama",
+        "seoname": "sud-bandama-782806"
+    },
+    {
+        "id_location": 75165,
+        "id_location_parent": 75164,
+        "name": "Divo",
+        "seoname": "divo-512344"
+    },
+    {
+        "id_location": 75166,
+        "id_location_parent": 75164,
+        "name": "Lakota",
+        "seoname": "lakota-512345"
+    },
+    {
+        "id_location": 75167,
+        "id_location_parent": 1,
+        "name": "Sud Como\u00e9",
+        "seoname": "sud-comoe-782807"
+    },
+    {
+        "id_location": 75168,
+        "id_location_parent": 75167,
+        "name": "Aboisso",
+        "seoname": "aboisso-512346"
+    },
+    {
+        "id_location": 75169,
+        "id_location_parent": 75167,
+        "name": "Adiak\u00e9",
+        "seoname": "adiake-512347"
+    },
+    {
+        "id_location": 75170,
+        "id_location_parent": 75167,
+        "name": "Grand-Bassam",
+        "seoname": "grand-bassam-512348"
+    },
+    {
+        "id_location": 75171,
+        "id_location_parent": 75167,
+        "name": "Tiapoum",
+        "seoname": "tiapoum-512349"
+    },
+    {
+        "id_location": 75172,
+        "id_location_parent": 1,
+        "name": "Vall\u00e9e du Bandama",
+        "seoname": "vallee-du-bandama-782808"
+    },
+    {
+        "id_location": 75173,
+        "id_location_parent": 75172,
+        "name": "B\u00e9oumi",
+        "seoname": "beoumi-512350"
+    },
+    {
+        "id_location": 75174,
+        "id_location_parent": 75172,
+        "name": "Botro",
+        "seoname": "botro-512351"
+    },
+    {
+        "id_location": 75175,
+        "id_location_parent": 75172,
+        "name": "Bouak\u00e9",
+        "seoname": "bouake-512352"
+    },
+    {
+        "id_location": 75176,
+        "id_location_parent": 75172,
+        "name": "Dabakala",
+        "seoname": "dabakala-512353"
+    },
+    {
+        "id_location": 75177,
+        "id_location_parent": 75172,
+        "name": "Katiola",
+        "seoname": "katiola-512354"
+    },
+    {
+        "id_location": 75178,
+        "id_location_parent": 75172,
+        "name": "Sakassou",
+        "seoname": "sakassou-512355"
+    },
+    {
+        "id_location": 75179,
+        "id_location_parent": 1,
+        "name": "Worodougou",
+        "seoname": "worodougou-782809"
+    },
+    {
+        "id_location": 75180,
+        "id_location_parent": 75179,
+        "name": "Mankono",
+        "seoname": "mankono-512356"
+    },
+    {
+        "id_location": 75181,
+        "id_location_parent": 75179,
+        "name": "S\u00e9gu\u00e9la",
+        "seoname": "seguela-512357"
+    },
+    {
+        "id_location": 75182,
+        "id_location_parent": 1,
+        "name": "Zanzan",
+        "seoname": "zanzan-782810"
+    },
+    {
+        "id_location": 75183,
+        "id_location_parent": 75182,
+        "name": "Bondoukou",
+        "seoname": "bondoukou-512358"
+    },
+    {
+        "id_location": 75184,
+        "id_location_parent": 75182,
+        "name": "Bouna",
+        "seoname": "bouna-512359"
+    },
+    {
+        "id_location": 75185,
+        "id_location_parent": 75182,
+        "name": "Koun-Fao",
+        "seoname": "koun-fao-512360"
+    },
+    {
+        "id_location": 75186,
+        "id_location_parent": 75182,
+        "name": "Nassian",
+        "seoname": "nassian-512361"
+    },
+    {
+        "id_location": 75187,
+        "id_location_parent": 75182,
+        "name": "Tanda",
+        "seoname": "tanda-512362"
+    }
+]

@@ -1,0 +1,1070 @@
+[
+    {
+        "id_location": 326066,
+        "id_location_parent": 1,
+        "name": "Managua",
+        "seoname": "managua-313"
+    },
+    {
+        "id_location": 326067,
+        "id_location_parent": 326066,
+        "name": "Ciudad Sandino",
+        "seoname": "ciudad-sandino-24380"
+    },
+    {
+        "id_location": 326068,
+        "id_location_parent": 326066,
+        "name": "El Crucero",
+        "seoname": "el-crucero-24381"
+    },
+    {
+        "id_location": 326069,
+        "id_location_parent": 326066,
+        "name": "Fonseca",
+        "seoname": "fonseca-24382"
+    },
+    {
+        "id_location": 326070,
+        "id_location_parent": 326066,
+        "name": "Libre",
+        "seoname": "libre-24383"
+    },
+    {
+        "id_location": 326071,
+        "id_location_parent": 326066,
+        "name": "Managua",
+        "seoname": "managua-24384"
+    },
+    {
+        "id_location": 326072,
+        "id_location_parent": 326066,
+        "name": "Mateare",
+        "seoname": "mateare-24385"
+    },
+    {
+        "id_location": 326073,
+        "id_location_parent": 326066,
+        "name": "San Francisco Libre",
+        "seoname": "san-francisco-libre-24386"
+    },
+    {
+        "id_location": 326074,
+        "id_location_parent": 326066,
+        "name": "San Rafael del Sur",
+        "seoname": "san-rafael-del-sur-24387"
+    },
+    {
+        "id_location": 326075,
+        "id_location_parent": 326066,
+        "name": "Ticuantepe",
+        "seoname": "ticuantepe-24388"
+    },
+    {
+        "id_location": 326076,
+        "id_location_parent": 326066,
+        "name": "Tititapa",
+        "seoname": "tititapa-24389"
+    },
+    {
+        "id_location": 326077,
+        "id_location_parent": 326066,
+        "name": "Villa Carlos",
+        "seoname": "villa-carlos-24390"
+    },
+    {
+        "id_location": 326078,
+        "id_location_parent": 326066,
+        "name": "Villa Carlos Fonseca",
+        "seoname": "villa-carlos-fonseca-24391"
+    },
+    {
+        "id_location": 326079,
+        "id_location_parent": 1,
+        "name": "Boaco",
+        "seoname": "boaco-706702"
+    },
+    {
+        "id_location": 326080,
+        "id_location_parent": 326079,
+        "name": "Boaco",
+        "seoname": "boaco-24299"
+    },
+    {
+        "id_location": 326081,
+        "id_location_parent": 326079,
+        "name": "Camoapa",
+        "seoname": "camoapa-24300"
+    },
+    {
+        "id_location": 326082,
+        "id_location_parent": 326079,
+        "name": "San Jos\u00e9 de los Remates",
+        "seoname": "san-jose-de-los-remates-24301"
+    },
+    {
+        "id_location": 326083,
+        "id_location_parent": 326079,
+        "name": "San Lorenzo",
+        "seoname": "san-lorenzo-24302"
+    },
+    {
+        "id_location": 326084,
+        "id_location_parent": 326079,
+        "name": "Santa Luc\u00eda",
+        "seoname": "santa-lucia-24303"
+    },
+    {
+        "id_location": 326085,
+        "id_location_parent": 326079,
+        "name": "Teustepe",
+        "seoname": "teustepe-24304"
+    },
+    {
+        "id_location": 326086,
+        "id_location_parent": 1,
+        "name": "Carazo",
+        "seoname": "carazo-706703"
+    },
+    {
+        "id_location": 326087,
+        "id_location_parent": 326086,
+        "name": "Diriamba",
+        "seoname": "diriamba-24305"
+    },
+    {
+        "id_location": 326088,
+        "id_location_parent": 326086,
+        "name": "Dolores",
+        "seoname": "dolores-24306"
+    },
+    {
+        "id_location": 326089,
+        "id_location_parent": 326086,
+        "name": "El Rosario",
+        "seoname": "el-rosario-24307"
+    },
+    {
+        "id_location": 326090,
+        "id_location_parent": 326086,
+        "name": "Jinotepe",
+        "seoname": "jinotepe-24308"
+    },
+    {
+        "id_location": 326091,
+        "id_location_parent": 326086,
+        "name": "La Conquiista",
+        "seoname": "la-conquiista-24309"
+    },
+    {
+        "id_location": 326092,
+        "id_location_parent": 326086,
+        "name": "La Paz de Oriente",
+        "seoname": "la-paz-de-oriente-24310"
+    },
+    {
+        "id_location": 326093,
+        "id_location_parent": 326086,
+        "name": "San Marcos",
+        "seoname": "san-marcos-24311"
+    },
+    {
+        "id_location": 326094,
+        "id_location_parent": 326086,
+        "name": "Santa Teresa",
+        "seoname": "santa-teresa-24312"
+    },
+    {
+        "id_location": 326095,
+        "id_location_parent": 1,
+        "name": "Chinandega",
+        "seoname": "chinandega-706704"
+    },
+    {
+        "id_location": 326096,
+        "id_location_parent": 326095,
+        "name": "Chichigalpa",
+        "seoname": "chichigalpa-24313"
+    },
+    {
+        "id_location": 326097,
+        "id_location_parent": 326095,
+        "name": "Chinandega",
+        "seoname": "chinandega-24314"
+    },
+    {
+        "id_location": 326098,
+        "id_location_parent": 326095,
+        "name": "Cinco Pinos",
+        "seoname": "cinco-pinos-24315"
+    },
+    {
+        "id_location": 326099,
+        "id_location_parent": 326095,
+        "name": "Corinto",
+        "seoname": "corinto-24316"
+    },
+    {
+        "id_location": 326100,
+        "id_location_parent": 326095,
+        "name": "Cuajiniquilapa",
+        "seoname": "cuajiniquilapa-24317"
+    },
+    {
+        "id_location": 326101,
+        "id_location_parent": 326095,
+        "name": "El Realejo",
+        "seoname": "el-realejo-24318"
+    },
+    {
+        "id_location": 326102,
+        "id_location_parent": 326095,
+        "name": "El Viejo",
+        "seoname": "el-viejo-24319"
+    },
+    {
+        "id_location": 326103,
+        "id_location_parent": 326095,
+        "name": "Posotelga",
+        "seoname": "posotelga-24320"
+    },
+    {
+        "id_location": 326104,
+        "id_location_parent": 326095,
+        "name": "Puerto Morazan",
+        "seoname": "puerto-morazan-24321"
+    },
+    {
+        "id_location": 326105,
+        "id_location_parent": 326095,
+        "name": "San Francisco",
+        "seoname": "san-francisco-24322"
+    },
+    {
+        "id_location": 326106,
+        "id_location_parent": 326095,
+        "name": "San Pedro de Potrero Grande",
+        "seoname": "san-pedro-de-potrero-grande-24323"
+    },
+    {
+        "id_location": 326107,
+        "id_location_parent": 326095,
+        "name": "Santo Tomas Del Nance",
+        "seoname": "santo-tomas-del-nance-24324"
+    },
+    {
+        "id_location": 326108,
+        "id_location_parent": 326095,
+        "name": "Sootillo",
+        "seoname": "sootillo-24325"
+    },
+    {
+        "id_location": 326109,
+        "id_location_parent": 326095,
+        "name": "Villanueva",
+        "seoname": "villanueva-24326"
+    },
+    {
+        "id_location": 326110,
+        "id_location_parent": 1,
+        "name": "Chontales",
+        "seoname": "chontales-706705"
+    },
+    {
+        "id_location": 326111,
+        "id_location_parent": 326110,
+        "name": "Acoyapa",
+        "seoname": "acoyapa-24327"
+    },
+    {
+        "id_location": 326112,
+        "id_location_parent": 326110,
+        "name": "Comalapa",
+        "seoname": "comalapa-24328"
+    },
+    {
+        "id_location": 326113,
+        "id_location_parent": 326110,
+        "name": "Cuapa",
+        "seoname": "cuapa-24329"
+    },
+    {
+        "id_location": 326114,
+        "id_location_parent": 326110,
+        "name": "El Ayote",
+        "seoname": "el-ayote-24330"
+    },
+    {
+        "id_location": 326115,
+        "id_location_parent": 326110,
+        "name": "El Coral",
+        "seoname": "el-coral-24331"
+    },
+    {
+        "id_location": 326116,
+        "id_location_parent": 326110,
+        "name": "El Rama",
+        "seoname": "el-rama-24332"
+    },
+    {
+        "id_location": 326117,
+        "id_location_parent": 326110,
+        "name": "Juigalpa",
+        "seoname": "juigalpa-24333"
+    },
+    {
+        "id_location": 326118,
+        "id_location_parent": 326110,
+        "name": "La Libertad",
+        "seoname": "la-libertad-24334"
+    },
+    {
+        "id_location": 326119,
+        "id_location_parent": 326110,
+        "name": "Mueye de los Bueyes",
+        "seoname": "mueye-de-los-bueyes-24335"
+    },
+    {
+        "id_location": 326120,
+        "id_location_parent": 326110,
+        "name": "Nueva Guinea",
+        "seoname": "nueva-guinea-24336"
+    },
+    {
+        "id_location": 326121,
+        "id_location_parent": 326110,
+        "name": "San Pedro de L\u00f3vago",
+        "seoname": "san-pedro-de-lovago-24337"
+    },
+    {
+        "id_location": 326122,
+        "id_location_parent": 326110,
+        "name": "Santo Domingo",
+        "seoname": "santo-domingo-24338"
+    },
+    {
+        "id_location": 326123,
+        "id_location_parent": 326110,
+        "name": "Santo Tom\u00e1s",
+        "seoname": "santo-tomas-24339"
+    },
+    {
+        "id_location": 326124,
+        "id_location_parent": 326110,
+        "name": "Villa San Francisco",
+        "seoname": "villa-san-francisco-24340"
+    },
+    {
+        "id_location": 326125,
+        "id_location_parent": 326110,
+        "name": "Villa Sandino",
+        "seoname": "villa-sandino-24341"
+    },
+    {
+        "id_location": 326126,
+        "id_location_parent": 1,
+        "name": "Estel\u00ed",
+        "seoname": "esteli-706706"
+    },
+    {
+        "id_location": 326127,
+        "id_location_parent": 326126,
+        "name": "Condega",
+        "seoname": "condega-24342"
+    },
+    {
+        "id_location": 326128,
+        "id_location_parent": 326126,
+        "name": "Estel\u00ed",
+        "seoname": "esteli-24343"
+    },
+    {
+        "id_location": 326129,
+        "id_location_parent": 326126,
+        "name": "La Trinidad",
+        "seoname": "la-trinidad-24344"
+    },
+    {
+        "id_location": 326130,
+        "id_location_parent": 326126,
+        "name": "Pueblo Nuevo",
+        "seoname": "pueblo-nuevo-24345"
+    },
+    {
+        "id_location": 326131,
+        "id_location_parent": 326126,
+        "name": "San Juan de Limay",
+        "seoname": "san-juan-de-limay-24346"
+    },
+    {
+        "id_location": 326132,
+        "id_location_parent": 326126,
+        "name": "San Nicol\u00e1s",
+        "seoname": "san-nicolas-24347"
+    },
+    {
+        "id_location": 326133,
+        "id_location_parent": 1,
+        "name": "Jinotega",
+        "seoname": "jinotega-706708"
+    },
+    {
+        "id_location": 326134,
+        "id_location_parent": 326133,
+        "name": "Cu\u00e1 Bocay",
+        "seoname": "cua-bocay-24352"
+    },
+    {
+        "id_location": 326135,
+        "id_location_parent": 326133,
+        "name": "Jinotega",
+        "seoname": "jinotega-24353"
+    },
+    {
+        "id_location": 326136,
+        "id_location_parent": 326133,
+        "name": "La Concordia",
+        "seoname": "la-concordia-24354"
+    },
+    {
+        "id_location": 326137,
+        "id_location_parent": 326133,
+        "name": "Pantasma",
+        "seoname": "pantasma-24355"
+    },
+    {
+        "id_location": 326138,
+        "id_location_parent": 326133,
+        "name": "San Rafael Del Norte",
+        "seoname": "san-rafael-del-norte-24356"
+    },
+    {
+        "id_location": 326139,
+        "id_location_parent": 326133,
+        "name": "San Sebasti\u00e1n de Yal\u00ed",
+        "seoname": "san-sebastian-de-yali-24357"
+    },
+    {
+        "id_location": 326140,
+        "id_location_parent": 326133,
+        "name": "Santa Mar\u00eda de Pantasma",
+        "seoname": "santa-maria-de-pantasma-24358"
+    },
+    {
+        "id_location": 326141,
+        "id_location_parent": 326133,
+        "name": "Wiwil\u00ed",
+        "seoname": "wiwili-24359"
+    },
+    {
+        "id_location": 326142,
+        "id_location_parent": 326133,
+        "name": "Yal\u00ed",
+        "seoname": "yali-24360"
+    },
+    {
+        "id_location": 326143,
+        "id_location_parent": 1,
+        "name": "Madriz",
+        "seoname": "madriz-706710"
+    },
+    {
+        "id_location": 326144,
+        "id_location_parent": 326143,
+        "name": "Las Sabanas",
+        "seoname": "las-sabanas-24371"
+    },
+    {
+        "id_location": 326145,
+        "id_location_parent": 326143,
+        "name": "Palacaguina",
+        "seoname": "palacaguina-24372"
+    },
+    {
+        "id_location": 326146,
+        "id_location_parent": 326143,
+        "name": "San Jos\u00e9 de Cusmapa",
+        "seoname": "san-jose-de-cusmapa-24373"
+    },
+    {
+        "id_location": 326147,
+        "id_location_parent": 326143,
+        "name": "San Juan de R\u00edo",
+        "seoname": "san-juan-de-rio-24374"
+    },
+    {
+        "id_location": 326148,
+        "id_location_parent": 326143,
+        "name": "San Juan de R\u00edo Coco",
+        "seoname": "san-juan-de-rio-coco-24375"
+    },
+    {
+        "id_location": 326149,
+        "id_location_parent": 326143,
+        "name": "San Lucas",
+        "seoname": "san-lucas-24376"
+    },
+    {
+        "id_location": 326150,
+        "id_location_parent": 326143,
+        "name": "Somoto",
+        "seoname": "somoto-24377"
+    },
+    {
+        "id_location": 326151,
+        "id_location_parent": 326143,
+        "name": "Telpaneca",
+        "seoname": "telpaneca-24378"
+    },
+    {
+        "id_location": 326152,
+        "id_location_parent": 326143,
+        "name": "Totogalpa",
+        "seoname": "totogalpa-24379"
+    },
+    {
+        "id_location": 326153,
+        "id_location_parent": 1,
+        "name": "Masaya",
+        "seoname": "masaya-706712"
+    },
+    {
+        "id_location": 326154,
+        "id_location_parent": 326153,
+        "name": "Catarina",
+        "seoname": "catarina-24392"
+    },
+    {
+        "id_location": 326155,
+        "id_location_parent": 326153,
+        "name": "La Concepcion",
+        "seoname": "la-concepcion-24393"
+    },
+    {
+        "id_location": 326156,
+        "id_location_parent": 326153,
+        "name": "Masatepe",
+        "seoname": "masatepe-24394"
+    },
+    {
+        "id_location": 326157,
+        "id_location_parent": 326153,
+        "name": "Masaya",
+        "seoname": "masaya-24395"
+    },
+    {
+        "id_location": 326158,
+        "id_location_parent": 326153,
+        "name": "Nandasmo",
+        "seoname": "nandasmo-24396"
+    },
+    {
+        "id_location": 326159,
+        "id_location_parent": 326153,
+        "name": "Nindiri",
+        "seoname": "nindiri-24397"
+    },
+    {
+        "id_location": 326160,
+        "id_location_parent": 326153,
+        "name": "Niquinohomo",
+        "seoname": "niquinohomo-24398"
+    },
+    {
+        "id_location": 326161,
+        "id_location_parent": 326153,
+        "name": "San Juan de Oriente",
+        "seoname": "san-juan-de-oriente-24399"
+    },
+    {
+        "id_location": 326162,
+        "id_location_parent": 326153,
+        "name": "Tisma",
+        "seoname": "tisma-24400"
+    },
+    {
+        "id_location": 326163,
+        "id_location_parent": 1,
+        "name": "Matagalpa",
+        "seoname": "matagalpa-706713"
+    },
+    {
+        "id_location": 326164,
+        "id_location_parent": 326163,
+        "name": "Ciudad Dar\u00edo",
+        "seoname": "ciudad-dario-24401"
+    },
+    {
+        "id_location": 326165,
+        "id_location_parent": 326163,
+        "name": "Esquipulas",
+        "seoname": "esquipulas-24402"
+    },
+    {
+        "id_location": 326166,
+        "id_location_parent": 326163,
+        "name": "Matagalpa",
+        "seoname": "matagalpa-24403"
+    },
+    {
+        "id_location": 326167,
+        "id_location_parent": 326163,
+        "name": "Matigu\u00e1s",
+        "seoname": "matiguas-24404"
+    },
+    {
+        "id_location": 326168,
+        "id_location_parent": 326163,
+        "name": "Muy Muy",
+        "seoname": "muy-muy-24405"
+    },
+    {
+        "id_location": 326169,
+        "id_location_parent": 326163,
+        "name": "Rancho Grande",
+        "seoname": "rancho-grande-24406"
+    },
+    {
+        "id_location": 326170,
+        "id_location_parent": 326163,
+        "name": "R\u00edo Blanco",
+        "seoname": "rio-blanco-24407"
+    },
+    {
+        "id_location": 326171,
+        "id_location_parent": 326163,
+        "name": "San Dionisio",
+        "seoname": "san-dionisio-24408"
+    },
+    {
+        "id_location": 326172,
+        "id_location_parent": 326163,
+        "name": "San Isidro",
+        "seoname": "san-isidro-24409"
+    },
+    {
+        "id_location": 326173,
+        "id_location_parent": 326163,
+        "name": "San Ram\u00f3n",
+        "seoname": "san-ramon-24410"
+    },
+    {
+        "id_location": 326174,
+        "id_location_parent": 326163,
+        "name": "S\u00e9baco",
+        "seoname": "sebaco-24411"
+    },
+    {
+        "id_location": 326175,
+        "id_location_parent": 326163,
+        "name": "Terrabona",
+        "seoname": "terrabona-24412"
+    },
+    {
+        "id_location": 326176,
+        "id_location_parent": 326163,
+        "name": "Tuma la Dalia",
+        "seoname": "tuma-la-dalia-24413"
+    },
+    {
+        "id_location": 326177,
+        "id_location_parent": 1,
+        "name": "Nueva Segovia",
+        "seoname": "nueva-segovia-706714"
+    },
+    {
+        "id_location": 326178,
+        "id_location_parent": 326177,
+        "name": "Ciudad Antigua",
+        "seoname": "ciudad-antigua-24414"
+    },
+    {
+        "id_location": 326179,
+        "id_location_parent": 326177,
+        "name": "Dipilto",
+        "seoname": "dipilto-24415"
+    },
+    {
+        "id_location": 326180,
+        "id_location_parent": 326177,
+        "name": "El J\u00edcaro",
+        "seoname": "el-jicaro-24416"
+    },
+    {
+        "id_location": 326181,
+        "id_location_parent": 326177,
+        "name": "Jalapa",
+        "seoname": "jalapa-24417"
+    },
+    {
+        "id_location": 326182,
+        "id_location_parent": 326177,
+        "name": "Macuelizo",
+        "seoname": "macuelizo-24418"
+    },
+    {
+        "id_location": 326183,
+        "id_location_parent": 326177,
+        "name": "Mozonte",
+        "seoname": "mozonte-24419"
+    },
+    {
+        "id_location": 326184,
+        "id_location_parent": 326177,
+        "name": "Murra",
+        "seoname": "murra-24420"
+    },
+    {
+        "id_location": 326185,
+        "id_location_parent": 326177,
+        "name": "Ocotal",
+        "seoname": "ocotal-24421"
+    },
+    {
+        "id_location": 326186,
+        "id_location_parent": 326177,
+        "name": "Quilal\u00ed",
+        "seoname": "quilali-24422"
+    },
+    {
+        "id_location": 326187,
+        "id_location_parent": 326177,
+        "name": "San Fernando",
+        "seoname": "san-fernando-24423"
+    },
+    {
+        "id_location": 326188,
+        "id_location_parent": 326177,
+        "name": "Santa Mar\u00eda",
+        "seoname": "santa-maria-24424"
+    },
+    {
+        "id_location": 326189,
+        "id_location_parent": 326177,
+        "name": "Wiwili",
+        "seoname": "wiwili-24425"
+    },
+    {
+        "id_location": 326190,
+        "id_location_parent": 1,
+        "name": "Rivas",
+        "seoname": "rivas-706715"
+    },
+    {
+        "id_location": 326191,
+        "id_location_parent": 326190,
+        "name": "Altagracia",
+        "seoname": "altagracia-24426"
+    },
+    {
+        "id_location": 326192,
+        "id_location_parent": 326190,
+        "name": "Belen",
+        "seoname": "belen-24427"
+    },
+    {
+        "id_location": 326193,
+        "id_location_parent": 326190,
+        "name": "Buenos Aires",
+        "seoname": "buenos-aires-24428"
+    },
+    {
+        "id_location": 326194,
+        "id_location_parent": 326190,
+        "name": "Cardenas",
+        "seoname": "cardenas-24429"
+    },
+    {
+        "id_location": 326195,
+        "id_location_parent": 326190,
+        "name": "Moyogalpa",
+        "seoname": "moyogalpa-24430"
+    },
+    {
+        "id_location": 326196,
+        "id_location_parent": 326190,
+        "name": "Potosi",
+        "seoname": "potosi-24431"
+    },
+    {
+        "id_location": 326197,
+        "id_location_parent": 326190,
+        "name": "Rivas",
+        "seoname": "rivas-24432"
+    },
+    {
+        "id_location": 326198,
+        "id_location_parent": 326190,
+        "name": "San Jorge",
+        "seoname": "san-jorge-24433"
+    },
+    {
+        "id_location": 326199,
+        "id_location_parent": 326190,
+        "name": "San Juan Del Sur",
+        "seoname": "san-juan-del-sur-24434"
+    },
+    {
+        "id_location": 326200,
+        "id_location_parent": 326190,
+        "name": "Tola",
+        "seoname": "tola-24435"
+    },
+    {
+        "id_location": 326201,
+        "id_location_parent": 1,
+        "name": "R\u00edo San Juan",
+        "seoname": "rio-san-juan-706716"
+    },
+    {
+        "id_location": 326202,
+        "id_location_parent": 326201,
+        "name": "El Almendro",
+        "seoname": "el-almendro-24436"
+    },
+    {
+        "id_location": 326203,
+        "id_location_parent": 326201,
+        "name": "El Castillo",
+        "seoname": "el-castillo-24437"
+    },
+    {
+        "id_location": 326204,
+        "id_location_parent": 326201,
+        "name": "Morrito",
+        "seoname": "morrito-24438"
+    },
+    {
+        "id_location": 326205,
+        "id_location_parent": 326201,
+        "name": "San Carlos",
+        "seoname": "san-carlos-24439"
+    },
+    {
+        "id_location": 326206,
+        "id_location_parent": 326201,
+        "name": "San Juan Del Norte",
+        "seoname": "san-juan-del-norte-24440"
+    },
+    {
+        "id_location": 326207,
+        "id_location_parent": 326201,
+        "name": "San Miguelito",
+        "seoname": "san-miguelito-24441"
+    },
+    {
+        "id_location": 326208,
+        "id_location_parent": 1,
+        "name": "Granada",
+        "seoname": "granada-711304"
+    },
+    {
+        "id_location": 326209,
+        "id_location_parent": 326208,
+        "name": "Diria",
+        "seoname": "diria-24348"
+    },
+    {
+        "id_location": 326210,
+        "id_location_parent": 326208,
+        "name": "Diriomo",
+        "seoname": "diriomo-24349"
+    },
+    {
+        "id_location": 326211,
+        "id_location_parent": 326208,
+        "name": "Granada",
+        "seoname": "granada-24350"
+    },
+    {
+        "id_location": 326212,
+        "id_location_parent": 326208,
+        "name": "Nandaime",
+        "seoname": "nandaime-24351"
+    },
+    {
+        "id_location": 326213,
+        "id_location_parent": 1,
+        "name": "Leon",
+        "seoname": "leon-711319"
+    },
+    {
+        "id_location": 326214,
+        "id_location_parent": 326213,
+        "name": "Achuapa",
+        "seoname": "achuapa-24361"
+    },
+    {
+        "id_location": 326215,
+        "id_location_parent": 326213,
+        "name": "El Jiracal",
+        "seoname": "el-jiracal-24362"
+    },
+    {
+        "id_location": 326216,
+        "id_location_parent": 326213,
+        "name": "El Sauce",
+        "seoname": "el-sauce-24363"
+    },
+    {
+        "id_location": 326217,
+        "id_location_parent": 326213,
+        "name": "La Paz Centro",
+        "seoname": "la-paz-centro-24364"
+    },
+    {
+        "id_location": 326218,
+        "id_location_parent": 326213,
+        "name": "Larreynaga",
+        "seoname": "larreynaga-24365"
+    },
+    {
+        "id_location": 326219,
+        "id_location_parent": 326213,
+        "name": "Leon",
+        "seoname": "leon-24366"
+    },
+    {
+        "id_location": 326220,
+        "id_location_parent": 326213,
+        "name": "Nagarote",
+        "seoname": "nagarote-24367"
+    },
+    {
+        "id_location": 326221,
+        "id_location_parent": 326213,
+        "name": "Quezalguaque",
+        "seoname": "quezalguaque-24368"
+    },
+    {
+        "id_location": 326222,
+        "id_location_parent": 326213,
+        "name": "Santa Rosa Del Pe\u00f1on",
+        "seoname": "santa-rosa-del-penon-24369"
+    },
+    {
+        "id_location": 326223,
+        "id_location_parent": 326213,
+        "name": "Telica",
+        "seoname": "telica-24370"
+    },
+    {
+        "id_location": 326224,
+        "id_location_parent": 1,
+        "name": "Regi\u00f3n Autonoma del Atlantico Norte",
+        "seoname": "region-autonoma-del-atlantico-norte-711409"
+    },
+    {
+        "id_location": 326225,
+        "id_location_parent": 326224,
+        "name": "Bonanza",
+        "seoname": "bonanza-24442"
+    },
+    {
+        "id_location": 326226,
+        "id_location_parent": 326224,
+        "name": "Prinzapolka",
+        "seoname": "prinzapolka-24443"
+    },
+    {
+        "id_location": 326227,
+        "id_location_parent": 326224,
+        "name": "Puerto Cabezas",
+        "seoname": "puerto-cabezas-24444"
+    },
+    {
+        "id_location": 326228,
+        "id_location_parent": 326224,
+        "name": "Rosita",
+        "seoname": "rosita-24445"
+    },
+    {
+        "id_location": 326229,
+        "id_location_parent": 326224,
+        "name": "Siuna",
+        "seoname": "siuna-24446"
+    },
+    {
+        "id_location": 326230,
+        "id_location_parent": 326224,
+        "name": "Walala",
+        "seoname": "walala-24447"
+    },
+    {
+        "id_location": 326231,
+        "id_location_parent": 326224,
+        "name": "Wasp\u00e1n",
+        "seoname": "waspan-24448"
+    },
+    {
+        "id_location": 326232,
+        "id_location_parent": 1,
+        "name": "Regi\u00f3n Autonoma del Atlantico Sur",
+        "seoname": "region-autonoma-del-atlantico-sur-711417"
+    },
+    {
+        "id_location": 326233,
+        "id_location_parent": 326232,
+        "name": "Bluefields",
+        "seoname": "bluefields-24449"
+    },
+    {
+        "id_location": 326234,
+        "id_location_parent": 326232,
+        "name": "Bocana de Paiwas",
+        "seoname": "bocana-de-paiwas-24450"
+    },
+    {
+        "id_location": 326235,
+        "id_location_parent": 326232,
+        "name": "Corn Island",
+        "seoname": "corn-island-24451"
+    },
+    {
+        "id_location": 326236,
+        "id_location_parent": 326232,
+        "name": "Desembocadura R\u00edo Grande",
+        "seoname": "desembocadura-rio-grande-24452"
+    },
+    {
+        "id_location": 326237,
+        "id_location_parent": 326232,
+        "name": "El Tortuguero",
+        "seoname": "el-tortuguero-24453"
+    },
+    {
+        "id_location": 326238,
+        "id_location_parent": 326232,
+        "name": "Kukra Hill",
+        "seoname": "kukra-hill-24454"
+    },
+    {
+        "id_location": 326239,
+        "id_location_parent": 326232,
+        "name": "La Cruz del R\u00edo Grande",
+        "seoname": "la-cruz-del-rio-grande-24455"
+    },
+    {
+        "id_location": 326240,
+        "id_location_parent": 326232,
+        "name": "Laguna de Perlas",
+        "seoname": "laguna-de-perlas-24456"
+    },
+    {
+        "id_location": 326241,
+        "id_location_parent": 326232,
+        "name": "Muelle de los Bueyes",
+        "seoname": "muelle-de-los-bueyes-24457"
+    },
+    {
+        "id_location": 326242,
+        "id_location_parent": 326232,
+        "name": "Nueva Guinea",
+        "seoname": "nueva-guinea-24458"
+    },
+    {
+        "id_location": 326243,
+        "id_location_parent": 326232,
+        "name": "Rama",
+        "seoname": "rama-24459"
+    }
+]

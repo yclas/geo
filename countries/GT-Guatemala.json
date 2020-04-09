@@ -1,0 +1,2138 @@
+[
+    {
+        "id_location": 233774,
+        "id_location_parent": 1,
+        "name": "Jalapa",
+        "seoname": "jalapa-706603"
+    },
+    {
+        "id_location": 233775,
+        "id_location_parent": 233774,
+        "name": "Jalapa",
+        "seoname": "jalapa-24621"
+    },
+    {
+        "id_location": 233776,
+        "id_location_parent": 233774,
+        "name": "San Pedro Pinula",
+        "seoname": "san-pedro-pinula-24622"
+    },
+    {
+        "id_location": 233777,
+        "id_location_parent": 233774,
+        "name": "San Luis Jilotepeque",
+        "seoname": "san-luis-jilotepeque-24623"
+    },
+    {
+        "id_location": 233778,
+        "id_location_parent": 233774,
+        "name": "San Manuel Chaparr\u00f3n",
+        "seoname": "san-manuel-chaparron-24624"
+    },
+    {
+        "id_location": 233779,
+        "id_location_parent": 233774,
+        "name": "San Carlos Alzatate",
+        "seoname": "san-carlos-alzatate-24625"
+    },
+    {
+        "id_location": 233780,
+        "id_location_parent": 233774,
+        "name": "Monjas",
+        "seoname": "monjas-24626"
+    },
+    {
+        "id_location": 233781,
+        "id_location_parent": 233774,
+        "name": "Mataquescuintla",
+        "seoname": "mataquescuintla-24627"
+    },
+    {
+        "id_location": 233782,
+        "id_location_parent": 1,
+        "name": "Jutiapa",
+        "seoname": "jutiapa-706604"
+    },
+    {
+        "id_location": 233783,
+        "id_location_parent": 233782,
+        "name": "Agua Blanca",
+        "seoname": "agua-blanca-24628"
+    },
+    {
+        "id_location": 233784,
+        "id_location_parent": 233782,
+        "name": "Asunci\u00f3n Mita",
+        "seoname": "asuncion-mita-24629"
+    },
+    {
+        "id_location": 233785,
+        "id_location_parent": 233782,
+        "name": "Atescatempa",
+        "seoname": "atescatempa-24630"
+    },
+    {
+        "id_location": 233786,
+        "id_location_parent": 233782,
+        "name": "Comapa",
+        "seoname": "comapa-24631"
+    },
+    {
+        "id_location": 233787,
+        "id_location_parent": 233782,
+        "name": "Conguaco",
+        "seoname": "conguaco-24632"
+    },
+    {
+        "id_location": 233788,
+        "id_location_parent": 233782,
+        "name": "El Adelanto",
+        "seoname": "el-adelanto-24633"
+    },
+    {
+        "id_location": 233789,
+        "id_location_parent": 233782,
+        "name": "El Progreso",
+        "seoname": "el-progreso-24634"
+    },
+    {
+        "id_location": 233790,
+        "id_location_parent": 233782,
+        "name": "Jalpatagua",
+        "seoname": "jalpatagua-24635"
+    },
+    {
+        "id_location": 233791,
+        "id_location_parent": 233782,
+        "name": "Jerez",
+        "seoname": "jerez-24636"
+    },
+    {
+        "id_location": 233792,
+        "id_location_parent": 233782,
+        "name": "Jutiapa",
+        "seoname": "jutiapa-24637"
+    },
+    {
+        "id_location": 233793,
+        "id_location_parent": 233782,
+        "name": "Moyuta",
+        "seoname": "moyuta-24638"
+    },
+    {
+        "id_location": 233794,
+        "id_location_parent": 233782,
+        "name": "Pasaco",
+        "seoname": "pasaco-24639"
+    },
+    {
+        "id_location": 233795,
+        "id_location_parent": 233782,
+        "name": "Quesada",
+        "seoname": "quesada-24640"
+    },
+    {
+        "id_location": 233796,
+        "id_location_parent": 233782,
+        "name": "San Jos\u00e9 Acatempa",
+        "seoname": "san-jose-acatempa-24641"
+    },
+    {
+        "id_location": 233797,
+        "id_location_parent": 233782,
+        "name": "Santa Catarina Mita",
+        "seoname": "santa-catarina-mita-24642"
+    },
+    {
+        "id_location": 233798,
+        "id_location_parent": 233782,
+        "name": "Yupiltepeque",
+        "seoname": "yupiltepeque-24643"
+    },
+    {
+        "id_location": 233799,
+        "id_location_parent": 233782,
+        "name": "Zapotitl\u00e1n",
+        "seoname": "zapotitlan-24644"
+    },
+    {
+        "id_location": 233800,
+        "id_location_parent": 1,
+        "name": "Quetzaltenango",
+        "seoname": "quetzaltenango-706605"
+    },
+    {
+        "id_location": 233801,
+        "id_location_parent": 233800,
+        "name": "Almolonga",
+        "seoname": "almolonga-24645"
+    },
+    {
+        "id_location": 233802,
+        "id_location_parent": 233800,
+        "name": "Cabric\u00e1n",
+        "seoname": "cabrican-24646"
+    },
+    {
+        "id_location": 233803,
+        "id_location_parent": 233800,
+        "name": "Cajol\u00e1",
+        "seoname": "cajola-24647"
+    },
+    {
+        "id_location": 233804,
+        "id_location_parent": 233800,
+        "name": "Cantel",
+        "seoname": "cantel-24648"
+    },
+    {
+        "id_location": 233805,
+        "id_location_parent": 233800,
+        "name": "Coatepeque",
+        "seoname": "coatepeque-24649"
+    },
+    {
+        "id_location": 233806,
+        "id_location_parent": 233800,
+        "name": "Colomba",
+        "seoname": "colomba-24650"
+    },
+    {
+        "id_location": 233807,
+        "id_location_parent": 233800,
+        "name": "Concepci\u00f3n Chiquirichapa",
+        "seoname": "concepcion-chiquirichapa-24651"
+    },
+    {
+        "id_location": 233808,
+        "id_location_parent": 233800,
+        "name": "El Palmar",
+        "seoname": "el-palmar-24652"
+    },
+    {
+        "id_location": 233809,
+        "id_location_parent": 233800,
+        "name": "Flores Costa Cuca",
+        "seoname": "flores-costa-cuca-24653"
+    },
+    {
+        "id_location": 233810,
+        "id_location_parent": 233800,
+        "name": "G\u00e9nova",
+        "seoname": "genova-24654"
+    },
+    {
+        "id_location": 233811,
+        "id_location_parent": 233800,
+        "name": "Huit\u00e1n",
+        "seoname": "huitan-24655"
+    },
+    {
+        "id_location": 233812,
+        "id_location_parent": 233800,
+        "name": "La Esperanza",
+        "seoname": "la-esperanza-24656"
+    },
+    {
+        "id_location": 233813,
+        "id_location_parent": 233800,
+        "name": "Olintepeque",
+        "seoname": "olintepeque-24657"
+    },
+    {
+        "id_location": 233814,
+        "id_location_parent": 233800,
+        "name": "Ostuncalco",
+        "seoname": "ostuncalco-24658"
+    },
+    {
+        "id_location": 233815,
+        "id_location_parent": 233800,
+        "name": "Palestina de Los Altos",
+        "seoname": "palestina-de-los-altos-24659"
+    },
+    {
+        "id_location": 233816,
+        "id_location_parent": 233800,
+        "name": "Quetzaltenango",
+        "seoname": "quetzaltenango-24660"
+    },
+    {
+        "id_location": 233817,
+        "id_location_parent": 233800,
+        "name": "Salcaj\u00e1",
+        "seoname": "salcaja-24661"
+    },
+    {
+        "id_location": 233818,
+        "id_location_parent": 233800,
+        "name": "San Carlos Sija",
+        "seoname": "san-carlos-sija-24662"
+    },
+    {
+        "id_location": 233819,
+        "id_location_parent": 233800,
+        "name": "San Francisco la Uni\u00f3n",
+        "seoname": "san-francisco-la-union-24663"
+    },
+    {
+        "id_location": 233820,
+        "id_location_parent": 233800,
+        "name": "San Mart\u00edn Sacatep\u00e9quez",
+        "seoname": "san-martin-sacatepequez-24664"
+    },
+    {
+        "id_location": 233821,
+        "id_location_parent": 233800,
+        "name": "San Mateo",
+        "seoname": "san-mateo-24665"
+    },
+    {
+        "id_location": 233822,
+        "id_location_parent": 233800,
+        "name": "San Miguel Sig\u00fcil\u00e1",
+        "seoname": "san-miguel-siguila-24666"
+    },
+    {
+        "id_location": 233823,
+        "id_location_parent": 233800,
+        "name": "Sibilia",
+        "seoname": "sibilia-24667"
+    },
+    {
+        "id_location": 233824,
+        "id_location_parent": 233800,
+        "name": "Zuni",
+        "seoname": "zuni-24668"
+    },
+    {
+        "id_location": 233825,
+        "id_location_parent": 1,
+        "name": "Retalhuleu",
+        "seoname": "retalhuleu-706606"
+    },
+    {
+        "id_location": 233826,
+        "id_location_parent": 233825,
+        "name": "Champerico",
+        "seoname": "champerico-24669"
+    },
+    {
+        "id_location": 233827,
+        "id_location_parent": 233825,
+        "name": "El Asintal.",
+        "seoname": "el-asintal-24670"
+    },
+    {
+        "id_location": 233828,
+        "id_location_parent": 233825,
+        "name": "Nuevo San Carlos",
+        "seoname": "nuevo-san-carlos-24671"
+    },
+    {
+        "id_location": 233829,
+        "id_location_parent": 233825,
+        "name": "Retalhuleu",
+        "seoname": "retalhuleu-24672"
+    },
+    {
+        "id_location": 233830,
+        "id_location_parent": 233825,
+        "name": "San Andr\u00e9s Villa Seca",
+        "seoname": "san-andres-villa-seca-24673"
+    },
+    {
+        "id_location": 233831,
+        "id_location_parent": 233825,
+        "name": "San Mart\u00edn Zapotitl\u00e1n",
+        "seoname": "san-martin-zapotitlan-24674"
+    },
+    {
+        "id_location": 233832,
+        "id_location_parent": 233825,
+        "name": "San Felipe",
+        "seoname": "san-felipe-24675"
+    },
+    {
+        "id_location": 233833,
+        "id_location_parent": 233825,
+        "name": "San Sebasti\u00e1n",
+        "seoname": "san-sebastian-24676"
+    },
+    {
+        "id_location": 233834,
+        "id_location_parent": 233825,
+        "name": "Santa Cruz Mulu\u00e1",
+        "seoname": "santa-cruz-mulua-24677"
+    },
+    {
+        "id_location": 233835,
+        "id_location_parent": 1,
+        "name": "Sacatep\u00e9quez",
+        "seoname": "sacatepequez-706607"
+    },
+    {
+        "id_location": 233836,
+        "id_location_parent": 233835,
+        "name": "Alotenango",
+        "seoname": "alotenango-24678"
+    },
+    {
+        "id_location": 233837,
+        "id_location_parent": 233835,
+        "name": "Antigua Guatemala",
+        "seoname": "antigua-guatemala-24679"
+    },
+    {
+        "id_location": 233838,
+        "id_location_parent": 233835,
+        "name": "Ciudad Vieja",
+        "seoname": "ciudad-vieja-24680"
+    },
+    {
+        "id_location": 233839,
+        "id_location_parent": 233835,
+        "name": "Jocotenango",
+        "seoname": "jocotenango-24681"
+    },
+    {
+        "id_location": 233840,
+        "id_location_parent": 233835,
+        "name": "Magdalena Milpas Altas",
+        "seoname": "magdalena-milpas-altas-24682"
+    },
+    {
+        "id_location": 233841,
+        "id_location_parent": 233835,
+        "name": "Pastores",
+        "seoname": "pastores-24683"
+    },
+    {
+        "id_location": 233842,
+        "id_location_parent": 233835,
+        "name": "San Antonio Aguas Calientes",
+        "seoname": "san-antonio-aguas-calientes-24684"
+    },
+    {
+        "id_location": 233843,
+        "id_location_parent": 233835,
+        "name": "San Bartolom\u00e9 Milpas Altas",
+        "seoname": "san-bartolome-milpas-altas-24685"
+    },
+    {
+        "id_location": 233844,
+        "id_location_parent": 233835,
+        "name": "San Lucas Sacatep\u00e9quez",
+        "seoname": "san-lucas-sacatepequez-24686"
+    },
+    {
+        "id_location": 233845,
+        "id_location_parent": 233835,
+        "name": "San Miguel Due\u00f1as",
+        "seoname": "san-miguel-duenas-24687"
+    },
+    {
+        "id_location": 233846,
+        "id_location_parent": 233835,
+        "name": "Santa Catarina Barahona",
+        "seoname": "santa-catarina-barahona-24688"
+    },
+    {
+        "id_location": 233847,
+        "id_location_parent": 233835,
+        "name": "Santa Luc\u00eda Milpas Altas",
+        "seoname": "santa-lucia-milpas-altas-24689"
+    },
+    {
+        "id_location": 233848,
+        "id_location_parent": 233835,
+        "name": "Santa Mar\u00eda de Jes\u00fas",
+        "seoname": "santa-maria-de-jesus-24690"
+    },
+    {
+        "id_location": 233849,
+        "id_location_parent": 233835,
+        "name": "Santiago Sacatep\u00e9quez",
+        "seoname": "santiago-sacatepequez-24691"
+    },
+    {
+        "id_location": 233850,
+        "id_location_parent": 233835,
+        "name": "Santo Domingo Xenacoj",
+        "seoname": "santo-domingo-xenacoj-24692"
+    },
+    {
+        "id_location": 233851,
+        "id_location_parent": 233835,
+        "name": "Sumpango",
+        "seoname": "sumpango-24693"
+    },
+    {
+        "id_location": 233852,
+        "id_location_parent": 1,
+        "name": "Solol\u00e1",
+        "seoname": "solola-706610"
+    },
+    {
+        "id_location": 233853,
+        "id_location_parent": 233852,
+        "name": "Concepci\u00f3n",
+        "seoname": "concepcion-24737"
+    },
+    {
+        "id_location": 233854,
+        "id_location_parent": 233852,
+        "name": "Nahual\u00e1",
+        "seoname": "nahuala-24738"
+    },
+    {
+        "id_location": 233855,
+        "id_location_parent": 233852,
+        "name": "Panajachel",
+        "seoname": "panajachel-24739"
+    },
+    {
+        "id_location": 233856,
+        "id_location_parent": 233852,
+        "name": "San Andr\u00e9s Semetabaj",
+        "seoname": "san-andres-semetabaj-24740"
+    },
+    {
+        "id_location": 233857,
+        "id_location_parent": 233852,
+        "name": "San Antonio Palop\u00f3",
+        "seoname": "san-antonio-palopo-24741"
+    },
+    {
+        "id_location": 233858,
+        "id_location_parent": 233852,
+        "name": "San Jos\u00e9 Chacay\u00e1",
+        "seoname": "san-jose-chacaya-24742"
+    },
+    {
+        "id_location": 233859,
+        "id_location_parent": 233852,
+        "name": "San Juan la Laguna",
+        "seoname": "san-juan-la-laguna-24743"
+    },
+    {
+        "id_location": 233860,
+        "id_location_parent": 233852,
+        "name": "San Lucas Tolim\u00e1n",
+        "seoname": "san-lucas-toliman-24744"
+    },
+    {
+        "id_location": 233861,
+        "id_location_parent": 233852,
+        "name": "San Marcos la Laguna",
+        "seoname": "san-marcos-la-laguna-24745"
+    },
+    {
+        "id_location": 233862,
+        "id_location_parent": 233852,
+        "name": "San Pablo la Laguna",
+        "seoname": "san-pablo-la-laguna-24746"
+    },
+    {
+        "id_location": 233863,
+        "id_location_parent": 233852,
+        "name": "San Pedro la Laguna",
+        "seoname": "san-pedro-la-laguna-24747"
+    },
+    {
+        "id_location": 233864,
+        "id_location_parent": 233852,
+        "name": "Santa Catarina Ixtahuacan",
+        "seoname": "santa-catarina-ixtahuacan-24748"
+    },
+    {
+        "id_location": 233865,
+        "id_location_parent": 233852,
+        "name": "Santa Catarina Palop\u00f3",
+        "seoname": "santa-catarina-palopo-24749"
+    },
+    {
+        "id_location": 233866,
+        "id_location_parent": 233852,
+        "name": "Santa Clara la Laguna",
+        "seoname": "santa-clara-la-laguna-24750"
+    },
+    {
+        "id_location": 233867,
+        "id_location_parent": 233852,
+        "name": "Santa Cruz la Laguna",
+        "seoname": "santa-cruz-la-laguna-24751"
+    },
+    {
+        "id_location": 233868,
+        "id_location_parent": 233852,
+        "name": "Santa Luc\u00eda Utatl\u00e1n",
+        "seoname": "santa-lucia-utatlan-24752"
+    },
+    {
+        "id_location": 233869,
+        "id_location_parent": 233852,
+        "name": "Santa Mar\u00eda Visitaci\u00f3n",
+        "seoname": "santa-maria-visitacion-24753"
+    },
+    {
+        "id_location": 233870,
+        "id_location_parent": 233852,
+        "name": "Santiago Atitl\u00e1n.",
+        "seoname": "santiago-atitlan-24754"
+    },
+    {
+        "id_location": 233871,
+        "id_location_parent": 233852,
+        "name": "Solol\u00e1",
+        "seoname": "solola-24755"
+    },
+    {
+        "id_location": 233872,
+        "id_location_parent": 1,
+        "name": "Suchitep\u00e9quez",
+        "seoname": "suchitepequez-706611"
+    },
+    {
+        "id_location": 233873,
+        "id_location_parent": 233872,
+        "name": "Chicacao",
+        "seoname": "chicacao-24756"
+    },
+    {
+        "id_location": 233874,
+        "id_location_parent": 233872,
+        "name": "Cuyotenango",
+        "seoname": "cuyotenango-24757"
+    },
+    {
+        "id_location": 233875,
+        "id_location_parent": 233872,
+        "name": "Mazatenango",
+        "seoname": "mazatenango-24758"
+    },
+    {
+        "id_location": 233876,
+        "id_location_parent": 233872,
+        "name": "Patulul",
+        "seoname": "patulul-24759"
+    },
+    {
+        "id_location": 233877,
+        "id_location_parent": 233872,
+        "name": "Pueblo Nuevo",
+        "seoname": "pueblo-nuevo-24760"
+    },
+    {
+        "id_location": 233878,
+        "id_location_parent": 233872,
+        "name": "R\u00edo Bravo",
+        "seoname": "rio-bravo-24761"
+    },
+    {
+        "id_location": 233879,
+        "id_location_parent": 233872,
+        "name": "Samayac",
+        "seoname": "samayac-24762"
+    },
+    {
+        "id_location": 233880,
+        "id_location_parent": 233872,
+        "name": "San Antonio Suchitep\u00e9quez",
+        "seoname": "san-antonio-suchitepequez-24763"
+    },
+    {
+        "id_location": 233881,
+        "id_location_parent": 233872,
+        "name": "San Bernardino",
+        "seoname": "san-bernardino-24764"
+    },
+    {
+        "id_location": 233882,
+        "id_location_parent": 233872,
+        "name": "San Jos\u00e9 el \u00cddolo",
+        "seoname": "san-jose-el-idolo-24765"
+    },
+    {
+        "id_location": 233883,
+        "id_location_parent": 233872,
+        "name": "San Francisco Zapotitl\u00e1n",
+        "seoname": "san-francisco-zapotitlan-24766"
+    },
+    {
+        "id_location": 233884,
+        "id_location_parent": 233872,
+        "name": "San Gabriel",
+        "seoname": "san-gabriel-24767"
+    },
+    {
+        "id_location": 233885,
+        "id_location_parent": 233872,
+        "name": "San Juan Bautista",
+        "seoname": "san-juan-bautista-24768"
+    },
+    {
+        "id_location": 233886,
+        "id_location_parent": 233872,
+        "name": "San Lorenzo",
+        "seoname": "san-lorenzo-24769"
+    },
+    {
+        "id_location": 233887,
+        "id_location_parent": 233872,
+        "name": "San Miguel Pan\u00e1n",
+        "seoname": "san-miguel-panan-24770"
+    },
+    {
+        "id_location": 233888,
+        "id_location_parent": 233872,
+        "name": "San Pablo Jocopilas",
+        "seoname": "san-pablo-jocopilas-24771"
+    },
+    {
+        "id_location": 233889,
+        "id_location_parent": 233872,
+        "name": "Santa Barbara",
+        "seoname": "santa-barbara-24772"
+    },
+    {
+        "id_location": 233890,
+        "id_location_parent": 233872,
+        "name": "Santo Domingo Suchitepequez",
+        "seoname": "santo-domingo-suchitepequez-24773"
+    },
+    {
+        "id_location": 233891,
+        "id_location_parent": 233872,
+        "name": "Santo Tomas la Uni\u00f3n",
+        "seoname": "santo-tomas-la-union-24774"
+    },
+    {
+        "id_location": 233892,
+        "id_location_parent": 233872,
+        "name": "Zunilito",
+        "seoname": "zunilito-24775"
+    },
+    {
+        "id_location": 233893,
+        "id_location_parent": 1,
+        "name": "Totonicap\u00e1n",
+        "seoname": "totonicapan-706612"
+    },
+    {
+        "id_location": 233894,
+        "id_location_parent": 233893,
+        "name": "Momostenango",
+        "seoname": "momostenango-24776"
+    },
+    {
+        "id_location": 233895,
+        "id_location_parent": 233893,
+        "name": "San Andr\u00e9s Xecul",
+        "seoname": "san-andres-xecul-24777"
+    },
+    {
+        "id_location": 233896,
+        "id_location_parent": 233893,
+        "name": "San Bartolo.",
+        "seoname": "san-bartolo-24778"
+    },
+    {
+        "id_location": 233897,
+        "id_location_parent": 233893,
+        "name": "San Crist\u00f3bal Totonicap\u00e1n",
+        "seoname": "san-cristobal-totonicapan-24779"
+    },
+    {
+        "id_location": 233898,
+        "id_location_parent": 233893,
+        "name": "San Francisco el Alto",
+        "seoname": "san-francisco-el-alto-24780"
+    },
+    {
+        "id_location": 233899,
+        "id_location_parent": 233893,
+        "name": "Santa Luc\u00eda la Reforma",
+        "seoname": "santa-lucia-la-reforma-24781"
+    },
+    {
+        "id_location": 233900,
+        "id_location_parent": 233893,
+        "name": "Santa Mar\u00eda Chiquimula",
+        "seoname": "santa-maria-chiquimula-24782"
+    },
+    {
+        "id_location": 233901,
+        "id_location_parent": 233893,
+        "name": "Totonicap\u00e1n",
+        "seoname": "totonicapan-24783"
+    },
+    {
+        "id_location": 233902,
+        "id_location_parent": 1,
+        "name": "Zacapa",
+        "seoname": "zacapa-706613"
+    },
+    {
+        "id_location": 233903,
+        "id_location_parent": 233902,
+        "name": "Caba\u00f1as",
+        "seoname": "cabanas-24784"
+    },
+    {
+        "id_location": 233904,
+        "id_location_parent": 233902,
+        "name": "Estanzuela",
+        "seoname": "estanzuela-24785"
+    },
+    {
+        "id_location": 233905,
+        "id_location_parent": 233902,
+        "name": "Gual\u00e1n",
+        "seoname": "gualan-24786"
+    },
+    {
+        "id_location": 233906,
+        "id_location_parent": 233902,
+        "name": "Huit\u00e9",
+        "seoname": "huite-24787"
+    },
+    {
+        "id_location": 233907,
+        "id_location_parent": 233902,
+        "name": "La Uni\u00f3n",
+        "seoname": "la-union-24788"
+    },
+    {
+        "id_location": 233908,
+        "id_location_parent": 233902,
+        "name": "R\u00edo Hondo",
+        "seoname": "rio-hondo-24789"
+    },
+    {
+        "id_location": 233909,
+        "id_location_parent": 233902,
+        "name": "San Diego",
+        "seoname": "san-diego-24790"
+    },
+    {
+        "id_location": 233910,
+        "id_location_parent": 233902,
+        "name": "Teculut\u00e1n",
+        "seoname": "teculutan-24791"
+    },
+    {
+        "id_location": 233911,
+        "id_location_parent": 233902,
+        "name": "Usumatl\u00e1n",
+        "seoname": "usumatlan-24792"
+    },
+    {
+        "id_location": 233912,
+        "id_location_parent": 233902,
+        "name": "Zacapa",
+        "seoname": "zacapa-24793"
+    },
+    {
+        "id_location": 233913,
+        "id_location_parent": 1,
+        "name": "Alta Verapaz",
+        "seoname": "alta-verapaz-706614"
+    },
+    {
+        "id_location": 233914,
+        "id_location_parent": 233913,
+        "name": "Cob\u00e1n",
+        "seoname": "coban-24460"
+    },
+    {
+        "id_location": 233915,
+        "id_location_parent": 233913,
+        "name": "San Pedro Carch\u00e1",
+        "seoname": "san-pedro-carcha-24461"
+    },
+    {
+        "id_location": 233916,
+        "id_location_parent": 233913,
+        "name": "San Juan Chamelco",
+        "seoname": "san-juan-chamelco-24462"
+    },
+    {
+        "id_location": 233917,
+        "id_location_parent": 233913,
+        "name": "San Crist\u00f3bal Verapaz",
+        "seoname": "san-cristobal-verapaz-24463"
+    },
+    {
+        "id_location": 233918,
+        "id_location_parent": 233913,
+        "name": "Tactic",
+        "seoname": "tactic-24464"
+    },
+    {
+        "id_location": 233919,
+        "id_location_parent": 233913,
+        "name": "Tucur\u00fa",
+        "seoname": "tucuru-24465"
+    },
+    {
+        "id_location": 233920,
+        "id_location_parent": 233913,
+        "name": "Tamah\u00fa",
+        "seoname": "tamahu-24466"
+    },
+    {
+        "id_location": 233921,
+        "id_location_parent": 233913,
+        "name": "San Miguel Tucur\u00fa",
+        "seoname": "san-miguel-tucuru-24467"
+    },
+    {
+        "id_location": 233922,
+        "id_location_parent": 233913,
+        "name": "Santa Mar\u00eda Cahab\u00f3n",
+        "seoname": "santa-maria-cahabon-24468"
+    },
+    {
+        "id_location": 233923,
+        "id_location_parent": 233913,
+        "name": "Panz\u00f3s",
+        "seoname": "panzos-24469"
+    },
+    {
+        "id_location": 233924,
+        "id_location_parent": 233913,
+        "name": "Senah\u00fa",
+        "seoname": "senahu-24470"
+    },
+    {
+        "id_location": 233925,
+        "id_location_parent": 233913,
+        "name": "Cahab\u00f3n",
+        "seoname": "cahabon-24471"
+    },
+    {
+        "id_location": 233926,
+        "id_location_parent": 233913,
+        "name": "Lanquin",
+        "seoname": "lanquin-24472"
+    },
+    {
+        "id_location": 233927,
+        "id_location_parent": 233913,
+        "name": "Chahal",
+        "seoname": "chahal-24473"
+    },
+    {
+        "id_location": 233928,
+        "id_location_parent": 233913,
+        "name": "Fray Bartolom\u00e9 de las Casas",
+        "seoname": "fray-bartolome-de-las-casas-24474"
+    },
+    {
+        "id_location": 233929,
+        "id_location_parent": 233913,
+        "name": "Chisec",
+        "seoname": "chisec-24475"
+    },
+    {
+        "id_location": 233930,
+        "id_location_parent": 233913,
+        "name": "Santa Cruz Verapaz",
+        "seoname": "santa-cruz-verapaz-24476"
+    },
+    {
+        "id_location": 233931,
+        "id_location_parent": 233913,
+        "name": "Santa Catalina la Tinta",
+        "seoname": "santa-catalina-la-tinta-24477"
+    },
+    {
+        "id_location": 233932,
+        "id_location_parent": 1,
+        "name": "Baja Verapaz",
+        "seoname": "baja-verapaz-706615"
+    },
+    {
+        "id_location": 233933,
+        "id_location_parent": 233932,
+        "name": "Cubulco",
+        "seoname": "cubulco-24478"
+    },
+    {
+        "id_location": 233934,
+        "id_location_parent": 233932,
+        "name": "Santa Cruz el Chol",
+        "seoname": "santa-cruz-el-chol-24479"
+    },
+    {
+        "id_location": 233935,
+        "id_location_parent": 233932,
+        "name": "Granados",
+        "seoname": "granados-24480"
+    },
+    {
+        "id_location": 233936,
+        "id_location_parent": 233932,
+        "name": "Purulh\u00e1",
+        "seoname": "purulha-24481"
+    },
+    {
+        "id_location": 233937,
+        "id_location_parent": 233932,
+        "name": "Rabinal",
+        "seoname": "rabinal-24482"
+    },
+    {
+        "id_location": 233938,
+        "id_location_parent": 233932,
+        "name": "Salam\u00e1",
+        "seoname": "salama-24483"
+    },
+    {
+        "id_location": 233939,
+        "id_location_parent": 233932,
+        "name": "San Miguel Chicaj",
+        "seoname": "san-miguel-chicaj-24484"
+    },
+    {
+        "id_location": 233940,
+        "id_location_parent": 233932,
+        "name": "San Jer\u00f3nimo",
+        "seoname": "san-jeronimo-24485"
+    },
+    {
+        "id_location": 233941,
+        "id_location_parent": 1,
+        "name": "Chimaltenango",
+        "seoname": "chimaltenango-706616"
+    },
+    {
+        "id_location": 233942,
+        "id_location_parent": 233941,
+        "name": "Chimaltenango",
+        "seoname": "chimaltenango-24486"
+    },
+    {
+        "id_location": 233943,
+        "id_location_parent": 233941,
+        "name": "San Jos\u00e9 Poaqu\u00edl",
+        "seoname": "san-jose-poaquil-24487"
+    },
+    {
+        "id_location": 233944,
+        "id_location_parent": 233941,
+        "name": "San Mart\u00edn Jilotepeque",
+        "seoname": "san-martin-jilotepeque-24488"
+    },
+    {
+        "id_location": 233945,
+        "id_location_parent": 233941,
+        "name": "San Pedro Yepocapa",
+        "seoname": "san-pedro-yepocapa-24489"
+    },
+    {
+        "id_location": 233946,
+        "id_location_parent": 233941,
+        "name": "Santa Apolonia",
+        "seoname": "santa-apolonia-24490"
+    },
+    {
+        "id_location": 233947,
+        "id_location_parent": 233941,
+        "name": "Tecp\u00e1n Guatemala",
+        "seoname": "tecpan-guatemala-24491"
+    },
+    {
+        "id_location": 233948,
+        "id_location_parent": 233941,
+        "name": "Patz\u00fan",
+        "seoname": "patzun-24492"
+    },
+    {
+        "id_location": 233949,
+        "id_location_parent": 233941,
+        "name": "Pochuta",
+        "seoname": "pochuta-24493"
+    },
+    {
+        "id_location": 233950,
+        "id_location_parent": 233941,
+        "name": "Patzic\u00eda",
+        "seoname": "patzicia-24494"
+    },
+    {
+        "id_location": 233951,
+        "id_location_parent": 233941,
+        "name": "Santa Cruz Balany\u00e1",
+        "seoname": "santa-cruz-balanya-24495"
+    },
+    {
+        "id_location": 233952,
+        "id_location_parent": 233941,
+        "name": "Acatenango",
+        "seoname": "acatenango-24496"
+    },
+    {
+        "id_location": 233953,
+        "id_location_parent": 233941,
+        "name": "Yepocapa",
+        "seoname": "yepocapa-24497"
+    },
+    {
+        "id_location": 233954,
+        "id_location_parent": 233941,
+        "name": "San Andr\u00e9s Itzapa",
+        "seoname": "san-andres-itzapa-24498"
+    },
+    {
+        "id_location": 233955,
+        "id_location_parent": 233941,
+        "name": "Parramos",
+        "seoname": "parramos-24499"
+    },
+    {
+        "id_location": 233956,
+        "id_location_parent": 233941,
+        "name": "Zaragoza",
+        "seoname": "zaragoza-24500"
+    },
+    {
+        "id_location": 233957,
+        "id_location_parent": 233941,
+        "name": "El Tejar",
+        "seoname": "el-tejar-24501"
+    },
+    {
+        "id_location": 233958,
+        "id_location_parent": 1,
+        "name": "Chiquimula",
+        "seoname": "chiquimula-706617"
+    },
+    {
+        "id_location": 233959,
+        "id_location_parent": 233958,
+        "name": "Camot\u00e1n",
+        "seoname": "camotan-24502"
+    },
+    {
+        "id_location": 233960,
+        "id_location_parent": 233958,
+        "name": "Chiquimula",
+        "seoname": "chiquimula-24503"
+    },
+    {
+        "id_location": 233961,
+        "id_location_parent": 233958,
+        "name": "Concepci\u00f3n Las Minas",
+        "seoname": "concepcion-las-minas-24504"
+    },
+    {
+        "id_location": 233962,
+        "id_location_parent": 233958,
+        "name": "Esquipulas",
+        "seoname": "esquipulas-24505"
+    },
+    {
+        "id_location": 233963,
+        "id_location_parent": 233958,
+        "name": "Ipala",
+        "seoname": "ipala-24506"
+    },
+    {
+        "id_location": 233964,
+        "id_location_parent": 233958,
+        "name": "Jocot\u00e1n",
+        "seoname": "jocotan-24507"
+    },
+    {
+        "id_location": 233965,
+        "id_location_parent": 233958,
+        "name": "Olopa",
+        "seoname": "olopa-24508"
+    },
+    {
+        "id_location": 233966,
+        "id_location_parent": 233958,
+        "name": "Quezaltepeque",
+        "seoname": "quezaltepeque-24509"
+    },
+    {
+        "id_location": 233967,
+        "id_location_parent": 233958,
+        "name": "San Jos\u00e9 la Arada",
+        "seoname": "san-jose-la-arada-24510"
+    },
+    {
+        "id_location": 233968,
+        "id_location_parent": 233958,
+        "name": "San Juan Ermita",
+        "seoname": "san-juan-ermita-24511"
+    },
+    {
+        "id_location": 233969,
+        "id_location_parent": 233958,
+        "name": "San Jacinto",
+        "seoname": "san-jacinto-24512"
+    },
+    {
+        "id_location": 233970,
+        "id_location_parent": 1,
+        "name": "Pet\u00e9n",
+        "seoname": "peten-706618"
+    },
+    {
+        "id_location": 233971,
+        "id_location_parent": 233970,
+        "name": "Dolores",
+        "seoname": "dolores-24513"
+    },
+    {
+        "id_location": 233972,
+        "id_location_parent": 233970,
+        "name": "La Libertad",
+        "seoname": "la-libertad-24514"
+    },
+    {
+        "id_location": 233973,
+        "id_location_parent": 233970,
+        "name": "Flores",
+        "seoname": "flores-24515"
+    },
+    {
+        "id_location": 233974,
+        "id_location_parent": 233970,
+        "name": "Melchor de Mencos",
+        "seoname": "melchor-de-mencos-24516"
+    },
+    {
+        "id_location": 233975,
+        "id_location_parent": 233970,
+        "name": "Popt\u00fan",
+        "seoname": "poptun-24517"
+    },
+    {
+        "id_location": 233976,
+        "id_location_parent": 233970,
+        "name": "San Andr\u00e9s",
+        "seoname": "san-andres-24518"
+    },
+    {
+        "id_location": 233977,
+        "id_location_parent": 233970,
+        "name": "San Benito",
+        "seoname": "san-benito-24519"
+    },
+    {
+        "id_location": 233978,
+        "id_location_parent": 233970,
+        "name": "San Francisco",
+        "seoname": "san-francisco-24520"
+    },
+    {
+        "id_location": 233979,
+        "id_location_parent": 233970,
+        "name": "San Jos\u00e9",
+        "seoname": "san-jose-24521"
+    },
+    {
+        "id_location": 233980,
+        "id_location_parent": 233970,
+        "name": "San Luis",
+        "seoname": "san-luis-24522"
+    },
+    {
+        "id_location": 233981,
+        "id_location_parent": 233970,
+        "name": "Santa Ana",
+        "seoname": "santa-ana-24523"
+    },
+    {
+        "id_location": 233982,
+        "id_location_parent": 233970,
+        "name": "Sayaxch\u00e9",
+        "seoname": "sayaxche-24524"
+    },
+    {
+        "id_location": 233983,
+        "id_location_parent": 1,
+        "name": "El Progreso",
+        "seoname": "el-progreso-706619"
+    },
+    {
+        "id_location": 233984,
+        "id_location_parent": 233983,
+        "name": "Guastatoya",
+        "seoname": "guastatoya-24525"
+    },
+    {
+        "id_location": 233985,
+        "id_location_parent": 233983,
+        "name": "Moraz\u00e1n",
+        "seoname": "morazan-24526"
+    },
+    {
+        "id_location": 233986,
+        "id_location_parent": 233983,
+        "name": "San Agust\u00edn Acasaguastl\u00e1n",
+        "seoname": "san-agustin-acasaguastlan-24527"
+    },
+    {
+        "id_location": 233987,
+        "id_location_parent": 233983,
+        "name": "San Crist\u00f3bal Acasaguastl\u00e1n",
+        "seoname": "san-cristobal-acasaguastlan-24528"
+    },
+    {
+        "id_location": 233988,
+        "id_location_parent": 233983,
+        "name": "El J\u00edcaro",
+        "seoname": "el-jicaro-24529"
+    },
+    {
+        "id_location": 233989,
+        "id_location_parent": 233983,
+        "name": "Sansare",
+        "seoname": "sansare-24530"
+    },
+    {
+        "id_location": 233990,
+        "id_location_parent": 233983,
+        "name": "Sanarate",
+        "seoname": "sanarate-24531"
+    },
+    {
+        "id_location": 233991,
+        "id_location_parent": 233983,
+        "name": "San Antonio la Paz",
+        "seoname": "san-antonio-la-paz-24532"
+    },
+    {
+        "id_location": 233992,
+        "id_location_parent": 1,
+        "name": "Quich\u00e9",
+        "seoname": "quiche-706620"
+    },
+    {
+        "id_location": 233993,
+        "id_location_parent": 233992,
+        "name": "Canill\u00e1",
+        "seoname": "canilla-24533"
+    },
+    {
+        "id_location": 233994,
+        "id_location_parent": 233992,
+        "name": "Chajul",
+        "seoname": "chajul-24534"
+    },
+    {
+        "id_location": 233995,
+        "id_location_parent": 233992,
+        "name": "Chicam\u00e1n",
+        "seoname": "chicaman-24535"
+    },
+    {
+        "id_location": 233996,
+        "id_location_parent": 233992,
+        "name": "Chich\u00e9",
+        "seoname": "chiche-24536"
+    },
+    {
+        "id_location": 233997,
+        "id_location_parent": 233992,
+        "name": "Chichicastenango",
+        "seoname": "chichicastenango-24537"
+    },
+    {
+        "id_location": 233998,
+        "id_location_parent": 233992,
+        "name": "Chinique",
+        "seoname": "chinique-24538"
+    },
+    {
+        "id_location": 233999,
+        "id_location_parent": 233992,
+        "name": "Cun\u00e9n",
+        "seoname": "cunen-24539"
+    },
+    {
+        "id_location": 234000,
+        "id_location_parent": 233992,
+        "name": "Ixc\u00e1n",
+        "seoname": "ixcan-24540"
+    },
+    {
+        "id_location": 234001,
+        "id_location_parent": 233992,
+        "name": "Joyabaj",
+        "seoname": "joyabaj-24541"
+    },
+    {
+        "id_location": 234002,
+        "id_location_parent": 233992,
+        "name": "Nebaj",
+        "seoname": "nebaj-24542"
+    },
+    {
+        "id_location": 234003,
+        "id_location_parent": 233992,
+        "name": "Pachalum",
+        "seoname": "pachalum-24543"
+    },
+    {
+        "id_location": 234004,
+        "id_location_parent": 233992,
+        "name": "Patzit\u00e9",
+        "seoname": "patzite-24544"
+    },
+    {
+        "id_location": 234005,
+        "id_location_parent": 233992,
+        "name": "Sacapulas",
+        "seoname": "sacapulas-24545"
+    },
+    {
+        "id_location": 234006,
+        "id_location_parent": 233992,
+        "name": "San Andr\u00e9s Sajcabaj\u00e1",
+        "seoname": "san-andres-sajcabaja-24546"
+    },
+    {
+        "id_location": 234007,
+        "id_location_parent": 233992,
+        "name": "San Antonio Ilotenango",
+        "seoname": "san-antonio-ilotenango-24547"
+    },
+    {
+        "id_location": 234008,
+        "id_location_parent": 233992,
+        "name": "San Bartolom\u00e9 Jocotenango",
+        "seoname": "san-bartolome-jocotenango-24548"
+    },
+    {
+        "id_location": 234009,
+        "id_location_parent": 233992,
+        "name": "San Juan Cotzal",
+        "seoname": "san-juan-cotzal-24549"
+    },
+    {
+        "id_location": 234010,
+        "id_location_parent": 233992,
+        "name": "San Pedro Jocopilas",
+        "seoname": "san-pedro-jocopilas-24550"
+    },
+    {
+        "id_location": 234011,
+        "id_location_parent": 233992,
+        "name": "Santa Cruz del Quich\u00e9",
+        "seoname": "santa-cruz-del-quiche-24551"
+    },
+    {
+        "id_location": 234012,
+        "id_location_parent": 233992,
+        "name": "Uspant\u00e1n",
+        "seoname": "uspantan-24552"
+    },
+    {
+        "id_location": 234013,
+        "id_location_parent": 233992,
+        "name": "Zacualpa",
+        "seoname": "zacualpa-24553"
+    },
+    {
+        "id_location": 234014,
+        "id_location_parent": 1,
+        "name": "Escuintla",
+        "seoname": "escuintla-706621"
+    },
+    {
+        "id_location": 234015,
+        "id_location_parent": 234014,
+        "name": "Escuintla",
+        "seoname": "escuintla-24554"
+    },
+    {
+        "id_location": 234016,
+        "id_location_parent": 234014,
+        "name": "Guanazapa",
+        "seoname": "guanazapa-24555"
+    },
+    {
+        "id_location": 234017,
+        "id_location_parent": 234014,
+        "name": "Iztapa",
+        "seoname": "iztapa-24556"
+    },
+    {
+        "id_location": 234018,
+        "id_location_parent": 234014,
+        "name": "La Democracia",
+        "seoname": "la-democracia-24557"
+    },
+    {
+        "id_location": 234019,
+        "id_location_parent": 234014,
+        "name": "La Gomera",
+        "seoname": "la-gomera-24558"
+    },
+    {
+        "id_location": 234020,
+        "id_location_parent": 234014,
+        "name": "Masagua",
+        "seoname": "masagua-24559"
+    },
+    {
+        "id_location": 234021,
+        "id_location_parent": 234014,
+        "name": "Nueva Concepci\u00f3n",
+        "seoname": "nueva-concepcion-24560"
+    },
+    {
+        "id_location": 234022,
+        "id_location_parent": 234014,
+        "name": "Pal\u00edn",
+        "seoname": "palin-24561"
+    },
+    {
+        "id_location": 234023,
+        "id_location_parent": 234014,
+        "name": "San Jos\u00e9",
+        "seoname": "san-jose-24562"
+    },
+    {
+        "id_location": 234024,
+        "id_location_parent": 234014,
+        "name": "San Vicente Pacaya",
+        "seoname": "san-vicente-pacaya-24563"
+    },
+    {
+        "id_location": 234025,
+        "id_location_parent": 234014,
+        "name": "Santa Luc\u00eda Cotzumalguapa",
+        "seoname": "santa-lucia-cotzumalguapa-24564"
+    },
+    {
+        "id_location": 234026,
+        "id_location_parent": 234014,
+        "name": "Siquinal\u00e1",
+        "seoname": "siquinala-24565"
+    },
+    {
+        "id_location": 234027,
+        "id_location_parent": 234014,
+        "name": "Tiquizate",
+        "seoname": "tiquizate-24566"
+    },
+    {
+        "id_location": 234028,
+        "id_location_parent": 1,
+        "name": "Huehuetenango",
+        "seoname": "huehuetenango-706623"
+    },
+    {
+        "id_location": 234029,
+        "id_location_parent": 234028,
+        "name": "Aguacat\u00e1n",
+        "seoname": "aguacatan-24584"
+    },
+    {
+        "id_location": 234030,
+        "id_location_parent": 234028,
+        "name": "Chiantla",
+        "seoname": "chiantla-24585"
+    },
+    {
+        "id_location": 234031,
+        "id_location_parent": 234028,
+        "name": "Colotenango",
+        "seoname": "colotenango-24586"
+    },
+    {
+        "id_location": 234032,
+        "id_location_parent": 234028,
+        "name": "Concepci\u00f3n Huista",
+        "seoname": "concepcion-huista-24587"
+    },
+    {
+        "id_location": 234033,
+        "id_location_parent": 234028,
+        "name": "Cuilco",
+        "seoname": "cuilco-24588"
+    },
+    {
+        "id_location": 234034,
+        "id_location_parent": 234028,
+        "name": "Huehuetenango",
+        "seoname": "huehuetenango-24589"
+    },
+    {
+        "id_location": 234035,
+        "id_location_parent": 234028,
+        "name": "Ixtahuac\u00e1n",
+        "seoname": "ixtahuacan-24590"
+    },
+    {
+        "id_location": 234036,
+        "id_location_parent": 234028,
+        "name": "Jacaltenango",
+        "seoname": "jacaltenango-24591"
+    },
+    {
+        "id_location": 234037,
+        "id_location_parent": 234028,
+        "name": "La Democracia",
+        "seoname": "la-democracia-24592"
+    },
+    {
+        "id_location": 234038,
+        "id_location_parent": 234028,
+        "name": "La Libertad",
+        "seoname": "la-libertad-24593"
+    },
+    {
+        "id_location": 234039,
+        "id_location_parent": 234028,
+        "name": "Malacatancito",
+        "seoname": "malacatancito-24594"
+    },
+    {
+        "id_location": 234040,
+        "id_location_parent": 234028,
+        "name": "Nent\u00f3n",
+        "seoname": "nenton-24595"
+    },
+    {
+        "id_location": 234041,
+        "id_location_parent": 234028,
+        "name": "San Antonio Huista",
+        "seoname": "san-antonio-huista-24596"
+    },
+    {
+        "id_location": 234042,
+        "id_location_parent": 234028,
+        "name": "San Gaspar Ixchil",
+        "seoname": "san-gaspar-ixchil-24597"
+    },
+    {
+        "id_location": 234043,
+        "id_location_parent": 234028,
+        "name": "San Juan Atit\u00e1n",
+        "seoname": "san-juan-atitan-24598"
+    },
+    {
+        "id_location": 234044,
+        "id_location_parent": 234028,
+        "name": "San Juan Ixcoy",
+        "seoname": "san-juan-ixcoy-24599"
+    },
+    {
+        "id_location": 234045,
+        "id_location_parent": 234028,
+        "name": "San Mateo Ixtat\u00e1n",
+        "seoname": "san-mateo-ixtatan-24600"
+    },
+    {
+        "id_location": 234046,
+        "id_location_parent": 234028,
+        "name": "San Miguel Acat\u00e1n",
+        "seoname": "san-miguel-acatan-24601"
+    },
+    {
+        "id_location": 234047,
+        "id_location_parent": 234028,
+        "name": "San Pedro Necta",
+        "seoname": "san-pedro-necta-24602"
+    },
+    {
+        "id_location": 234048,
+        "id_location_parent": 234028,
+        "name": "San Rafael la Independencia",
+        "seoname": "san-rafael-la-independencia-24603"
+    },
+    {
+        "id_location": 234049,
+        "id_location_parent": 234028,
+        "name": "San Rafael Petzal",
+        "seoname": "san-rafael-petzal-24604"
+    },
+    {
+        "id_location": 234050,
+        "id_location_parent": 234028,
+        "name": "San Sebasti\u00e1n Coat\u00e1n",
+        "seoname": "san-sebastian-coatan-24605"
+    },
+    {
+        "id_location": 234051,
+        "id_location_parent": 234028,
+        "name": "San Sebasti\u00e1n Huehuetenango",
+        "seoname": "san-sebastian-huehuetenango-24606"
+    },
+    {
+        "id_location": 234052,
+        "id_location_parent": 234028,
+        "name": "Santa Ana Huista.",
+        "seoname": "santa-ana-huista-24607"
+    },
+    {
+        "id_location": 234053,
+        "id_location_parent": 234028,
+        "name": "Santa B\u00e1rbara",
+        "seoname": "santa-barbara-24608"
+    },
+    {
+        "id_location": 234054,
+        "id_location_parent": 234028,
+        "name": "Santa Cruz Barillas",
+        "seoname": "santa-cruz-barillas-24609"
+    },
+    {
+        "id_location": 234055,
+        "id_location_parent": 234028,
+        "name": "Santa Eulalia",
+        "seoname": "santa-eulalia-24610"
+    },
+    {
+        "id_location": 234056,
+        "id_location_parent": 234028,
+        "name": "Santiago Chimaltenango",
+        "seoname": "santiago-chimaltenango-24611"
+    },
+    {
+        "id_location": 234057,
+        "id_location_parent": 234028,
+        "name": "Soloma",
+        "seoname": "soloma-24612"
+    },
+    {
+        "id_location": 234058,
+        "id_location_parent": 234028,
+        "name": "Tectit\u00e1n",
+        "seoname": "tectitan-24613"
+    },
+    {
+        "id_location": 234059,
+        "id_location_parent": 234028,
+        "name": "Todos Santos Cuchumat\u00e1n",
+        "seoname": "todos-santos-cuchumatan-24614"
+    },
+    {
+        "id_location": 234060,
+        "id_location_parent": 234028,
+        "name": "Uni\u00f3n Cantinil",
+        "seoname": "union-cantinil-24615"
+    },
+    {
+        "id_location": 234061,
+        "id_location_parent": 1,
+        "name": "Izabal",
+        "seoname": "izabal-706624"
+    },
+    {
+        "id_location": 234062,
+        "id_location_parent": 234061,
+        "name": "El Estor",
+        "seoname": "el-estor-24616"
+    },
+    {
+        "id_location": 234063,
+        "id_location_parent": 234061,
+        "name": "Livingston",
+        "seoname": "livingston-24617"
+    },
+    {
+        "id_location": 234064,
+        "id_location_parent": 234061,
+        "name": "Los Amates",
+        "seoname": "los-amates-24618"
+    },
+    {
+        "id_location": 234065,
+        "id_location_parent": 234061,
+        "name": "Morales",
+        "seoname": "morales-24619"
+    },
+    {
+        "id_location": 234066,
+        "id_location_parent": 234061,
+        "name": "Puerto Barrios",
+        "seoname": "puerto-barrios-24620"
+    },
+    {
+        "id_location": 234067,
+        "id_location_parent": 1,
+        "name": "Guatemala",
+        "seoname": "guatemala-711545"
+    },
+    {
+        "id_location": 234068,
+        "id_location_parent": 234067,
+        "name": "Ciudad de Guatemala",
+        "seoname": "ciudad-de-guatemala-24567"
+    },
+    {
+        "id_location": 234069,
+        "id_location_parent": 234067,
+        "name": "Santa Catarina Pinula",
+        "seoname": "santa-catarina-pinula-24568"
+    },
+    {
+        "id_location": 234070,
+        "id_location_parent": 234067,
+        "name": "San Jos\u00e9 Pinula",
+        "seoname": "san-jose-pinula-24569"
+    },
+    {
+        "id_location": 234071,
+        "id_location_parent": 234067,
+        "name": "San Jos\u00e9 del Golfo",
+        "seoname": "san-jose-del-golfo-24570"
+    },
+    {
+        "id_location": 234072,
+        "id_location_parent": 234067,
+        "name": "Palencia",
+        "seoname": "palencia-24571"
+    },
+    {
+        "id_location": 234073,
+        "id_location_parent": 234067,
+        "name": "Chinautla,",
+        "seoname": "chinautla-24572"
+    },
+    {
+        "id_location": 234074,
+        "id_location_parent": 234067,
+        "name": "San Pedro Ayampuc",
+        "seoname": "san-pedro-ayampuc-24573"
+    },
+    {
+        "id_location": 234075,
+        "id_location_parent": 234067,
+        "name": "Mixco",
+        "seoname": "mixco-24574"
+    },
+    {
+        "id_location": 234076,
+        "id_location_parent": 234067,
+        "name": "San Pedro Sacatep\u00e9quez",
+        "seoname": "san-pedro-sacatepequez-24575"
+    },
+    {
+        "id_location": 234077,
+        "id_location_parent": 234067,
+        "name": "San Juan Sacatep\u00e9quez",
+        "seoname": "san-juan-sacatepequez-24576"
+    },
+    {
+        "id_location": 234078,
+        "id_location_parent": 234067,
+        "name": "San Raimundo",
+        "seoname": "san-raimundo-24577"
+    },
+    {
+        "id_location": 234079,
+        "id_location_parent": 234067,
+        "name": "Chuarrancho",
+        "seoname": "chuarrancho-24578"
+    },
+    {
+        "id_location": 234080,
+        "id_location_parent": 234067,
+        "name": "Fraijanes",
+        "seoname": "fraijanes-24579"
+    },
+    {
+        "id_location": 234081,
+        "id_location_parent": 234067,
+        "name": "Amatitl\u00e1n",
+        "seoname": "amatitlan-24580"
+    },
+    {
+        "id_location": 234082,
+        "id_location_parent": 234067,
+        "name": "Villa Nueva",
+        "seoname": "villa-nueva-24581"
+    },
+    {
+        "id_location": 234083,
+        "id_location_parent": 234067,
+        "name": "Villa Canales",
+        "seoname": "villa-canales-24582"
+    },
+    {
+        "id_location": 234084,
+        "id_location_parent": 234067,
+        "name": "San Miguel Petapa",
+        "seoname": "san-miguel-petapa-24583"
+    },
+    {
+        "id_location": 234085,
+        "id_location_parent": 1,
+        "name": "San Marcos",
+        "seoname": "san-marcos-711546"
+    },
+    {
+        "id_location": 234086,
+        "id_location_parent": 234085,
+        "name": "Ayutla",
+        "seoname": "ayutla-24694"
+    },
+    {
+        "id_location": 234087,
+        "id_location_parent": 234085,
+        "name": "Catarina",
+        "seoname": "catarina-24695"
+    },
+    {
+        "id_location": 234088,
+        "id_location_parent": 234085,
+        "name": "Comitancillo",
+        "seoname": "comitancillo-24696"
+    },
+    {
+        "id_location": 234089,
+        "id_location_parent": 234085,
+        "name": "Concepci\u00f3n Tutuapa",
+        "seoname": "concepcion-tutuapa-24697"
+    },
+    {
+        "id_location": 234090,
+        "id_location_parent": 234085,
+        "name": "El Quetzal",
+        "seoname": "el-quetzal-24698"
+    },
+    {
+        "id_location": 234091,
+        "id_location_parent": 234085,
+        "name": "El Rodeo",
+        "seoname": "el-rodeo-24699"
+    },
+    {
+        "id_location": 234092,
+        "id_location_parent": 234085,
+        "name": "El Tumbador",
+        "seoname": "el-tumbador-24700"
+    },
+    {
+        "id_location": 234093,
+        "id_location_parent": 234085,
+        "name": "Esquipulas Palo Gordo",
+        "seoname": "esquipulas-palo-gordo-24701"
+    },
+    {
+        "id_location": 234094,
+        "id_location_parent": 234085,
+        "name": "Ixchiguan",
+        "seoname": "ixchiguan-24702"
+    },
+    {
+        "id_location": 234095,
+        "id_location_parent": 234085,
+        "name": "La Reforma",
+        "seoname": "la-reforma-24703"
+    },
+    {
+        "id_location": 234096,
+        "id_location_parent": 234085,
+        "name": "Malacat\u00e1n",
+        "seoname": "malacatan-24704"
+    },
+    {
+        "id_location": 234097,
+        "id_location_parent": 234085,
+        "name": "Nuevo Progreso",
+        "seoname": "nuevo-progreso-24705"
+    },
+    {
+        "id_location": 234098,
+        "id_location_parent": 234085,
+        "name": "Oc\u00f3s",
+        "seoname": "ocos-24706"
+    },
+    {
+        "id_location": 234099,
+        "id_location_parent": 234085,
+        "name": "Pajapita",
+        "seoname": "pajapita-24707"
+    },
+    {
+        "id_location": 234100,
+        "id_location_parent": 234085,
+        "name": "R\u00edo Blanco",
+        "seoname": "rio-blanco-24708"
+    },
+    {
+        "id_location": 234101,
+        "id_location_parent": 234085,
+        "name": "San Antonio Sacatep\u00e9quez",
+        "seoname": "san-antonio-sacatepequez-24709"
+    },
+    {
+        "id_location": 234102,
+        "id_location_parent": 234085,
+        "name": "San Crist\u00f3bal Cucho",
+        "seoname": "san-cristobal-cucho-24710"
+    },
+    {
+        "id_location": 234103,
+        "id_location_parent": 234085,
+        "name": "San Jos\u00e9 Ojetenam",
+        "seoname": "san-jose-ojetenam-24711"
+    },
+    {
+        "id_location": 234104,
+        "id_location_parent": 234085,
+        "name": "San Lorenzo",
+        "seoname": "san-lorenzo-24712"
+    },
+    {
+        "id_location": 234105,
+        "id_location_parent": 234085,
+        "name": "San Marcos",
+        "seoname": "san-marcos-24713"
+    },
+    {
+        "id_location": 234106,
+        "id_location_parent": 234085,
+        "name": "San Miguel Ixtahuac\u00e1n",
+        "seoname": "san-miguel-ixtahuacan-24714"
+    },
+    {
+        "id_location": 234107,
+        "id_location_parent": 234085,
+        "name": "San Pablo",
+        "seoname": "san-pablo-24715"
+    },
+    {
+        "id_location": 234108,
+        "id_location_parent": 234085,
+        "name": "San Pedro Sacatep\u00e9quez",
+        "seoname": "san-pedro-sacatepequez-24716"
+    },
+    {
+        "id_location": 234109,
+        "id_location_parent": 234085,
+        "name": "San Rafa\u00e9l Pie de la Cuesta",
+        "seoname": "san-rafael-pie-de-la-cuesta-24717"
+    },
+    {
+        "id_location": 234110,
+        "id_location_parent": 234085,
+        "name": "Sibinal",
+        "seoname": "sibinal-24718"
+    },
+    {
+        "id_location": 234111,
+        "id_location_parent": 234085,
+        "name": "Sipacapa",
+        "seoname": "sipacapa-24719"
+    },
+    {
+        "id_location": 234112,
+        "id_location_parent": 234085,
+        "name": "Tacan\u00e1",
+        "seoname": "tacana-24720"
+    },
+    {
+        "id_location": 234113,
+        "id_location_parent": 234085,
+        "name": "Tajumulco",
+        "seoname": "tajumulco-24721"
+    },
+    {
+        "id_location": 234114,
+        "id_location_parent": 234085,
+        "name": "Tejutla",
+        "seoname": "tejutla-24722"
+    },
+    {
+        "id_location": 234115,
+        "id_location_parent": 1,
+        "name": "Santa Rosa",
+        "seoname": "santa-rosa-711547"
+    },
+    {
+        "id_location": 234116,
+        "id_location_parent": 234115,
+        "name": "Barberena",
+        "seoname": "barberena-24723"
+    },
+    {
+        "id_location": 234117,
+        "id_location_parent": 234115,
+        "name": "Casillas",
+        "seoname": "casillas-24724"
+    },
+    {
+        "id_location": 234118,
+        "id_location_parent": 234115,
+        "name": "Chiquimulilla",
+        "seoname": "chiquimulilla-24725"
+    },
+    {
+        "id_location": 234119,
+        "id_location_parent": 234115,
+        "name": "Cuilapa",
+        "seoname": "cuilapa-24726"
+    },
+    {
+        "id_location": 234120,
+        "id_location_parent": 234115,
+        "name": "Guazacap\u00e1n",
+        "seoname": "guazacapan-24727"
+    },
+    {
+        "id_location": 234121,
+        "id_location_parent": 234115,
+        "name": "Nueva Santa Rosa",
+        "seoname": "nueva-santa-rosa-24728"
+    },
+    {
+        "id_location": 234122,
+        "id_location_parent": 234115,
+        "name": "Oratorio",
+        "seoname": "oratorio-24729"
+    },
+    {
+        "id_location": 234123,
+        "id_location_parent": 234115,
+        "name": "Pueblo Nuevo Vi\u00f1as",
+        "seoname": "pueblo-nuevo-vinas-24730"
+    },
+    {
+        "id_location": 234124,
+        "id_location_parent": 234115,
+        "name": "San Juan Tecuaco",
+        "seoname": "san-juan-tecuaco-24731"
+    },
+    {
+        "id_location": 234125,
+        "id_location_parent": 234115,
+        "name": "San Rafa\u00e9l Las Flores",
+        "seoname": "san-rafael-las-flores-24732"
+    },
+    {
+        "id_location": 234126,
+        "id_location_parent": 234115,
+        "name": "Santa Cruz Naranjo",
+        "seoname": "santa-cruz-naranjo-24733"
+    },
+    {
+        "id_location": 234127,
+        "id_location_parent": 234115,
+        "name": "Santa Mar\u00eda Ixhuat\u00e1n",
+        "seoname": "santa-maria-ixhuatan-24734"
+    },
+    {
+        "id_location": 234128,
+        "id_location_parent": 234115,
+        "name": "Santa Rosa de Lima",
+        "seoname": "santa-rosa-de-lima-24735"
+    },
+    {
+        "id_location": 234129,
+        "id_location_parent": 234115,
+        "name": "Taxisco",
+        "seoname": "taxisco-24736"
+    }
+]

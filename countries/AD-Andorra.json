@@ -1,0 +1,362 @@
+[
+    {
+        "id_location": 10000,
+        "id_location_parent": 1,
+        "name": "Canillo",
+        "seoname": "canillo-745896"
+    },
+    {
+        "id_location": 10001,
+        "id_location_parent": 10000,
+        "name": "Canillo",
+        "seoname": "canillo-39845"
+    },
+    {
+        "id_location": 10002,
+        "id_location_parent": 10000,
+        "name": "Soldeu",
+        "seoname": "soldeu-39846"
+    },
+    {
+        "id_location": 10003,
+        "id_location_parent": 10000,
+        "name": "Bordes d'Envalira",
+        "seoname": "bordes-denvalira-39847"
+    },
+    {
+        "id_location": 10004,
+        "id_location_parent": 10000,
+        "name": "El Tarter",
+        "seoname": "el-tarter-39848"
+    },
+    {
+        "id_location": 10005,
+        "id_location_parent": 10000,
+        "name": "Sant Pere",
+        "seoname": "sant-pere-39849"
+    },
+    {
+        "id_location": 10006,
+        "id_location_parent": 10000,
+        "name": "Ransol",
+        "seoname": "ransol-39850"
+    },
+    {
+        "id_location": 10007,
+        "id_location_parent": 10000,
+        "name": "Els Plans",
+        "seoname": "els-plans-39851"
+    },
+    {
+        "id_location": 10008,
+        "id_location_parent": 10000,
+        "name": "El Vilar",
+        "seoname": "el-vilar-39852"
+    },
+    {
+        "id_location": 10009,
+        "id_location_parent": 10000,
+        "name": "L'Armiana",
+        "seoname": "larmiana-39853"
+    },
+    {
+        "id_location": 10010,
+        "id_location_parent": 10000,
+        "name": "L'Aldosa",
+        "seoname": "laldosa-39854"
+    },
+    {
+        "id_location": 10011,
+        "id_location_parent": 10000,
+        "name": "El Forn",
+        "seoname": "el-forn-39855"
+    },
+    {
+        "id_location": 10012,
+        "id_location_parent": 10000,
+        "name": "Prats",
+        "seoname": "prats-39856"
+    },
+    {
+        "id_location": 10013,
+        "id_location_parent": 10000,
+        "name": "Meritxell",
+        "seoname": "meritxell-39857"
+    },
+    {
+        "id_location": 10014,
+        "id_location_parent": 10000,
+        "name": "Molleres",
+        "seoname": "molleres-39858"
+    },
+    {
+        "id_location": 10015,
+        "id_location_parent": 1,
+        "name": "Encamp",
+        "seoname": "encamp-745911"
+    },
+    {
+        "id_location": 10016,
+        "id_location_parent": 10015,
+        "name": "Encamp",
+        "seoname": "encamp-39859"
+    },
+    {
+        "id_location": 10017,
+        "id_location_parent": 10015,
+        "name": "El Tremat",
+        "seoname": "el-tremat-39860"
+    },
+    {
+        "id_location": 10018,
+        "id_location_parent": 10015,
+        "name": "La Mosquera",
+        "seoname": "la-mosquera-39861"
+    },
+    {
+        "id_location": 10019,
+        "id_location_parent": 10015,
+        "name": "Les Bons",
+        "seoname": "les-bons-39862"
+    },
+    {
+        "id_location": 10020,
+        "id_location_parent": 10015,
+        "name": "Vila",
+        "seoname": "vila-39863"
+    },
+    {
+        "id_location": 10021,
+        "id_location_parent": 1,
+        "name": "Ordino",
+        "seoname": "ordino-745917"
+    },
+    {
+        "id_location": 10022,
+        "id_location_parent": 10021,
+        "name": "Ordino",
+        "seoname": "ordino-39864"
+    },
+    {
+        "id_location": 10023,
+        "id_location_parent": 10021,
+        "name": "Segudet",
+        "seoname": "segudet-39865"
+    },
+    {
+        "id_location": 10024,
+        "id_location_parent": 10021,
+        "name": "Sorn\u00e0s",
+        "seoname": "sornas-39866"
+    },
+    {
+        "id_location": 10025,
+        "id_location_parent": 10021,
+        "name": "Ansalonga",
+        "seoname": "ansalonga-39867"
+    },
+    {
+        "id_location": 10026,
+        "id_location_parent": 10021,
+        "name": "La Cortinada",
+        "seoname": "la-cortinada-39868"
+    },
+    {
+        "id_location": 10027,
+        "id_location_parent": 10021,
+        "name": "Arans",
+        "seoname": "arans-39869"
+    },
+    {
+        "id_location": 10028,
+        "id_location_parent": 10021,
+        "name": "Llorts",
+        "seoname": "llorts-39870"
+    },
+    {
+        "id_location": 10029,
+        "id_location_parent": 10021,
+        "name": "El Serrat",
+        "seoname": "el-serrat-39871"
+    },
+    {
+        "id_location": 10030,
+        "id_location_parent": 1,
+        "name": "La Massana",
+        "seoname": "la-massana-745926"
+    },
+    {
+        "id_location": 10031,
+        "id_location_parent": 10030,
+        "name": "Pal",
+        "seoname": "pal-39872"
+    },
+    {
+        "id_location": 10032,
+        "id_location_parent": 10030,
+        "name": "Arinsal",
+        "seoname": "arinsal-39873"
+    },
+    {
+        "id_location": 10033,
+        "id_location_parent": 10030,
+        "name": "Erts",
+        "seoname": "erts-39874"
+    },
+    {
+        "id_location": 10034,
+        "id_location_parent": 10030,
+        "name": "Sispony",
+        "seoname": "sispony-39875"
+    },
+    {
+        "id_location": 10035,
+        "id_location_parent": 10030,
+        "name": "Any\u00f3s",
+        "seoname": "anyos-39876"
+    },
+    {
+        "id_location": 10036,
+        "id_location_parent": 10030,
+        "name": "L'Aldosa",
+        "seoname": "laldosa-39877"
+    },
+    {
+        "id_location": 10037,
+        "id_location_parent": 10030,
+        "name": "La Massana",
+        "seoname": "la-massana-39878"
+    },
+    {
+        "id_location": 10038,
+        "id_location_parent": 1,
+        "name": "Andorra la Vella",
+        "seoname": "andorra-la-vella-745934"
+    },
+    {
+        "id_location": 10039,
+        "id_location_parent": 10038,
+        "name": "El Pujol del Pui",
+        "seoname": "el-pujol-del-pui-39879"
+    },
+    {
+        "id_location": 10040,
+        "id_location_parent": 10038,
+        "name": "Esc\u00e0s",
+        "seoname": "escas-39880"
+    },
+    {
+        "id_location": 10041,
+        "id_location_parent": 10038,
+        "name": "Els Plans",
+        "seoname": "els-plans-39881"
+    },
+    {
+        "id_location": 10042,
+        "id_location_parent": 10038,
+        "name": "El Mas de Ribafeta",
+        "seoname": "el-mas-de-ribafeta-39882"
+    },
+    {
+        "id_location": 10043,
+        "id_location_parent": 10038,
+        "name": "El Pui",
+        "seoname": "el-pui-39883"
+    },
+    {
+        "id_location": 10044,
+        "id_location_parent": 1,
+        "name": "Sant Juli\u00e0 de L\u00f2ria",
+        "seoname": "sant-julia-de-loria-745940"
+    },
+    {
+        "id_location": 10045,
+        "id_location_parent": 10044,
+        "name": "Bixessarri",
+        "seoname": "bixessarri-39884"
+    },
+    {
+        "id_location": 10046,
+        "id_location_parent": 10044,
+        "name": "Fontaneda",
+        "seoname": "fontaneda-39885"
+    },
+    {
+        "id_location": 10047,
+        "id_location_parent": 10044,
+        "name": "Auviny\u00e0",
+        "seoname": "auvinya-39886"
+    },
+    {
+        "id_location": 10048,
+        "id_location_parent": 10044,
+        "name": "Juberri",
+        "seoname": "juberri-39887"
+    },
+    {
+        "id_location": 10049,
+        "id_location_parent": 10044,
+        "name": "Nagol",
+        "seoname": "nagol-39888"
+    },
+    {
+        "id_location": 10050,
+        "id_location_parent": 10044,
+        "name": "Certers",
+        "seoname": "certers-39889"
+    },
+    {
+        "id_location": 10051,
+        "id_location_parent": 10044,
+        "name": "Aixovall",
+        "seoname": "aixovall-39890"
+    },
+    {
+        "id_location": 10052,
+        "id_location_parent": 10044,
+        "name": "Aixirivall",
+        "seoname": "aixirivall-39891"
+    },
+    {
+        "id_location": 10053,
+        "id_location_parent": 10044,
+        "name": "Llumeneres",
+        "seoname": "llumeneres-39892"
+    },
+    {
+        "id_location": 10054,
+        "id_location_parent": 1,
+        "name": "Escaldes-Engordany",
+        "seoname": "escaldes-engordany-745950"
+    },
+    {
+        "id_location": 10055,
+        "id_location_parent": 10054,
+        "name": "Escaldes",
+        "seoname": "escaldes-39893"
+    },
+    {
+        "id_location": 10056,
+        "id_location_parent": 10054,
+        "name": "Engordany",
+        "seoname": "engordany-39894"
+    },
+    {
+        "id_location": 10057,
+        "id_location_parent": 10054,
+        "name": "Vilars d'Engordany",
+        "seoname": "vilars-dengordany-39895"
+    },
+    {
+        "id_location": 10058,
+        "id_location_parent": 10054,
+        "name": "Engolasters",
+        "seoname": "engolasters-39896"
+    },
+    {
+        "id_location": 10059,
+        "id_location_parent": 10054,
+        "name": "El Ferrer",
+        "seoname": "el-ferrer-39897"
+    }
+]

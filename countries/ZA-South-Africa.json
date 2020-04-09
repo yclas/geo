@@ -1,0 +1,6068 @@
+[
+    {
+        "id_location": 419726,
+        "id_location_parent": 1,
+        "name": "Eastern Cape",
+        "seoname": "eastern-cape-782117"
+    },
+    {
+        "id_location": 419727,
+        "id_location_parent": 419726,
+        "name": "Willowvale",
+        "seoname": "willowvale-451918"
+    },
+    {
+        "id_location": 419728,
+        "id_location_parent": 419726,
+        "name": "Uniondale",
+        "seoname": "uniondale-451919"
+    },
+    {
+        "id_location": 419729,
+        "id_location_parent": 419726,
+        "name": "Ugie",
+        "seoname": "ugie-451920"
+    },
+    {
+        "id_location": 419730,
+        "id_location_parent": 419726,
+        "name": "Tylden",
+        "seoname": "tylden-451921"
+    },
+    {
+        "id_location": 419731,
+        "id_location_parent": 419726,
+        "name": "Tyeni",
+        "seoname": "tyeni-451922"
+    },
+    {
+        "id_location": 419732,
+        "id_location_parent": 419726,
+        "name": "Tsomo",
+        "seoname": "tsomo-451923"
+    },
+    {
+        "id_location": 419733,
+        "id_location_parent": 419726,
+        "name": "Tsolo",
+        "seoname": "tsolo-451924"
+    },
+    {
+        "id_location": 419734,
+        "id_location_parent": 419726,
+        "name": "Tsitsikamma",
+        "seoname": "tsitsikamma-451925"
+    },
+    {
+        "id_location": 419735,
+        "id_location_parent": 419726,
+        "name": "Tshatshu",
+        "seoname": "tshatshu-451926"
+    },
+    {
+        "id_location": 419736,
+        "id_location_parent": 419726,
+        "name": "Thomas River",
+        "seoname": "thomas-river-451927"
+    },
+    {
+        "id_location": 419737,
+        "id_location_parent": 419726,
+        "name": "Tarkastad",
+        "seoname": "tarkastad-451928"
+    },
+    {
+        "id_location": 419738,
+        "id_location_parent": 419726,
+        "name": "Tabankulu",
+        "seoname": "tabankulu-451929"
+    },
+    {
+        "id_location": 419739,
+        "id_location_parent": 419726,
+        "name": "Stormberg",
+        "seoname": "stormberg-451930"
+    },
+    {
+        "id_location": 419740,
+        "id_location_parent": 419726,
+        "name": "Steytlerville",
+        "seoname": "steytlerville-451931"
+    },
+    {
+        "id_location": 419741,
+        "id_location_parent": 419726,
+        "name": "Steynsburg",
+        "seoname": "steynsburg-451932"
+    },
+    {
+        "id_location": 419742,
+        "id_location_parent": 419726,
+        "name": "Sterkstroom",
+        "seoname": "sterkstroom-451933"
+    },
+    {
+        "id_location": 419743,
+        "id_location_parent": 419726,
+        "name": "Sithangameni",
+        "seoname": "sithangameni-451934"
+    },
+    {
+        "id_location": 419744,
+        "id_location_parent": 419726,
+        "name": "Sidwadweni",
+        "seoname": "sidwadweni-451935"
+    },
+    {
+        "id_location": 419745,
+        "id_location_parent": 419726,
+        "name": "Sheshegu",
+        "seoname": "sheshegu-451936"
+    },
+    {
+        "id_location": 419746,
+        "id_location_parent": 419726,
+        "name": "Seymour",
+        "seoname": "seymour-451937"
+    },
+    {
+        "id_location": 419747,
+        "id_location_parent": 419726,
+        "name": "Rossouw",
+        "seoname": "rossouw-451938"
+    },
+    {
+        "id_location": 419748,
+        "id_location_parent": 419726,
+        "name": "Rietbron",
+        "seoname": "rietbron-451939"
+    },
+    {
+        "id_location": 419749,
+        "id_location_parent": 419726,
+        "name": "Redoubt",
+        "seoname": "redoubt-451940"
+    },
+    {
+        "id_location": 419750,
+        "id_location_parent": 419726,
+        "name": "Qumbu",
+        "seoname": "qumbu-451941"
+    },
+    {
+        "id_location": 419751,
+        "id_location_parent": 419726,
+        "name": "Qolora",
+        "seoname": "qolora-451942"
+    },
+    {
+        "id_location": 419752,
+        "id_location_parent": 419726,
+        "name": "Qitsi",
+        "seoname": "qitsi-451943"
+    },
+    {
+        "id_location": 419753,
+        "id_location_parent": 419726,
+        "name": "Qamata",
+        "seoname": "qamata-451944"
+    },
+    {
+        "id_location": 419754,
+        "id_location_parent": 419726,
+        "name": "Peddie",
+        "seoname": "peddie-451945"
+    },
+    {
+        "id_location": 419755,
+        "id_location_parent": 419726,
+        "name": "Pearston",
+        "seoname": "pearston-451946"
+    },
+    {
+        "id_location": 419756,
+        "id_location_parent": 419726,
+        "name": "Paterson",
+        "seoname": "paterson-451947"
+    },
+    {
+        "id_location": 419757,
+        "id_location_parent": 419726,
+        "name": "Patensie",
+        "seoname": "patensie-451948"
+    },
+    {
+        "id_location": 419758,
+        "id_location_parent": 419726,
+        "name": "Onder-Smoordrif",
+        "seoname": "onder-smoordrif-451949"
+    },
+    {
+        "id_location": 419759,
+        "id_location_parent": 419726,
+        "name": "Oesterbaai",
+        "seoname": "oesterbaai-451950"
+    },
+    {
+        "id_location": 419760,
+        "id_location_parent": 419726,
+        "name": "Ntsimbini",
+        "seoname": "ntsimbini-451951"
+    },
+    {
+        "id_location": 419761,
+        "id_location_parent": 419726,
+        "name": "Nqamakwe",
+        "seoname": "nqamakwe-451952"
+    },
+    {
+        "id_location": 419762,
+        "id_location_parent": 419726,
+        "name": "Nqadu",
+        "seoname": "nqadu-451953"
+    },
+    {
+        "id_location": 419763,
+        "id_location_parent": 419726,
+        "name": "Ngwane",
+        "seoname": "ngwane-451954"
+    },
+    {
+        "id_location": 419764,
+        "id_location_parent": 419726,
+        "name": "Ngqeleni",
+        "seoname": "ngqeleni-451955"
+    },
+    {
+        "id_location": 419765,
+        "id_location_parent": 419726,
+        "name": "New Brighton",
+        "seoname": "new-brighton-451956"
+    },
+    {
+        "id_location": 419766,
+        "id_location_parent": 419726,
+        "name": "Ncora",
+        "seoname": "ncora-451957"
+    },
+    {
+        "id_location": 419767,
+        "id_location_parent": 419726,
+        "name": "Mqanduli",
+        "seoname": "mqanduli-451958"
+    },
+    {
+        "id_location": 419768,
+        "id_location_parent": 419726,
+        "name": "Mount Frere",
+        "seoname": "mount-frere-451959"
+    },
+    {
+        "id_location": 419769,
+        "id_location_parent": 419726,
+        "name": "Mount Ayliff",
+        "seoname": "mount-ayliff-451960"
+    },
+    {
+        "id_location": 419770,
+        "id_location_parent": 419726,
+        "name": "Mncotsho",
+        "seoname": "mncotsho-451961"
+    },
+    {
+        "id_location": 419771,
+        "id_location_parent": 419726,
+        "name": "Mnceba",
+        "seoname": "mnceba-451962"
+    },
+    {
+        "id_location": 419772,
+        "id_location_parent": 419726,
+        "name": "Mjanyana",
+        "seoname": "mjanyana-451963"
+    },
+    {
+        "id_location": 419773,
+        "id_location_parent": 419726,
+        "name": "Middleton",
+        "seoname": "middleton-451964"
+    },
+    {
+        "id_location": 419774,
+        "id_location_parent": 419726,
+        "name": "Middledrift",
+        "seoname": "middledrift-451965"
+    },
+    {
+        "id_location": 419775,
+        "id_location_parent": 419726,
+        "name": "Mgwalana",
+        "seoname": "mgwalana-451966"
+    },
+    {
+        "id_location": 419776,
+        "id_location_parent": 419726,
+        "name": "Mgojweni",
+        "seoname": "mgojweni-451967"
+    },
+    {
+        "id_location": 419777,
+        "id_location_parent": 419726,
+        "name": "Mdantsane",
+        "seoname": "mdantsane-451968"
+    },
+    {
+        "id_location": 419778,
+        "id_location_parent": 419726,
+        "name": "Masincedane",
+        "seoname": "masincedane-451969"
+    },
+    {
+        "id_location": 419779,
+        "id_location_parent": 419726,
+        "name": "Mahlungulu",
+        "seoname": "mahlungulu-451970"
+    },
+    {
+        "id_location": 419780,
+        "id_location_parent": 419726,
+        "name": "Maclear",
+        "seoname": "maclear-451971"
+    },
+    {
+        "id_location": 419781,
+        "id_location_parent": 419726,
+        "name": "Macleantown",
+        "seoname": "macleantown-451972"
+    },
+    {
+        "id_location": 419782,
+        "id_location_parent": 419726,
+        "name": "Lusikisiki",
+        "seoname": "lusikisiki-451973"
+    },
+    {
+        "id_location": 419783,
+        "id_location_parent": 419726,
+        "name": "Louterwater",
+        "seoname": "louterwater-451974"
+    },
+    {
+        "id_location": 419784,
+        "id_location_parent": 419726,
+        "name": "Loerie",
+        "seoname": "loerie-451975"
+    },
+    {
+        "id_location": 419785,
+        "id_location_parent": 419726,
+        "name": "Libode",
+        "seoname": "libode-451976"
+    },
+    {
+        "id_location": 419786,
+        "id_location_parent": 419726,
+        "name": "Lanti",
+        "seoname": "lanti-451977"
+    },
+    {
+        "id_location": 419787,
+        "id_location_parent": 419726,
+        "name": "Kwanyana",
+        "seoname": "kwanyana-451978"
+    },
+    {
+        "id_location": 419788,
+        "id_location_parent": 419726,
+        "name": "KwaNobuhle",
+        "seoname": "kwanobuhle-451979"
+    },
+    {
+        "id_location": 419789,
+        "id_location_parent": 419726,
+        "name": "Krakeelrivier",
+        "seoname": "krakeelrivier-451980"
+    },
+    {
+        "id_location": 419790,
+        "id_location_parent": 419726,
+        "name": "Komga",
+        "seoname": "komga-451981"
+    },
+    {
+        "id_location": 419791,
+        "id_location_parent": 419726,
+        "name": "Klipplaat",
+        "seoname": "klipplaat-451982"
+    },
+    {
+        "id_location": 419792,
+        "id_location_parent": 419726,
+        "name": "Kleinpoort",
+        "seoname": "kleinpoort-451983"
+    },
+    {
+        "id_location": 419793,
+        "id_location_parent": 419726,
+        "name": "King William\u2019s Town",
+        "seoname": "king-williams-town-451984"
+    },
+    {
+        "id_location": 419794,
+        "id_location_parent": 419726,
+        "name": "Kenton on Sea",
+        "seoname": "kenton-on-sea-451985"
+    },
+    {
+        "id_location": 419795,
+        "id_location_parent": 419726,
+        "name": "Kentani",
+        "seoname": "kentani-451986"
+    },
+    {
+        "id_location": 419796,
+        "id_location_parent": 419726,
+        "name": "Keiskammahoek",
+        "seoname": "keiskammahoek-451987"
+    },
+    {
+        "id_location": 419797,
+        "id_location_parent": 419726,
+        "name": "Kei Road",
+        "seoname": "kei-road-451988"
+    },
+    {
+        "id_location": 419798,
+        "id_location_parent": 419726,
+        "name": "Kareedouw",
+        "seoname": "kareedouw-451989"
+    },
+    {
+        "id_location": 419799,
+        "id_location_parent": 419726,
+        "name": "Kamastone",
+        "seoname": "kamastone-451990"
+    },
+    {
+        "id_location": 419800,
+        "id_location_parent": 419726,
+        "name": "Joubertina",
+        "seoname": "joubertina-451991"
+    },
+    {
+        "id_location": 419801,
+        "id_location_parent": 419726,
+        "name": "Jeffreys Bay",
+        "seoname": "jeffreys-bay-451992"
+    },
+    {
+        "id_location": 419802,
+        "id_location_parent": 419726,
+        "name": "Jansenville",
+        "seoname": "jansenville-451993"
+    },
+    {
+        "id_location": 419803,
+        "id_location_parent": 419726,
+        "name": "Indwe",
+        "seoname": "indwe-451994"
+    },
+    {
+        "id_location": 419804,
+        "id_location_parent": 419726,
+        "name": "Idutywa",
+        "seoname": "idutywa-451995"
+    },
+    {
+        "id_location": 419805,
+        "id_location_parent": 419726,
+        "name": "Ida",
+        "seoname": "ida-451996"
+    },
+    {
+        "id_location": 419806,
+        "id_location_parent": 419726,
+        "name": "Humansdorp",
+        "seoname": "humansdorp-451997"
+    },
+    {
+        "id_location": 419807,
+        "id_location_parent": 419726,
+        "name": "Hogsback",
+        "seoname": "hogsback-451998"
+    },
+    {
+        "id_location": 419808,
+        "id_location_parent": 419726,
+        "name": "Hofmeyr",
+        "seoname": "hofmeyr-451999"
+    },
+    {
+        "id_location": 419809,
+        "id_location_parent": 419726,
+        "name": "Hankey",
+        "seoname": "hankey-452000"
+    },
+    {
+        "id_location": 419810,
+        "id_location_parent": 419726,
+        "name": "Hamburg",
+        "seoname": "hamburg-452001"
+    },
+    {
+        "id_location": 419811,
+        "id_location_parent": 419726,
+        "name": "Halseton",
+        "seoname": "halseton-452002"
+    },
+    {
+        "id_location": 419812,
+        "id_location_parent": 419726,
+        "name": "Hackney",
+        "seoname": "hackney-452003"
+    },
+    {
+        "id_location": 419813,
+        "id_location_parent": 419726,
+        "name": "Gonubie",
+        "seoname": "gonubie-452004"
+    },
+    {
+        "id_location": 419814,
+        "id_location_parent": 419726,
+        "name": "Gelvandale",
+        "seoname": "gelvandale-452005"
+    },
+    {
+        "id_location": 419815,
+        "id_location_parent": 419726,
+        "name": "Fort Murray",
+        "seoname": "fort-murray-452006"
+    },
+    {
+        "id_location": 419816,
+        "id_location_parent": 419726,
+        "name": "Flagstaff",
+        "seoname": "flagstaff-452007"
+    },
+    {
+        "id_location": 419817,
+        "id_location_parent": 419726,
+        "name": "Engcobo",
+        "seoname": "engcobo-452008"
+    },
+    {
+        "id_location": 419818,
+        "id_location_parent": 419726,
+        "name": "Elliotdale",
+        "seoname": "elliotdale-452009"
+    },
+    {
+        "id_location": 419819,
+        "id_location_parent": 419726,
+        "name": "Elliot",
+        "seoname": "elliot-452010"
+    },
+    {
+        "id_location": 419820,
+        "id_location_parent": 419726,
+        "name": "Despatch",
+        "seoname": "despatch-452011"
+    },
+    {
+        "id_location": 419821,
+        "id_location_parent": 419726,
+        "name": "Debe Nek",
+        "seoname": "debe-nek-452012"
+    },
+    {
+        "id_location": 419822,
+        "id_location_parent": 419726,
+        "name": "Cookhouse",
+        "seoname": "cookhouse-452013"
+    },
+    {
+        "id_location": 419823,
+        "id_location_parent": 419726,
+        "name": "Cofimvaba",
+        "seoname": "cofimvaba-452014"
+    },
+    {
+        "id_location": 419824,
+        "id_location_parent": 419726,
+        "name": "Coega",
+        "seoname": "coega-452015"
+    },
+    {
+        "id_location": 419825,
+        "id_location_parent": 419726,
+        "name": "Clarkebury",
+        "seoname": "clarkebury-452016"
+    },
+    {
+        "id_location": 419826,
+        "id_location_parent": 419726,
+        "name": "Cathcart",
+        "seoname": "cathcart-452017"
+    },
+    {
+        "id_location": 419827,
+        "id_location_parent": 419726,
+        "name": "Cala",
+        "seoname": "cala-452018"
+    },
+    {
+        "id_location": 419828,
+        "id_location_parent": 419726,
+        "name": "Bongweni",
+        "seoname": "bongweni-452019"
+    },
+    {
+        "id_location": 419829,
+        "id_location_parent": 419726,
+        "name": "Bolotwa",
+        "seoname": "bolotwa-452020"
+    },
+    {
+        "id_location": 419830,
+        "id_location_parent": 419726,
+        "name": "Boesmansriviermond",
+        "seoname": "boesmansriviermond-452021"
+    },
+    {
+        "id_location": 419831,
+        "id_location_parent": 419726,
+        "name": "Bizana",
+        "seoname": "bizana-452022"
+    },
+    {
+        "id_location": 419832,
+        "id_location_parent": 419726,
+        "name": "Bethelsdorp",
+        "seoname": "bethelsdorp-452023"
+    },
+    {
+        "id_location": 419833,
+        "id_location_parent": 419726,
+        "name": "Berlin",
+        "seoname": "berlin-452024"
+    },
+    {
+        "id_location": 419834,
+        "id_location_parent": 419726,
+        "name": "Bedford",
+        "seoname": "bedford-452025"
+    },
+    {
+        "id_location": 419835,
+        "id_location_parent": 419726,
+        "name": "Bathurst",
+        "seoname": "bathurst-452026"
+    },
+    {
+        "id_location": 419836,
+        "id_location_parent": 419726,
+        "name": "Askeaton",
+        "seoname": "askeaton-452027"
+    },
+    {
+        "id_location": 419837,
+        "id_location_parent": 419726,
+        "name": "Alicedale",
+        "seoname": "alicedale-452028"
+    },
+    {
+        "id_location": 419838,
+        "id_location_parent": 419726,
+        "name": "Alexandria",
+        "seoname": "alexandria-452029"
+    },
+    {
+        "id_location": 419839,
+        "id_location_parent": 419726,
+        "name": "Adendorp",
+        "seoname": "adendorp-452030"
+    },
+    {
+        "id_location": 419840,
+        "id_location_parent": 419726,
+        "name": "Addo",
+        "seoname": "addo-452031"
+    },
+    {
+        "id_location": 419841,
+        "id_location_parent": 419726,
+        "name": "Aberdeen",
+        "seoname": "aberdeen-452032"
+    },
+    {
+        "id_location": 419842,
+        "id_location_parent": 419726,
+        "name": "Bagqozini",
+        "seoname": "bagqozini-452033"
+    },
+    {
+        "id_location": 419843,
+        "id_location_parent": 419726,
+        "name": "Berlin South",
+        "seoname": "berlin-south-452034"
+    },
+    {
+        "id_location": 419844,
+        "id_location_parent": 419726,
+        "name": "Boardwalk",
+        "seoname": "boardwalk-452035"
+    },
+    {
+        "id_location": 419845,
+        "id_location_parent": 419726,
+        "name": "California",
+        "seoname": "california-452036"
+    },
+    {
+        "id_location": 419846,
+        "id_location_parent": 419726,
+        "name": "Cape St Francis",
+        "seoname": "cape-st-francis-452037"
+    },
+    {
+        "id_location": 419847,
+        "id_location_parent": 419726,
+        "name": "Cawood",
+        "seoname": "cawood-452038"
+    },
+    {
+        "id_location": 419848,
+        "id_location_parent": 419726,
+        "name": "Clarendon Marine",
+        "seoname": "clarendon-marine-452039"
+    },
+    {
+        "id_location": 419849,
+        "id_location_parent": 419726,
+        "name": "Colchester",
+        "seoname": "colchester-452040"
+    },
+    {
+        "id_location": 419850,
+        "id_location_parent": 419726,
+        "name": "Debenek",
+        "seoname": "debenek-452041"
+    },
+    {
+        "id_location": 419851,
+        "id_location_parent": 419726,
+        "name": "Dumabenshiya",
+        "seoname": "dumabenshiya-452042"
+    },
+    {
+        "id_location": 419852,
+        "id_location_parent": 419726,
+        "name": "Eastern Cape",
+        "seoname": "eastern-cape-452043"
+    },
+    {
+        "id_location": 419853,
+        "id_location_parent": 419726,
+        "name": "Estadeal",
+        "seoname": "estadeal-452044"
+    },
+    {
+        "id_location": 419854,
+        "id_location_parent": 419726,
+        "name": "Ezibeleni",
+        "seoname": "ezibeleni-452045"
+    },
+    {
+        "id_location": 419855,
+        "id_location_parent": 419726,
+        "name": "Gambleville",
+        "seoname": "gambleville-452046"
+    },
+    {
+        "id_location": 419856,
+        "id_location_parent": 419726,
+        "name": "Goodwin Park",
+        "seoname": "goodwin-park-452047"
+    },
+    {
+        "id_location": 419857,
+        "id_location_parent": 419726,
+        "name": "Gqebera",
+        "seoname": "gqebera-452048"
+    },
+    {
+        "id_location": 419858,
+        "id_location_parent": 419726,
+        "name": "Grahamstown North",
+        "seoname": "grahamstown-north-452049"
+    },
+    {
+        "id_location": 419859,
+        "id_location_parent": 419726,
+        "name": "Igoda",
+        "seoname": "igoda-452051"
+    },
+    {
+        "id_location": 419860,
+        "id_location_parent": 419726,
+        "name": "Jersey Valley",
+        "seoname": "jersey-valley-452052"
+    },
+    {
+        "id_location": 419861,
+        "id_location_parent": 419726,
+        "name": "Joe Slovo Camp",
+        "seoname": "joe-slovo-camp-452053"
+    },
+    {
+        "id_location": 419862,
+        "id_location_parent": 419726,
+        "name": "Kadwezi",
+        "seoname": "kadwezi-452054"
+    },
+    {
+        "id_location": 419863,
+        "id_location_parent": 419726,
+        "name": "Khayalethu",
+        "seoname": "khayalethu-452055"
+    },
+    {
+        "id_location": 419864,
+        "id_location_parent": 419726,
+        "name": "Khayelitsha",
+        "seoname": "khayelitsha-452056"
+    },
+    {
+        "id_location": 419865,
+        "id_location_parent": 419726,
+        "name": "Kommadagga",
+        "seoname": "kommadagga-452057"
+    },
+    {
+        "id_location": 419866,
+        "id_location_parent": 419726,
+        "name": "Kwazakhele",
+        "seoname": "kwazakhele-452058"
+    },
+    {
+        "id_location": 419867,
+        "id_location_parent": 419726,
+        "name": "Linton Grange",
+        "seoname": "linton-grange-452059"
+    },
+    {
+        "id_location": 419868,
+        "id_location_parent": 419726,
+        "name": "Long Hope",
+        "seoname": "long-hope-452060"
+    },
+    {
+        "id_location": 419869,
+        "id_location_parent": 419726,
+        "name": "Ludome",
+        "seoname": "ludome-452061"
+    },
+    {
+        "id_location": 419870,
+        "id_location_parent": 419726,
+        "name": "Mabaleni",
+        "seoname": "mabaleni-452062"
+    },
+    {
+        "id_location": 419871,
+        "id_location_parent": 419726,
+        "name": "Machibi",
+        "seoname": "machibi-452063"
+    },
+    {
+        "id_location": 419872,
+        "id_location_parent": 419726,
+        "name": "Makwantini",
+        "seoname": "makwantini-452064"
+    },
+    {
+        "id_location": 419873,
+        "id_location_parent": 419726,
+        "name": "Mbizana",
+        "seoname": "mbizana-452065"
+    },
+    {
+        "id_location": 419874,
+        "id_location_parent": 419726,
+        "name": "Mbolompeni",
+        "seoname": "mbolompeni-452066"
+    },
+    {
+        "id_location": 419875,
+        "id_location_parent": 419726,
+        "name": "Misgund",
+        "seoname": "misgund-452067"
+    },
+    {
+        "id_location": 419876,
+        "id_location_parent": 419726,
+        "name": "Moffat Place",
+        "seoname": "moffat-place-452068"
+    },
+    {
+        "id_location": 419877,
+        "id_location_parent": 419726,
+        "name": "Motherwell",
+        "seoname": "motherwell-452069"
+    },
+    {
+        "id_location": 419878,
+        "id_location_parent": 419726,
+        "name": "Msobomvu",
+        "seoname": "msobomvu-452070"
+    },
+    {
+        "id_location": 419879,
+        "id_location_parent": 419726,
+        "name": "Mthatha",
+        "seoname": "mthatha-452071"
+    },
+    {
+        "id_location": 419880,
+        "id_location_parent": 419726,
+        "name": "Ndabakazi",
+        "seoname": "ndabakazi-452072"
+    },
+    {
+        "id_location": 419881,
+        "id_location_parent": 419726,
+        "name": "Newton Park",
+        "seoname": "newton-park-452073"
+    },
+    {
+        "id_location": 419882,
+        "id_location_parent": 419726,
+        "name": "Ngcelwane",
+        "seoname": "ngcelwane-452074"
+    },
+    {
+        "id_location": 419883,
+        "id_location_parent": 419726,
+        "name": "Ngozi",
+        "seoname": "ngozi-452075"
+    },
+    {
+        "id_location": 419884,
+        "id_location_parent": 419726,
+        "name": "Ngxakaza",
+        "seoname": "ngxakaza-452076"
+    },
+    {
+        "id_location": 419885,
+        "id_location_parent": 419726,
+        "name": "Nomvalo",
+        "seoname": "nomvalo-452077"
+    },
+    {
+        "id_location": 419886,
+        "id_location_parent": 419726,
+        "name": "Nonkululeko",
+        "seoname": "nonkululeko-452078"
+    },
+    {
+        "id_location": 419887,
+        "id_location_parent": 419726,
+        "name": "Nonzwakazi",
+        "seoname": "nonzwakazi-452079"
+    },
+    {
+        "id_location": 419888,
+        "id_location_parent": 419726,
+        "name": "Noupoort",
+        "seoname": "noupoort-452080"
+    },
+    {
+        "id_location": 419889,
+        "id_location_parent": 419726,
+        "name": "Nqutyana",
+        "seoname": "nqutyana-452081"
+    },
+    {
+        "id_location": 419890,
+        "id_location_parent": 419726,
+        "name": "Ntabankulu",
+        "seoname": "ntabankulu-452082"
+    },
+    {
+        "id_location": 419891,
+        "id_location_parent": 419726,
+        "name": "Overbaakens",
+        "seoname": "overbaakens-452083"
+    },
+    {
+        "id_location": 419892,
+        "id_location_parent": 419726,
+        "name": "Phantsi Kwentaba",
+        "seoname": "phantsi-kwentaba-452084"
+    },
+    {
+        "id_location": 419893,
+        "id_location_parent": 419726,
+        "name": "Port St Johns",
+        "seoname": "port-st-johns-452085"
+    },
+    {
+        "id_location": 419894,
+        "id_location_parent": 419726,
+        "name": "Rabula",
+        "seoname": "rabula-452086"
+    },
+    {
+        "id_location": 419895,
+        "id_location_parent": 419726,
+        "name": "Saltville",
+        "seoname": "saltville-452087"
+    },
+    {
+        "id_location": 419896,
+        "id_location_parent": 419726,
+        "name": "Sandringham",
+        "seoname": "sandringham-452088"
+    },
+    {
+        "id_location": 419897,
+        "id_location_parent": 419726,
+        "name": "Sigingqini",
+        "seoname": "sigingqini-452089"
+    },
+    {
+        "id_location": 419898,
+        "id_location_parent": 419726,
+        "name": "Siphiwo Mazwayi",
+        "seoname": "siphiwo-mazwayi-452090"
+    },
+    {
+        "id_location": 419899,
+        "id_location_parent": 419726,
+        "name": "Sitofile",
+        "seoname": "sitofile-452091"
+    },
+    {
+        "id_location": 419900,
+        "id_location_parent": 419726,
+        "name": "South Seas",
+        "seoname": "south-seas-452092"
+    },
+    {
+        "id_location": 419901,
+        "id_location_parent": 419726,
+        "name": "St Francis Bay",
+        "seoname": "st-francis-bay-452093"
+    },
+    {
+        "id_location": 419902,
+        "id_location_parent": 419726,
+        "name": "Swartkops",
+        "seoname": "swartkops-452094"
+    },
+    {
+        "id_location": 419903,
+        "id_location_parent": 419726,
+        "name": "Thornhill",
+        "seoname": "thornhill-452095"
+    },
+    {
+        "id_location": 419904,
+        "id_location_parent": 419726,
+        "name": "Tshabo 1",
+        "seoname": "tshabo-1-452096"
+    },
+    {
+        "id_location": 419905,
+        "id_location_parent": 419726,
+        "name": "Tshabo 2",
+        "seoname": "tshabo-2-452097"
+    },
+    {
+        "id_location": 419906,
+        "id_location_parent": 419726,
+        "name": "Tshabo 3",
+        "seoname": "tshabo-3-452098"
+    },
+    {
+        "id_location": 419907,
+        "id_location_parent": 419726,
+        "name": "Tshonya",
+        "seoname": "tshonya-452099"
+    },
+    {
+        "id_location": 419908,
+        "id_location_parent": 419726,
+        "name": "Tyoksvalley",
+        "seoname": "tyoksvalley-452100"
+    },
+    {
+        "id_location": 419909,
+        "id_location_parent": 419726,
+        "name": "Vulindlela Heights",
+        "seoname": "vulindlela-heights-452101"
+    },
+    {
+        "id_location": 419910,
+        "id_location_parent": 419726,
+        "name": "Vulindlelahoogte",
+        "seoname": "vulindlelahoogte-452102"
+    },
+    {
+        "id_location": 419911,
+        "id_location_parent": 419726,
+        "name": "Walmer",
+        "seoname": "walmer-452103"
+    },
+    {
+        "id_location": 419912,
+        "id_location_parent": 419726,
+        "name": "Witmos",
+        "seoname": "witmos-452104"
+    },
+    {
+        "id_location": 419913,
+        "id_location_parent": 419726,
+        "name": "Zwide",
+        "seoname": "zwide-452105"
+    },
+    {
+        "id_location": 419914,
+        "id_location_parent": 419726,
+        "name": "Willowmore",
+        "seoname": "willowmore-452106"
+    },
+    {
+        "id_location": 419915,
+        "id_location_parent": 419726,
+        "name": "Dordrecht",
+        "seoname": "dordrecht-452107"
+    },
+    {
+        "id_location": 419916,
+        "id_location_parent": 419726,
+        "name": "Alice",
+        "seoname": "alice-452108"
+    },
+    {
+        "id_location": 419917,
+        "id_location_parent": 419726,
+        "name": "Molteno",
+        "seoname": "molteno-452109"
+    },
+    {
+        "id_location": 419918,
+        "id_location_parent": 419726,
+        "name": "Kirkwood",
+        "seoname": "kirkwood-452110"
+    },
+    {
+        "id_location": 419919,
+        "id_location_parent": 419726,
+        "name": "Whittlesea",
+        "seoname": "whittlesea-452111"
+    },
+    {
+        "id_location": 419920,
+        "id_location_parent": 419726,
+        "name": "Adelaide",
+        "seoname": "adelaide-452112"
+    },
+    {
+        "id_location": 419921,
+        "id_location_parent": 419726,
+        "name": "Somerset East",
+        "seoname": "somerset-east-452113"
+    },
+    {
+        "id_location": 419922,
+        "id_location_parent": 419726,
+        "name": "Port Alfred",
+        "seoname": "port-alfred-452114"
+    },
+    {
+        "id_location": 419923,
+        "id_location_parent": 419726,
+        "name": "Middelburg",
+        "seoname": "middelburg-452115"
+    },
+    {
+        "id_location": 419924,
+        "id_location_parent": 419726,
+        "name": "Lady Frere",
+        "seoname": "lady-frere-452116"
+    },
+    {
+        "id_location": 419925,
+        "id_location_parent": 419726,
+        "name": "Cradock",
+        "seoname": "cradock-452117"
+    },
+    {
+        "id_location": 419926,
+        "id_location_parent": 419726,
+        "name": "Butterworth",
+        "seoname": "butterworth-452118"
+    },
+    {
+        "id_location": 419927,
+        "id_location_parent": 419726,
+        "name": "Stutterheim",
+        "seoname": "stutterheim-452119"
+    },
+    {
+        "id_location": 419928,
+        "id_location_parent": 419726,
+        "name": "Fort Beaufort",
+        "seoname": "fort-beaufort-452120"
+    },
+    {
+        "id_location": 419929,
+        "id_location_parent": 419726,
+        "name": "Graaff-Reinet",
+        "seoname": "graaff-reinet-452121"
+    },
+    {
+        "id_location": 419930,
+        "id_location_parent": 419726,
+        "name": "Umtata",
+        "seoname": "umtata-452122"
+    },
+    {
+        "id_location": 419931,
+        "id_location_parent": 419726,
+        "name": "Grahamstown",
+        "seoname": "grahamstown-452123"
+    },
+    {
+        "id_location": 419932,
+        "id_location_parent": 419726,
+        "name": "Queenstown",
+        "seoname": "queenstown-452124"
+    },
+    {
+        "id_location": 419933,
+        "id_location_parent": 419726,
+        "name": "Bhisho",
+        "seoname": "bhisho-452125"
+    },
+    {
+        "id_location": 419934,
+        "id_location_parent": 419726,
+        "name": "Uitenhage",
+        "seoname": "uitenhage-452126"
+    },
+    {
+        "id_location": 419935,
+        "id_location_parent": 419726,
+        "name": "East London",
+        "seoname": "east-london-452127"
+    },
+    {
+        "id_location": 419936,
+        "id_location_parent": 419726,
+        "name": "Port Elizabeth",
+        "seoname": "port-elizabeth-452128"
+    },
+    {
+        "id_location": 419937,
+        "id_location_parent": 1,
+        "name": "Free State",
+        "seoname": "free-state-782118"
+    },
+    {
+        "id_location": 419938,
+        "id_location_parent": 419937,
+        "name": "Witsieshoek",
+        "seoname": "witsieshoek-452129"
+    },
+    {
+        "id_location": 419939,
+        "id_location_parent": 419937,
+        "name": "Wepener",
+        "seoname": "wepener-452130"
+    },
+    {
+        "id_location": 419940,
+        "id_location_parent": 419937,
+        "name": "Warden",
+        "seoname": "warden-452131"
+    },
+    {
+        "id_location": 419941,
+        "id_location_parent": 419937,
+        "name": "Vierfontein",
+        "seoname": "vierfontein-452132"
+    },
+    {
+        "id_location": 419942,
+        "id_location_parent": 419937,
+        "name": "Verkeerdevlei",
+        "seoname": "verkeerdevlei-452133"
+    },
+    {
+        "id_location": 419943,
+        "id_location_parent": 419937,
+        "name": "Tweespruit",
+        "seoname": "tweespruit-452134"
+    },
+    {
+        "id_location": 419944,
+        "id_location_parent": 419937,
+        "name": "Tweeling",
+        "seoname": "tweeling-452135"
+    },
+    {
+        "id_location": 419945,
+        "id_location_parent": 419937,
+        "name": "Trompsburg",
+        "seoname": "trompsburg-452136"
+    },
+    {
+        "id_location": 419946,
+        "id_location_parent": 419937,
+        "name": "Thaba Phatshawa",
+        "seoname": "thaba-phatshawa-452137"
+    },
+    {
+        "id_location": 419947,
+        "id_location_parent": 419937,
+        "name": "Steynsrus",
+        "seoname": "steynsrus-452138"
+    },
+    {
+        "id_location": 419948,
+        "id_location_parent": 419937,
+        "name": "Springfontein",
+        "seoname": "springfontein-452139"
+    },
+    {
+        "id_location": 419949,
+        "id_location_parent": 419937,
+        "name": "Steunmekaar",
+        "seoname": "steunmekaar-452140"
+    },
+    {
+        "id_location": 419950,
+        "id_location_parent": 419937,
+        "name": "Smithfield",
+        "seoname": "smithfield-452141"
+    },
+    {
+        "id_location": 419951,
+        "id_location_parent": 419937,
+        "name": "Rouxville",
+        "seoname": "rouxville-452142"
+    },
+    {
+        "id_location": 419952,
+        "id_location_parent": 419937,
+        "name": "Rosendal",
+        "seoname": "rosendal-452143"
+    },
+    {
+        "id_location": 419953,
+        "id_location_parent": 419937,
+        "name": "Reddersburg",
+        "seoname": "reddersburg-452144"
+    },
+    {
+        "id_location": 419954,
+        "id_location_parent": 419937,
+        "name": "Philippolis",
+        "seoname": "philippolis-452145"
+    },
+    {
+        "id_location": 419955,
+        "id_location_parent": 419937,
+        "name": "Petrus Steyn",
+        "seoname": "petrus-steyn-452146"
+    },
+    {
+        "id_location": 419956,
+        "id_location_parent": 419937,
+        "name": "Petrusburg",
+        "seoname": "petrusburg-452147"
+    },
+    {
+        "id_location": 419957,
+        "id_location_parent": 419937,
+        "name": "Paul Roux",
+        "seoname": "paul-roux-452148"
+    },
+    {
+        "id_location": 419958,
+        "id_location_parent": 419937,
+        "name": "Palmietfontein",
+        "seoname": "palmietfontein-452149"
+    },
+    {
+        "id_location": 419959,
+        "id_location_parent": 419937,
+        "name": "Oranjeville",
+        "seoname": "oranjeville-452150"
+    },
+    {
+        "id_location": 419960,
+        "id_location_parent": 419937,
+        "name": "Odendaalsrus",
+        "seoname": "odendaalsrus-452151"
+    },
+    {
+        "id_location": 419961,
+        "id_location_parent": 419937,
+        "name": "Marseilles",
+        "seoname": "marseilles-452152"
+    },
+    {
+        "id_location": 419962,
+        "id_location_parent": 419937,
+        "name": "Luckhoff",
+        "seoname": "luckhoff-452153"
+    },
+    {
+        "id_location": 419963,
+        "id_location_parent": 419937,
+        "name": "Lindley",
+        "seoname": "lindley-452154"
+    },
+    {
+        "id_location": 419964,
+        "id_location_parent": 419937,
+        "name": "Koffiefontein",
+        "seoname": "koffiefontein-452155"
+    },
+    {
+        "id_location": 419965,
+        "id_location_parent": 419937,
+        "name": "Kestell",
+        "seoname": "kestell-452156"
+    },
+    {
+        "id_location": 419966,
+        "id_location_parent": 419937,
+        "name": "Jagersfontein",
+        "seoname": "jagersfontein-452157"
+    },
+    {
+        "id_location": 419967,
+        "id_location_parent": 419937,
+        "name": "Hobhouse",
+        "seoname": "hobhouse-452158"
+    },
+    {
+        "id_location": 419968,
+        "id_location_parent": 419937,
+        "name": "Hertzogville",
+        "seoname": "hertzogville-452159"
+    },
+    {
+        "id_location": 419969,
+        "id_location_parent": 419937,
+        "name": "Fouriesburg",
+        "seoname": "fouriesburg-452160"
+    },
+    {
+        "id_location": 419970,
+        "id_location_parent": 419937,
+        "name": "Ficksburg",
+        "seoname": "ficksburg-452161"
+    },
+    {
+        "id_location": 419971,
+        "id_location_parent": 419937,
+        "name": "Fauresmith",
+        "seoname": "fauresmith-452162"
+    },
+    {
+        "id_location": 419972,
+        "id_location_parent": 419937,
+        "name": "Excelsior",
+        "seoname": "excelsior-452163"
+    },
+    {
+        "id_location": 419973,
+        "id_location_parent": 419937,
+        "name": "Edenville",
+        "seoname": "edenville-452164"
+    },
+    {
+        "id_location": 419974,
+        "id_location_parent": 419937,
+        "name": "Edenburg",
+        "seoname": "edenburg-452165"
+    },
+    {
+        "id_location": 419975,
+        "id_location_parent": 419937,
+        "name": "Dewetsdorp",
+        "seoname": "dewetsdorp-452166"
+    },
+    {
+        "id_location": 419976,
+        "id_location_parent": 419937,
+        "name": "Dealesville",
+        "seoname": "dealesville-452167"
+    },
+    {
+        "id_location": 419977,
+        "id_location_parent": 419937,
+        "name": "Cornelia",
+        "seoname": "cornelia-452168"
+    },
+    {
+        "id_location": 419978,
+        "id_location_parent": 419937,
+        "name": "Clarens",
+        "seoname": "clarens-452169"
+    },
+    {
+        "id_location": 419979,
+        "id_location_parent": 419937,
+        "name": "Bultfontein",
+        "seoname": "bultfontein-452170"
+    },
+    {
+        "id_location": 419980,
+        "id_location_parent": 419937,
+        "name": "Botshabelo",
+        "seoname": "botshabelo-452171"
+    },
+    {
+        "id_location": 419981,
+        "id_location_parent": 419937,
+        "name": "Bloemspruit",
+        "seoname": "bloemspruit-452172"
+    },
+    {
+        "id_location": 419982,
+        "id_location_parent": 419937,
+        "name": "Bethulie",
+        "seoname": "bethulie-452173"
+    },
+    {
+        "id_location": 419983,
+        "id_location_parent": 419937,
+        "name": "Arlington",
+        "seoname": "arlington-452174"
+    },
+    {
+        "id_location": 419984,
+        "id_location_parent": 419937,
+        "name": "Aliwal North",
+        "seoname": "aliwal-north-452175"
+    },
+    {
+        "id_location": 419985,
+        "id_location_parent": 419937,
+        "name": "Bambanani",
+        "seoname": "bambanani-452177"
+    },
+    {
+        "id_location": 419986,
+        "id_location_parent": 419937,
+        "name": "Barkly East",
+        "seoname": "barkly-east-452178"
+    },
+    {
+        "id_location": 419987,
+        "id_location_parent": 419937,
+        "name": "Bensonvale",
+        "seoname": "bensonvale-452179"
+    },
+    {
+        "id_location": 419988,
+        "id_location_parent": 419937,
+        "name": "Blikana",
+        "seoname": "blikana-452180"
+    },
+    {
+        "id_location": 419989,
+        "id_location_parent": 419937,
+        "name": "Bohlokong",
+        "seoname": "bohlokong-452181"
+    },
+    {
+        "id_location": 419990,
+        "id_location_parent": 419937,
+        "name": "Burgersdorp",
+        "seoname": "burgersdorp-452182"
+    },
+    {
+        "id_location": 419991,
+        "id_location_parent": 419937,
+        "name": "Colesberg",
+        "seoname": "colesberg-452183"
+    },
+    {
+        "id_location": 419992,
+        "id_location_parent": 419937,
+        "name": "Coville",
+        "seoname": "coville-452184"
+    },
+    {
+        "id_location": 419993,
+        "id_location_parent": 419937,
+        "name": "Dikgakeng",
+        "seoname": "dikgakeng-452185"
+    },
+    {
+        "id_location": 419994,
+        "id_location_parent": 419937,
+        "name": "Diqhobong",
+        "seoname": "diqhobong-452186"
+    },
+    {
+        "id_location": 419995,
+        "id_location_parent": 419937,
+        "name": "Dulcies Nek",
+        "seoname": "dulcies-nek-452187"
+    },
+    {
+        "id_location": 419996,
+        "id_location_parent": 419937,
+        "name": "Falckvlei",
+        "seoname": "falckvlei-452188"
+    },
+    {
+        "id_location": 419997,
+        "id_location_parent": 419937,
+        "name": "Free State",
+        "seoname": "free-state-452189"
+    },
+    {
+        "id_location": 419998,
+        "id_location_parent": 419937,
+        "name": "Ga-rapulana",
+        "seoname": "ga-rapulana-452190"
+    },
+    {
+        "id_location": 419999,
+        "id_location_parent": 419937,
+        "name": "Ga-sehunelo",
+        "seoname": "ga-sehunelo-452191"
+    },
+    {
+        "id_location": 420000,
+        "id_location_parent": 419937,
+        "name": "Geduldpan",
+        "seoname": "geduldpan-452192"
+    },
+    {
+        "id_location": 420001,
+        "id_location_parent": 419937,
+        "name": "Glen Harmony Central",
+        "seoname": "glen-harmony-central-452193"
+    },
+    {
+        "id_location": 420002,
+        "id_location_parent": 419937,
+        "name": "Herschel",
+        "seoname": "herschel-452194"
+    },
+    {
+        "id_location": 420003,
+        "id_location_parent": 419937,
+        "name": "Hoita",
+        "seoname": "hoita-452195"
+    },
+    {
+        "id_location": 420004,
+        "id_location_parent": 419937,
+        "name": "Intabazwe",
+        "seoname": "intabazwe-452196"
+    },
+    {
+        "id_location": 420005,
+        "id_location_parent": 419937,
+        "name": "Jamestown",
+        "seoname": "jamestown-452197"
+    },
+    {
+        "id_location": 420006,
+        "id_location_parent": 419937,
+        "name": "Jozannashoek",
+        "seoname": "jozannashoek-452198"
+    },
+    {
+        "id_location": 420007,
+        "id_location_parent": 419937,
+        "name": "Kagisanong",
+        "seoname": "kagisanong-452199"
+    },
+    {
+        "id_location": 420008,
+        "id_location_parent": 419937,
+        "name": "Knapdaar",
+        "seoname": "knapdaar-452200"
+    },
+    {
+        "id_location": 420009,
+        "id_location_parent": 419937,
+        "name": "Kroonpark",
+        "seoname": "kroonpark-452201"
+    },
+    {
+        "id_location": 420010,
+        "id_location_parent": 419937,
+        "name": "Kwandofela",
+        "seoname": "kwandofela-452202"
+    },
+    {
+        "id_location": 420011,
+        "id_location_parent": 419937,
+        "name": "Lady Grey",
+        "seoname": "lady-grey-452203"
+    },
+    {
+        "id_location": 420012,
+        "id_location_parent": 419937,
+        "name": "Lengau",
+        "seoname": "lengau-452204"
+    },
+    {
+        "id_location": 420013,
+        "id_location_parent": 419937,
+        "name": "Makaota",
+        "seoname": "makaota-452205"
+    },
+    {
+        "id_location": 420014,
+        "id_location_parent": 419937,
+        "name": "Makhalaneng",
+        "seoname": "makhalaneng-452206"
+    },
+    {
+        "id_location": 420015,
+        "id_location_parent": 419937,
+        "name": "Mangaung",
+        "seoname": "mangaung-452207"
+    },
+    {
+        "id_location": 420016,
+        "id_location_parent": 419937,
+        "name": "Mavelebayi",
+        "seoname": "mavelebayi-452209"
+    },
+    {
+        "id_location": 420017,
+        "id_location_parent": 419937,
+        "name": "Merafong",
+        "seoname": "merafong-452210"
+    },
+    {
+        "id_location": 420018,
+        "id_location_parent": 419937,
+        "name": "Mokodumela",
+        "seoname": "mokodumela-452211"
+    },
+    {
+        "id_location": 420019,
+        "id_location_parent": 419937,
+        "name": "Motsethabong",
+        "seoname": "motsethabong-452212"
+    },
+    {
+        "id_location": 420020,
+        "id_location_parent": 419937,
+        "name": "Phomolong",
+        "seoname": "phomolong-452213"
+    },
+    {
+        "id_location": 420021,
+        "id_location_parent": 419937,
+        "name": "Poelong",
+        "seoname": "poelong-452214"
+    },
+    {
+        "id_location": 420022,
+        "id_location_parent": 419937,
+        "name": "Quimera",
+        "seoname": "quimera-452215"
+    },
+    {
+        "id_location": 420023,
+        "id_location_parent": 419937,
+        "name": "Ramosili",
+        "seoname": "ramosili-452216"
+    },
+    {
+        "id_location": 420024,
+        "id_location_parent": 419937,
+        "name": "Rosskent",
+        "seoname": "rosskent-452217"
+    },
+    {
+        "id_location": 420025,
+        "id_location_parent": 419937,
+        "name": "Selosesha",
+        "seoname": "selosesha-452218"
+    },
+    {
+        "id_location": 420026,
+        "id_location_parent": 419937,
+        "name": "Sipambo Basin",
+        "seoname": "sipambo-basin-452219"
+    },
+    {
+        "id_location": 420027,
+        "id_location_parent": 419937,
+        "name": "Sterkspruit",
+        "seoname": "sterkspruit-452220"
+    },
+    {
+        "id_location": 420028,
+        "id_location_parent": 419937,
+        "name": "Steynpan",
+        "seoname": "steynpan-452221"
+    },
+    {
+        "id_location": 420029,
+        "id_location_parent": 419937,
+        "name": "Tele Bridge",
+        "seoname": "tele-bridge-452222"
+    },
+    {
+        "id_location": 420030,
+        "id_location_parent": 419937,
+        "name": "Teresa",
+        "seoname": "teresa-452223"
+    },
+    {
+        "id_location": 420031,
+        "id_location_parent": 419937,
+        "name": "Thabong East",
+        "seoname": "thabong-east-452224"
+    },
+    {
+        "id_location": 420032,
+        "id_location_parent": 419937,
+        "name": "Theronville",
+        "seoname": "theronville-452225"
+    },
+    {
+        "id_location": 420033,
+        "id_location_parent": 419937,
+        "name": "Tikwana",
+        "seoname": "tikwana-452226"
+    },
+    {
+        "id_location": 420034,
+        "id_location_parent": 419937,
+        "name": "Tyinindini",
+        "seoname": "tyinindini-452227"
+    },
+    {
+        "id_location": 420035,
+        "id_location_parent": 419937,
+        "name": "Venterstad",
+        "seoname": "venterstad-452228"
+    },
+    {
+        "id_location": 420036,
+        "id_location_parent": 419937,
+        "name": "Westminster",
+        "seoname": "westminster-452229"
+    },
+    {
+        "id_location": 420037,
+        "id_location_parent": 419937,
+        "name": "Wiegandia",
+        "seoname": "wiegandia-452230"
+    },
+    {
+        "id_location": 420038,
+        "id_location_parent": 419937,
+        "name": "Vredefort",
+        "seoname": "vredefort-452231"
+    },
+    {
+        "id_location": 420039,
+        "id_location_parent": 419937,
+        "name": "Ventersburg",
+        "seoname": "ventersburg-452232"
+    },
+    {
+        "id_location": 420040,
+        "id_location_parent": 419937,
+        "name": "Marquard",
+        "seoname": "marquard-452233"
+    },
+    {
+        "id_location": 420041,
+        "id_location_parent": 419937,
+        "name": "Winburg",
+        "seoname": "winburg-452234"
+    },
+    {
+        "id_location": 420042,
+        "id_location_parent": 419937,
+        "name": "Villiers",
+        "seoname": "villiers-452235"
+    },
+    {
+        "id_location": 420043,
+        "id_location_parent": 419937,
+        "name": "Koppies",
+        "seoname": "koppies-452236"
+    },
+    {
+        "id_location": 420044,
+        "id_location_parent": 419937,
+        "name": "Brandfort",
+        "seoname": "brandfort-452237"
+    },
+    {
+        "id_location": 420045,
+        "id_location_parent": 419937,
+        "name": "Clocolan",
+        "seoname": "clocolan-452238"
+    },
+    {
+        "id_location": 420046,
+        "id_location_parent": 419937,
+        "name": "Deneysville",
+        "seoname": "deneysville-452239"
+    },
+    {
+        "id_location": 420047,
+        "id_location_parent": 419937,
+        "name": "Zastron",
+        "seoname": "zastron-452240"
+    },
+    {
+        "id_location": 420048,
+        "id_location_parent": 419937,
+        "name": "Vrede",
+        "seoname": "vrede-452241"
+    },
+    {
+        "id_location": 420049,
+        "id_location_parent": 419937,
+        "name": "Reitz",
+        "seoname": "reitz-452242"
+    },
+    {
+        "id_location": 420050,
+        "id_location_parent": 419937,
+        "name": "Ladybrand",
+        "seoname": "ladybrand-452243"
+    },
+    {
+        "id_location": 420051,
+        "id_location_parent": 419937,
+        "name": "Hennenman",
+        "seoname": "hennenman-452244"
+    },
+    {
+        "id_location": 420052,
+        "id_location_parent": 419937,
+        "name": "Allanridge",
+        "seoname": "allanridge-452245"
+    },
+    {
+        "id_location": 420053,
+        "id_location_parent": 419937,
+        "name": "Theunissen",
+        "seoname": "theunissen-452246"
+    },
+    {
+        "id_location": 420054,
+        "id_location_parent": 419937,
+        "name": "Harrismith",
+        "seoname": "harrismith-452247"
+    },
+    {
+        "id_location": 420055,
+        "id_location_parent": 419937,
+        "name": "Frankfort",
+        "seoname": "frankfort-452248"
+    },
+    {
+        "id_location": 420056,
+        "id_location_parent": 419937,
+        "name": "Thaba Nchu",
+        "seoname": "thaba-nchu-452249"
+    },
+    {
+        "id_location": 420057,
+        "id_location_parent": 419937,
+        "name": "Senekal",
+        "seoname": "senekal-452250"
+    },
+    {
+        "id_location": 420058,
+        "id_location_parent": 419937,
+        "name": "Wesselsbron",
+        "seoname": "wesselsbron-452251"
+    },
+    {
+        "id_location": 420059,
+        "id_location_parent": 419937,
+        "name": "Viljoenskroon",
+        "seoname": "viljoenskroon-452252"
+    },
+    {
+        "id_location": 420060,
+        "id_location_parent": 419937,
+        "name": "Heilbron",
+        "seoname": "heilbron-452253"
+    },
+    {
+        "id_location": 420061,
+        "id_location_parent": 419937,
+        "name": "Parys",
+        "seoname": "parys-452254"
+    },
+    {
+        "id_location": 420062,
+        "id_location_parent": 419937,
+        "name": "Bothaville",
+        "seoname": "bothaville-452255"
+    },
+    {
+        "id_location": 420063,
+        "id_location_parent": 419937,
+        "name": "Sasolburg",
+        "seoname": "sasolburg-452256"
+    },
+    {
+        "id_location": 420064,
+        "id_location_parent": 419937,
+        "name": "Bethlehem",
+        "seoname": "bethlehem-452257"
+    },
+    {
+        "id_location": 420065,
+        "id_location_parent": 419937,
+        "name": "Phuthaditjhaba",
+        "seoname": "phuthaditjhaba-452258"
+    },
+    {
+        "id_location": 420066,
+        "id_location_parent": 419937,
+        "name": "Kroonstad",
+        "seoname": "kroonstad-452259"
+    },
+    {
+        "id_location": 420067,
+        "id_location_parent": 419937,
+        "name": "Virginia",
+        "seoname": "virginia-452260"
+    },
+    {
+        "id_location": 420068,
+        "id_location_parent": 419937,
+        "name": "Welkom",
+        "seoname": "welkom-452261"
+    },
+    {
+        "id_location": 420069,
+        "id_location_parent": 419937,
+        "name": "Bloemfontein",
+        "seoname": "bloemfontein-452262"
+    },
+    {
+        "id_location": 420070,
+        "id_location_parent": 1,
+        "name": "Gauteng",
+        "seoname": "gauteng-782119"
+    },
+    {
+        "id_location": 420071,
+        "id_location_parent": 420070,
+        "name": "Walkerville",
+        "seoname": "walkerville-452263"
+    },
+    {
+        "id_location": 420072,
+        "id_location_parent": 420070,
+        "name": "Springs",
+        "seoname": "springs-452264"
+    },
+    {
+        "id_location": 420073,
+        "id_location_parent": 420070,
+        "name": "Soshanguve",
+        "seoname": "soshanguve-452265"
+    },
+    {
+        "id_location": 420074,
+        "id_location_parent": 420070,
+        "name": "Sebokeng",
+        "seoname": "sebokeng-452266"
+    },
+    {
+        "id_location": 420075,
+        "id_location_parent": 420070,
+        "name": "Rosslyn",
+        "seoname": "rosslyn-452267"
+    },
+    {
+        "id_location": 420076,
+        "id_location_parent": 420070,
+        "name": "Roshnee",
+        "seoname": "roshnee-452268"
+    },
+    {
+        "id_location": 420077,
+        "id_location_parent": 420070,
+        "name": "Rivonia",
+        "seoname": "rivonia-452269"
+    },
+    {
+        "id_location": 420078,
+        "id_location_parent": 420070,
+        "name": "Randburg",
+        "seoname": "randburg-452270"
+    },
+    {
+        "id_location": 420079,
+        "id_location_parent": 420070,
+        "name": "Primrose",
+        "seoname": "primrose-452271"
+    },
+    {
+        "id_location": 420080,
+        "id_location_parent": 420070,
+        "name": "Muldersdrif",
+        "seoname": "muldersdrif-452272"
+    },
+    {
+        "id_location": 420081,
+        "id_location_parent": 420070,
+        "name": "Moroka",
+        "seoname": "moroka-452273"
+    },
+    {
+        "id_location": 420082,
+        "id_location_parent": 420070,
+        "name": "Mohlakeng",
+        "seoname": "mohlakeng-452274"
+    },
+    {
+        "id_location": 420083,
+        "id_location_parent": 420070,
+        "name": "Meyerton",
+        "seoname": "meyerton-452275"
+    },
+    {
+        "id_location": 420084,
+        "id_location_parent": 420070,
+        "name": "Mamelodi",
+        "seoname": "mamelodi-452276"
+    },
+    {
+        "id_location": 420085,
+        "id_location_parent": 420070,
+        "name": "Laudium",
+        "seoname": "laudium-452277"
+    },
+    {
+        "id_location": 420086,
+        "id_location_parent": 420070,
+        "name": "KwaThema",
+        "seoname": "kwathema-452278"
+    },
+    {
+        "id_location": 420087,
+        "id_location_parent": 420070,
+        "name": "Kromdraai",
+        "seoname": "kromdraai-452279"
+    },
+    {
+        "id_location": 420088,
+        "id_location_parent": 420070,
+        "name": "Kempton Park",
+        "seoname": "kempton-park-452280"
+    },
+    {
+        "id_location": 420089,
+        "id_location_parent": 420070,
+        "name": "Germiston",
+        "seoname": "germiston-452281"
+    },
+    {
+        "id_location": 420090,
+        "id_location_parent": 420070,
+        "name": "Edenvale",
+        "seoname": "edenvale-452282"
+    },
+    {
+        "id_location": 420091,
+        "id_location_parent": 420070,
+        "name": "Devon",
+        "seoname": "devon-452283"
+    },
+    {
+        "id_location": 420092,
+        "id_location_parent": 420070,
+        "name": "De Deur",
+        "seoname": "de-deur-452284"
+    },
+    {
+        "id_location": 420093,
+        "id_location_parent": 420070,
+        "name": "Bedfordview",
+        "seoname": "bedfordview-452285"
+    },
+    {
+        "id_location": 420094,
+        "id_location_parent": 420070,
+        "name": "Alberton",
+        "seoname": "alberton-452286"
+    },
+    {
+        "id_location": 420095,
+        "id_location_parent": 420070,
+        "name": "Pyramid",
+        "seoname": "pyramid-452287"
+    },
+    {
+        "id_location": 420096,
+        "id_location_parent": 420070,
+        "name": "Akasia",
+        "seoname": "akasia-452288"
+    },
+    {
+        "id_location": 420097,
+        "id_location_parent": 420070,
+        "name": "Ga-Rankuwa",
+        "seoname": "ga-rankuwa-452289"
+    },
+    {
+        "id_location": 420098,
+        "id_location_parent": 420070,
+        "name": "Graceland",
+        "seoname": "graceland-452290"
+    },
+    {
+        "id_location": 420099,
+        "id_location_parent": 420070,
+        "name": "Greenstone Hill",
+        "seoname": "greenstone-hill-452291"
+    },
+    {
+        "id_location": 420100,
+        "id_location_parent": 420070,
+        "name": "Jukskeipark",
+        "seoname": "jukskeipark-452292"
+    },
+    {
+        "id_location": 420101,
+        "id_location_parent": 420070,
+        "name": "Julies Park",
+        "seoname": "julies-park-452293"
+    },
+    {
+        "id_location": 420102,
+        "id_location_parent": 420070,
+        "name": "Kagiso",
+        "seoname": "kagiso-452294"
+    },
+    {
+        "id_location": 420103,
+        "id_location_parent": 420070,
+        "name": "Kempton Gate",
+        "seoname": "kempton-gate-452295"
+    },
+    {
+        "id_location": 420104,
+        "id_location_parent": 420070,
+        "name": "Klopperpark",
+        "seoname": "klopperpark-452296"
+    },
+    {
+        "id_location": 420105,
+        "id_location_parent": 420070,
+        "name": "Kocksvlei",
+        "seoname": "kocksvlei-452297"
+    },
+    {
+        "id_location": 420106,
+        "id_location_parent": 420070,
+        "name": "Koolfontein",
+        "seoname": "koolfontein-452298"
+    },
+    {
+        "id_location": 420107,
+        "id_location_parent": 420070,
+        "name": "Kragbron",
+        "seoname": "kragbron-452299"
+    },
+    {
+        "id_location": 420108,
+        "id_location_parent": 420070,
+        "name": "Kruinhof",
+        "seoname": "kruinhof-452300"
+    },
+    {
+        "id_location": 420109,
+        "id_location_parent": 420070,
+        "name": "Kwaxuma",
+        "seoname": "kwaxuma-452301"
+    },
+    {
+        "id_location": 420110,
+        "id_location_parent": 420070,
+        "name": "Lenasia Ntn Centre",
+        "seoname": "lenasia-ntn-centre-452302"
+    },
+    {
+        "id_location": 420111,
+        "id_location_parent": 420070,
+        "name": "Lindekuhle",
+        "seoname": "lindekuhle-452303"
+    },
+    {
+        "id_location": 420112,
+        "id_location_parent": 420070,
+        "name": "Lynn East",
+        "seoname": "lynn-east-452304"
+    },
+    {
+        "id_location": 420113,
+        "id_location_parent": 420070,
+        "name": "Mafatsana",
+        "seoname": "mafatsana-452305"
+    },
+    {
+        "id_location": 420114,
+        "id_location_parent": 420070,
+        "name": "Magalies View",
+        "seoname": "magalies-view-452306"
+    },
+    {
+        "id_location": 420115,
+        "id_location_parent": 420070,
+        "name": "Magalieskruin",
+        "seoname": "magalieskruin-452307"
+    },
+    {
+        "id_location": 420116,
+        "id_location_parent": 420070,
+        "name": "Marlboro",
+        "seoname": "marlboro-452308"
+    },
+    {
+        "id_location": 420117,
+        "id_location_parent": 420070,
+        "name": "Marshalltown",
+        "seoname": "marshalltown-452309"
+    },
+    {
+        "id_location": 420118,
+        "id_location_parent": 420070,
+        "name": "Masitshaba",
+        "seoname": "masitshaba-452310"
+    },
+    {
+        "id_location": 420119,
+        "id_location_parent": 420070,
+        "name": "Masoheng",
+        "seoname": "masoheng-452311"
+    },
+    {
+        "id_location": 420120,
+        "id_location_parent": 420070,
+        "name": "Medunsa",
+        "seoname": "medunsa-452312"
+    },
+    {
+        "id_location": 420121,
+        "id_location_parent": 420070,
+        "name": "Meldene",
+        "seoname": "meldene-452313"
+    },
+    {
+        "id_location": 420122,
+        "id_location_parent": 420070,
+        "name": "Midvaal",
+        "seoname": "midvaal-452314"
+    },
+    {
+        "id_location": 420123,
+        "id_location_parent": 420070,
+        "name": "Moiletswane",
+        "seoname": "moiletswane-452315"
+    },
+    {
+        "id_location": 420124,
+        "id_location_parent": 420070,
+        "name": "Montanapark",
+        "seoname": "montanapark-452316"
+    },
+    {
+        "id_location": 420125,
+        "id_location_parent": 420070,
+        "name": "Montpark",
+        "seoname": "montpark-452317"
+    },
+    {
+        "id_location": 420126,
+        "id_location_parent": 420070,
+        "name": "Moot",
+        "seoname": "moot-452318"
+    },
+    {
+        "id_location": 420127,
+        "id_location_parent": 420070,
+        "name": "Morula",
+        "seoname": "morula-452319"
+    },
+    {
+        "id_location": 420128,
+        "id_location_parent": 420070,
+        "name": "Northwold",
+        "seoname": "northwold-452320"
+    },
+    {
+        "id_location": 420129,
+        "id_location_parent": 420070,
+        "name": "Odin Park",
+        "seoname": "odin-park-452321"
+    },
+    {
+        "id_location": 420130,
+        "id_location_parent": 420070,
+        "name": "Orange Farm",
+        "seoname": "orange-farm-452322"
+    },
+    {
+        "id_location": 420131,
+        "id_location_parent": 420070,
+        "name": "Orange Grove",
+        "seoname": "orange-grove-452323"
+    },
+    {
+        "id_location": 420132,
+        "id_location_parent": 420070,
+        "name": "Panfontein",
+        "seoname": "panfontein-452324"
+    },
+    {
+        "id_location": 420133,
+        "id_location_parent": 420070,
+        "name": "Paulshof",
+        "seoname": "paulshof-452325"
+    },
+    {
+        "id_location": 420134,
+        "id_location_parent": 420070,
+        "name": "Philip Nel Park",
+        "seoname": "philip-nel-park-452326"
+    },
+    {
+        "id_location": 420135,
+        "id_location_parent": 420070,
+        "name": "Protea Gardens",
+        "seoname": "protea-gardens-452327"
+    },
+    {
+        "id_location": 420136,
+        "id_location_parent": 420070,
+        "name": "Protea Glen",
+        "seoname": "protea-glen-452328"
+    },
+    {
+        "id_location": 420137,
+        "id_location_parent": 420070,
+        "name": "Rabie Ridge",
+        "seoname": "rabie-ridge-452329"
+    },
+    {
+        "id_location": 420138,
+        "id_location_parent": 420070,
+        "name": "Randpark Ridge",
+        "seoname": "randpark-ridge-452330"
+    },
+    {
+        "id_location": 420139,
+        "id_location_parent": 420070,
+        "name": "Randvaal",
+        "seoname": "randvaal-452331"
+    },
+    {
+        "id_location": 420140,
+        "id_location_parent": 420070,
+        "name": "Residensia",
+        "seoname": "residensia-452332"
+    },
+    {
+        "id_location": 420141,
+        "id_location_parent": 420070,
+        "name": "Rietvallei Park",
+        "seoname": "rietvallei-park-452333"
+    },
+    {
+        "id_location": 420142,
+        "id_location_parent": 420070,
+        "name": "Riversands",
+        "seoname": "riversands-452334"
+    },
+    {
+        "id_location": 420143,
+        "id_location_parent": 420070,
+        "name": "Roodeplaat",
+        "seoname": "roodeplaat-452335"
+    },
+    {
+        "id_location": 420144,
+        "id_location_parent": 420070,
+        "name": "Roosevelt Park",
+        "seoname": "roosevelt-park-452336"
+    },
+    {
+        "id_location": 420145,
+        "id_location_parent": 420070,
+        "name": "Sasolburg",
+        "seoname": "sasolburg-452337"
+    },
+    {
+        "id_location": 420146,
+        "id_location_parent": 420070,
+        "name": "Tamboville",
+        "seoname": "tamboville-452338"
+    },
+    {
+        "id_location": 420147,
+        "id_location_parent": 420070,
+        "name": "Vaaldam",
+        "seoname": "vaaldam-452339"
+    },
+    {
+        "id_location": 420148,
+        "id_location_parent": 420070,
+        "name": "ZZ TBA",
+        "seoname": "zz-tba-452340"
+    },
+    {
+        "id_location": 420149,
+        "id_location_parent": 420070,
+        "name": "Modderfontein",
+        "seoname": "modderfontein-452341"
+    },
+    {
+        "id_location": 420150,
+        "id_location_parent": 420070,
+        "name": "Sandton",
+        "seoname": "sandton-452342"
+    },
+    {
+        "id_location": 420151,
+        "id_location_parent": 420070,
+        "name": "Cullinan",
+        "seoname": "cullinan-452343"
+    },
+    {
+        "id_location": 420152,
+        "id_location_parent": 420070,
+        "name": "Bronkhorstspruit",
+        "seoname": "bronkhorstspruit-452344"
+    },
+    {
+        "id_location": 420153,
+        "id_location_parent": 420070,
+        "name": "Heidelberg",
+        "seoname": "heidelberg-452345"
+    },
+    {
+        "id_location": 420154,
+        "id_location_parent": 420070,
+        "name": "Mabopane",
+        "seoname": "mabopane-452346"
+    },
+    {
+        "id_location": 420155,
+        "id_location_parent": 420070,
+        "name": "Randfontein",
+        "seoname": "randfontein-452347"
+    },
+    {
+        "id_location": 420156,
+        "id_location_parent": 420070,
+        "name": "Nigel",
+        "seoname": "nigel-452348"
+    },
+    {
+        "id_location": 420157,
+        "id_location_parent": 420070,
+        "name": "Westonaria",
+        "seoname": "westonaria-452349"
+    },
+    {
+        "id_location": 420158,
+        "id_location_parent": 420070,
+        "name": "Midrand",
+        "seoname": "midrand-452350"
+    },
+    {
+        "id_location": 420159,
+        "id_location_parent": 420070,
+        "name": "Roodepoort",
+        "seoname": "roodepoort-452351"
+    },
+    {
+        "id_location": 420160,
+        "id_location_parent": 420070,
+        "name": "Centurion",
+        "seoname": "centurion-452352"
+    },
+    {
+        "id_location": 420161,
+        "id_location_parent": 420070,
+        "name": "Vanderbijlpark",
+        "seoname": "vanderbijlpark-452353"
+    },
+    {
+        "id_location": 420162,
+        "id_location_parent": 420070,
+        "name": "Brakpan",
+        "seoname": "brakpan-452354"
+    },
+    {
+        "id_location": 420163,
+        "id_location_parent": 420070,
+        "name": "Krugersdorp",
+        "seoname": "krugersdorp-452355"
+    },
+    {
+        "id_location": 420164,
+        "id_location_parent": 420070,
+        "name": "Boksburg",
+        "seoname": "boksburg-452356"
+    },
+    {
+        "id_location": 420165,
+        "id_location_parent": 420070,
+        "name": "Vereeniging",
+        "seoname": "vereeniging-452357"
+    },
+    {
+        "id_location": 420166,
+        "id_location_parent": 420070,
+        "name": "Tembisa",
+        "seoname": "tembisa-452358"
+    },
+    {
+        "id_location": 420167,
+        "id_location_parent": 420070,
+        "name": "Benoni",
+        "seoname": "benoni-452359"
+    },
+    {
+        "id_location": 420168,
+        "id_location_parent": 420070,
+        "name": "Pretoria",
+        "seoname": "pretoria-452360"
+    },
+    {
+        "id_location": 420169,
+        "id_location_parent": 420070,
+        "name": "Soweto",
+        "seoname": "soweto-452361"
+    },
+    {
+        "id_location": 420170,
+        "id_location_parent": 420070,
+        "name": "Johannesburg",
+        "seoname": "johannesburg-452362"
+    },
+    {
+        "id_location": 420171,
+        "id_location_parent": 1,
+        "name": "KwaZulu-Natal",
+        "seoname": "kwazulu-natal-782120"
+    },
+    {
+        "id_location": 420172,
+        "id_location_parent": 420171,
+        "name": "Winterton",
+        "seoname": "winterton-452363"
+    },
+    {
+        "id_location": 420173,
+        "id_location_parent": 420171,
+        "name": "Winklespruit",
+        "seoname": "winklespruit-452364"
+    },
+    {
+        "id_location": 420174,
+        "id_location_parent": 420171,
+        "name": "Westville",
+        "seoname": "westville-452365"
+    },
+    {
+        "id_location": 420175,
+        "id_location_parent": 420171,
+        "name": "Westbrook",
+        "seoname": "westbrook-452366"
+    },
+    {
+        "id_location": 420176,
+        "id_location_parent": 420171,
+        "name": "Wasbank",
+        "seoname": "wasbank-452367"
+    },
+    {
+        "id_location": 420177,
+        "id_location_parent": 420171,
+        "name": "Wartburg",
+        "seoname": "wartburg-452368"
+    },
+    {
+        "id_location": 420178,
+        "id_location_parent": 420171,
+        "name": "Verulam",
+        "seoname": "verulam-452369"
+    },
+    {
+        "id_location": 420179,
+        "id_location_parent": 420171,
+        "name": "Vaalkop",
+        "seoname": "vaalkop-452370"
+    },
+    {
+        "id_location": 420180,
+        "id_location_parent": 420171,
+        "name": "Uvongo Beach",
+        "seoname": "uvongo-beach-452371"
+    },
+    {
+        "id_location": 420181,
+        "id_location_parent": 420171,
+        "name": "Underberg",
+        "seoname": "underberg-452372"
+    },
+    {
+        "id_location": 420182,
+        "id_location_parent": 420171,
+        "name": "Umzumbe",
+        "seoname": "umzumbe-452373"
+    },
+    {
+        "id_location": 420183,
+        "id_location_parent": 420171,
+        "name": "Umtentweni",
+        "seoname": "umtentweni-452374"
+    },
+    {
+        "id_location": 420184,
+        "id_location_parent": 420171,
+        "name": "Umlazi",
+        "seoname": "umlazi-452375"
+    },
+    {
+        "id_location": 420185,
+        "id_location_parent": 420171,
+        "name": "Umhlanga Rocks",
+        "seoname": "umhlanga-rocks-452376"
+    },
+    {
+        "id_location": 420186,
+        "id_location_parent": 420171,
+        "name": "Umbumbulu",
+        "seoname": "umbumbulu-452377"
+    },
+    {
+        "id_location": 420187,
+        "id_location_parent": 420171,
+        "name": "Umbogintwini",
+        "seoname": "umbogintwini-452378"
+    },
+    {
+        "id_location": 420188,
+        "id_location_parent": 420171,
+        "name": "Uitval",
+        "seoname": "uitval-452379"
+    },
+    {
+        "id_location": 420189,
+        "id_location_parent": 420171,
+        "name": "Ubombo",
+        "seoname": "ubombo-452380"
+    },
+    {
+        "id_location": 420190,
+        "id_location_parent": 420171,
+        "name": "Tugela Ferry",
+        "seoname": "tugela-ferry-452381"
+    },
+    {
+        "id_location": 420191,
+        "id_location_parent": 420171,
+        "name": "Shelly Beach",
+        "seoname": "shelly-beach-452382"
+    },
+    {
+        "id_location": 420192,
+        "id_location_parent": 420171,
+        "name": "Sheffield Beach",
+        "seoname": "sheffield-beach-452383"
+    },
+    {
+        "id_location": 420193,
+        "id_location_parent": 420171,
+        "name": "Shakaskraal",
+        "seoname": "shakaskraal-452384"
+    },
+    {
+        "id_location": 420194,
+        "id_location_parent": 420171,
+        "name": "Salt Rock",
+        "seoname": "salt-rock-452385"
+    },
+    {
+        "id_location": 420195,
+        "id_location_parent": 420171,
+        "name": "Saint Lucia Estuary",
+        "seoname": "saint-lucia-estuary-452386"
+    },
+    {
+        "id_location": 420196,
+        "id_location_parent": 420171,
+        "name": "Richmond",
+        "seoname": "richmond-452387"
+    },
+    {
+        "id_location": 420197,
+        "id_location_parent": 420171,
+        "name": "Queensburgh",
+        "seoname": "queensburgh-452388"
+    },
+    {
+        "id_location": 420198,
+        "id_location_parent": 420171,
+        "name": "Port Edward",
+        "seoname": "port-edward-452389"
+    },
+    {
+        "id_location": 420199,
+        "id_location_parent": 420171,
+        "name": "Pongola",
+        "seoname": "pongola-452390"
+    },
+    {
+        "id_location": 420200,
+        "id_location_parent": 420171,
+        "name": "Pomeroy",
+        "seoname": "pomeroy-452391"
+    },
+    {
+        "id_location": 420201,
+        "id_location_parent": 420171,
+        "name": "Pinetown",
+        "seoname": "pinetown-452392"
+    },
+    {
+        "id_location": 420202,
+        "id_location_parent": 420171,
+        "name": "Phoenix",
+        "seoname": "phoenix-452393"
+    },
+    {
+        "id_location": 420203,
+        "id_location_parent": 420171,
+        "name": "Paulpietersburg",
+        "seoname": "paulpietersburg-452394"
+    },
+    {
+        "id_location": 420204,
+        "id_location_parent": 420171,
+        "name": "Ozwatini",
+        "seoname": "ozwatini-452395"
+    },
+    {
+        "id_location": 420205,
+        "id_location_parent": 420171,
+        "name": "Osizweni",
+        "seoname": "osizweni-452396"
+    },
+    {
+        "id_location": 420206,
+        "id_location_parent": 420171,
+        "name": "Nqutu",
+        "seoname": "nqutu-452397"
+    },
+    {
+        "id_location": 420207,
+        "id_location_parent": 420171,
+        "name": "Nqabeni",
+        "seoname": "nqabeni-452398"
+    },
+    {
+        "id_location": 420208,
+        "id_location_parent": 420171,
+        "name": "Nongoma",
+        "seoname": "nongoma-452399"
+    },
+    {
+        "id_location": 420209,
+        "id_location_parent": 420171,
+        "name": "Nkandla",
+        "seoname": "nkandla-452400"
+    },
+    {
+        "id_location": 420210,
+        "id_location_parent": 420171,
+        "name": "New Germany",
+        "seoname": "new-germany-452401"
+    },
+    {
+        "id_location": 420211,
+        "id_location_parent": 420171,
+        "name": "Ndwedwe",
+        "seoname": "ndwedwe-452402"
+    },
+    {
+        "id_location": 420212,
+        "id_location_parent": 420171,
+        "name": "Munster",
+        "seoname": "munster-452403"
+    },
+    {
+        "id_location": 420213,
+        "id_location_parent": 420171,
+        "name": "Mtunzini",
+        "seoname": "mtunzini-452404"
+    },
+    {
+        "id_location": 420214,
+        "id_location_parent": 420171,
+        "name": "Mtubatuba",
+        "seoname": "mtubatuba-452405"
+    },
+    {
+        "id_location": 420215,
+        "id_location_parent": 420171,
+        "name": "Mount Edgecombe",
+        "seoname": "mount-edgecombe-452406"
+    },
+    {
+        "id_location": 420216,
+        "id_location_parent": 420171,
+        "name": "Mkuze",
+        "seoname": "mkuze-452407"
+    },
+    {
+        "id_location": 420217,
+        "id_location_parent": 420171,
+        "name": "Mid Illovo",
+        "seoname": "mid-illovo-452408"
+    },
+    {
+        "id_location": 420218,
+        "id_location_parent": 420171,
+        "name": "Merrivale",
+        "seoname": "merrivale-452409"
+    },
+    {
+        "id_location": 420219,
+        "id_location_parent": 420171,
+        "name": "Melmoth",
+        "seoname": "melmoth-452410"
+    },
+    {
+        "id_location": 420220,
+        "id_location_parent": 420171,
+        "name": "Mbazwana",
+        "seoname": "mbazwana-452411"
+    },
+    {
+        "id_location": 420221,
+        "id_location_parent": 420171,
+        "name": "Matatiele",
+        "seoname": "matatiele-452412"
+    },
+    {
+        "id_location": 420222,
+        "id_location_parent": 420171,
+        "name": "Mariannhill",
+        "seoname": "mariannhill-452413"
+    },
+    {
+        "id_location": 420223,
+        "id_location_parent": 420171,
+        "name": "Mapumulo",
+        "seoname": "mapumulo-452414"
+    },
+    {
+        "id_location": 420224,
+        "id_location_parent": 420171,
+        "name": "Malvern",
+        "seoname": "malvern-452415"
+    },
+    {
+        "id_location": 420225,
+        "id_location_parent": 420171,
+        "name": "Maidstone",
+        "seoname": "maidstone-452416"
+    },
+    {
+        "id_location": 420226,
+        "id_location_parent": 420171,
+        "name": "Mahlabatini",
+        "seoname": "mahlabatini-452417"
+    },
+    {
+        "id_location": 420227,
+        "id_location_parent": 420171,
+        "name": "Magabeni",
+        "seoname": "magabeni-452418"
+    },
+    {
+        "id_location": 420228,
+        "id_location_parent": 420171,
+        "name": "Ladysmith",
+        "seoname": "ladysmith-452419"
+    },
+    {
+        "id_location": 420229,
+        "id_location_parent": 420171,
+        "name": "KwaMbonambi",
+        "seoname": "kwambonambi-452420"
+    },
+    {
+        "id_location": 420230,
+        "id_location_parent": 420171,
+        "name": "KwaMashu",
+        "seoname": "kwamashu-452421"
+    },
+    {
+        "id_location": 420231,
+        "id_location_parent": 420171,
+        "name": "KwaCeza",
+        "seoname": "kwaceza-452422"
+    },
+    {
+        "id_location": 420232,
+        "id_location_parent": 420171,
+        "name": "Kranskop",
+        "seoname": "kranskop-452423"
+    },
+    {
+        "id_location": 420233,
+        "id_location_parent": 420171,
+        "name": "Kloof",
+        "seoname": "kloof-452424"
+    },
+    {
+        "id_location": 420234,
+        "id_location_parent": 420171,
+        "name": "Jozini",
+        "seoname": "jozini-452425"
+    },
+    {
+        "id_location": 420235,
+        "id_location_parent": 420171,
+        "name": "Izingolweni",
+        "seoname": "izingolweni-452426"
+    },
+    {
+        "id_location": 420236,
+        "id_location_parent": 420171,
+        "name": "Ixopo",
+        "seoname": "ixopo-452427"
+    },
+    {
+        "id_location": 420237,
+        "id_location_parent": 420171,
+        "name": "Ingwavuma",
+        "seoname": "ingwavuma-452428"
+    },
+    {
+        "id_location": 420238,
+        "id_location_parent": 420171,
+        "name": "Inanda",
+        "seoname": "inanda-452429"
+    },
+    {
+        "id_location": 420239,
+        "id_location_parent": 420171,
+        "name": "Impendle",
+        "seoname": "impendle-452430"
+    },
+    {
+        "id_location": 420240,
+        "id_location_parent": 420171,
+        "name": "Illovo Beach",
+        "seoname": "illovo-beach-452431"
+    },
+    {
+        "id_location": 420241,
+        "id_location_parent": 420171,
+        "name": "Ifafa Beach",
+        "seoname": "ifafa-beach-452432"
+    },
+    {
+        "id_location": 420242,
+        "id_location_parent": 420171,
+        "name": "Hluhluwe",
+        "seoname": "hluhluwe-452433"
+    },
+    {
+        "id_location": 420243,
+        "id_location_parent": 420171,
+        "name": "Hlobane",
+        "seoname": "hlobane-452434"
+    },
+    {
+        "id_location": 420244,
+        "id_location_parent": 420171,
+        "name": "Hlabisa",
+        "seoname": "hlabisa-452435"
+    },
+    {
+        "id_location": 420245,
+        "id_location_parent": 420171,
+        "name": "Himeville",
+        "seoname": "himeville-452436"
+    },
+    {
+        "id_location": 420246,
+        "id_location_parent": 420171,
+        "name": "Hilton",
+        "seoname": "hilton-452437"
+    },
+    {
+        "id_location": 420247,
+        "id_location_parent": 420171,
+        "name": "Hillcrest",
+        "seoname": "hillcrest-452438"
+    },
+    {
+        "id_location": 420248,
+        "id_location_parent": 420171,
+        "name": "Highflats",
+        "seoname": "highflats-452439"
+    },
+    {
+        "id_location": 420249,
+        "id_location_parent": 420171,
+        "name": "Hibberdene",
+        "seoname": "hibberdene-452440"
+    },
+    {
+        "id_location": 420250,
+        "id_location_parent": 420171,
+        "name": "Harding",
+        "seoname": "harding-452441"
+    },
+    {
+        "id_location": 420251,
+        "id_location_parent": 420171,
+        "name": "Hammarsdale",
+        "seoname": "hammarsdale-452442"
+    },
+    {
+        "id_location": 420252,
+        "id_location_parent": 420171,
+        "name": "Golela",
+        "seoname": "golela-452443"
+    },
+    {
+        "id_location": 420253,
+        "id_location_parent": 420171,
+        "name": "Gingindlovu",
+        "seoname": "gingindlovu-452444"
+    },
+    {
+        "id_location": 420254,
+        "id_location_parent": 420171,
+        "name": "Gillitts",
+        "seoname": "gillitts-452445"
+    },
+    {
+        "id_location": 420255,
+        "id_location_parent": 420171,
+        "name": "Estcourt",
+        "seoname": "estcourt-452446"
+    },
+    {
+        "id_location": 420256,
+        "id_location_parent": 420171,
+        "name": "Emmaus",
+        "seoname": "emmaus-452447"
+    },
+    {
+        "id_location": 420257,
+        "id_location_parent": 420171,
+        "name": "Elandskop",
+        "seoname": "elandskop-452448"
+    },
+    {
+        "id_location": 420258,
+        "id_location_parent": 420171,
+        "name": "Edendale",
+        "seoname": "edendale-452449"
+    },
+    {
+        "id_location": 420259,
+        "id_location_parent": 420171,
+        "name": "Doonside",
+        "seoname": "doonside-452450"
+    },
+    {
+        "id_location": 420260,
+        "id_location_parent": 420171,
+        "name": "Donnybrook",
+        "seoname": "donnybrook-452451"
+    },
+    {
+        "id_location": 420261,
+        "id_location_parent": 420171,
+        "name": "Darnall",
+        "seoname": "darnall-452452"
+    },
+    {
+        "id_location": 420262,
+        "id_location_parent": 420171,
+        "name": "Dannhauser",
+        "seoname": "dannhauser-452453"
+    },
+    {
+        "id_location": 420263,
+        "id_location_parent": 420171,
+        "name": "Dalton",
+        "seoname": "dalton-452454"
+    },
+    {
+        "id_location": 420264,
+        "id_location_parent": 420171,
+        "name": "Creighton",
+        "seoname": "creighton-452455"
+    },
+    {
+        "id_location": 420265,
+        "id_location_parent": 420171,
+        "name": "Colenso",
+        "seoname": "colenso-452456"
+    },
+    {
+        "id_location": 420266,
+        "id_location_parent": 420171,
+        "name": "Cato Ridge",
+        "seoname": "cato-ridge-452457"
+    },
+    {
+        "id_location": 420267,
+        "id_location_parent": 420171,
+        "name": "Bulwer",
+        "seoname": "bulwer-452458"
+    },
+    {
+        "id_location": 420268,
+        "id_location_parent": 420171,
+        "name": "Bergville",
+        "seoname": "bergville-452459"
+    },
+    {
+        "id_location": 420269,
+        "id_location_parent": 420171,
+        "name": "Anerley",
+        "seoname": "anerley-452460"
+    },
+    {
+        "id_location": 420270,
+        "id_location_parent": 420171,
+        "name": "aMatikulu",
+        "seoname": "amatikulu-452461"
+    },
+    {
+        "id_location": 420271,
+        "id_location_parent": 420171,
+        "name": "Amanzimtoti",
+        "seoname": "amanzimtoti-452462"
+    },
+    {
+        "id_location": 420272,
+        "id_location_parent": 420171,
+        "name": "Ballito",
+        "seoname": "ballito-452463"
+    },
+    {
+        "id_location": 420273,
+        "id_location_parent": 420171,
+        "name": "Amajuba",
+        "seoname": "amajuba-452464"
+    },
+    {
+        "id_location": 420274,
+        "id_location_parent": 420171,
+        "name": "Blood River",
+        "seoname": "blood-river-452465"
+    },
+    {
+        "id_location": 420275,
+        "id_location_parent": 420171,
+        "name": "Bombay Road",
+        "seoname": "bombay-road-452466"
+    },
+    {
+        "id_location": 420276,
+        "id_location_parent": 420171,
+        "name": "Bothas Hill",
+        "seoname": "bothas-hill-452467"
+    },
+    {
+        "id_location": 420277,
+        "id_location_parent": 420171,
+        "name": "Chatsworth",
+        "seoname": "chatsworth-452468"
+    },
+    {
+        "id_location": 420278,
+        "id_location_parent": 420171,
+        "name": "Clernaville",
+        "seoname": "clernaville-452469"
+    },
+    {
+        "id_location": 420279,
+        "id_location_parent": 420171,
+        "name": "Coffee Farm",
+        "seoname": "coffee-farm-452470"
+    },
+    {
+        "id_location": 420280,
+        "id_location_parent": 420171,
+        "name": "Desainagar",
+        "seoname": "desainagar-452471"
+    },
+    {
+        "id_location": 420281,
+        "id_location_parent": 420171,
+        "name": "Dormerton",
+        "seoname": "dormerton-452472"
+    },
+    {
+        "id_location": 420282,
+        "id_location_parent": 420171,
+        "name": "Dumbe",
+        "seoname": "dumbe-452473"
+    },
+    {
+        "id_location": 420283,
+        "id_location_parent": 420171,
+        "name": "Durban North",
+        "seoname": "durban-north-452474"
+    },
+    {
+        "id_location": 420284,
+        "id_location_parent": 420171,
+        "name": "Emondlo",
+        "seoname": "emondlo-452475"
+    },
+    {
+        "id_location": 420285,
+        "id_location_parent": 420171,
+        "name": "Emphithi",
+        "seoname": "emphithi-452476"
+    },
+    {
+        "id_location": 420286,
+        "id_location_parent": 420171,
+        "name": "Eston",
+        "seoname": "eston-452477"
+    },
+    {
+        "id_location": 420287,
+        "id_location_parent": 420171,
+        "name": "Ezakheni",
+        "seoname": "ezakheni-452478"
+    },
+    {
+        "id_location": 420288,
+        "id_location_parent": 420171,
+        "name": "Harrismith",
+        "seoname": "harrismith-452479"
+    },
+    {
+        "id_location": 420289,
+        "id_location_parent": 420171,
+        "name": "Hemuhemu",
+        "seoname": "hemuhemu-452480"
+    },
+    {
+        "id_location": 420290,
+        "id_location_parent": 420171,
+        "name": "Hoha",
+        "seoname": "hoha-452481"
+    },
+    {
+        "id_location": 420291,
+        "id_location_parent": 420171,
+        "name": "Imdumeni",
+        "seoname": "imdumeni-452482"
+    },
+    {
+        "id_location": 420292,
+        "id_location_parent": 420171,
+        "name": "Isipingo",
+        "seoname": "isipingo-452483"
+    },
+    {
+        "id_location": 420293,
+        "id_location_parent": 420171,
+        "name": "Jacobs",
+        "seoname": "jacobs-452484"
+    },
+    {
+        "id_location": 420294,
+        "id_location_parent": 420171,
+        "name": "Kaarkloof",
+        "seoname": "kaarkloof-452485"
+    },
+    {
+        "id_location": 420295,
+        "id_location_parent": 420171,
+        "name": "Kwadlangezwa",
+        "seoname": "kwadlangezwa-452486"
+    },
+    {
+        "id_location": 420296,
+        "id_location_parent": 420171,
+        "name": "Kwamkhonto",
+        "seoname": "kwamkhonto-452487"
+    },
+    {
+        "id_location": 420297,
+        "id_location_parent": 420171,
+        "name": "Kwangwanase",
+        "seoname": "kwangwanase-452488"
+    },
+    {
+        "id_location": 420298,
+        "id_location_parent": 420171,
+        "name": "Kwazimele",
+        "seoname": "kwazimele-452489"
+    },
+    {
+        "id_location": 420299,
+        "id_location_parent": 420171,
+        "name": "Kwazulu\/Natal",
+        "seoname": "kwazulunatal-452490"
+    },
+    {
+        "id_location": 420300,
+        "id_location_parent": 420171,
+        "name": "Lamontville",
+        "seoname": "lamontville-452491"
+    },
+    {
+        "id_location": 420301,
+        "id_location_parent": 420171,
+        "name": "Magadla",
+        "seoname": "magadla-452492"
+    },
+    {
+        "id_location": 420302,
+        "id_location_parent": 420171,
+        "name": "Maluti",
+        "seoname": "maluti-452493"
+    },
+    {
+        "id_location": 420303,
+        "id_location_parent": 420171,
+        "name": "Manaba Beach",
+        "seoname": "manaba-beach-452494"
+    },
+    {
+        "id_location": 420304,
+        "id_location_parent": 420171,
+        "name": "Mandeni",
+        "seoname": "mandeni-452495"
+    },
+    {
+        "id_location": 420305,
+        "id_location_parent": 420171,
+        "name": "Manzana",
+        "seoname": "manzana-452496"
+    },
+    {
+        "id_location": 420306,
+        "id_location_parent": 420171,
+        "name": "Marble Ray",
+        "seoname": "marble-ray-452497"
+    },
+    {
+        "id_location": 420307,
+        "id_location_parent": 420171,
+        "name": "Mayville",
+        "seoname": "mayville-452498"
+    },
+    {
+        "id_location": 420308,
+        "id_location_parent": 420171,
+        "name": "Mbeka",
+        "seoname": "mbeka-452499"
+    },
+    {
+        "id_location": 420309,
+        "id_location_parent": 420171,
+        "name": "Mbiyo",
+        "seoname": "mbiyo-452500"
+    },
+    {
+        "id_location": 420310,
+        "id_location_parent": 420171,
+        "name": "Mehlomnyama",
+        "seoname": "mehlomnyama-452501"
+    },
+    {
+        "id_location": 420311,
+        "id_location_parent": 420171,
+        "name": "Mobeni",
+        "seoname": "mobeni-452502"
+    },
+    {
+        "id_location": 420312,
+        "id_location_parent": 420171,
+        "name": "Mount Fletcher",
+        "seoname": "mount-fletcher-452503"
+    },
+    {
+        "id_location": 420313,
+        "id_location_parent": 420171,
+        "name": "Mphophomeni",
+        "seoname": "mphophomeni-452504"
+    },
+    {
+        "id_location": 420314,
+        "id_location_parent": 420171,
+        "name": "Nagina",
+        "seoname": "nagina-452505"
+    },
+    {
+        "id_location": 420315,
+        "id_location_parent": 420171,
+        "name": "Ncalu",
+        "seoname": "ncalu-452506"
+    },
+    {
+        "id_location": 420316,
+        "id_location_parent": 420171,
+        "name": "Ncotshane",
+        "seoname": "ncotshane-452507"
+    },
+    {
+        "id_location": 420317,
+        "id_location_parent": 420171,
+        "name": "Nkumane",
+        "seoname": "nkumane-452508"
+    },
+    {
+        "id_location": 420318,
+        "id_location_parent": 420171,
+        "name": "Nkwazi",
+        "seoname": "nkwazi-452509"
+    },
+    {
+        "id_location": 420319,
+        "id_location_parent": 420171,
+        "name": "Northdene",
+        "seoname": "northdene-452510"
+    },
+    {
+        "id_location": 420320,
+        "id_location_parent": 420171,
+        "name": "Nottingham Rd",
+        "seoname": "nottingham-rd-452511"
+    },
+    {
+        "id_location": 420321,
+        "id_location_parent": 420171,
+        "name": "Ntabamhlophe",
+        "seoname": "ntabamhlophe-452512"
+    },
+    {
+        "id_location": 420322,
+        "id_location_parent": 420171,
+        "name": "Ntokozweni",
+        "seoname": "ntokozweni-452513"
+    },
+    {
+        "id_location": 420323,
+        "id_location_parent": 420171,
+        "name": "Pennington",
+        "seoname": "pennington-452514"
+    },
+    {
+        "id_location": 420324,
+        "id_location_parent": 420171,
+        "name": "Rossburgh",
+        "seoname": "rossburgh-452516"
+    },
+    {
+        "id_location": 420325,
+        "id_location_parent": 420171,
+        "name": "Shallcross",
+        "seoname": "shallcross-452517"
+    },
+    {
+        "id_location": 420326,
+        "id_location_parent": 420171,
+        "name": "St Lucia Estuary",
+        "seoname": "st-lucia-estuary-452518"
+    },
+    {
+        "id_location": 420327,
+        "id_location_parent": 420171,
+        "name": "St Wendolins",
+        "seoname": "st-wendolins-452519"
+    },
+    {
+        "id_location": 420328,
+        "id_location_parent": 420171,
+        "name": "Steadville",
+        "seoname": "steadville-452520"
+    },
+    {
+        "id_location": 420329,
+        "id_location_parent": 420171,
+        "name": "Taylors Halt",
+        "seoname": "taylors-halt-452521"
+    },
+    {
+        "id_location": 420330,
+        "id_location_parent": 420171,
+        "name": "Umhlali",
+        "seoname": "umhlali-452522"
+    },
+    {
+        "id_location": 420331,
+        "id_location_parent": 420171,
+        "name": "Umkomaas Valley",
+        "seoname": "umkomaas-valley-452523"
+    },
+    {
+        "id_location": 420332,
+        "id_location_parent": 420171,
+        "name": "Umtata",
+        "seoname": "umtata-452524"
+    },
+    {
+        "id_location": 420333,
+        "id_location_parent": 420171,
+        "name": "Umzimkhulu",
+        "seoname": "umzimkhulu-452525"
+    },
+    {
+        "id_location": 420334,
+        "id_location_parent": 420171,
+        "name": "Wiggins",
+        "seoname": "wiggins-452526"
+    },
+    {
+        "id_location": 420335,
+        "id_location_parent": 420171,
+        "name": "Yellowwood Park",
+        "seoname": "yellowwood-park-452527"
+    },
+    {
+        "id_location": 420336,
+        "id_location_parent": 420171,
+        "name": "Zinkwazi",
+        "seoname": "zinkwazi-452528"
+    },
+    {
+        "id_location": 420337,
+        "id_location_parent": 420171,
+        "name": "Utrecht",
+        "seoname": "utrecht-452529"
+    },
+    {
+        "id_location": 420338,
+        "id_location_parent": 420171,
+        "name": "Mooirivier",
+        "seoname": "mooirivier-452530"
+    },
+    {
+        "id_location": 420339,
+        "id_location_parent": 420171,
+        "name": "Glencoe",
+        "seoname": "glencoe-452531"
+    },
+    {
+        "id_location": 420340,
+        "id_location_parent": 420171,
+        "name": "Greytown",
+        "seoname": "greytown-452532"
+    },
+    {
+        "id_location": 420341,
+        "id_location_parent": 420171,
+        "name": "Ekuvukeni",
+        "seoname": "ekuvukeni-452533"
+    },
+    {
+        "id_location": 420342,
+        "id_location_parent": 420171,
+        "name": "Eshowe",
+        "seoname": "eshowe-452534"
+    },
+    {
+        "id_location": 420343,
+        "id_location_parent": 420171,
+        "name": "Umkomaas",
+        "seoname": "umkomaas-452535"
+    },
+    {
+        "id_location": 420344,
+        "id_location_parent": 420171,
+        "name": "Ulundi",
+        "seoname": "ulundi-452536"
+    },
+    {
+        "id_location": 420345,
+        "id_location_parent": 420171,
+        "name": "Scottburgh",
+        "seoname": "scottburgh-452537"
+    },
+    {
+        "id_location": 420346,
+        "id_location_parent": 420171,
+        "name": "Kokstad",
+        "seoname": "kokstad-452538"
+    },
+    {
+        "id_location": 420347,
+        "id_location_parent": 420171,
+        "name": "Empangeni",
+        "seoname": "empangeni-452539"
+    },
+    {
+        "id_location": 420348,
+        "id_location_parent": 420171,
+        "name": "Howick",
+        "seoname": "howick-452540"
+    },
+    {
+        "id_location": 420349,
+        "id_location_parent": 420171,
+        "name": "Margate",
+        "seoname": "margate-452541"
+    },
+    {
+        "id_location": 420350,
+        "id_location_parent": 420171,
+        "name": "eSikhawini",
+        "seoname": "esikhawini-452542"
+    },
+    {
+        "id_location": 420351,
+        "id_location_parent": 420171,
+        "name": "Port Shepstone",
+        "seoname": "port-shepstone-452543"
+    },
+    {
+        "id_location": 420352,
+        "id_location_parent": 420171,
+        "name": "Stanger",
+        "seoname": "stanger-452544"
+    },
+    {
+        "id_location": 420353,
+        "id_location_parent": 420171,
+        "name": "Dundee",
+        "seoname": "dundee-452545"
+    },
+    {
+        "id_location": 420354,
+        "id_location_parent": 420171,
+        "name": "Vryheid",
+        "seoname": "vryheid-452546"
+    },
+    {
+        "id_location": 420355,
+        "id_location_parent": 420171,
+        "name": "Richards Bay",
+        "seoname": "richards-bay-452547"
+    },
+    {
+        "id_location": 420356,
+        "id_location_parent": 420171,
+        "name": "Newcastle",
+        "seoname": "newcastle-452548"
+    },
+    {
+        "id_location": 420357,
+        "id_location_parent": 420171,
+        "name": "Pietermaritzburg",
+        "seoname": "pietermaritzburg-452549"
+    },
+    {
+        "id_location": 420358,
+        "id_location_parent": 420171,
+        "name": "Durban",
+        "seoname": "durban-452550"
+    },
+    {
+        "id_location": 420359,
+        "id_location_parent": 1,
+        "name": "Limpopo",
+        "seoname": "limpopo-782121"
+    },
+    {
+        "id_location": 420360,
+        "id_location_parent": 420359,
+        "name": "Zebediela",
+        "seoname": "zebediela-452551"
+    },
+    {
+        "id_location": 420361,
+        "id_location_parent": 420359,
+        "name": "Vaalwater",
+        "seoname": "vaalwater-452552"
+    },
+    {
+        "id_location": 420362,
+        "id_location_parent": 420359,
+        "name": "Sibasa",
+        "seoname": "sibasa-452553"
+    },
+    {
+        "id_location": 420363,
+        "id_location_parent": 420359,
+        "name": "Mutale",
+        "seoname": "mutale-452554"
+    },
+    {
+        "id_location": 420364,
+        "id_location_parent": 420359,
+        "name": "Modjadji",
+        "seoname": "modjadji-452555"
+    },
+    {
+        "id_location": 420365,
+        "id_location_parent": 420359,
+        "name": "Letaba",
+        "seoname": "letaba-452556"
+    },
+    {
+        "id_location": 420366,
+        "id_location_parent": 420359,
+        "name": "Jane Furse",
+        "seoname": "jane-furse-452557"
+    },
+    {
+        "id_location": 420367,
+        "id_location_parent": 420359,
+        "name": "Hoedspruit",
+        "seoname": "hoedspruit-452558"
+    },
+    {
+        "id_location": 420368,
+        "id_location_parent": 420359,
+        "name": "Gravelotte",
+        "seoname": "gravelotte-452559"
+    },
+    {
+        "id_location": 420369,
+        "id_location_parent": 420359,
+        "name": "Dendron",
+        "seoname": "dendron-452560"
+    },
+    {
+        "id_location": 420370,
+        "id_location_parent": 420359,
+        "name": "Bochum",
+        "seoname": "bochum-452561"
+    },
+    {
+        "id_location": 420371,
+        "id_location_parent": 420359,
+        "name": "Alldays",
+        "seoname": "alldays-452562"
+    },
+    {
+        "id_location": 420372,
+        "id_location_parent": 420359,
+        "name": "Bela Bela",
+        "seoname": "bela-bela-452563"
+    },
+    {
+        "id_location": 420373,
+        "id_location_parent": 420359,
+        "name": "Lephalale",
+        "seoname": "lephalale-452564"
+    },
+    {
+        "id_location": 420374,
+        "id_location_parent": 420359,
+        "name": "Makhado",
+        "seoname": "makhado-452565"
+    },
+    {
+        "id_location": 420375,
+        "id_location_parent": 420359,
+        "name": "Malamulele",
+        "seoname": "malamulele-452566"
+    },
+    {
+        "id_location": 420376,
+        "id_location_parent": 420359,
+        "name": "Modimolle",
+        "seoname": "modimolle-452567"
+    },
+    {
+        "id_location": 420377,
+        "id_location_parent": 420359,
+        "name": "Modjadjiskloof",
+        "seoname": "modjadjiskloof-452568"
+    },
+    {
+        "id_location": 420378,
+        "id_location_parent": 420359,
+        "name": "Mokopane",
+        "seoname": "mokopane-452569"
+    },
+    {
+        "id_location": 420379,
+        "id_location_parent": 420359,
+        "name": "Musina",
+        "seoname": "musina-452570"
+    },
+    {
+        "id_location": 420380,
+        "id_location_parent": 420359,
+        "name": "Vuwani",
+        "seoname": "vuwani-452571"
+    },
+    {
+        "id_location": 420381,
+        "id_location_parent": 420359,
+        "name": "Thabazimbi",
+        "seoname": "thabazimbi-452572"
+    },
+    {
+        "id_location": 420382,
+        "id_location_parent": 420359,
+        "name": "GAKGAPANE",
+        "seoname": "gakgapane-452573"
+    },
+    {
+        "id_location": 420383,
+        "id_location_parent": 420359,
+        "name": "Tzaneen",
+        "seoname": "tzaneen-452574"
+    },
+    {
+        "id_location": 420384,
+        "id_location_parent": 420359,
+        "name": "Giyani",
+        "seoname": "giyani-452575"
+    },
+    {
+        "id_location": 420385,
+        "id_location_parent": 420359,
+        "name": "Thohoyandou",
+        "seoname": "thohoyandou-452576"
+    },
+    {
+        "id_location": 420386,
+        "id_location_parent": 420359,
+        "name": "Louis Trichardt",
+        "seoname": "louis-trichardt-452577"
+    },
+    {
+        "id_location": 420387,
+        "id_location_parent": 420359,
+        "name": "Polokwane",
+        "seoname": "polokwane-452578"
+    },
+    {
+        "id_location": 420388,
+        "id_location_parent": 1,
+        "name": "Mpumalanga",
+        "seoname": "mpumalanga-782122"
+    },
+    {
+        "id_location": 420389,
+        "id_location_parent": 420388,
+        "name": "Wakkerstroom",
+        "seoname": "wakkerstroom-452579"
+    },
+    {
+        "id_location": 420390,
+        "id_location_parent": 420388,
+        "name": "Steelpoort",
+        "seoname": "steelpoort-452580"
+    },
+    {
+        "id_location": 420391,
+        "id_location_parent": 420388,
+        "name": "Skukuza",
+        "seoname": "skukuza-452581"
+    },
+    {
+        "id_location": 420392,
+        "id_location_parent": 420388,
+        "name": "Skilpadfontein",
+        "seoname": "skilpadfontein-452582"
+    },
+    {
+        "id_location": 420393,
+        "id_location_parent": 420388,
+        "name": "Shongwe Mission",
+        "seoname": "shongwe-mission-452583"
+    },
+    {
+        "id_location": 420394,
+        "id_location_parent": 420388,
+        "name": "Sakhile",
+        "seoname": "sakhile-452584"
+    },
+    {
+        "id_location": 420395,
+        "id_location_parent": 420388,
+        "name": "Sabie",
+        "seoname": "sabie-452585"
+    },
+    {
+        "id_location": 420396,
+        "id_location_parent": 420388,
+        "name": "Rietkuil",
+        "seoname": "rietkuil-452586"
+    },
+    {
+        "id_location": 420397,
+        "id_location_parent": 420388,
+        "name": "Ogies",
+        "seoname": "ogies-452587"
+    },
+    {
+        "id_location": 420398,
+        "id_location_parent": 420388,
+        "name": "Nsikazi",
+        "seoname": "nsikazi-452588"
+    },
+    {
+        "id_location": 420399,
+        "id_location_parent": 420388,
+        "name": "Marble Hall",
+        "seoname": "marble-hall-452589"
+    },
+    {
+        "id_location": 420400,
+        "id_location_parent": 420388,
+        "name": "Malelane",
+        "seoname": "malelane-452590"
+    },
+    {
+        "id_location": 420401,
+        "id_location_parent": 420388,
+        "name": "Machadodorp",
+        "seoname": "machadodorp-452591"
+    },
+    {
+        "id_location": 420402,
+        "id_location_parent": 420388,
+        "name": "Leslie",
+        "seoname": "leslie-452592"
+    },
+    {
+        "id_location": 420403,
+        "id_location_parent": 420388,
+        "name": "KwaLugedlane",
+        "seoname": "kwalugedlane-452593"
+    },
+    {
+        "id_location": 420404,
+        "id_location_parent": 420388,
+        "name": "Hazyview",
+        "seoname": "hazyview-452594"
+    },
+    {
+        "id_location": 420405,
+        "id_location_parent": 420388,
+        "name": "Groblersdal",
+        "seoname": "groblersdal-452595"
+    },
+    {
+        "id_location": 420406,
+        "id_location_parent": 420388,
+        "name": "Graskop",
+        "seoname": "graskop-452596"
+    },
+    {
+        "id_location": 420407,
+        "id_location_parent": 420388,
+        "name": "Evander",
+        "seoname": "evander-452597"
+    },
+    {
+        "id_location": 420408,
+        "id_location_parent": 420388,
+        "name": "eNyamazaneni",
+        "seoname": "enyamazaneni-452598"
+    },
+    {
+        "id_location": 420409,
+        "id_location_parent": 420388,
+        "name": "eMpumalanga",
+        "seoname": "empumalanga-452599"
+    },
+    {
+        "id_location": 420410,
+        "id_location_parent": 420388,
+        "name": "Carolina",
+        "seoname": "carolina-452600"
+    },
+    {
+        "id_location": 420411,
+        "id_location_parent": 420388,
+        "name": "Burgersfort",
+        "seoname": "burgersfort-452601"
+    },
+    {
+        "id_location": 420412,
+        "id_location_parent": 420388,
+        "name": "Bosbokrand",
+        "seoname": "bosbokrand-452602"
+    },
+    {
+        "id_location": 420413,
+        "id_location_parent": 420388,
+        "name": "Blinkpan",
+        "seoname": "blinkpan-452603"
+    },
+    {
+        "id_location": 420414,
+        "id_location_parent": 420388,
+        "name": "Bethalrand",
+        "seoname": "bethalrand-452604"
+    },
+    {
+        "id_location": 420415,
+        "id_location_parent": 420388,
+        "name": "Badplaas",
+        "seoname": "badplaas-452605"
+    },
+    {
+        "id_location": 420416,
+        "id_location_parent": 420388,
+        "name": "Amsterdam",
+        "seoname": "amsterdam-452606"
+    },
+    {
+        "id_location": 420417,
+        "id_location_parent": 420388,
+        "name": "Amersfoort",
+        "seoname": "amersfoort-452607"
+    },
+    {
+        "id_location": 420418,
+        "id_location_parent": 420388,
+        "name": "Bamokgoko",
+        "seoname": "bamokgoko-452608"
+    },
+    {
+        "id_location": 420419,
+        "id_location_parent": 420388,
+        "name": "Batubatse",
+        "seoname": "batubatse-452609"
+    },
+    {
+        "id_location": 420420,
+        "id_location_parent": 420388,
+        "name": "Boitekong",
+        "seoname": "boitekong-452610"
+    },
+    {
+        "id_location": 420421,
+        "id_location_parent": 420388,
+        "name": "Boleu",
+        "seoname": "boleu-452611"
+    },
+    {
+        "id_location": 420422,
+        "id_location_parent": 420388,
+        "name": "Brits",
+        "seoname": "brits-452612"
+    },
+    {
+        "id_location": 420423,
+        "id_location_parent": 420388,
+        "name": "Chromite",
+        "seoname": "chromite-452613"
+    },
+    {
+        "id_location": 420424,
+        "id_location_parent": 420388,
+        "name": "Devon",
+        "seoname": "devon-452614"
+    },
+    {
+        "id_location": 420425,
+        "id_location_parent": 420388,
+        "name": "Dibasabophelo",
+        "seoname": "dibasabophelo-452615"
+    },
+    {
+        "id_location": 420426,
+        "id_location_parent": 420388,
+        "name": "Driekop",
+        "seoname": "driekop-452616"
+    },
+    {
+        "id_location": 420427,
+        "id_location_parent": 420388,
+        "name": "Dundonald",
+        "seoname": "dundonald-452617"
+    },
+    {
+        "id_location": 420428,
+        "id_location_parent": 420388,
+        "name": "Ekangala",
+        "seoname": "ekangala-452618"
+    },
+    {
+        "id_location": 420429,
+        "id_location_parent": 420388,
+        "name": "Ellisras",
+        "seoname": "ellisras-452619"
+    },
+    {
+        "id_location": 420430,
+        "id_location_parent": 420388,
+        "name": "Ga-rankuwa",
+        "seoname": "ga-rankuwa-452620"
+    },
+    {
+        "id_location": 420431,
+        "id_location_parent": 420388,
+        "name": "Hammanskraal",
+        "seoname": "hammanskraal-452621"
+    },
+    {
+        "id_location": 420432,
+        "id_location_parent": 420388,
+        "name": "Hluvukani",
+        "seoname": "hluvukani-452622"
+    },
+    {
+        "id_location": 420433,
+        "id_location_parent": 420388,
+        "name": "Kabokweni",
+        "seoname": "kabokweni-452623"
+    },
+    {
+        "id_location": 420434,
+        "id_location_parent": 420388,
+        "name": "Koster",
+        "seoname": "koster-452624"
+    },
+    {
+        "id_location": 420435,
+        "id_location_parent": 420388,
+        "name": "Kwaguqa",
+        "seoname": "kwaguqa-452625"
+    },
+    {
+        "id_location": 420436,
+        "id_location_parent": 420388,
+        "name": "Kwamhlanga",
+        "seoname": "kwamhlanga-452626"
+    },
+    {
+        "id_location": 420437,
+        "id_location_parent": 420388,
+        "name": "Kwazamokuhle",
+        "seoname": "kwazamokuhle-452627"
+    },
+    {
+        "id_location": 420438,
+        "id_location_parent": 420388,
+        "name": "Leeupoort",
+        "seoname": "leeupoort-452628"
+    },
+    {
+        "id_location": 420439,
+        "id_location_parent": 420388,
+        "name": "Lephalale",
+        "seoname": "lephalale-452629"
+    },
+    {
+        "id_location": 420440,
+        "id_location_parent": 420388,
+        "name": "Lethabong",
+        "seoname": "lethabong-452630"
+    },
+    {
+        "id_location": 420441,
+        "id_location_parent": 420388,
+        "name": "Letlhabile",
+        "seoname": "letlhabile-452631"
+    },
+    {
+        "id_location": 420442,
+        "id_location_parent": 420388,
+        "name": "Mabopane",
+        "seoname": "mabopane-452632"
+    },
+    {
+        "id_location": 420443,
+        "id_location_parent": 420388,
+        "name": "Mafikeng",
+        "seoname": "mafikeng-452633"
+    },
+    {
+        "id_location": 420444,
+        "id_location_parent": 420388,
+        "name": "Mahwelereng",
+        "seoname": "mahwelereng-452634"
+    },
+    {
+        "id_location": 420445,
+        "id_location_parent": 420388,
+        "name": "Malamulele",
+        "seoname": "malamulele-452635"
+    },
+    {
+        "id_location": 420446,
+        "id_location_parent": 420388,
+        "name": "Marikana",
+        "seoname": "marikana-452636"
+    },
+    {
+        "id_location": 420447,
+        "id_location_parent": 420388,
+        "name": "Mbibane",
+        "seoname": "mbibane-452637"
+    },
+    {
+        "id_location": 420448,
+        "id_location_parent": 420388,
+        "name": "Mkhuhlu",
+        "seoname": "mkhuhlu-452638"
+    },
+    {
+        "id_location": 420449,
+        "id_location_parent": 420388,
+        "name": "Mogwase",
+        "seoname": "mogwase-452639"
+    },
+    {
+        "id_location": 420450,
+        "id_location_parent": 420388,
+        "name": "Mokamole",
+        "seoname": "mokamole-452640"
+    },
+    {
+        "id_location": 420451,
+        "id_location_parent": 420388,
+        "name": "Mooinooi",
+        "seoname": "mooinooi-452641"
+    },
+    {
+        "id_location": 420452,
+        "id_location_parent": 420388,
+        "name": "Mphe-batho",
+        "seoname": "mphe-batho-452642"
+    },
+    {
+        "id_location": 420453,
+        "id_location_parent": 420388,
+        "name": "Mpudulle",
+        "seoname": "mpudulle-452643"
+    },
+    {
+        "id_location": 420454,
+        "id_location_parent": 420388,
+        "name": "Mpuluzi",
+        "seoname": "mpuluzi-452644"
+    },
+    {
+        "id_location": 420455,
+        "id_location_parent": 420388,
+        "name": "Mpumalanga",
+        "seoname": "mpumalanga-452645"
+    },
+    {
+        "id_location": 420456,
+        "id_location_parent": 420388,
+        "name": "Mutlestad",
+        "seoname": "mutlestad-452646"
+    },
+    {
+        "id_location": 420457,
+        "id_location_parent": 420388,
+        "name": "Namakgale",
+        "seoname": "namakgale-452647"
+    },
+    {
+        "id_location": 420458,
+        "id_location_parent": 420388,
+        "name": "Nasaret",
+        "seoname": "nasaret-452648"
+    },
+    {
+        "id_location": 420459,
+        "id_location_parent": 420388,
+        "name": "Nebo",
+        "seoname": "nebo-452649"
+    },
+    {
+        "id_location": 420460,
+        "id_location_parent": 420388,
+        "name": "Nelspruit North",
+        "seoname": "nelspruit-north-452650"
+    },
+    {
+        "id_location": 420461,
+        "id_location_parent": 420388,
+        "name": "Nkwe",
+        "seoname": "nkwe-452651"
+    },
+    {
+        "id_location": 420462,
+        "id_location_parent": 420388,
+        "name": "Nucam",
+        "seoname": "nucam-452652"
+    },
+    {
+        "id_location": 420463,
+        "id_location_parent": 420388,
+        "name": "Nylpark",
+        "seoname": "nylpark-452653"
+    },
+    {
+        "id_location": 420464,
+        "id_location_parent": 420388,
+        "name": "Odinburg",
+        "seoname": "odinburg-452654"
+    },
+    {
+        "id_location": 420465,
+        "id_location_parent": 420388,
+        "name": "Penge",
+        "seoname": "penge-452655"
+    },
+    {
+        "id_location": 420466,
+        "id_location_parent": 420388,
+        "name": "Podiphatshwa",
+        "seoname": "podiphatshwa-452656"
+    },
+    {
+        "id_location": 420467,
+        "id_location_parent": 420388,
+        "name": "Potgietersrus",
+        "seoname": "potgietersrus-452657"
+    },
+    {
+        "id_location": 420468,
+        "id_location_parent": 420388,
+        "name": "Pullens Hope",
+        "seoname": "pullens-hope-452658"
+    },
+    {
+        "id_location": 420469,
+        "id_location_parent": 420388,
+        "name": "Rantebeng",
+        "seoname": "rantebeng-452659"
+    },
+    {
+        "id_location": 420470,
+        "id_location_parent": 420388,
+        "name": "Rayton",
+        "seoname": "rayton-452660"
+    },
+    {
+        "id_location": 420471,
+        "id_location_parent": 420388,
+        "name": "Rebone",
+        "seoname": "rebone-452661"
+    },
+    {
+        "id_location": 420472,
+        "id_location_parent": 420388,
+        "name": "Regorogile",
+        "seoname": "regorogile-452662"
+    },
+    {
+        "id_location": 420473,
+        "id_location_parent": 420388,
+        "name": "Roedtan",
+        "seoname": "roedtan-452663"
+    },
+    {
+        "id_location": 420474,
+        "id_location_parent": 420388,
+        "name": "Rust De Winter",
+        "seoname": "rust-de-winter-452664"
+    },
+    {
+        "id_location": 420475,
+        "id_location_parent": 420388,
+        "name": "Saulspoort",
+        "seoname": "saulspoort-452665"
+    },
+    {
+        "id_location": 420476,
+        "id_location_parent": 420388,
+        "name": "Sekhukhune",
+        "seoname": "sekhukhune-452666"
+    },
+    {
+        "id_location": 420477,
+        "id_location_parent": 420388,
+        "name": "Settlers",
+        "seoname": "settlers-452667"
+    },
+    {
+        "id_location": 420478,
+        "id_location_parent": 420388,
+        "name": "Soshanguve",
+        "seoname": "soshanguve-452668"
+    },
+    {
+        "id_location": 420479,
+        "id_location_parent": 420388,
+        "name": "Sundra",
+        "seoname": "sundra-452669"
+    },
+    {
+        "id_location": 420480,
+        "id_location_parent": 420388,
+        "name": "Swartklip",
+        "seoname": "swartklip-452670"
+    },
+    {
+        "id_location": 420481,
+        "id_location_parent": 420388,
+        "name": "Thabazimbi",
+        "seoname": "thabazimbi-452671"
+    },
+    {
+        "id_location": 420482,
+        "id_location_parent": 420388,
+        "name": "Thohoyandou",
+        "seoname": "thohoyandou-452672"
+    },
+    {
+        "id_location": 420483,
+        "id_location_parent": 420388,
+        "name": "Thulamahashe",
+        "seoname": "thulamahashe-452673"
+    },
+    {
+        "id_location": 420484,
+        "id_location_parent": 420388,
+        "name": "Thulwe",
+        "seoname": "thulwe-452674"
+    },
+    {
+        "id_location": 420485,
+        "id_location_parent": 420388,
+        "name": "Vaalwater",
+        "seoname": "vaalwater-452675"
+    },
+    {
+        "id_location": 420486,
+        "id_location_parent": 420388,
+        "name": "Van Dyksdrif",
+        "seoname": "van-dyksdrif-452676"
+    },
+    {
+        "id_location": 420487,
+        "id_location_parent": 420388,
+        "name": "Ximhungwe",
+        "seoname": "ximhungwe-452677"
+    },
+    {
+        "id_location": 420488,
+        "id_location_parent": 420388,
+        "name": "Xipame",
+        "seoname": "xipame-452678"
+    },
+    {
+        "id_location": 420489,
+        "id_location_parent": 420388,
+        "name": "ZZ TBA",
+        "seoname": "zz-tba-452679"
+    },
+    {
+        "id_location": 420490,
+        "id_location_parent": 420388,
+        "name": "Belfast",
+        "seoname": "belfast-452680"
+    },
+    {
+        "id_location": 420491,
+        "id_location_parent": 420388,
+        "name": "Breyten",
+        "seoname": "breyten-452681"
+    },
+    {
+        "id_location": 420492,
+        "id_location_parent": 420388,
+        "name": "Kriel",
+        "seoname": "kriel-452682"
+    },
+    {
+        "id_location": 420493,
+        "id_location_parent": 420388,
+        "name": "Hendrina",
+        "seoname": "hendrina-452683"
+    },
+    {
+        "id_location": 420494,
+        "id_location_parent": 420388,
+        "name": "White River",
+        "seoname": "white-river-452684"
+    },
+    {
+        "id_location": 420495,
+        "id_location_parent": 420388,
+        "name": "Secunda",
+        "seoname": "secunda-452685"
+    },
+    {
+        "id_location": 420496,
+        "id_location_parent": 420388,
+        "name": "Komatipoort",
+        "seoname": "komatipoort-452686"
+    },
+    {
+        "id_location": 420497,
+        "id_location_parent": 420388,
+        "name": "Lydenburg",
+        "seoname": "lydenburg-452687"
+    },
+    {
+        "id_location": 420498,
+        "id_location_parent": 420388,
+        "name": "Siyabuswa",
+        "seoname": "siyabuswa-452688"
+    },
+    {
+        "id_location": 420499,
+        "id_location_parent": 420388,
+        "name": "Ermelo",
+        "seoname": "ermelo-452689"
+    },
+    {
+        "id_location": 420500,
+        "id_location_parent": 420388,
+        "name": "Volksrust",
+        "seoname": "volksrust-452690"
+    },
+    {
+        "id_location": 420501,
+        "id_location_parent": 420388,
+        "name": "Balfour",
+        "seoname": "balfour-452691"
+    },
+    {
+        "id_location": 420502,
+        "id_location_parent": 420388,
+        "name": "Standerton",
+        "seoname": "standerton-452692"
+    },
+    {
+        "id_location": 420503,
+        "id_location_parent": 420388,
+        "name": "Piet Retief",
+        "seoname": "piet-retief-452693"
+    },
+    {
+        "id_location": 420504,
+        "id_location_parent": 420388,
+        "name": "Delmas",
+        "seoname": "delmas-452694"
+    },
+    {
+        "id_location": 420505,
+        "id_location_parent": 420388,
+        "name": "Nelspruit",
+        "seoname": "nelspruit-452695"
+    },
+    {
+        "id_location": 420506,
+        "id_location_parent": 420388,
+        "name": "eMbalenhle",
+        "seoname": "embalenhle-452696"
+    },
+    {
+        "id_location": 420507,
+        "id_location_parent": 420388,
+        "name": "Middelburg",
+        "seoname": "middelburg-452697"
+    },
+    {
+        "id_location": 420508,
+        "id_location_parent": 420388,
+        "name": "Witbank",
+        "seoname": "witbank-452698"
+    },
+    {
+        "id_location": 420509,
+        "id_location_parent": 1,
+        "name": "North-West",
+        "seoname": "north-west-782123"
+    },
+    {
+        "id_location": 420510,
+        "id_location_parent": 420509,
+        "name": "Ventersdorp",
+        "seoname": "ventersdorp-452699"
+    },
+    {
+        "id_location": 420511,
+        "id_location_parent": 420509,
+        "name": "Swartruggens",
+        "seoname": "swartruggens-452700"
+    },
+    {
+        "id_location": 420512,
+        "id_location_parent": 420509,
+        "name": "Sannieshof",
+        "seoname": "sannieshof-452701"
+    },
+    {
+        "id_location": 420513,
+        "id_location_parent": 420509,
+        "name": "Ottosdal",
+        "seoname": "ottosdal-452702"
+    },
+    {
+        "id_location": 420514,
+        "id_location_parent": 420509,
+        "name": "Montshiwa",
+        "seoname": "montshiwa-452703"
+    },
+    {
+        "id_location": 420515,
+        "id_location_parent": 420509,
+        "name": "Makwassie",
+        "seoname": "makwassie-452704"
+    },
+    {
+        "id_location": 420516,
+        "id_location_parent": 420509,
+        "name": "Mafikeng",
+        "seoname": "mafikeng-452705"
+    },
+    {
+        "id_location": 420517,
+        "id_location_parent": 420509,
+        "name": "Madikwe",
+        "seoname": "madikwe-452706"
+    },
+    {
+        "id_location": 420518,
+        "id_location_parent": 420509,
+        "name": "Madibogo",
+        "seoname": "madibogo-452707"
+    },
+    {
+        "id_location": 420519,
+        "id_location_parent": 420509,
+        "name": "Leeudoringstad",
+        "seoname": "leeudoringstad-452708"
+    },
+    {
+        "id_location": 420520,
+        "id_location_parent": 420509,
+        "name": "Kokosi",
+        "seoname": "kokosi-452709"
+    },
+    {
+        "id_location": 420521,
+        "id_location_parent": 420509,
+        "name": "Jouberton",
+        "seoname": "jouberton-452710"
+    },
+    {
+        "id_location": 420522,
+        "id_location_parent": 420509,
+        "name": "Itsoseng",
+        "seoname": "itsoseng-452711"
+    },
+    {
+        "id_location": 420523,
+        "id_location_parent": 420509,
+        "name": "Hartbeespoort",
+        "seoname": "hartbeespoort-452712"
+    },
+    {
+        "id_location": 420524,
+        "id_location_parent": 420509,
+        "name": "Hartbeesfontein",
+        "seoname": "hartbeesfontein-452713"
+    },
+    {
+        "id_location": 420525,
+        "id_location_parent": 420509,
+        "name": "Groot-Marico",
+        "seoname": "groot-marico-452714"
+    },
+    {
+        "id_location": 420526,
+        "id_location_parent": 420509,
+        "name": "Delareyville",
+        "seoname": "delareyville-452715"
+    },
+    {
+        "id_location": 420527,
+        "id_location_parent": 420509,
+        "name": "Coligny",
+        "seoname": "coligny-452716"
+    },
+    {
+        "id_location": 420528,
+        "id_location_parent": 420509,
+        "name": "Atamelang",
+        "seoname": "atamelang-452717"
+    },
+    {
+        "id_location": 420529,
+        "id_location_parent": 420509,
+        "name": "Carletonville",
+        "seoname": "carletonville-452718"
+    },
+    {
+        "id_location": 420530,
+        "id_location_parent": 420509,
+        "name": "Hekpoort",
+        "seoname": "hekpoort-452719"
+    },
+    {
+        "id_location": 420531,
+        "id_location_parent": 420509,
+        "name": "Lebogang",
+        "seoname": "lebogang-452720"
+    },
+    {
+        "id_location": 420532,
+        "id_location_parent": 420509,
+        "name": "Lerato",
+        "seoname": "lerato-452721"
+    },
+    {
+        "id_location": 420533,
+        "id_location_parent": 420509,
+        "name": "Radithuso",
+        "seoname": "radithuso-452722"
+    },
+    {
+        "id_location": 420534,
+        "id_location_parent": 420509,
+        "name": "Bloemhof",
+        "seoname": "bloemhof-452723"
+    },
+    {
+        "id_location": 420535,
+        "id_location_parent": 420509,
+        "name": "Christiana",
+        "seoname": "christiana-452724"
+    },
+    {
+        "id_location": 420536,
+        "id_location_parent": 420509,
+        "name": "Zeerust",
+        "seoname": "zeerust-452725"
+    },
+    {
+        "id_location": 420537,
+        "id_location_parent": 420509,
+        "name": "Wolmaransstad",
+        "seoname": "wolmaransstad-452726"
+    },
+    {
+        "id_location": 420538,
+        "id_location_parent": 420509,
+        "name": "Fochville",
+        "seoname": "fochville-452727"
+    },
+    {
+        "id_location": 420539,
+        "id_location_parent": 420509,
+        "name": "Lichtenburg",
+        "seoname": "lichtenburg-452728"
+    },
+    {
+        "id_location": 420540,
+        "id_location_parent": 420509,
+        "name": "Schweizer-Reineke",
+        "seoname": "schweizer-reineke-452729"
+    },
+    {
+        "id_location": 420541,
+        "id_location_parent": 420509,
+        "name": "Mmabatho",
+        "seoname": "mmabatho-452730"
+    },
+    {
+        "id_location": 420542,
+        "id_location_parent": 420509,
+        "name": "Stilfontein",
+        "seoname": "stilfontein-452731"
+    },
+    {
+        "id_location": 420543,
+        "id_location_parent": 420509,
+        "name": "Potchefstroom",
+        "seoname": "potchefstroom-452732"
+    },
+    {
+        "id_location": 420544,
+        "id_location_parent": 420509,
+        "name": "Rustenburg",
+        "seoname": "rustenburg-452733"
+    },
+    {
+        "id_location": 420545,
+        "id_location_parent": 420509,
+        "name": "Orkney",
+        "seoname": "orkney-452734"
+    },
+    {
+        "id_location": 420546,
+        "id_location_parent": 420509,
+        "name": "Klerksdorp",
+        "seoname": "klerksdorp-452735"
+    },
+    {
+        "id_location": 420547,
+        "id_location_parent": 1,
+        "name": "Northern Cape",
+        "seoname": "northern-cape-782124"
+    },
+    {
+        "id_location": 420548,
+        "id_location_parent": 420547,
+        "name": "Windsorton",
+        "seoname": "windsorton-452736"
+    },
+    {
+        "id_location": 420549,
+        "id_location_parent": 420547,
+        "name": "Williston",
+        "seoname": "williston-452737"
+    },
+    {
+        "id_location": 420550,
+        "id_location_parent": 420547,
+        "name": "Vanderkloof",
+        "seoname": "vanderkloof-452738"
+    },
+    {
+        "id_location": 420551,
+        "id_location_parent": 420547,
+        "name": "Ulco",
+        "seoname": "ulco-452739"
+    },
+    {
+        "id_location": 420552,
+        "id_location_parent": 420547,
+        "name": "Sutherland",
+        "seoname": "sutherland-452740"
+    },
+    {
+        "id_location": 420553,
+        "id_location_parent": 420547,
+        "name": "Strydenburg",
+        "seoname": "strydenburg-452741"
+    },
+    {
+        "id_location": 420554,
+        "id_location_parent": 420547,
+        "name": "Rietfontein",
+        "seoname": "rietfontein-452742"
+    },
+    {
+        "id_location": 420555,
+        "id_location_parent": 420547,
+        "name": "Postmasburg",
+        "seoname": "postmasburg-452743"
+    },
+    {
+        "id_location": 420556,
+        "id_location_parent": 420547,
+        "name": "Philipstown",
+        "seoname": "philipstown-452744"
+    },
+    {
+        "id_location": 420557,
+        "id_location_parent": 420547,
+        "name": "Petrusville",
+        "seoname": "petrusville-452745"
+    },
+    {
+        "id_location": 420558,
+        "id_location_parent": 420547,
+        "name": "Olifantshoek",
+        "seoname": "olifantshoek-452746"
+    },
+    {
+        "id_location": 420559,
+        "id_location_parent": 420547,
+        "name": "Niekerkshoop",
+        "seoname": "niekerkshoop-452747"
+    },
+    {
+        "id_location": 420560,
+        "id_location_parent": 420547,
+        "name": "Marydale",
+        "seoname": "marydale-452748"
+    },
+    {
+        "id_location": 420561,
+        "id_location_parent": 420547,
+        "name": "Mancorp Mine",
+        "seoname": "mancorp-mine-452749"
+    },
+    {
+        "id_location": 420562,
+        "id_location_parent": 420547,
+        "name": "Lime Acres",
+        "seoname": "lime-acres-452750"
+    },
+    {
+        "id_location": 420563,
+        "id_location_parent": 420547,
+        "name": "Kenhardt",
+        "seoname": "kenhardt-452751"
+    },
+    {
+        "id_location": 420564,
+        "id_location_parent": 420547,
+        "name": "Keimoes",
+        "seoname": "keimoes-452752"
+    },
+    {
+        "id_location": 420565,
+        "id_location_parent": 420547,
+        "name": "Kakamas",
+        "seoname": "kakamas-452753"
+    },
+    {
+        "id_location": 420566,
+        "id_location_parent": 420547,
+        "name": "Hotazel",
+        "seoname": "hotazel-452754"
+    },
+    {
+        "id_location": 420567,
+        "id_location_parent": 420547,
+        "name": "Hopetown",
+        "seoname": "hopetown-452755"
+    },
+    {
+        "id_location": 420568,
+        "id_location_parent": 420547,
+        "name": "Hartswater",
+        "seoname": "hartswater-452756"
+    },
+    {
+        "id_location": 420569,
+        "id_location_parent": 420547,
+        "name": "Grootdrink",
+        "seoname": "grootdrink-452757"
+    },
+    {
+        "id_location": 420570,
+        "id_location_parent": 420547,
+        "name": "Groblershoop",
+        "seoname": "groblershoop-452758"
+    },
+    {
+        "id_location": 420571,
+        "id_location_parent": 420547,
+        "name": "Griekwastad",
+        "seoname": "griekwastad-452759"
+    },
+    {
+        "id_location": 420572,
+        "id_location_parent": 420547,
+        "name": "Douglas",
+        "seoname": "douglas-452760"
+    },
+    {
+        "id_location": 420573,
+        "id_location_parent": 420547,
+        "name": "Dibeng",
+        "seoname": "dibeng-452761"
+    },
+    {
+        "id_location": 420574,
+        "id_location_parent": 420547,
+        "name": "Delportshoop",
+        "seoname": "delportshoop-452762"
+    },
+    {
+        "id_location": 420575,
+        "id_location_parent": 420547,
+        "name": "Britstown",
+        "seoname": "britstown-452763"
+    },
+    {
+        "id_location": 420576,
+        "id_location_parent": 420547,
+        "name": "Brandvlei",
+        "seoname": "brandvlei-452764"
+    },
+    {
+        "id_location": 420577,
+        "id_location_parent": 420547,
+        "name": "Askham",
+        "seoname": "askham-452765"
+    },
+    {
+        "id_location": 420578,
+        "id_location_parent": 420547,
+        "name": "Vioolsdrif",
+        "seoname": "vioolsdrif-452766"
+    },
+    {
+        "id_location": 420579,
+        "id_location_parent": 420547,
+        "name": "Steinkopf",
+        "seoname": "steinkopf-452767"
+    },
+    {
+        "id_location": 420580,
+        "id_location_parent": 420547,
+        "name": "Port Nolloth",
+        "seoname": "port-nolloth-452768"
+    },
+    {
+        "id_location": 420581,
+        "id_location_parent": 420547,
+        "name": "Pofadder",
+        "seoname": "pofadder-452769"
+    },
+    {
+        "id_location": 420582,
+        "id_location_parent": 420547,
+        "name": "Pella",
+        "seoname": "pella-452770"
+    },
+    {
+        "id_location": 420583,
+        "id_location_parent": 420547,
+        "name": "Okiep",
+        "seoname": "okiep-452771"
+    },
+    {
+        "id_location": 420584,
+        "id_location_parent": 420547,
+        "name": "Nieuwoudtville",
+        "seoname": "nieuwoudtville-452772"
+    },
+    {
+        "id_location": 420585,
+        "id_location_parent": 420547,
+        "name": "Nababeep",
+        "seoname": "nababeep-452773"
+    },
+    {
+        "id_location": 420586,
+        "id_location_parent": 420547,
+        "name": "Loeriesfontein",
+        "seoname": "loeriesfontein-452774"
+    },
+    {
+        "id_location": 420587,
+        "id_location_parent": 420547,
+        "name": "Kotzeshoop",
+        "seoname": "kotzeshoop-452775"
+    },
+    {
+        "id_location": 420588,
+        "id_location_parent": 420547,
+        "name": "Kleinsee",
+        "seoname": "kleinsee-452776"
+    },
+    {
+        "id_location": 420589,
+        "id_location_parent": 420547,
+        "name": "Kamieskroon",
+        "seoname": "kamieskroon-452777"
+    },
+    {
+        "id_location": 420590,
+        "id_location_parent": 420547,
+        "name": "Garies",
+        "seoname": "garies-452778"
+    },
+    {
+        "id_location": 420591,
+        "id_location_parent": 420547,
+        "name": "Alexander Bay",
+        "seoname": "alexander-bay-452779"
+    },
+    {
+        "id_location": 420592,
+        "id_location_parent": 420547,
+        "name": "Beaconsfield",
+        "seoname": "beaconsfield-452780"
+    },
+    {
+        "id_location": 420593,
+        "id_location_parent": 420547,
+        "name": "Belmont",
+        "seoname": "belmont-452781"
+    },
+    {
+        "id_location": 420594,
+        "id_location_parent": 420547,
+        "name": "Boshof",
+        "seoname": "boshof-452782"
+    },
+    {
+        "id_location": 420595,
+        "id_location_parent": 420547,
+        "name": "Galeshewe",
+        "seoname": "galeshewe-452783"
+    },
+    {
+        "id_location": 420596,
+        "id_location_parent": 420547,
+        "name": "Ganyesa",
+        "seoname": "ganyesa-452784"
+    },
+    {
+        "id_location": 420597,
+        "id_location_parent": 420547,
+        "name": "Jacobsdal",
+        "seoname": "jacobsdal-452785"
+    },
+    {
+        "id_location": 420598,
+        "id_location_parent": 420547,
+        "name": "Jan Kempdorp",
+        "seoname": "jan-kempdorp-452786"
+    },
+    {
+        "id_location": 420599,
+        "id_location_parent": 420547,
+        "name": "Madibogo",
+        "seoname": "madibogo-452787"
+    },
+    {
+        "id_location": 420600,
+        "id_location_parent": 420547,
+        "name": "Magogong",
+        "seoname": "magogong-452788"
+    },
+    {
+        "id_location": 420601,
+        "id_location_parent": 420547,
+        "name": "Mankurwane",
+        "seoname": "mankurwane-452789"
+    },
+    {
+        "id_location": 420602,
+        "id_location_parent": 420547,
+        "name": "Mothibistat",
+        "seoname": "mothibistat-452790"
+    },
+    {
+        "id_location": 420603,
+        "id_location_parent": 420547,
+        "name": "Northern Cape",
+        "seoname": "northern-cape-452791"
+    },
+    {
+        "id_location": 420604,
+        "id_location_parent": 420547,
+        "name": "Pescodia",
+        "seoname": "pescodia-452792"
+    },
+    {
+        "id_location": 420605,
+        "id_location_parent": 420547,
+        "name": "Pomfret",
+        "seoname": "pomfret-452793"
+    },
+    {
+        "id_location": 420606,
+        "id_location_parent": 420547,
+        "name": "Pudimoe",
+        "seoname": "pudimoe-452794"
+    },
+    {
+        "id_location": 420607,
+        "id_location_parent": 420547,
+        "name": "Reivilo",
+        "seoname": "reivilo-452795"
+    },
+    {
+        "id_location": 420608,
+        "id_location_parent": 420547,
+        "name": "Seseng",
+        "seoname": "seseng-452796"
+    },
+    {
+        "id_location": 420609,
+        "id_location_parent": 420547,
+        "name": "Stella",
+        "seoname": "stella-452797"
+    },
+    {
+        "id_location": 420610,
+        "id_location_parent": 420547,
+        "name": "Taung",
+        "seoname": "taung-452798"
+    },
+    {
+        "id_location": 420611,
+        "id_location_parent": 420547,
+        "name": "Vredendal",
+        "seoname": "vredendal-452799"
+    },
+    {
+        "id_location": 420612,
+        "id_location_parent": 420547,
+        "name": "Vryburg",
+        "seoname": "vryburg-452800"
+    },
+    {
+        "id_location": 420613,
+        "id_location_parent": 420547,
+        "name": "Carnarvon",
+        "seoname": "carnarvon-452801"
+    },
+    {
+        "id_location": 420614,
+        "id_location_parent": 420547,
+        "name": "Calvinia",
+        "seoname": "calvinia-452802"
+    },
+    {
+        "id_location": 420615,
+        "id_location_parent": 420547,
+        "name": "Kuruman",
+        "seoname": "kuruman-452803"
+    },
+    {
+        "id_location": 420616,
+        "id_location_parent": 420547,
+        "name": "Kathu",
+        "seoname": "kathu-452804"
+    },
+    {
+        "id_location": 420617,
+        "id_location_parent": 420547,
+        "name": "Ritchie",
+        "seoname": "ritchie-452805"
+    },
+    {
+        "id_location": 420618,
+        "id_location_parent": 420547,
+        "name": "Dani\u00eblskuil",
+        "seoname": "danielskuil-452806"
+    },
+    {
+        "id_location": 420619,
+        "id_location_parent": 420547,
+        "name": "Springbok",
+        "seoname": "springbok-452807"
+    },
+    {
+        "id_location": 420620,
+        "id_location_parent": 420547,
+        "name": "Prieska",
+        "seoname": "prieska-452808"
+    },
+    {
+        "id_location": 420621,
+        "id_location_parent": 420547,
+        "name": "Barkly West",
+        "seoname": "barkly-west-452809"
+    },
+    {
+        "id_location": 420622,
+        "id_location_parent": 420547,
+        "name": "Warrenton",
+        "seoname": "warrenton-452810"
+    },
+    {
+        "id_location": 420623,
+        "id_location_parent": 420547,
+        "name": "De Aar",
+        "seoname": "de-aar-452811"
+    },
+    {
+        "id_location": 420624,
+        "id_location_parent": 420547,
+        "name": "Upington",
+        "seoname": "upington-452812"
+    },
+    {
+        "id_location": 420625,
+        "id_location_parent": 420547,
+        "name": "Kimberley",
+        "seoname": "kimberley-452813"
+    },
+    {
+        "id_location": 420626,
+        "id_location_parent": 1,
+        "name": "Western Cape",
+        "seoname": "western-cape-782125"
+    },
+    {
+        "id_location": 420627,
+        "id_location_parent": 420626,
+        "name": "Wilderness",
+        "seoname": "wilderness-452814"
+    },
+    {
+        "id_location": 420628,
+        "id_location_parent": 420626,
+        "name": "Touwsrivier",
+        "seoname": "touwsrivier-452815"
+    },
+    {
+        "id_location": 420629,
+        "id_location_parent": 420626,
+        "name": "Stilbaai",
+        "seoname": "stilbaai-452816"
+    },
+    {
+        "id_location": 420630,
+        "id_location_parent": 420626,
+        "name": "Sedgefield",
+        "seoname": "sedgefield-452817"
+    },
+    {
+        "id_location": 420631,
+        "id_location_parent": 420626,
+        "name": "Riversdale",
+        "seoname": "riversdale-452818"
+    },
+    {
+        "id_location": 420632,
+        "id_location_parent": 420626,
+        "name": "Prince Albert",
+        "seoname": "prince-albert-452819"
+    },
+    {
+        "id_location": 420633,
+        "id_location_parent": 420626,
+        "name": "Murraysburg",
+        "seoname": "murraysburg-452820"
+    },
+    {
+        "id_location": 420634,
+        "id_location_parent": 420626,
+        "name": "Mossel Bay",
+        "seoname": "mossel-bay-452821"
+    },
+    {
+        "id_location": 420635,
+        "id_location_parent": 420626,
+        "name": "Montagu",
+        "seoname": "montagu-452822"
+    },
+    {
+        "id_location": 420636,
+        "id_location_parent": 420626,
+        "name": "Laingsburg",
+        "seoname": "laingsburg-452823"
+    },
+    {
+        "id_location": 420637,
+        "id_location_parent": 420626,
+        "name": "Ladismith",
+        "seoname": "ladismith-452824"
+    },
+    {
+        "id_location": 420638,
+        "id_location_parent": 420626,
+        "name": "Hartenbos",
+        "seoname": "hartenbos-452825"
+    },
+    {
+        "id_location": 420639,
+        "id_location_parent": 420626,
+        "name": "Glentana",
+        "seoname": "glentana-452826"
+    },
+    {
+        "id_location": 420640,
+        "id_location_parent": 420626,
+        "name": "Calitzdorp",
+        "seoname": "calitzdorp-452827"
+    },
+    {
+        "id_location": 420641,
+        "id_location_parent": 420626,
+        "name": "Bonnievale",
+        "seoname": "bonnievale-452828"
+    },
+    {
+        "id_location": 420642,
+        "id_location_parent": 420626,
+        "name": "Barrydale",
+        "seoname": "barrydale-452829"
+    },
+    {
+        "id_location": 420643,
+        "id_location_parent": 420626,
+        "name": "Ashton",
+        "seoname": "ashton-452830"
+    },
+    {
+        "id_location": 420644,
+        "id_location_parent": 420626,
+        "name": "Albertina",
+        "seoname": "albertina-452831"
+    },
+    {
+        "id_location": 420645,
+        "id_location_parent": 420626,
+        "name": "Yzerfontein",
+        "seoname": "yzerfontein-452832"
+    },
+    {
+        "id_location": 420646,
+        "id_location_parent": 420626,
+        "name": "Wolseley",
+        "seoname": "wolseley-452833"
+    },
+    {
+        "id_location": 420647,
+        "id_location_parent": 420626,
+        "name": "Wellington",
+        "seoname": "wellington-452834"
+    },
+    {
+        "id_location": 420648,
+        "id_location_parent": 420626,
+        "name": "Vredenburg",
+        "seoname": "vredenburg-452835"
+    },
+    {
+        "id_location": 420649,
+        "id_location_parent": 420626,
+        "name": "Villiersdorp",
+        "seoname": "villiersdorp-452836"
+    },
+    {
+        "id_location": 420650,
+        "id_location_parent": 420626,
+        "name": "Velddrif",
+        "seoname": "velddrif-452837"
+    },
+    {
+        "id_location": 420651,
+        "id_location_parent": 420626,
+        "name": "Vanrhynsdorp",
+        "seoname": "vanrhynsdorp-452838"
+    },
+    {
+        "id_location": 420652,
+        "id_location_parent": 420626,
+        "name": "Tulbagh",
+        "seoname": "tulbagh-452839"
+    },
+    {
+        "id_location": 420653,
+        "id_location_parent": 420626,
+        "name": "Strandfontein",
+        "seoname": "strandfontein-452840"
+    },
+    {
+        "id_location": 420654,
+        "id_location_parent": 420626,
+        "name": "Strand",
+        "seoname": "strand-452841"
+    },
+    {
+        "id_location": 420655,
+        "id_location_parent": 420626,
+        "name": "Robertson",
+        "seoname": "robertson-452842"
+    },
+    {
+        "id_location": 420656,
+        "id_location_parent": 420626,
+        "name": "Pringle Bay",
+        "seoname": "pringle-bay-452843"
+    },
+    {
+        "id_location": 420657,
+        "id_location_parent": 420626,
+        "name": "Prince Alfred Hamlet",
+        "seoname": "prince-alfred-hamlet-452844"
+    },
+    {
+        "id_location": 420658,
+        "id_location_parent": 420626,
+        "name": "Porterville",
+        "seoname": "porterville-452845"
+    },
+    {
+        "id_location": 420659,
+        "id_location_parent": 420626,
+        "name": "Piketberg",
+        "seoname": "piketberg-452846"
+    },
+    {
+        "id_location": 420660,
+        "id_location_parent": 420626,
+        "name": "Paternoster",
+        "seoname": "paternoster-452847"
+    },
+    {
+        "id_location": 420661,
+        "id_location_parent": 420626,
+        "name": "Parow",
+        "seoname": "parow-452848"
+    },
+    {
+        "id_location": 420662,
+        "id_location_parent": 420626,
+        "name": "Paarl",
+        "seoname": "paarl-452849"
+    },
+    {
+        "id_location": 420663,
+        "id_location_parent": 420626,
+        "name": "Noordhoek",
+        "seoname": "noordhoek-452850"
+    },
+    {
+        "id_location": 420664,
+        "id_location_parent": 420626,
+        "name": "Napier",
+        "seoname": "napier-452851"
+    },
+    {
+        "id_location": 420665,
+        "id_location_parent": 420626,
+        "name": "Muizenberg",
+        "seoname": "muizenberg-452852"
+    },
+    {
+        "id_location": 420666,
+        "id_location_parent": 420626,
+        "name": "Moorreesburg",
+        "seoname": "moorreesburg-452853"
+    },
+    {
+        "id_location": 420667,
+        "id_location_parent": 420626,
+        "name": "Mitchells Plain",
+        "seoname": "mitchells-plain-452854"
+    },
+    {
+        "id_location": 420668,
+        "id_location_parent": 420626,
+        "name": "Milnerton",
+        "seoname": "milnerton-452855"
+    },
+    {
+        "id_location": 420669,
+        "id_location_parent": 420626,
+        "name": "Melkbosstrand",
+        "seoname": "melkbosstrand-452856"
+    },
+    {
+        "id_location": 420670,
+        "id_location_parent": 420626,
+        "name": "Lutzville",
+        "seoname": "lutzville-452857"
+    },
+    {
+        "id_location": 420671,
+        "id_location_parent": 420626,
+        "name": "Langebaan",
+        "seoname": "langebaan-452858"
+    },
+    {
+        "id_location": 420672,
+        "id_location_parent": 420626,
+        "name": "Kuilsrivier",
+        "seoname": "kuilsrivier-452859"
+    },
+    {
+        "id_location": 420673,
+        "id_location_parent": 420626,
+        "name": "Kraaifontein",
+        "seoname": "kraaifontein-452860"
+    },
+    {
+        "id_location": 420674,
+        "id_location_parent": 420626,
+        "name": "Kommetjie",
+        "seoname": "kommetjie-452861"
+    },
+    {
+        "id_location": 420675,
+        "id_location_parent": 420626,
+        "name": "Houtbaai",
+        "seoname": "houtbaai-452862"
+    },
+    {
+        "id_location": 420676,
+        "id_location_parent": 420626,
+        "name": "Hopefield",
+        "seoname": "hopefield-452863"
+    },
+    {
+        "id_location": 420677,
+        "id_location_parent": 420626,
+        "name": "Greyton",
+        "seoname": "greyton-452864"
+    },
+    {
+        "id_location": 420678,
+        "id_location_parent": 420626,
+        "name": "Graafwater",
+        "seoname": "graafwater-452865"
+    },
+    {
+        "id_location": 420679,
+        "id_location_parent": 420626,
+        "name": "Goodwood",
+        "seoname": "goodwood-452866"
+    },
+    {
+        "id_location": 420680,
+        "id_location_parent": 420626,
+        "name": "Genadendal",
+        "seoname": "genadendal-452867"
+    },
+    {
+        "id_location": 420681,
+        "id_location_parent": 420626,
+        "name": "Gansbaai",
+        "seoname": "gansbaai-452868"
+    },
+    {
+        "id_location": 420682,
+        "id_location_parent": 420626,
+        "name": "Franschhoek",
+        "seoname": "franschhoek-452869"
+    },
+    {
+        "id_location": 420683,
+        "id_location_parent": 420626,
+        "name": "Eersterivier",
+        "seoname": "eersterivier-452870"
+    },
+    {
+        "id_location": 420684,
+        "id_location_parent": 420626,
+        "name": "Durbanville",
+        "seoname": "durbanville-452871"
+    },
+    {
+        "id_location": 420685,
+        "id_location_parent": 420626,
+        "name": "De Doorns",
+        "seoname": "de-doorns-452872"
+    },
+    {
+        "id_location": 420686,
+        "id_location_parent": 420626,
+        "name": "Darling",
+        "seoname": "darling-452873"
+    },
+    {
+        "id_location": 420687,
+        "id_location_parent": 420626,
+        "name": "Clanwilliam",
+        "seoname": "clanwilliam-452874"
+    },
+    {
+        "id_location": 420688,
+        "id_location_parent": 420626,
+        "name": "Citrusdal",
+        "seoname": "citrusdal-452875"
+    },
+    {
+        "id_location": 420689,
+        "id_location_parent": 420626,
+        "name": "Chatsworth",
+        "seoname": "chatsworth-452876"
+    },
+    {
+        "id_location": 420690,
+        "id_location_parent": 420626,
+        "name": "Brackenfell",
+        "seoname": "brackenfell-452877"
+    },
+    {
+        "id_location": 420691,
+        "id_location_parent": 420626,
+        "name": "Bitterfontein",
+        "seoname": "bitterfontein-452878"
+    },
+    {
+        "id_location": 420692,
+        "id_location_parent": 420626,
+        "name": "Bellville",
+        "seoname": "bellville-452879"
+    },
+    {
+        "id_location": 420693,
+        "id_location_parent": 420626,
+        "name": "Belhar",
+        "seoname": "belhar-452880"
+    },
+    {
+        "id_location": 420694,
+        "id_location_parent": 420626,
+        "name": "Aurora",
+        "seoname": "aurora-452881"
+    },
+    {
+        "id_location": 420695,
+        "id_location_parent": 420626,
+        "name": "Somerset West",
+        "seoname": "somerset-west-452882"
+    },
+    {
+        "id_location": 420696,
+        "id_location_parent": 420626,
+        "name": "Rondebosch",
+        "seoname": "rondebosch-452883"
+    },
+    {
+        "id_location": 420697,
+        "id_location_parent": 420626,
+        "name": "Bettys Bay",
+        "seoname": "bettys-bay-452884"
+    },
+    {
+        "id_location": 420698,
+        "id_location_parent": 420626,
+        "name": "Blaauwberg",
+        "seoname": "blaauwberg-452885"
+    },
+    {
+        "id_location": 420699,
+        "id_location_parent": 420626,
+        "name": "Blackheath",
+        "seoname": "blackheath-452886"
+    },
+    {
+        "id_location": 420700,
+        "id_location_parent": 420626,
+        "name": "Blue Downs",
+        "seoname": "blue-downs-452887"
+    },
+    {
+        "id_location": 420701,
+        "id_location_parent": 420626,
+        "name": "Boggomsbaai",
+        "seoname": "boggomsbaai-452888"
+    },
+    {
+        "id_location": 420702,
+        "id_location_parent": 420626,
+        "name": "Cape Agulhas",
+        "seoname": "cape-agulhas-452889"
+    },
+    {
+        "id_location": 420703,
+        "id_location_parent": 420626,
+        "name": "Cederberg",
+        "seoname": "cederberg-452890"
+    },
+    {
+        "id_location": 420704,
+        "id_location_parent": 420626,
+        "name": "Elandsbay",
+        "seoname": "elandsbay-452891"
+    },
+    {
+        "id_location": 420705,
+        "id_location_parent": 420626,
+        "name": "Elsies River",
+        "seoname": "elsies-river-452892"
+    },
+    {
+        "id_location": 420706,
+        "id_location_parent": 420626,
+        "name": "Fish Hoek",
+        "seoname": "fish-hoek-452893"
+    },
+    {
+        "id_location": 420707,
+        "id_location_parent": 420626,
+        "name": "Gordons Bay",
+        "seoname": "gordons-bay-452894"
+    },
+    {
+        "id_location": 420708,
+        "id_location_parent": 420626,
+        "name": "Grassy Park",
+        "seoname": "grassy-park-452895"
+    },
+    {
+        "id_location": 420709,
+        "id_location_parent": 420626,
+        "name": "Jacobs Bay",
+        "seoname": "jacobs-bay-452896"
+    },
+    {
+        "id_location": 420710,
+        "id_location_parent": 420626,
+        "name": "Kleinmond",
+        "seoname": "kleinmond-452897"
+    },
+    {
+        "id_location": 420711,
+        "id_location_parent": 420626,
+        "name": "Lamberts Bay",
+        "seoname": "lamberts-bay-452898"
+    },
+    {
+        "id_location": 420712,
+        "id_location_parent": 420626,
+        "name": "Lansdowne",
+        "seoname": "lansdowne-452899"
+    },
+    {
+        "id_location": 420713,
+        "id_location_parent": 420626,
+        "name": "Malmesbury",
+        "seoname": "malmesbury-452900"
+    },
+    {
+        "id_location": 420714,
+        "id_location_parent": 420626,
+        "name": "Matroosfontein",
+        "seoname": "matroosfontein-452901"
+    },
+    {
+        "id_location": 420715,
+        "id_location_parent": 420626,
+        "name": "Paarden Island",
+        "seoname": "paarden-island-452902"
+    },
+    {
+        "id_location": 420716,
+        "id_location_parent": 420626,
+        "name": "Retreat",
+        "seoname": "retreat-452903"
+    },
+    {
+        "id_location": 420717,
+        "id_location_parent": 420626,
+        "name": "Simons Town",
+        "seoname": "simons-town-452904"
+    },
+    {
+        "id_location": 420718,
+        "id_location_parent": 420626,
+        "name": "St Helena Bay",
+        "seoname": "st-helena-bay-452905"
+    },
+    {
+        "id_location": 420719,
+        "id_location_parent": 420626,
+        "name": "ZZ TBA",
+        "seoname": "zz-tba-452906"
+    },
+    {
+        "id_location": 420720,
+        "id_location_parent": 420626,
+        "name": "Caledon",
+        "seoname": "caledon-452907"
+    },
+    {
+        "id_location": 420721,
+        "id_location_parent": 420626,
+        "name": "Swellendam",
+        "seoname": "swellendam-452908"
+    },
+    {
+        "id_location": 420722,
+        "id_location_parent": 420626,
+        "name": "Vredendal",
+        "seoname": "vredendal-452909"
+    },
+    {
+        "id_location": 420723,
+        "id_location_parent": 420626,
+        "name": "Bredasdorp",
+        "seoname": "bredasdorp-452910"
+    },
+    {
+        "id_location": 420724,
+        "id_location_parent": 420626,
+        "name": "Plettenberg Bay",
+        "seoname": "plettenberg-bay-452911"
+    },
+    {
+        "id_location": 420725,
+        "id_location_parent": 420626,
+        "name": "Hermanus",
+        "seoname": "hermanus-452912"
+    },
+    {
+        "id_location": 420726,
+        "id_location_parent": 420626,
+        "name": "Grabouw",
+        "seoname": "grabouw-452913"
+    },
+    {
+        "id_location": 420727,
+        "id_location_parent": 420626,
+        "name": "Ceres",
+        "seoname": "ceres-452914"
+    },
+    {
+        "id_location": 420728,
+        "id_location_parent": 420626,
+        "name": "Beaufort West",
+        "seoname": "beaufort-west-452915"
+    },
+    {
+        "id_location": 420729,
+        "id_location_parent": 420626,
+        "name": "Atlantis",
+        "seoname": "atlantis-452916"
+    },
+    {
+        "id_location": 420730,
+        "id_location_parent": 420626,
+        "name": "Knysna",
+        "seoname": "knysna-452917"
+    },
+    {
+        "id_location": 420731,
+        "id_location_parent": 420626,
+        "name": "Saldanha",
+        "seoname": "saldanha-452918"
+    },
+    {
+        "id_location": 420732,
+        "id_location_parent": 420626,
+        "name": "Oudtshoorn",
+        "seoname": "oudtshoorn-452919"
+    },
+    {
+        "id_location": 420733,
+        "id_location_parent": 420626,
+        "name": "Stellenbosch",
+        "seoname": "stellenbosch-452920"
+    },
+    {
+        "id_location": 420734,
+        "id_location_parent": 420626,
+        "name": "Worcester",
+        "seoname": "worcester-452921"
+    },
+    {
+        "id_location": 420735,
+        "id_location_parent": 420626,
+        "name": "George",
+        "seoname": "george-452922"
+    },
+    {
+        "id_location": 420736,
+        "id_location_parent": 420626,
+        "name": "Cape Town",
+        "seoname": "cape-town-452923"
+    }
+]

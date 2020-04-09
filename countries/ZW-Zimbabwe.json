@@ -1,0 +1,1286 @@
+[
+    {
+        "id_location": 420737,
+        "id_location_parent": 1,
+        "name": "Midlands",
+        "seoname": "midlands-782980"
+    },
+    {
+        "id_location": 420738,
+        "id_location_parent": 420737,
+        "name": "'Bannockburn'",
+        "seoname": "bannockburn-515632"
+    },
+    {
+        "id_location": 420739,
+        "id_location_parent": 420737,
+        "name": "'Buchwa'",
+        "seoname": "buchwa-515633"
+    },
+    {
+        "id_location": 420740,
+        "id_location_parent": 420737,
+        "name": "Chirumanzu",
+        "seoname": "chirumanzu-515634"
+    },
+    {
+        "id_location": 420741,
+        "id_location_parent": 420737,
+        "name": "Chivhu",
+        "seoname": "chivhu-515635"
+    },
+    {
+        "id_location": 420742,
+        "id_location_parent": 420737,
+        "name": "Copper Queen",
+        "seoname": "copper-queen-515636"
+    },
+    {
+        "id_location": 420743,
+        "id_location_parent": 420737,
+        "name": "Empress Mine",
+        "seoname": "empress-mine-515637"
+    },
+    {
+        "id_location": 420744,
+        "id_location_parent": 420737,
+        "name": "Featherstone",
+        "seoname": "featherstone-515638"
+    },
+    {
+        "id_location": 420745,
+        "id_location_parent": 420737,
+        "name": "Gokwe",
+        "seoname": "gokwe-515639"
+    },
+    {
+        "id_location": 420746,
+        "id_location_parent": 420737,
+        "name": "Guinea Fowl",
+        "seoname": "guinea-fowl-515640"
+    },
+    {
+        "id_location": 420747,
+        "id_location_parent": 420737,
+        "name": "Gweru",
+        "seoname": "gweru-515641"
+    },
+    {
+        "id_location": 420748,
+        "id_location_parent": 420737,
+        "name": "Hunters Road",
+        "seoname": "hunters-road-515642"
+    },
+    {
+        "id_location": 420749,
+        "id_location_parent": 420737,
+        "name": "Ingezi",
+        "seoname": "ingezi-515643"
+    },
+    {
+        "id_location": 420750,
+        "id_location_parent": 420737,
+        "name": "Insukamini",
+        "seoname": "insukamini-515644"
+    },
+    {
+        "id_location": 420751,
+        "id_location_parent": 420737,
+        "name": "Kwekwe",
+        "seoname": "kwekwe-515645"
+    },
+    {
+        "id_location": 420752,
+        "id_location_parent": 420737,
+        "name": "Lalapanzi",
+        "seoname": "lalapanzi-515646"
+    },
+    {
+        "id_location": 420753,
+        "id_location_parent": 420737,
+        "name": "Lower Gweru",
+        "seoname": "lower-gweru-515647"
+    },
+    {
+        "id_location": 420754,
+        "id_location_parent": 420737,
+        "name": "Mberengwa",
+        "seoname": "mberengwa-515648"
+    },
+    {
+        "id_location": 420755,
+        "id_location_parent": 420737,
+        "name": "Mvuma",
+        "seoname": "mvuma-515649"
+    },
+    {
+        "id_location": 420756,
+        "id_location_parent": 420737,
+        "name": "New Featherstone",
+        "seoname": "new-featherstone-515650"
+    },
+    {
+        "id_location": 420757,
+        "id_location_parent": 420737,
+        "name": "Njelele",
+        "seoname": "njelele-515651"
+    },
+    {
+        "id_location": 420758,
+        "id_location_parent": 420737,
+        "name": "Redcliff",
+        "seoname": "redcliff-515652"
+    },
+    {
+        "id_location": 420759,
+        "id_location_parent": 420737,
+        "name": "Sherwood",
+        "seoname": "sherwood-515653"
+    },
+    {
+        "id_location": 420760,
+        "id_location_parent": 420737,
+        "name": "Shurugwi",
+        "seoname": "shurugwi-515654"
+    },
+    {
+        "id_location": 420761,
+        "id_location_parent": 420737,
+        "name": "Silobela",
+        "seoname": "silobela-515655"
+    },
+    {
+        "id_location": 420762,
+        "id_location_parent": 420737,
+        "name": "Somabhula",
+        "seoname": "somabhula-515656"
+    },
+    {
+        "id_location": 420763,
+        "id_location_parent": 420737,
+        "name": "The Range",
+        "seoname": "the-range-515657"
+    },
+    {
+        "id_location": 420764,
+        "id_location_parent": 420737,
+        "name": "Zhombe",
+        "seoname": "zhombe-515658"
+    },
+    {
+        "id_location": 420765,
+        "id_location_parent": 420737,
+        "name": "Zvishavane",
+        "seoname": "zvishavane-515659"
+    },
+    {
+        "id_location": 420766,
+        "id_location_parent": 1,
+        "name": "Matabeleland South",
+        "seoname": "matabeleland-south-782981"
+    },
+    {
+        "id_location": 420767,
+        "id_location_parent": 420766,
+        "name": "Antelope Mine",
+        "seoname": "antelope-mine-515660"
+    },
+    {
+        "id_location": 420768,
+        "id_location_parent": 420766,
+        "name": "Beitbridge",
+        "seoname": "beitbridge-515661"
+    },
+    {
+        "id_location": 420769,
+        "id_location_parent": 420766,
+        "name": "Blanket",
+        "seoname": "blanket-515662"
+    },
+    {
+        "id_location": 420770,
+        "id_location_parent": 420766,
+        "name": "Colleen Bawn",
+        "seoname": "colleen-bawn-515663"
+    },
+    {
+        "id_location": 420771,
+        "id_location_parent": 420766,
+        "name": "Esimbomvu",
+        "seoname": "esimbomvu-515664"
+    },
+    {
+        "id_location": 420772,
+        "id_location_parent": 420766,
+        "name": "Esigodini",
+        "seoname": "esigodini-515665"
+    },
+    {
+        "id_location": 420773,
+        "id_location_parent": 420766,
+        "name": "Figtree",
+        "seoname": "figtree-515666"
+    },
+    {
+        "id_location": 420774,
+        "id_location_parent": 420766,
+        "name": "Filabusi",
+        "seoname": "filabusi-515667"
+    },
+    {
+        "id_location": 420775,
+        "id_location_parent": 420766,
+        "name": "Fort Rixon",
+        "seoname": "fort-rixon-515668"
+    },
+    {
+        "id_location": 420776,
+        "id_location_parent": 420766,
+        "name": "Fort Usher",
+        "seoname": "fort-usher-515669"
+    },
+    {
+        "id_location": 420777,
+        "id_location_parent": 420766,
+        "name": "Gwanda",
+        "seoname": "gwanda-515670"
+    },
+    {
+        "id_location": 420778,
+        "id_location_parent": 420766,
+        "name": "Kame",
+        "seoname": "kame-515671"
+    },
+    {
+        "id_location": 420779,
+        "id_location_parent": 420766,
+        "name": "Kezi",
+        "seoname": "kezi-515672"
+    },
+    {
+        "id_location": 420780,
+        "id_location_parent": 420766,
+        "name": "Mangwe",
+        "seoname": "mangwe-515673"
+    },
+    {
+        "id_location": 420781,
+        "id_location_parent": 420766,
+        "name": "Maphisa",
+        "seoname": "maphisa-515674"
+    },
+    {
+        "id_location": 420782,
+        "id_location_parent": 420766,
+        "name": "Marula",
+        "seoname": "marula-515675"
+    },
+    {
+        "id_location": 420783,
+        "id_location_parent": 420766,
+        "name": "Mazunga",
+        "seoname": "mazunga-515676"
+    },
+    {
+        "id_location": 420784,
+        "id_location_parent": 420766,
+        "name": "Mbalabala",
+        "seoname": "mbalabala-515677"
+    },
+    {
+        "id_location": 420785,
+        "id_location_parent": 420766,
+        "name": "Mphoengs",
+        "seoname": "mphoengs-515678"
+    },
+    {
+        "id_location": 420786,
+        "id_location_parent": 420766,
+        "name": "Ngwesi",
+        "seoname": "ngwesi-515679"
+    },
+    {
+        "id_location": 420787,
+        "id_location_parent": 420766,
+        "name": "Nsiza",
+        "seoname": "nsiza-515680"
+    },
+    {
+        "id_location": 420788,
+        "id_location_parent": 420766,
+        "name": "Plumtree",
+        "seoname": "plumtree-515681"
+    },
+    {
+        "id_location": 420789,
+        "id_location_parent": 420766,
+        "name": "Towla",
+        "seoname": "towla-515682"
+    },
+    {
+        "id_location": 420790,
+        "id_location_parent": 420766,
+        "name": "Tuli",
+        "seoname": "tuli-515683"
+    },
+    {
+        "id_location": 420791,
+        "id_location_parent": 420766,
+        "name": "Vubachikwe",
+        "seoname": "vubachikwe-515684"
+    },
+    {
+        "id_location": 420792,
+        "id_location_parent": 1,
+        "name": "Matabeleland North",
+        "seoname": "matabeleland-north-782982"
+    },
+    {
+        "id_location": 420793,
+        "id_location_parent": 420792,
+        "name": "Bembezi",
+        "seoname": "bembezi-515685"
+    },
+    {
+        "id_location": 420794,
+        "id_location_parent": 420792,
+        "name": "Binga",
+        "seoname": "binga-515686"
+    },
+    {
+        "id_location": 420795,
+        "id_location_parent": 420792,
+        "name": "Bulawayo",
+        "seoname": "bulawayo-515687"
+    },
+    {
+        "id_location": 420796,
+        "id_location_parent": 420792,
+        "name": "Deka Drum",
+        "seoname": "deka-drum-515688"
+    },
+    {
+        "id_location": 420797,
+        "id_location_parent": 420792,
+        "name": "Dete",
+        "seoname": "dete-515689"
+    },
+    {
+        "id_location": 420798,
+        "id_location_parent": 420792,
+        "name": "Eastnor",
+        "seoname": "eastnor-515690"
+    },
+    {
+        "id_location": 420799,
+        "id_location_parent": 420792,
+        "name": "Hwange",
+        "seoname": "hwange-515691"
+    },
+    {
+        "id_location": 420800,
+        "id_location_parent": 420792,
+        "name": "Inyati",
+        "seoname": "inyati-515692"
+    },
+    {
+        "id_location": 420801,
+        "id_location_parent": 420792,
+        "name": "Kamativi",
+        "seoname": "kamativi-515693"
+    },
+    {
+        "id_location": 420802,
+        "id_location_parent": 420792,
+        "name": "Kariyangwe",
+        "seoname": "kariyangwe-515694"
+    },
+    {
+        "id_location": 420803,
+        "id_location_parent": 420792,
+        "name": "Kazungula",
+        "seoname": "kazungula-515695"
+    },
+    {
+        "id_location": 420804,
+        "id_location_parent": 420792,
+        "name": "Kenmaur",
+        "seoname": "kenmaur-515696"
+    },
+    {
+        "id_location": 420805,
+        "id_location_parent": 420792,
+        "name": "Lonely Mine",
+        "seoname": "lonely-mine-515697"
+    },
+    {
+        "id_location": 420806,
+        "id_location_parent": 420792,
+        "name": "Lupane",
+        "seoname": "lupane-515698"
+    },
+    {
+        "id_location": 420807,
+        "id_location_parent": 420792,
+        "name": "Lusulu",
+        "seoname": "lusulu-515699"
+    },
+    {
+        "id_location": 420808,
+        "id_location_parent": 420792,
+        "name": "Matetsi",
+        "seoname": "matetsi-515700"
+    },
+    {
+        "id_location": 420809,
+        "id_location_parent": 420792,
+        "name": "Mlibizi",
+        "seoname": "mlibizi-515701"
+    },
+    {
+        "id_location": 420810,
+        "id_location_parent": 420792,
+        "name": "Msuna",
+        "seoname": "msuna-515702"
+    },
+    {
+        "id_location": 420811,
+        "id_location_parent": 420792,
+        "name": "Nkayi",
+        "seoname": "nkayi-515703"
+    },
+    {
+        "id_location": 420812,
+        "id_location_parent": 420792,
+        "name": "Ntabazinduna",
+        "seoname": "ntabazinduna-515704"
+    },
+    {
+        "id_location": 420813,
+        "id_location_parent": 420792,
+        "name": "Nyamandhlovu",
+        "seoname": "nyamandhlovu-515705"
+    },
+    {
+        "id_location": 420814,
+        "id_location_parent": 420792,
+        "name": "Pandamatenga",
+        "seoname": "pandamatenga-515706"
+    },
+    {
+        "id_location": 420815,
+        "id_location_parent": 420792,
+        "name": "Queens Mine",
+        "seoname": "queens-mine-515707"
+    },
+    {
+        "id_location": 420816,
+        "id_location_parent": 420792,
+        "name": "Shangani",
+        "seoname": "shangani-515708"
+    },
+    {
+        "id_location": 420817,
+        "id_location_parent": 420792,
+        "name": "Siabuwa",
+        "seoname": "siabuwa-515709"
+    },
+    {
+        "id_location": 420818,
+        "id_location_parent": 420792,
+        "name": "Tsholotsho",
+        "seoname": "tsholotsho-515710"
+    },
+    {
+        "id_location": 420819,
+        "id_location_parent": 420792,
+        "name": "Jotsholo",
+        "seoname": "jotsholo-515711"
+    },
+    {
+        "id_location": 420820,
+        "id_location_parent": 420792,
+        "name": "Turk Mine",
+        "seoname": "turk-mine-515712"
+    },
+    {
+        "id_location": 420821,
+        "id_location_parent": 420792,
+        "name": "Victoria Falls",
+        "seoname": "victoria-falls-515713"
+    },
+    {
+        "id_location": 420822,
+        "id_location_parent": 1,
+        "name": "Masvingo",
+        "seoname": "masvingo-782983"
+    },
+    {
+        "id_location": 420823,
+        "id_location_parent": 420822,
+        "name": "Bikita",
+        "seoname": "bikita-515714"
+    },
+    {
+        "id_location": 420824,
+        "id_location_parent": 420822,
+        "name": "Bubye River",
+        "seoname": "bubye-river-515715"
+    },
+    {
+        "id_location": 420825,
+        "id_location_parent": 420822,
+        "name": "Buffalo Range",
+        "seoname": "buffalo-range-515716"
+    },
+    {
+        "id_location": 420826,
+        "id_location_parent": 420822,
+        "name": "Chatsworth",
+        "seoname": "chatsworth-515717"
+    },
+    {
+        "id_location": 420827,
+        "id_location_parent": 420822,
+        "name": "Chiredzi",
+        "seoname": "chiredzi-515718"
+    },
+    {
+        "id_location": 420828,
+        "id_location_parent": 420822,
+        "name": "Chivi",
+        "seoname": "chivi-515719"
+    },
+    {
+        "id_location": 420829,
+        "id_location_parent": 420822,
+        "name": "Felixburg",
+        "seoname": "felixburg-515720"
+    },
+    {
+        "id_location": 420830,
+        "id_location_parent": 420822,
+        "name": "Gaths Mine",
+        "seoname": "gaths-mine-515721"
+    },
+    {
+        "id_location": 420831,
+        "id_location_parent": 420822,
+        "name": "Glenclova",
+        "seoname": "glenclova-515722"
+    },
+    {
+        "id_location": 420832,
+        "id_location_parent": 420822,
+        "name": "Glenlivet",
+        "seoname": "glenlivet-515723"
+    },
+    {
+        "id_location": 420833,
+        "id_location_parent": 420822,
+        "name": "Gutu",
+        "seoname": "gutu-515724"
+    },
+    {
+        "id_location": 420834,
+        "id_location_parent": 420822,
+        "name": "Basera",
+        "seoname": "basera-515725"
+    },
+    {
+        "id_location": 420835,
+        "id_location_parent": 420822,
+        "name": "Gurajena",
+        "seoname": "gurajena-515726"
+    },
+    {
+        "id_location": 420836,
+        "id_location_parent": 420822,
+        "name": "Gwengwerere",
+        "seoname": "gwengwerere-515727"
+    },
+    {
+        "id_location": 420837,
+        "id_location_parent": 420822,
+        "name": "Hippo Valley",
+        "seoname": "hippo-valley-515728"
+    },
+    {
+        "id_location": 420838,
+        "id_location_parent": 420822,
+        "name": "Mabalauta",
+        "seoname": "mabalauta-515729"
+    },
+    {
+        "id_location": 420839,
+        "id_location_parent": 420822,
+        "name": "Maranda",
+        "seoname": "maranda-515730"
+    },
+    {
+        "id_location": 420840,
+        "id_location_parent": 420822,
+        "name": "Mashava",
+        "seoname": "mashava-515731"
+    },
+    {
+        "id_location": 420841,
+        "id_location_parent": 420822,
+        "name": "Masvingo",
+        "seoname": "masvingo-515732"
+    },
+    {
+        "id_location": 420842,
+        "id_location_parent": 420822,
+        "name": "Mbizi",
+        "seoname": "mbizi-515733"
+    },
+    {
+        "id_location": 420843,
+        "id_location_parent": 420822,
+        "name": "Mupandawana",
+        "seoname": "mupandawana-515734"
+    },
+    {
+        "id_location": 420844,
+        "id_location_parent": 420822,
+        "name": "Mwenezi",
+        "seoname": "mwenezi-515735"
+    },
+    {
+        "id_location": 420845,
+        "id_location_parent": 420822,
+        "name": "Ndanga",
+        "seoname": "ndanga-515736"
+    },
+    {
+        "id_location": 420846,
+        "id_location_parent": 420822,
+        "name": "Nemanwa",
+        "seoname": "nemanwa-515737"
+    },
+    {
+        "id_location": 420847,
+        "id_location_parent": 420822,
+        "name": "Ngomahuru",
+        "seoname": "ngomahuru-515738"
+    },
+    {
+        "id_location": 420848,
+        "id_location_parent": 420822,
+        "name": "Ngundu",
+        "seoname": "ngundu-515739"
+    },
+    {
+        "id_location": 420849,
+        "id_location_parent": 420822,
+        "name": "Renco",
+        "seoname": "renco-515740"
+    },
+    {
+        "id_location": 420850,
+        "id_location_parent": 420822,
+        "name": "Zimuto Siding",
+        "seoname": "zimuto-siding-515741"
+    },
+    {
+        "id_location": 420851,
+        "id_location_parent": 420822,
+        "name": "Rutenga",
+        "seoname": "rutenga-515742"
+    },
+    {
+        "id_location": 420852,
+        "id_location_parent": 420822,
+        "name": "Sango",
+        "seoname": "sango-515743"
+    },
+    {
+        "id_location": 420853,
+        "id_location_parent": 420822,
+        "name": "Soti-Source",
+        "seoname": "soti-source-515744"
+    },
+    {
+        "id_location": 420854,
+        "id_location_parent": 420822,
+        "name": "Triangle",
+        "seoname": "triangle-515745"
+    },
+    {
+        "id_location": 420855,
+        "id_location_parent": 420822,
+        "name": "Tswiza",
+        "seoname": "tswiza-515746"
+    },
+    {
+        "id_location": 420856,
+        "id_location_parent": 420822,
+        "name": "Zaka",
+        "seoname": "zaka-515747"
+    },
+    {
+        "id_location": 420857,
+        "id_location_parent": 420822,
+        "name": "Musekiwa",
+        "seoname": "musekiwa-515748"
+    },
+    {
+        "id_location": 420858,
+        "id_location_parent": 1,
+        "name": "Mashonaland West",
+        "seoname": "mashonaland-west-782984"
+    },
+    {
+        "id_location": 420859,
+        "id_location_parent": 420858,
+        "name": "Alaska",
+        "seoname": "alaska-515749"
+    },
+    {
+        "id_location": 420860,
+        "id_location_parent": 420858,
+        "name": "Banket",
+        "seoname": "banket-515750"
+    },
+    {
+        "id_location": 420861,
+        "id_location_parent": 420858,
+        "name": "Battlefields",
+        "seoname": "battlefields-515751"
+    },
+    {
+        "id_location": 420862,
+        "id_location_parent": 420858,
+        "name": "Bumi Hills",
+        "seoname": "bumi-hills-515752"
+    },
+    {
+        "id_location": 420863,
+        "id_location_parent": 420858,
+        "name": "Cape Haig",
+        "seoname": "cape-haig-515753"
+    },
+    {
+        "id_location": 420864,
+        "id_location_parent": 420858,
+        "name": "Chakari",
+        "seoname": "chakari-515754"
+    },
+    {
+        "id_location": 420865,
+        "id_location_parent": 420858,
+        "name": "Charara",
+        "seoname": "charara-515755"
+    },
+    {
+        "id_location": 420866,
+        "id_location_parent": 420858,
+        "name": "Chegutu",
+        "seoname": "chegutu-515756"
+    },
+    {
+        "id_location": 420867,
+        "id_location_parent": 420858,
+        "name": "Chinhoyi",
+        "seoname": "chinhoyi-515757"
+    },
+    {
+        "id_location": 420868,
+        "id_location_parent": 420858,
+        "name": "Chirundu",
+        "seoname": "chirundu-515758"
+    },
+    {
+        "id_location": 420869,
+        "id_location_parent": 420858,
+        "name": "Darwendale",
+        "seoname": "darwendale-515759"
+    },
+    {
+        "id_location": 420870,
+        "id_location_parent": 420858,
+        "name": "Doma",
+        "seoname": "doma-515760"
+    },
+    {
+        "id_location": 420871,
+        "id_location_parent": 420858,
+        "name": "Eiffel Flats",
+        "seoname": "eiffel-flats-515761"
+    },
+    {
+        "id_location": 420872,
+        "id_location_parent": 420858,
+        "name": "Eldorado",
+        "seoname": "eldorado-515762"
+    },
+    {
+        "id_location": 420873,
+        "id_location_parent": 420858,
+        "name": "Feock",
+        "seoname": "feock-515763"
+    },
+    {
+        "id_location": 420874,
+        "id_location_parent": 420858,
+        "name": "Gadzema",
+        "seoname": "gadzema-515764"
+    },
+    {
+        "id_location": 420875,
+        "id_location_parent": 420858,
+        "name": "Golden Valley",
+        "seoname": "golden-valley-515765"
+    },
+    {
+        "id_location": 420876,
+        "id_location_parent": 420858,
+        "name": "Kadoma",
+        "seoname": "kadoma-515766"
+    },
+    {
+        "id_location": 420877,
+        "id_location_parent": 420858,
+        "name": "Kariba",
+        "seoname": "kariba-515767"
+    },
+    {
+        "id_location": 420878,
+        "id_location_parent": 420858,
+        "name": "Karoi",
+        "seoname": "karoi-515768"
+    },
+    {
+        "id_location": 420879,
+        "id_location_parent": 420858,
+        "name": "Kildonan",
+        "seoname": "kildonan-515769"
+    },
+    {
+        "id_location": 420880,
+        "id_location_parent": 420858,
+        "name": "Lions Den",
+        "seoname": "lions-den-515770"
+    },
+    {
+        "id_location": 420881,
+        "id_location_parent": 420858,
+        "name": "Madadzi",
+        "seoname": "madadzi-515771"
+    },
+    {
+        "id_location": 420882,
+        "id_location_parent": 420858,
+        "name": "Magunje",
+        "seoname": "magunje-515772"
+    },
+    {
+        "id_location": 420883,
+        "id_location_parent": 420858,
+        "name": "Makuti",
+        "seoname": "makuti-515773"
+    },
+    {
+        "id_location": 420884,
+        "id_location_parent": 420858,
+        "name": "Makwiro",
+        "seoname": "makwiro-515774"
+    },
+    {
+        "id_location": 420885,
+        "id_location_parent": 420858,
+        "name": "Mhangura",
+        "seoname": "mhangura-515775"
+    },
+    {
+        "id_location": 420886,
+        "id_location_parent": 420858,
+        "name": "Mubayira",
+        "seoname": "mubayira-515776"
+    },
+    {
+        "id_location": 420887,
+        "id_location_parent": 420858,
+        "name": "Munyati",
+        "seoname": "munyati-515777"
+    },
+    {
+        "id_location": 420888,
+        "id_location_parent": 420858,
+        "name": "Muriel",
+        "seoname": "muriel-515778"
+    },
+    {
+        "id_location": 420889,
+        "id_location_parent": 420858,
+        "name": "Murombedzi",
+        "seoname": "murombedzi-515779"
+    },
+    {
+        "id_location": 420890,
+        "id_location_parent": 420858,
+        "name": "Mutorashanga",
+        "seoname": "mutorashanga-515780"
+    },
+    {
+        "id_location": 420891,
+        "id_location_parent": 420858,
+        "name": "Mwami",
+        "seoname": "mwami-515781"
+    },
+    {
+        "id_location": 420892,
+        "id_location_parent": 420858,
+        "name": "Norton",
+        "seoname": "norton-515782"
+    },
+    {
+        "id_location": 420893,
+        "id_location_parent": 420858,
+        "name": "Orlando Heights",
+        "seoname": "orlando-heights-515783"
+    },
+    {
+        "id_location": 420894,
+        "id_location_parent": 420858,
+        "name": "Raffingora",
+        "seoname": "raffingora-515784"
+    },
+    {
+        "id_location": 420895,
+        "id_location_parent": 420858,
+        "name": "Sanyati",
+        "seoname": "sanyati-515785"
+    },
+    {
+        "id_location": 420896,
+        "id_location_parent": 420858,
+        "name": "Selous",
+        "seoname": "selous-515786"
+    },
+    {
+        "id_location": 420897,
+        "id_location_parent": 420858,
+        "name": "Shackleton",
+        "seoname": "shackleton-515787"
+    },
+    {
+        "id_location": 420898,
+        "id_location_parent": 420858,
+        "name": "Tashinga",
+        "seoname": "tashinga-515788"
+    },
+    {
+        "id_location": 420899,
+        "id_location_parent": 420858,
+        "name": "Tengwe",
+        "seoname": "tengwe-515789"
+    },
+    {
+        "id_location": 420900,
+        "id_location_parent": 420858,
+        "name": "Trelawney",
+        "seoname": "trelawney-515790"
+    },
+    {
+        "id_location": 420901,
+        "id_location_parent": 420858,
+        "name": "Umsweswe",
+        "seoname": "umsweswe-515791"
+    },
+    {
+        "id_location": 420902,
+        "id_location_parent": 420858,
+        "name": "Unsworth",
+        "seoname": "unsworth-515792"
+    },
+    {
+        "id_location": 420903,
+        "id_location_parent": 420858,
+        "name": "Vanad",
+        "seoname": "vanad-515793"
+    },
+    {
+        "id_location": 420904,
+        "id_location_parent": 420858,
+        "name": "Venice",
+        "seoname": "venice-515794"
+    },
+    {
+        "id_location": 420905,
+        "id_location_parent": 420858,
+        "name": "Vuti",
+        "seoname": "vuti-515795"
+    },
+    {
+        "id_location": 420906,
+        "id_location_parent": 420858,
+        "name": "Zave",
+        "seoname": "zave-515796"
+    },
+    {
+        "id_location": 420907,
+        "id_location_parent": 1,
+        "name": "Mashonaland East",
+        "seoname": "mashonaland-east-782985"
+    },
+    {
+        "id_location": 420908,
+        "id_location_parent": 420907,
+        "name": "Arcturus",
+        "seoname": "arcturus-515797"
+    },
+    {
+        "id_location": 420909,
+        "id_location_parent": 420907,
+        "name": "Beatrice",
+        "seoname": "beatrice-515798"
+    },
+    {
+        "id_location": 420910,
+        "id_location_parent": 420907,
+        "name": "Bromley",
+        "seoname": "bromley-515799"
+    },
+    {
+        "id_location": 420911,
+        "id_location_parent": 420907,
+        "name": "Chitungwiza",
+        "seoname": "chitungwiza-515800"
+    },
+    {
+        "id_location": 420912,
+        "id_location_parent": 420907,
+        "name": "Marondera",
+        "seoname": "marondera-515801"
+    },
+    {
+        "id_location": 420913,
+        "id_location_parent": 420907,
+        "name": "Kotwa",
+        "seoname": "kotwa-515802"
+    },
+    {
+        "id_location": 420914,
+        "id_location_parent": 420907,
+        "name": "Chivhu",
+        "seoname": "chivhu-515803"
+    },
+    {
+        "id_location": 420915,
+        "id_location_parent": 420907,
+        "name": "Nharira",
+        "seoname": "nharira-515804"
+    },
+    {
+        "id_location": 420916,
+        "id_location_parent": 420907,
+        "name": "Goromonzi",
+        "seoname": "goromonzi-515805"
+    },
+    {
+        "id_location": 420917,
+        "id_location_parent": 420907,
+        "name": "Macheke",
+        "seoname": "macheke-515806"
+    },
+    {
+        "id_location": 420918,
+        "id_location_parent": 420907,
+        "name": "Mahusekwa",
+        "seoname": "mahusekwa-515807"
+    },
+    {
+        "id_location": 420919,
+        "id_location_parent": 420907,
+        "name": "Suswe",
+        "seoname": "suswe-515808"
+    },
+    {
+        "id_location": 420920,
+        "id_location_parent": 420907,
+        "name": "Wedza",
+        "seoname": "wedza-515809"
+    },
+    {
+        "id_location": 420921,
+        "id_location_parent": 420907,
+        "name": "Mutoko",
+        "seoname": "mutoko-515810"
+    },
+    {
+        "id_location": 420922,
+        "id_location_parent": 420907,
+        "name": "Murewa",
+        "seoname": "murewa-515811"
+    },
+    {
+        "id_location": 420923,
+        "id_location_parent": 420907,
+        "name": "Epworth",
+        "seoname": "epworth-515812"
+    },
+    {
+        "id_location": 420924,
+        "id_location_parent": 420907,
+        "name": "Juru",
+        "seoname": "juru-515813"
+    },
+    {
+        "id_location": 420925,
+        "id_location_parent": 420907,
+        "name": "Sadza",
+        "seoname": "sadza-515814"
+    },
+    {
+        "id_location": 420926,
+        "id_location_parent": 420907,
+        "name": "Makosa",
+        "seoname": "makosa-515815"
+    },
+    {
+        "id_location": 420927,
+        "id_location_parent": 420907,
+        "name": "Makaha",
+        "seoname": "makaha-515816"
+    },
+    {
+        "id_location": 420928,
+        "id_location_parent": 420907,
+        "name": "Bondamakara",
+        "seoname": "bondamakara-515817"
+    },
+    {
+        "id_location": 420929,
+        "id_location_parent": 420907,
+        "name": "Headlands",
+        "seoname": "headlands-515818"
+    },
+    {
+        "id_location": 420930,
+        "id_location_parent": 420907,
+        "name": "Nyamapanda",
+        "seoname": "nyamapanda-515819"
+    },
+    {
+        "id_location": 420931,
+        "id_location_parent": 1,
+        "name": "Mashonaland Central",
+        "seoname": "mashonaland-central-782986"
+    },
+    {
+        "id_location": 420932,
+        "id_location_parent": 420931,
+        "name": "Glendale",
+        "seoname": "glendale-515820"
+    },
+    {
+        "id_location": 420933,
+        "id_location_parent": 420931,
+        "name": "Guruve",
+        "seoname": "guruve-515821"
+    },
+    {
+        "id_location": 420934,
+        "id_location_parent": 420931,
+        "name": "Mount Darwin",
+        "seoname": "mount-darwin-515822"
+    },
+    {
+        "id_location": 420935,
+        "id_location_parent": 420931,
+        "name": "Bindura",
+        "seoname": "bindura-515823"
+    },
+    {
+        "id_location": 420936,
+        "id_location_parent": 420931,
+        "name": "Mvurwi",
+        "seoname": "mvurwi-515824"
+    },
+    {
+        "id_location": 420937,
+        "id_location_parent": 420931,
+        "name": "Shamva",
+        "seoname": "shamva-515825"
+    },
+    {
+        "id_location": 420938,
+        "id_location_parent": 420931,
+        "name": "Matepatepa",
+        "seoname": "matepatepa-515826"
+    },
+    {
+        "id_location": 420939,
+        "id_location_parent": 420931,
+        "name": "Mazowe",
+        "seoname": "mazowe-515827"
+    },
+    {
+        "id_location": 420940,
+        "id_location_parent": 1,
+        "name": "Manicaland",
+        "seoname": "manicaland-782987"
+    },
+    {
+        "id_location": 420941,
+        "id_location_parent": 420940,
+        "name": "Birchenough Bridge",
+        "seoname": "birchenough-bridge-515828"
+    },
+    {
+        "id_location": 420942,
+        "id_location_parent": 420940,
+        "name": "Buhera",
+        "seoname": "buhera-515829"
+    },
+    {
+        "id_location": 420943,
+        "id_location_parent": 420940,
+        "name": "Cashel",
+        "seoname": "cashel-515830"
+    },
+    {
+        "id_location": 420944,
+        "id_location_parent": 420940,
+        "name": "Tizvione",
+        "seoname": "tizvione-515831"
+    },
+    {
+        "id_location": 420945,
+        "id_location_parent": 420940,
+        "name": "Chipinge",
+        "seoname": "chipinge-515832"
+    },
+    {
+        "id_location": 420946,
+        "id_location_parent": 420940,
+        "name": "Hauna",
+        "seoname": "hauna-515833"
+    },
+    {
+        "id_location": 420947,
+        "id_location_parent": 420940,
+        "name": "Mutare",
+        "seoname": "mutare-515834"
+    },
+    {
+        "id_location": 420948,
+        "id_location_parent": 420940,
+        "name": "Nyazura",
+        "seoname": "nyazura-515835"
+    },
+    {
+        "id_location": 420949,
+        "id_location_parent": 420940,
+        "name": "Nyanga",
+        "seoname": "nyanga-515836"
+    },
+    {
+        "id_location": 420950,
+        "id_location_parent": 420940,
+        "name": "Rusape",
+        "seoname": "rusape-515837"
+    }
+]

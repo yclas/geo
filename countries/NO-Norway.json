@@ -1,0 +1,2864 @@
+[
+    {
+        "id_location": 330208,
+        "id_location_parent": 1,
+        "name": "Akershus",
+        "seoname": "akershus-779907"
+    },
+    {
+        "id_location": 330209,
+        "id_location_parent": 330208,
+        "name": "Asker",
+        "seoname": "asker-43281"
+    },
+    {
+        "id_location": 330210,
+        "id_location_parent": 330208,
+        "name": "Aurskog-h\u00f8land",
+        "seoname": "aurskog-holand-43282"
+    },
+    {
+        "id_location": 330211,
+        "id_location_parent": 330208,
+        "name": "B\u00e6rum",
+        "seoname": "baerum-43283"
+    },
+    {
+        "id_location": 330212,
+        "id_location_parent": 330208,
+        "name": "Eidsvoll",
+        "seoname": "eidsvoll-43284"
+    },
+    {
+        "id_location": 330213,
+        "id_location_parent": 330208,
+        "name": "Enebakk",
+        "seoname": "enebakk-43285"
+    },
+    {
+        "id_location": 330214,
+        "id_location_parent": 330208,
+        "name": "Fet",
+        "seoname": "fet-43286"
+    },
+    {
+        "id_location": 330215,
+        "id_location_parent": 330208,
+        "name": "Frogn",
+        "seoname": "frogn-43287"
+    },
+    {
+        "id_location": 330216,
+        "id_location_parent": 330208,
+        "name": "Gjerdrum",
+        "seoname": "gjerdrum-43288"
+    },
+    {
+        "id_location": 330217,
+        "id_location_parent": 330208,
+        "name": "Hurdal",
+        "seoname": "hurdal-43289"
+    },
+    {
+        "id_location": 330218,
+        "id_location_parent": 330208,
+        "name": "L\u00f8renskog",
+        "seoname": "lorenskog-43290"
+    },
+    {
+        "id_location": 330219,
+        "id_location_parent": 330208,
+        "name": "Nannestad",
+        "seoname": "nannestad-43291"
+    },
+    {
+        "id_location": 330220,
+        "id_location_parent": 330208,
+        "name": "Nes",
+        "seoname": "nes-43292"
+    },
+    {
+        "id_location": 330221,
+        "id_location_parent": 330208,
+        "name": "Nesodden",
+        "seoname": "nesodden-43293"
+    },
+    {
+        "id_location": 330222,
+        "id_location_parent": 330208,
+        "name": "Nittedal",
+        "seoname": "nittedal-43294"
+    },
+    {
+        "id_location": 330223,
+        "id_location_parent": 330208,
+        "name": "Oppeg\u00e5rd",
+        "seoname": "oppegard-43295"
+    },
+    {
+        "id_location": 330224,
+        "id_location_parent": 330208,
+        "name": "R\u00e6lingen",
+        "seoname": "raelingen-43296"
+    },
+    {
+        "id_location": 330225,
+        "id_location_parent": 330208,
+        "name": "Skedsmo",
+        "seoname": "skedsmo-43297"
+    },
+    {
+        "id_location": 330226,
+        "id_location_parent": 330208,
+        "name": "Ski",
+        "seoname": "ski-43298"
+    },
+    {
+        "id_location": 330227,
+        "id_location_parent": 330208,
+        "name": "S\u00f8rum",
+        "seoname": "sorum-43299"
+    },
+    {
+        "id_location": 330228,
+        "id_location_parent": 330208,
+        "name": "Ullensaker",
+        "seoname": "ullensaker-43300"
+    },
+    {
+        "id_location": 330229,
+        "id_location_parent": 330208,
+        "name": "Vestby",
+        "seoname": "vestby-43301"
+    },
+    {
+        "id_location": 330230,
+        "id_location_parent": 330208,
+        "name": "\u00c5s",
+        "seoname": "as-43302"
+    },
+    {
+        "id_location": 330231,
+        "id_location_parent": 1,
+        "name": "Aust-agder",
+        "seoname": "aust-agder-779930"
+    },
+    {
+        "id_location": 330232,
+        "id_location_parent": 330231,
+        "name": "\u00c5mli",
+        "seoname": "amli-43303"
+    },
+    {
+        "id_location": 330233,
+        "id_location_parent": 330231,
+        "name": "Arendal",
+        "seoname": "arendal-43304"
+    },
+    {
+        "id_location": 330234,
+        "id_location_parent": 330231,
+        "name": "Birkenes",
+        "seoname": "birkenes-43305"
+    },
+    {
+        "id_location": 330235,
+        "id_location_parent": 330231,
+        "name": "Bygland",
+        "seoname": "bygland-43306"
+    },
+    {
+        "id_location": 330236,
+        "id_location_parent": 330231,
+        "name": "Bykle",
+        "seoname": "bykle-43307"
+    },
+    {
+        "id_location": 330237,
+        "id_location_parent": 330231,
+        "name": "Evje Og Hornnes",
+        "seoname": "evje-og-hornnes-43308"
+    },
+    {
+        "id_location": 330238,
+        "id_location_parent": 330231,
+        "name": "Froland",
+        "seoname": "froland-43309"
+    },
+    {
+        "id_location": 330239,
+        "id_location_parent": 330231,
+        "name": "Gjerstad",
+        "seoname": "gjerstad-43310"
+    },
+    {
+        "id_location": 330240,
+        "id_location_parent": 330231,
+        "name": "Grimstad",
+        "seoname": "grimstad-43311"
+    },
+    {
+        "id_location": 330241,
+        "id_location_parent": 330231,
+        "name": "Iveland",
+        "seoname": "iveland-43312"
+    },
+    {
+        "id_location": 330242,
+        "id_location_parent": 330231,
+        "name": "Lillesand",
+        "seoname": "lillesand-43313"
+    },
+    {
+        "id_location": 330243,
+        "id_location_parent": 330231,
+        "name": "Ris\u00f8r",
+        "seoname": "risor-43314"
+    },
+    {
+        "id_location": 330244,
+        "id_location_parent": 330231,
+        "name": "Tvedestrand",
+        "seoname": "tvedestrand-43315"
+    },
+    {
+        "id_location": 330245,
+        "id_location_parent": 330231,
+        "name": "Valle",
+        "seoname": "valle-43316"
+    },
+    {
+        "id_location": 330246,
+        "id_location_parent": 330231,
+        "name": "Veg\u00e5rshei",
+        "seoname": "vegarshei-43317"
+    },
+    {
+        "id_location": 330247,
+        "id_location_parent": 1,
+        "name": "Buskerud",
+        "seoname": "buskerud-779946"
+    },
+    {
+        "id_location": 330248,
+        "id_location_parent": 330247,
+        "name": "\u00c5l",
+        "seoname": "al-43318"
+    },
+    {
+        "id_location": 330249,
+        "id_location_parent": 330247,
+        "name": "Drammen",
+        "seoname": "drammen-43319"
+    },
+    {
+        "id_location": 330250,
+        "id_location_parent": 330247,
+        "name": "Flesberg",
+        "seoname": "flesberg-43320"
+    },
+    {
+        "id_location": 330251,
+        "id_location_parent": 330247,
+        "name": "Fl\u00e5",
+        "seoname": "fla-43321"
+    },
+    {
+        "id_location": 330252,
+        "id_location_parent": 330247,
+        "name": "Gol",
+        "seoname": "gol-43322"
+    },
+    {
+        "id_location": 330253,
+        "id_location_parent": 330247,
+        "name": "Hemsedal",
+        "seoname": "hemsedal-43323"
+    },
+    {
+        "id_location": 330254,
+        "id_location_parent": 330247,
+        "name": "Hol",
+        "seoname": "hol-43324"
+    },
+    {
+        "id_location": 330255,
+        "id_location_parent": 330247,
+        "name": "Hole",
+        "seoname": "hole-43325"
+    },
+    {
+        "id_location": 330256,
+        "id_location_parent": 330247,
+        "name": "Hurum",
+        "seoname": "hurum-43326"
+    },
+    {
+        "id_location": 330257,
+        "id_location_parent": 330247,
+        "name": "Kongsberg",
+        "seoname": "kongsberg-43327"
+    },
+    {
+        "id_location": 330258,
+        "id_location_parent": 330247,
+        "name": "Kr\u00f8dsherad",
+        "seoname": "krodsherad-43328"
+    },
+    {
+        "id_location": 330259,
+        "id_location_parent": 330247,
+        "name": "Lier",
+        "seoname": "lier-43329"
+    },
+    {
+        "id_location": 330260,
+        "id_location_parent": 330247,
+        "name": "Modum",
+        "seoname": "modum-43330"
+    },
+    {
+        "id_location": 330261,
+        "id_location_parent": 330247,
+        "name": "Nedre Eiker",
+        "seoname": "nedre-eiker-43331"
+    },
+    {
+        "id_location": 330262,
+        "id_location_parent": 330247,
+        "name": "Nes",
+        "seoname": "nes-43332"
+    },
+    {
+        "id_location": 330263,
+        "id_location_parent": 330247,
+        "name": "Nore Og Uvdal",
+        "seoname": "nore-og-uvdal-43333"
+    },
+    {
+        "id_location": 330264,
+        "id_location_parent": 330247,
+        "name": "\u00d8vre Eiker",
+        "seoname": "ovre-eiker-43334"
+    },
+    {
+        "id_location": 330265,
+        "id_location_parent": 330247,
+        "name": "Ringerike",
+        "seoname": "ringerike-43335"
+    },
+    {
+        "id_location": 330266,
+        "id_location_parent": 330247,
+        "name": "Rollag",
+        "seoname": "rollag-43336"
+    },
+    {
+        "id_location": 330267,
+        "id_location_parent": 330247,
+        "name": "R\u00f8yken",
+        "seoname": "royken-43337"
+    },
+    {
+        "id_location": 330268,
+        "id_location_parent": 330247,
+        "name": "Sigdal",
+        "seoname": "sigdal-43338"
+    },
+    {
+        "id_location": 330269,
+        "id_location_parent": 1,
+        "name": "Finnmark",
+        "seoname": "finnmark-779968"
+    },
+    {
+        "id_location": 330270,
+        "id_location_parent": 330269,
+        "name": "Alta",
+        "seoname": "alta-43339"
+    },
+    {
+        "id_location": 330271,
+        "id_location_parent": 330269,
+        "name": "Batsfjord",
+        "seoname": "batsfjord-43340"
+    },
+    {
+        "id_location": 330272,
+        "id_location_parent": 330269,
+        "name": "Berlevag",
+        "seoname": "berlevag-43341"
+    },
+    {
+        "id_location": 330273,
+        "id_location_parent": 330269,
+        "name": "Hammerfest",
+        "seoname": "hammerfest-43342"
+    },
+    {
+        "id_location": 330274,
+        "id_location_parent": 330269,
+        "name": "Hasvik",
+        "seoname": "hasvik-43343"
+    },
+    {
+        "id_location": 330275,
+        "id_location_parent": 330269,
+        "name": "Havoysund",
+        "seoname": "havoysund-43344"
+    },
+    {
+        "id_location": 330276,
+        "id_location_parent": 330269,
+        "name": "Honningsvag",
+        "seoname": "honningsvag-43345"
+    },
+    {
+        "id_location": 330277,
+        "id_location_parent": 330269,
+        "name": "Kamoyvaer",
+        "seoname": "kamoyvaer-43346"
+    },
+    {
+        "id_location": 330278,
+        "id_location_parent": 330269,
+        "name": "Karasjok",
+        "seoname": "karasjok-43347"
+    },
+    {
+        "id_location": 330279,
+        "id_location_parent": 330269,
+        "name": "Kautokeino",
+        "seoname": "kautokeino-43348"
+    },
+    {
+        "id_location": 330280,
+        "id_location_parent": 330269,
+        "name": "Kirkenes",
+        "seoname": "kirkenes-43349"
+    },
+    {
+        "id_location": 330281,
+        "id_location_parent": 330269,
+        "name": "Lakselv",
+        "seoname": "lakselv-43350"
+    },
+    {
+        "id_location": 330282,
+        "id_location_parent": 330269,
+        "name": "Mehamn",
+        "seoname": "mehamn-43351"
+    },
+    {
+        "id_location": 330283,
+        "id_location_parent": 330269,
+        "name": "North Cape",
+        "seoname": "north-cape-43352"
+    },
+    {
+        "id_location": 330284,
+        "id_location_parent": 330269,
+        "name": "Oksfjord",
+        "seoname": "oksfjord-43353"
+    },
+    {
+        "id_location": 330285,
+        "id_location_parent": 330269,
+        "name": "Repvag",
+        "seoname": "repvag-43354"
+    },
+    {
+        "id_location": 330286,
+        "id_location_parent": 330269,
+        "name": "Skarsvag",
+        "seoname": "skarsvag-43355"
+    },
+    {
+        "id_location": 330287,
+        "id_location_parent": 330269,
+        "name": "Talvik",
+        "seoname": "talvik-43356"
+    },
+    {
+        "id_location": 330288,
+        "id_location_parent": 330269,
+        "name": "Tana",
+        "seoname": "tana-43357"
+    },
+    {
+        "id_location": 330289,
+        "id_location_parent": 330269,
+        "name": "Vadso",
+        "seoname": "vadso-43358"
+    },
+    {
+        "id_location": 330290,
+        "id_location_parent": 330269,
+        "name": "Vardo",
+        "seoname": "vardo-43359"
+    },
+    {
+        "id_location": 330291,
+        "id_location_parent": 1,
+        "name": "Hedmark",
+        "seoname": "hedmark-779990"
+    },
+    {
+        "id_location": 330292,
+        "id_location_parent": 330291,
+        "name": "Alvdal",
+        "seoname": "alvdal-43360"
+    },
+    {
+        "id_location": 330293,
+        "id_location_parent": 330291,
+        "name": "Eidskog",
+        "seoname": "eidskog-43361"
+    },
+    {
+        "id_location": 330294,
+        "id_location_parent": 330291,
+        "name": "Elverum",
+        "seoname": "elverum-43362"
+    },
+    {
+        "id_location": 330295,
+        "id_location_parent": 330291,
+        "name": "Engerdal",
+        "seoname": "engerdal-43363"
+    },
+    {
+        "id_location": 330296,
+        "id_location_parent": 330291,
+        "name": "Folldal",
+        "seoname": "folldal-43364"
+    },
+    {
+        "id_location": 330297,
+        "id_location_parent": 330291,
+        "name": "Grue",
+        "seoname": "grue-43365"
+    },
+    {
+        "id_location": 330298,
+        "id_location_parent": 330291,
+        "name": "Hamar",
+        "seoname": "hamar-43366"
+    },
+    {
+        "id_location": 330299,
+        "id_location_parent": 330291,
+        "name": "Kongsvinger",
+        "seoname": "kongsvinger-43367"
+    },
+    {
+        "id_location": 330300,
+        "id_location_parent": 330291,
+        "name": "L\u00f8ten",
+        "seoname": "loten-43368"
+    },
+    {
+        "id_location": 330301,
+        "id_location_parent": 330291,
+        "name": "Nord-odal",
+        "seoname": "nord-odal-43369"
+    },
+    {
+        "id_location": 330302,
+        "id_location_parent": 330291,
+        "name": "Os",
+        "seoname": "os-43370"
+    },
+    {
+        "id_location": 330303,
+        "id_location_parent": 330291,
+        "name": "Rendalen",
+        "seoname": "rendalen-43371"
+    },
+    {
+        "id_location": 330304,
+        "id_location_parent": 330291,
+        "name": "Ringsaker",
+        "seoname": "ringsaker-43372"
+    },
+    {
+        "id_location": 330305,
+        "id_location_parent": 330291,
+        "name": "Stange",
+        "seoname": "stange-43373"
+    },
+    {
+        "id_location": 330306,
+        "id_location_parent": 330291,
+        "name": "Stor-elvdal",
+        "seoname": "stor-elvdal-43374"
+    },
+    {
+        "id_location": 330307,
+        "id_location_parent": 330291,
+        "name": "S\u00f8r-odal",
+        "seoname": "sor-odal-43375"
+    },
+    {
+        "id_location": 330308,
+        "id_location_parent": 330291,
+        "name": "Tolga",
+        "seoname": "tolga-43376"
+    },
+    {
+        "id_location": 330309,
+        "id_location_parent": 330291,
+        "name": "Trysil",
+        "seoname": "trysil-43377"
+    },
+    {
+        "id_location": 330310,
+        "id_location_parent": 330291,
+        "name": "Tynset",
+        "seoname": "tynset-43378"
+    },
+    {
+        "id_location": 330311,
+        "id_location_parent": 330291,
+        "name": "V\u00e5ler",
+        "seoname": "valer-43379"
+    },
+    {
+        "id_location": 330312,
+        "id_location_parent": 330291,
+        "name": "\u00c5mot",
+        "seoname": "amot-43380"
+    },
+    {
+        "id_location": 330313,
+        "id_location_parent": 330291,
+        "name": "\u00c5snes",
+        "seoname": "asnes-43381"
+    },
+    {
+        "id_location": 330314,
+        "id_location_parent": 1,
+        "name": "Hordaland",
+        "seoname": "hordaland-780013"
+    },
+    {
+        "id_location": 330315,
+        "id_location_parent": 330314,
+        "name": "Ask\u00f8y",
+        "seoname": "askoy-43382"
+    },
+    {
+        "id_location": 330316,
+        "id_location_parent": 330314,
+        "name": "Austevoll",
+        "seoname": "austevoll-43383"
+    },
+    {
+        "id_location": 330317,
+        "id_location_parent": 330314,
+        "name": "Austrheim",
+        "seoname": "austrheim-43384"
+    },
+    {
+        "id_location": 330318,
+        "id_location_parent": 330314,
+        "name": "Bergen",
+        "seoname": "bergen-43385"
+    },
+    {
+        "id_location": 330319,
+        "id_location_parent": 330314,
+        "name": "B\u00f8mlo",
+        "seoname": "bomlo-43386"
+    },
+    {
+        "id_location": 330320,
+        "id_location_parent": 330314,
+        "name": "Eidfjord",
+        "seoname": "eidfjord-43387"
+    },
+    {
+        "id_location": 330321,
+        "id_location_parent": 330314,
+        "name": "Etne",
+        "seoname": "etne-43388"
+    },
+    {
+        "id_location": 330322,
+        "id_location_parent": 330314,
+        "name": "Fedje",
+        "seoname": "fedje-43389"
+    },
+    {
+        "id_location": 330323,
+        "id_location_parent": 330314,
+        "name": "Fitjar",
+        "seoname": "fitjar-43390"
+    },
+    {
+        "id_location": 330324,
+        "id_location_parent": 330314,
+        "name": "Fjell",
+        "seoname": "fjell-43391"
+    },
+    {
+        "id_location": 330325,
+        "id_location_parent": 330314,
+        "name": "Fusa",
+        "seoname": "fusa-43392"
+    },
+    {
+        "id_location": 330326,
+        "id_location_parent": 330314,
+        "name": "Granvin",
+        "seoname": "granvin-43393"
+    },
+    {
+        "id_location": 330327,
+        "id_location_parent": 330314,
+        "name": "Jondal",
+        "seoname": "jondal-43394"
+    },
+    {
+        "id_location": 330328,
+        "id_location_parent": 330314,
+        "name": "Kvam",
+        "seoname": "kvam-43395"
+    },
+    {
+        "id_location": 330329,
+        "id_location_parent": 330314,
+        "name": "Kvinnherad",
+        "seoname": "kvinnherad-43396"
+    },
+    {
+        "id_location": 330330,
+        "id_location_parent": 330314,
+        "name": "Lind\u00e5s",
+        "seoname": "lindas-43397"
+    },
+    {
+        "id_location": 330331,
+        "id_location_parent": 330314,
+        "name": "Masfjorden",
+        "seoname": "masfjorden-43398"
+    },
+    {
+        "id_location": 330332,
+        "id_location_parent": 330314,
+        "name": "Meland",
+        "seoname": "meland-43399"
+    },
+    {
+        "id_location": 330333,
+        "id_location_parent": 330314,
+        "name": "Modalen",
+        "seoname": "modalen-43400"
+    },
+    {
+        "id_location": 330334,
+        "id_location_parent": 330314,
+        "name": "Odda",
+        "seoname": "odda-43401"
+    },
+    {
+        "id_location": 330335,
+        "id_location_parent": 330314,
+        "name": "Os",
+        "seoname": "os-43402"
+    },
+    {
+        "id_location": 330336,
+        "id_location_parent": 330314,
+        "name": "Oster\u00f8y",
+        "seoname": "osteroy-43403"
+    },
+    {
+        "id_location": 330337,
+        "id_location_parent": 330314,
+        "name": "\u00d8ygarden",
+        "seoname": "oygarden-43404"
+    },
+    {
+        "id_location": 330338,
+        "id_location_parent": 330314,
+        "name": "Rad\u00f8y",
+        "seoname": "radoy-43405"
+    },
+    {
+        "id_location": 330339,
+        "id_location_parent": 330314,
+        "name": "Samnanger",
+        "seoname": "samnanger-43406"
+    },
+    {
+        "id_location": 330340,
+        "id_location_parent": 330314,
+        "name": "Stord",
+        "seoname": "stord-43407"
+    },
+    {
+        "id_location": 330341,
+        "id_location_parent": 330314,
+        "name": "Sund",
+        "seoname": "sund-43408"
+    },
+    {
+        "id_location": 330342,
+        "id_location_parent": 330314,
+        "name": "Sveio",
+        "seoname": "sveio-43409"
+    },
+    {
+        "id_location": 330343,
+        "id_location_parent": 330314,
+        "name": "Tysnes",
+        "seoname": "tysnes-43410"
+    },
+    {
+        "id_location": 330344,
+        "id_location_parent": 330314,
+        "name": "Ullensvang",
+        "seoname": "ullensvang-43411"
+    },
+    {
+        "id_location": 330345,
+        "id_location_parent": 330314,
+        "name": "Ulvik",
+        "seoname": "ulvik-43412"
+    },
+    {
+        "id_location": 330346,
+        "id_location_parent": 330314,
+        "name": "Vaksdal",
+        "seoname": "vaksdal-43413"
+    },
+    {
+        "id_location": 330347,
+        "id_location_parent": 330314,
+        "name": "Voss",
+        "seoname": "voss-43414"
+    },
+    {
+        "id_location": 330348,
+        "id_location_parent": 1,
+        "name": "M\u00f8re Og Romsdal",
+        "seoname": "more-og-romsdal-780047"
+    },
+    {
+        "id_location": 330349,
+        "id_location_parent": 330348,
+        "name": "\u00c5lesund",
+        "seoname": "alesund-43415"
+    },
+    {
+        "id_location": 330350,
+        "id_location_parent": 330348,
+        "name": "Aukra",
+        "seoname": "aukra-43416"
+    },
+    {
+        "id_location": 330351,
+        "id_location_parent": 330348,
+        "name": "Aure",
+        "seoname": "aure-43417"
+    },
+    {
+        "id_location": 330352,
+        "id_location_parent": 330348,
+        "name": "Aver\u00f8y",
+        "seoname": "averoy-43418"
+    },
+    {
+        "id_location": 330353,
+        "id_location_parent": 330348,
+        "name": "Eide",
+        "seoname": "eide-43419"
+    },
+    {
+        "id_location": 330354,
+        "id_location_parent": 330348,
+        "name": "Fr\u00e6na",
+        "seoname": "fraena-43420"
+    },
+    {
+        "id_location": 330355,
+        "id_location_parent": 330348,
+        "name": "Frei",
+        "seoname": "frei-43421"
+    },
+    {
+        "id_location": 330356,
+        "id_location_parent": 330348,
+        "name": "Giske",
+        "seoname": "giske-43422"
+    },
+    {
+        "id_location": 330357,
+        "id_location_parent": 330348,
+        "name": "Gjemnes",
+        "seoname": "gjemnes-43423"
+    },
+    {
+        "id_location": 330358,
+        "id_location_parent": 330348,
+        "name": "Halsa",
+        "seoname": "halsa-43424"
+    },
+    {
+        "id_location": 330359,
+        "id_location_parent": 330348,
+        "name": "Haram",
+        "seoname": "haram-43425"
+    },
+    {
+        "id_location": 330360,
+        "id_location_parent": 330348,
+        "name": "Hareid",
+        "seoname": "hareid-43426"
+    },
+    {
+        "id_location": 330361,
+        "id_location_parent": 330348,
+        "name": "Her\u00f8y",
+        "seoname": "heroy-43427"
+    },
+    {
+        "id_location": 330362,
+        "id_location_parent": 330348,
+        "name": "Kristiansund",
+        "seoname": "kristiansund-43428"
+    },
+    {
+        "id_location": 330363,
+        "id_location_parent": 330348,
+        "name": "Midsund",
+        "seoname": "midsund-43429"
+    },
+    {
+        "id_location": 330364,
+        "id_location_parent": 330348,
+        "name": "Molde",
+        "seoname": "molde-43430"
+    },
+    {
+        "id_location": 330365,
+        "id_location_parent": 330348,
+        "name": "Nesset",
+        "seoname": "nesset-43431"
+    },
+    {
+        "id_location": 330366,
+        "id_location_parent": 330348,
+        "name": "Norddal",
+        "seoname": "norddal-43432"
+    },
+    {
+        "id_location": 330367,
+        "id_location_parent": 330348,
+        "name": "\u00d8rskog",
+        "seoname": "orskog-43433"
+    },
+    {
+        "id_location": 330368,
+        "id_location_parent": 330348,
+        "name": "\u00d8rsta",
+        "seoname": "orsta-43434"
+    },
+    {
+        "id_location": 330369,
+        "id_location_parent": 330348,
+        "name": "Rauma",
+        "seoname": "rauma-43435"
+    },
+    {
+        "id_location": 330370,
+        "id_location_parent": 330348,
+        "name": "Rindal",
+        "seoname": "rindal-43436"
+    },
+    {
+        "id_location": 330371,
+        "id_location_parent": 330348,
+        "name": "Sande",
+        "seoname": "sande-43437"
+    },
+    {
+        "id_location": 330372,
+        "id_location_parent": 330348,
+        "name": "Sand\u00f8y",
+        "seoname": "sandoy-43438"
+    },
+    {
+        "id_location": 330373,
+        "id_location_parent": 330348,
+        "name": "Skodje",
+        "seoname": "skodje-43439"
+    },
+    {
+        "id_location": 330374,
+        "id_location_parent": 330348,
+        "name": "Sm\u00f8la",
+        "seoname": "smola-43440"
+    },
+    {
+        "id_location": 330375,
+        "id_location_parent": 330348,
+        "name": "Stordal",
+        "seoname": "stordal-43441"
+    },
+    {
+        "id_location": 330376,
+        "id_location_parent": 330348,
+        "name": "Stranda",
+        "seoname": "stranda-43442"
+    },
+    {
+        "id_location": 330377,
+        "id_location_parent": 330348,
+        "name": "Sula",
+        "seoname": "sula-43443"
+    },
+    {
+        "id_location": 330378,
+        "id_location_parent": 330348,
+        "name": "Sunndal",
+        "seoname": "sunndal-43444"
+    },
+    {
+        "id_location": 330379,
+        "id_location_parent": 330348,
+        "name": "Surnadal",
+        "seoname": "surnadal-43445"
+    },
+    {
+        "id_location": 330380,
+        "id_location_parent": 330348,
+        "name": "Sykkylven",
+        "seoname": "sykkylven-43446"
+    },
+    {
+        "id_location": 330381,
+        "id_location_parent": 330348,
+        "name": "Tingvoll",
+        "seoname": "tingvoll-43447"
+    },
+    {
+        "id_location": 330382,
+        "id_location_parent": 330348,
+        "name": "Tustna",
+        "seoname": "tustna-43448"
+    },
+    {
+        "id_location": 330383,
+        "id_location_parent": 330348,
+        "name": "Ulstein",
+        "seoname": "ulstein-43449"
+    },
+    {
+        "id_location": 330384,
+        "id_location_parent": 330348,
+        "name": "Vanylven",
+        "seoname": "vanylven-43450"
+    },
+    {
+        "id_location": 330385,
+        "id_location_parent": 330348,
+        "name": "Vestnes",
+        "seoname": "vestnes-43451"
+    },
+    {
+        "id_location": 330386,
+        "id_location_parent": 330348,
+        "name": "Volda",
+        "seoname": "volda-43452"
+    },
+    {
+        "id_location": 330387,
+        "id_location_parent": 1,
+        "name": "Nordland",
+        "seoname": "nordland-780086"
+    },
+    {
+        "id_location": 330388,
+        "id_location_parent": 330387,
+        "name": "Alstahaug",
+        "seoname": "alstahaug-43453"
+    },
+    {
+        "id_location": 330389,
+        "id_location_parent": 330387,
+        "name": "And\u00f8y",
+        "seoname": "andoy-43454"
+    },
+    {
+        "id_location": 330390,
+        "id_location_parent": 330387,
+        "name": "Ballangen",
+        "seoname": "ballangen-43455"
+    },
+    {
+        "id_location": 330391,
+        "id_location_parent": 330387,
+        "name": "Beiarn",
+        "seoname": "beiarn-43456"
+    },
+    {
+        "id_location": 330392,
+        "id_location_parent": 330387,
+        "name": "Bindal",
+        "seoname": "bindal-43457"
+    },
+    {
+        "id_location": 330393,
+        "id_location_parent": 330387,
+        "name": "B\u00f8",
+        "seoname": "bo-43458"
+    },
+    {
+        "id_location": 330394,
+        "id_location_parent": 330387,
+        "name": "Bod\u00f8",
+        "seoname": "bodo-43459"
+    },
+    {
+        "id_location": 330395,
+        "id_location_parent": 330387,
+        "name": "Br\u00f8nn\u00f8y",
+        "seoname": "bronnoy-43460"
+    },
+    {
+        "id_location": 330396,
+        "id_location_parent": 330387,
+        "name": "D\u00f8nna",
+        "seoname": "donna-43461"
+    },
+    {
+        "id_location": 330397,
+        "id_location_parent": 330387,
+        "name": "Evenes",
+        "seoname": "evenes-43462"
+    },
+    {
+        "id_location": 330398,
+        "id_location_parent": 330387,
+        "name": "Fauske",
+        "seoname": "fauske-43463"
+    },
+    {
+        "id_location": 330399,
+        "id_location_parent": 330387,
+        "name": "Flakstad",
+        "seoname": "flakstad-43464"
+    },
+    {
+        "id_location": 330400,
+        "id_location_parent": 330387,
+        "name": "Gildesk\u00e5l",
+        "seoname": "gildeskal-43465"
+    },
+    {
+        "id_location": 330401,
+        "id_location_parent": 330387,
+        "name": "Grane",
+        "seoname": "grane-43466"
+    },
+    {
+        "id_location": 330402,
+        "id_location_parent": 330387,
+        "name": "Hadsel",
+        "seoname": "hadsel-43467"
+    },
+    {
+        "id_location": 330403,
+        "id_location_parent": 330387,
+        "name": "Hamar\u00f8y",
+        "seoname": "hamaroy-43468"
+    },
+    {
+        "id_location": 330404,
+        "id_location_parent": 330387,
+        "name": "Hattfjelldal",
+        "seoname": "hattfjelldal-43469"
+    },
+    {
+        "id_location": 330405,
+        "id_location_parent": 330387,
+        "name": "Hemnes",
+        "seoname": "hemnes-43470"
+    },
+    {
+        "id_location": 330406,
+        "id_location_parent": 330387,
+        "name": "Her\u00f8y",
+        "seoname": "heroy-43471"
+    },
+    {
+        "id_location": 330407,
+        "id_location_parent": 330387,
+        "name": "Leirfjord",
+        "seoname": "leirfjord-43472"
+    },
+    {
+        "id_location": 330408,
+        "id_location_parent": 330387,
+        "name": "L\u00f8dingen",
+        "seoname": "lodingen-43473"
+    },
+    {
+        "id_location": 330409,
+        "id_location_parent": 330387,
+        "name": "Lur\u00f8y",
+        "seoname": "luroy-43474"
+    },
+    {
+        "id_location": 330410,
+        "id_location_parent": 330387,
+        "name": "Mel\u00f8y",
+        "seoname": "meloy-43475"
+    },
+    {
+        "id_location": 330411,
+        "id_location_parent": 330387,
+        "name": "Moskenes",
+        "seoname": "moskenes-43476"
+    },
+    {
+        "id_location": 330412,
+        "id_location_parent": 330387,
+        "name": "Narvik",
+        "seoname": "narvik-43477"
+    },
+    {
+        "id_location": 330413,
+        "id_location_parent": 330387,
+        "name": "Nesna",
+        "seoname": "nesna-43478"
+    },
+    {
+        "id_location": 330414,
+        "id_location_parent": 330387,
+        "name": "\u00d8ksnes",
+        "seoname": "oksnes-43479"
+    },
+    {
+        "id_location": 330415,
+        "id_location_parent": 330387,
+        "name": "Rana",
+        "seoname": "rana-43480"
+    },
+    {
+        "id_location": 330416,
+        "id_location_parent": 330387,
+        "name": "R\u00f8d\u00f8y",
+        "seoname": "rodoy-43481"
+    },
+    {
+        "id_location": 330417,
+        "id_location_parent": 330387,
+        "name": "R\u00f8st",
+        "seoname": "rost-43482"
+    },
+    {
+        "id_location": 330418,
+        "id_location_parent": 330387,
+        "name": "Saltdal",
+        "seoname": "saltdal-43483"
+    },
+    {
+        "id_location": 330419,
+        "id_location_parent": 330387,
+        "name": "S\u00f8mna",
+        "seoname": "somna-43484"
+    },
+    {
+        "id_location": 330420,
+        "id_location_parent": 330387,
+        "name": "S\u00f8rfold",
+        "seoname": "sorfold-43485"
+    },
+    {
+        "id_location": 330421,
+        "id_location_parent": 330387,
+        "name": "Sortland",
+        "seoname": "sortland-43486"
+    },
+    {
+        "id_location": 330422,
+        "id_location_parent": 330387,
+        "name": "Steigen",
+        "seoname": "steigen-43487"
+    },
+    {
+        "id_location": 330423,
+        "id_location_parent": 330387,
+        "name": "Tjeldsund",
+        "seoname": "tjeldsund-43488"
+    },
+    {
+        "id_location": 330424,
+        "id_location_parent": 330387,
+        "name": "Tr\u00e6na",
+        "seoname": "traena-43489"
+    },
+    {
+        "id_location": 330425,
+        "id_location_parent": 330387,
+        "name": "Tysfjord",
+        "seoname": "tysfjord-43490"
+    },
+    {
+        "id_location": 330426,
+        "id_location_parent": 330387,
+        "name": "V\u00e6r\u00f8y",
+        "seoname": "vaeroy-43491"
+    },
+    {
+        "id_location": 330427,
+        "id_location_parent": 330387,
+        "name": "V\u00e5gan",
+        "seoname": "vagan-43492"
+    },
+    {
+        "id_location": 330428,
+        "id_location_parent": 330387,
+        "name": "Vefsn",
+        "seoname": "vefsn-43493"
+    },
+    {
+        "id_location": 330429,
+        "id_location_parent": 330387,
+        "name": "Vega",
+        "seoname": "vega-43494"
+    },
+    {
+        "id_location": 330430,
+        "id_location_parent": 330387,
+        "name": "Vestv\u00e5g\u00f8y",
+        "seoname": "vestvagoy-43495"
+    },
+    {
+        "id_location": 330431,
+        "id_location_parent": 330387,
+        "name": "Vevelstad",
+        "seoname": "vevelstad-43496"
+    },
+    {
+        "id_location": 330432,
+        "id_location_parent": 1,
+        "name": "Nord-tr\u00f8ndelag",
+        "seoname": "nord-trondelag-780131"
+    },
+    {
+        "id_location": 330433,
+        "id_location_parent": 330432,
+        "name": "Flatanger",
+        "seoname": "flatanger-43497"
+    },
+    {
+        "id_location": 330434,
+        "id_location_parent": 330432,
+        "name": "Fosnes",
+        "seoname": "fosnes-43498"
+    },
+    {
+        "id_location": 330435,
+        "id_location_parent": 330432,
+        "name": "Frosta",
+        "seoname": "frosta-43499"
+    },
+    {
+        "id_location": 330436,
+        "id_location_parent": 330432,
+        "name": "Grong",
+        "seoname": "grong-43500"
+    },
+    {
+        "id_location": 330437,
+        "id_location_parent": 330432,
+        "name": "H\u00f8ylandet",
+        "seoname": "hoylandet-43501"
+    },
+    {
+        "id_location": 330438,
+        "id_location_parent": 330432,
+        "name": "Inder\u00f8y",
+        "seoname": "inderoy-43502"
+    },
+    {
+        "id_location": 330439,
+        "id_location_parent": 330432,
+        "name": "Leka",
+        "seoname": "leka-43503"
+    },
+    {
+        "id_location": 330440,
+        "id_location_parent": 330432,
+        "name": "Leksvik",
+        "seoname": "leksvik-43504"
+    },
+    {
+        "id_location": 330441,
+        "id_location_parent": 330432,
+        "name": "Levanger",
+        "seoname": "levanger-43505"
+    },
+    {
+        "id_location": 330442,
+        "id_location_parent": 330432,
+        "name": "Lierne",
+        "seoname": "lierne-43506"
+    },
+    {
+        "id_location": 330443,
+        "id_location_parent": 330432,
+        "name": "Mer\u00e5ker",
+        "seoname": "meraker-43507"
+    },
+    {
+        "id_location": 330444,
+        "id_location_parent": 330432,
+        "name": "Mosvik",
+        "seoname": "mosvik-43508"
+    },
+    {
+        "id_location": 330445,
+        "id_location_parent": 330432,
+        "name": "N\u00e6r\u00f8y",
+        "seoname": "naeroy-43509"
+    },
+    {
+        "id_location": 330446,
+        "id_location_parent": 330432,
+        "name": "Namdalseid",
+        "seoname": "namdalseid-43510"
+    },
+    {
+        "id_location": 330447,
+        "id_location_parent": 330432,
+        "name": "Namsos",
+        "seoname": "namsos-43511"
+    },
+    {
+        "id_location": 330448,
+        "id_location_parent": 330432,
+        "name": "Namsskogan",
+        "seoname": "namsskogan-43512"
+    },
+    {
+        "id_location": 330449,
+        "id_location_parent": 330432,
+        "name": "Overhalla",
+        "seoname": "overhalla-43513"
+    },
+    {
+        "id_location": 330450,
+        "id_location_parent": 330432,
+        "name": "R\u00f8yrvik",
+        "seoname": "royrvik-43514"
+    },
+    {
+        "id_location": 330451,
+        "id_location_parent": 330432,
+        "name": "Sn\u00e5sa",
+        "seoname": "snasa-43515"
+    },
+    {
+        "id_location": 330452,
+        "id_location_parent": 330432,
+        "name": "Steinkjer",
+        "seoname": "steinkjer-43516"
+    },
+    {
+        "id_location": 330453,
+        "id_location_parent": 330432,
+        "name": "Stj\u00f8rdal",
+        "seoname": "stjordal-43517"
+    },
+    {
+        "id_location": 330454,
+        "id_location_parent": 330432,
+        "name": "Verdal",
+        "seoname": "verdal-43518"
+    },
+    {
+        "id_location": 330455,
+        "id_location_parent": 330432,
+        "name": "Verran",
+        "seoname": "verran-43519"
+    },
+    {
+        "id_location": 330456,
+        "id_location_parent": 330432,
+        "name": "Vikna",
+        "seoname": "vikna-43520"
+    },
+    {
+        "id_location": 330457,
+        "id_location_parent": 1,
+        "name": "Oppland",
+        "seoname": "oppland-780156"
+    },
+    {
+        "id_location": 330458,
+        "id_location_parent": 330457,
+        "name": "Dovre",
+        "seoname": "dovre-43521"
+    },
+    {
+        "id_location": 330459,
+        "id_location_parent": 330457,
+        "name": "Etnedal",
+        "seoname": "etnedal-43522"
+    },
+    {
+        "id_location": 330460,
+        "id_location_parent": 330457,
+        "name": "Gausdal",
+        "seoname": "gausdal-43523"
+    },
+    {
+        "id_location": 330461,
+        "id_location_parent": 330457,
+        "name": "Gj\u00f8vik",
+        "seoname": "gjovik-43524"
+    },
+    {
+        "id_location": 330462,
+        "id_location_parent": 330457,
+        "name": "Gran",
+        "seoname": "gran-43525"
+    },
+    {
+        "id_location": 330463,
+        "id_location_parent": 330457,
+        "name": "Jevnaker",
+        "seoname": "jevnaker-43526"
+    },
+    {
+        "id_location": 330464,
+        "id_location_parent": 330457,
+        "name": "Lesja",
+        "seoname": "lesja-43527"
+    },
+    {
+        "id_location": 330465,
+        "id_location_parent": 330457,
+        "name": "Lillehammer",
+        "seoname": "lillehammer-43528"
+    },
+    {
+        "id_location": 330466,
+        "id_location_parent": 330457,
+        "name": "Lom",
+        "seoname": "lom-43529"
+    },
+    {
+        "id_location": 330467,
+        "id_location_parent": 330457,
+        "name": "Lunner",
+        "seoname": "lunner-43530"
+    },
+    {
+        "id_location": 330468,
+        "id_location_parent": 330457,
+        "name": "Nord-aurdal",
+        "seoname": "nord-aurdal-43531"
+    },
+    {
+        "id_location": 330469,
+        "id_location_parent": 330457,
+        "name": "Nord-fron",
+        "seoname": "nord-fron-43532"
+    },
+    {
+        "id_location": 330470,
+        "id_location_parent": 330457,
+        "name": "Nordre Land",
+        "seoname": "nordre-land-43533"
+    },
+    {
+        "id_location": 330471,
+        "id_location_parent": 330457,
+        "name": "\u00d8stre Toten",
+        "seoname": "ostre-toten-43534"
+    },
+    {
+        "id_location": 330472,
+        "id_location_parent": 330457,
+        "name": "\u00d8yer",
+        "seoname": "oyer-43535"
+    },
+    {
+        "id_location": 330473,
+        "id_location_parent": 330457,
+        "name": "\u00d8ystre Slidre",
+        "seoname": "oystre-slidre-43536"
+    },
+    {
+        "id_location": 330474,
+        "id_location_parent": 330457,
+        "name": "Ringebu",
+        "seoname": "ringebu-43537"
+    },
+    {
+        "id_location": 330475,
+        "id_location_parent": 330457,
+        "name": "Sel",
+        "seoname": "sel-43538"
+    },
+    {
+        "id_location": 330476,
+        "id_location_parent": 330457,
+        "name": "Skj\u00e5k",
+        "seoname": "skjak-43539"
+    },
+    {
+        "id_location": 330477,
+        "id_location_parent": 330457,
+        "name": "S\u00f8ndre Land",
+        "seoname": "sondre-land-43540"
+    },
+    {
+        "id_location": 330478,
+        "id_location_parent": 330457,
+        "name": "S\u00f8r-aurdal",
+        "seoname": "sor-aurdal-43541"
+    },
+    {
+        "id_location": 330479,
+        "id_location_parent": 330457,
+        "name": "S\u00f8r-fron",
+        "seoname": "sor-fron-43542"
+    },
+    {
+        "id_location": 330480,
+        "id_location_parent": 330457,
+        "name": "V\u00e5g\u00e5",
+        "seoname": "vaga-43543"
+    },
+    {
+        "id_location": 330481,
+        "id_location_parent": 330457,
+        "name": "Vang",
+        "seoname": "vang-43544"
+    },
+    {
+        "id_location": 330482,
+        "id_location_parent": 330457,
+        "name": "Vestre Slidre",
+        "seoname": "vestre-slidre-43545"
+    },
+    {
+        "id_location": 330483,
+        "id_location_parent": 330457,
+        "name": "Vestre Toten",
+        "seoname": "vestre-toten-43546"
+    },
+    {
+        "id_location": 330484,
+        "id_location_parent": 1,
+        "name": "Oslo",
+        "seoname": "oslo-780184"
+    },
+    {
+        "id_location": 330485,
+        "id_location_parent": 330484,
+        "name": "Bjerke",
+        "seoname": "bjerke-43547"
+    },
+    {
+        "id_location": 330486,
+        "id_location_parent": 330484,
+        "name": "Bygd\u00f8y-frogner",
+        "seoname": "bygdoy-frogner-43548"
+    },
+    {
+        "id_location": 330487,
+        "id_location_parent": 330484,
+        "name": "B\u00f8ler",
+        "seoname": "boler-43549"
+    },
+    {
+        "id_location": 330488,
+        "id_location_parent": 330484,
+        "name": "Ekeberg-bekkelaget",
+        "seoname": "ekeberg-bekkelaget-43550"
+    },
+    {
+        "id_location": 330489,
+        "id_location_parent": 330484,
+        "name": "Furuset",
+        "seoname": "furuset-43551"
+    },
+    {
+        "id_location": 330490,
+        "id_location_parent": 330484,
+        "name": "Gamle Oslo",
+        "seoname": "gamle-oslo-43552"
+    },
+    {
+        "id_location": 330491,
+        "id_location_parent": 330484,
+        "name": "Grefsen-kjels\u00e5s",
+        "seoname": "grefsen-kjelsas-43553"
+    },
+    {
+        "id_location": 330492,
+        "id_location_parent": 330484,
+        "name": "Grorud",
+        "seoname": "grorud-43554"
+    },
+    {
+        "id_location": 330493,
+        "id_location_parent": 330484,
+        "name": "Gr\u00fcnerl\u00f8kka-sofienberg",
+        "seoname": "grunerlokka-sofienberg-43555"
+    },
+    {
+        "id_location": 330494,
+        "id_location_parent": 330484,
+        "name": "Hellerud",
+        "seoname": "hellerud-43556"
+    },
+    {
+        "id_location": 330495,
+        "id_location_parent": 330484,
+        "name": "Helsfyr-sinsen",
+        "seoname": "helsfyr-sinsen-43557"
+    },
+    {
+        "id_location": 330496,
+        "id_location_parent": 330484,
+        "name": "Lambertseter",
+        "seoname": "lambertseter-43558"
+    },
+    {
+        "id_location": 330497,
+        "id_location_parent": 330484,
+        "name": "Manglerud",
+        "seoname": "manglerud-43559"
+    },
+    {
+        "id_location": 330498,
+        "id_location_parent": 330484,
+        "name": "Nordstrand",
+        "seoname": "nordstrand-43560"
+    },
+    {
+        "id_location": 330499,
+        "id_location_parent": 330484,
+        "name": "Roms\u00e5s",
+        "seoname": "romsas-43561"
+    },
+    {
+        "id_location": 330500,
+        "id_location_parent": 330484,
+        "name": "R\u00f8a",
+        "seoname": "roa-43562"
+    },
+    {
+        "id_location": 330501,
+        "id_location_parent": 330484,
+        "name": "Sagene-torshov",
+        "seoname": "sagene-torshov-43563"
+    },
+    {
+        "id_location": 330502,
+        "id_location_parent": 330484,
+        "name": "Sogn",
+        "seoname": "sogn-43564"
+    },
+    {
+        "id_location": 330503,
+        "id_location_parent": 330484,
+        "name": "St. Hanshaugen-ullev\u00e5l",
+        "seoname": "st-hanshaugen-ulleval-43565"
+    },
+    {
+        "id_location": 330504,
+        "id_location_parent": 330484,
+        "name": "Stovner",
+        "seoname": "stovner-43566"
+    },
+    {
+        "id_location": 330505,
+        "id_location_parent": 330484,
+        "name": "S\u00f8ndre Nordstrand",
+        "seoname": "sondre-nordstrand-43567"
+    },
+    {
+        "id_location": 330506,
+        "id_location_parent": 330484,
+        "name": "Ullern",
+        "seoname": "ullern-43568"
+    },
+    {
+        "id_location": 330507,
+        "id_location_parent": 330484,
+        "name": "Uranienborg-majorstuen",
+        "seoname": "uranienborg-majorstuen-43569"
+    },
+    {
+        "id_location": 330508,
+        "id_location_parent": 330484,
+        "name": "Vinderen",
+        "seoname": "vinderen-43570"
+    },
+    {
+        "id_location": 330509,
+        "id_location_parent": 330484,
+        "name": "\u00d8stensj\u00f8",
+        "seoname": "ostensjo-43571"
+    },
+    {
+        "id_location": 330510,
+        "id_location_parent": 1,
+        "name": "\u00d8stfold",
+        "seoname": "ostfold-780210"
+    },
+    {
+        "id_location": 330511,
+        "id_location_parent": 330510,
+        "name": "Aremark",
+        "seoname": "aremark-43572"
+    },
+    {
+        "id_location": 330512,
+        "id_location_parent": 330510,
+        "name": "Askim",
+        "seoname": "askim-43573"
+    },
+    {
+        "id_location": 330513,
+        "id_location_parent": 330510,
+        "name": "Eidsberg",
+        "seoname": "eidsberg-43574"
+    },
+    {
+        "id_location": 330514,
+        "id_location_parent": 330510,
+        "name": "Fredrikstad",
+        "seoname": "fredrikstad-43575"
+    },
+    {
+        "id_location": 330515,
+        "id_location_parent": 330510,
+        "name": "Halden",
+        "seoname": "halden-43576"
+    },
+    {
+        "id_location": 330516,
+        "id_location_parent": 330510,
+        "name": "Hob\u00f8l",
+        "seoname": "hobol-43577"
+    },
+    {
+        "id_location": 330517,
+        "id_location_parent": 330510,
+        "name": "Hvaler",
+        "seoname": "hvaler-43578"
+    },
+    {
+        "id_location": 330518,
+        "id_location_parent": 330510,
+        "name": "Marker",
+        "seoname": "marker-43579"
+    },
+    {
+        "id_location": 330519,
+        "id_location_parent": 330510,
+        "name": "Moss",
+        "seoname": "moss-43580"
+    },
+    {
+        "id_location": 330520,
+        "id_location_parent": 330510,
+        "name": "Rakkestad",
+        "seoname": "rakkestad-43581"
+    },
+    {
+        "id_location": 330521,
+        "id_location_parent": 330510,
+        "name": "Rygge",
+        "seoname": "rygge-43582"
+    },
+    {
+        "id_location": 330522,
+        "id_location_parent": 330510,
+        "name": "R\u00f8mskog",
+        "seoname": "romskog-43583"
+    },
+    {
+        "id_location": 330523,
+        "id_location_parent": 330510,
+        "name": "R\u00e5de",
+        "seoname": "rade-43584"
+    },
+    {
+        "id_location": 330524,
+        "id_location_parent": 330510,
+        "name": "Sarpsborg",
+        "seoname": "sarpsborg-43585"
+    },
+    {
+        "id_location": 330525,
+        "id_location_parent": 330510,
+        "name": "Skiptvet",
+        "seoname": "skiptvet-43586"
+    },
+    {
+        "id_location": 330526,
+        "id_location_parent": 330510,
+        "name": "Spydeberg",
+        "seoname": "spydeberg-43587"
+    },
+    {
+        "id_location": 330527,
+        "id_location_parent": 330510,
+        "name": "Tr\u00f8gstad",
+        "seoname": "trogstad-43588"
+    },
+    {
+        "id_location": 330528,
+        "id_location_parent": 330510,
+        "name": "V\u00e5ler",
+        "seoname": "valer-43589"
+    },
+    {
+        "id_location": 330529,
+        "id_location_parent": 1,
+        "name": "Rogaland",
+        "seoname": "rogaland-780229"
+    },
+    {
+        "id_location": 330530,
+        "id_location_parent": 330529,
+        "name": "Bjerkreim",
+        "seoname": "bjerkreim-43590"
+    },
+    {
+        "id_location": 330531,
+        "id_location_parent": 330529,
+        "name": "Bokn",
+        "seoname": "bokn-43591"
+    },
+    {
+        "id_location": 330532,
+        "id_location_parent": 330529,
+        "name": "Eigersund",
+        "seoname": "eigersund-43592"
+    },
+    {
+        "id_location": 330533,
+        "id_location_parent": 330529,
+        "name": "Finn\u00f8y",
+        "seoname": "finnoy-43593"
+    },
+    {
+        "id_location": 330534,
+        "id_location_parent": 330529,
+        "name": "Forsand",
+        "seoname": "forsand-43594"
+    },
+    {
+        "id_location": 330535,
+        "id_location_parent": 330529,
+        "name": "Gjesdal",
+        "seoname": "gjesdal-43595"
+    },
+    {
+        "id_location": 330536,
+        "id_location_parent": 330529,
+        "name": "Haugesund",
+        "seoname": "haugesund-43596"
+    },
+    {
+        "id_location": 330537,
+        "id_location_parent": 330529,
+        "name": "Hjelmeland",
+        "seoname": "hjelmeland-43597"
+    },
+    {
+        "id_location": 330538,
+        "id_location_parent": 330529,
+        "name": "H\u00e5",
+        "seoname": "ha-43598"
+    },
+    {
+        "id_location": 330539,
+        "id_location_parent": 330529,
+        "name": "Karm\u00f8y",
+        "seoname": "karmoy-43599"
+    },
+    {
+        "id_location": 330540,
+        "id_location_parent": 330529,
+        "name": "Klepp",
+        "seoname": "klepp-43600"
+    },
+    {
+        "id_location": 330541,
+        "id_location_parent": 330529,
+        "name": "Kvits\u00f8y",
+        "seoname": "kvitsoy-43601"
+    },
+    {
+        "id_location": 330542,
+        "id_location_parent": 330529,
+        "name": "Lund",
+        "seoname": "lund-43602"
+    },
+    {
+        "id_location": 330543,
+        "id_location_parent": 330529,
+        "name": "Randaberg",
+        "seoname": "randaberg-43603"
+    },
+    {
+        "id_location": 330544,
+        "id_location_parent": 330529,
+        "name": "Rennes\u00f8y",
+        "seoname": "rennesoy-43604"
+    },
+    {
+        "id_location": 330545,
+        "id_location_parent": 330529,
+        "name": "Sandnes",
+        "seoname": "sandnes-43605"
+    },
+    {
+        "id_location": 330546,
+        "id_location_parent": 330529,
+        "name": "Sauda",
+        "seoname": "sauda-43606"
+    },
+    {
+        "id_location": 330547,
+        "id_location_parent": 330529,
+        "name": "Sokndal",
+        "seoname": "sokndal-43607"
+    },
+    {
+        "id_location": 330548,
+        "id_location_parent": 330529,
+        "name": "Sola",
+        "seoname": "sola-43608"
+    },
+    {
+        "id_location": 330549,
+        "id_location_parent": 330529,
+        "name": "Stavanger",
+        "seoname": "stavanger-43609"
+    },
+    {
+        "id_location": 330550,
+        "id_location_parent": 330529,
+        "name": "Strand",
+        "seoname": "strand-43610"
+    },
+    {
+        "id_location": 330551,
+        "id_location_parent": 330529,
+        "name": "Suldal",
+        "seoname": "suldal-43611"
+    },
+    {
+        "id_location": 330552,
+        "id_location_parent": 330529,
+        "name": "Time",
+        "seoname": "time-43612"
+    },
+    {
+        "id_location": 330553,
+        "id_location_parent": 330529,
+        "name": "Tysv\u00e6r",
+        "seoname": "tysvaer-43613"
+    },
+    {
+        "id_location": 330554,
+        "id_location_parent": 330529,
+        "name": "Utsira",
+        "seoname": "utsira-43614"
+    },
+    {
+        "id_location": 330555,
+        "id_location_parent": 330529,
+        "name": "Vindafjord",
+        "seoname": "vindafjord-43615"
+    },
+    {
+        "id_location": 330556,
+        "id_location_parent": 1,
+        "name": "Sogn Og Fjordane",
+        "seoname": "sogn-og-fjordane-780256"
+    },
+    {
+        "id_location": 330557,
+        "id_location_parent": 330556,
+        "name": "\u00c5rdal",
+        "seoname": "ardal-43616"
+    },
+    {
+        "id_location": 330558,
+        "id_location_parent": 330556,
+        "name": "Askvoll",
+        "seoname": "askvoll-43617"
+    },
+    {
+        "id_location": 330559,
+        "id_location_parent": 330556,
+        "name": "Aurland",
+        "seoname": "aurland-43618"
+    },
+    {
+        "id_location": 330560,
+        "id_location_parent": 330556,
+        "name": "Balestrand",
+        "seoname": "balestrand-43619"
+    },
+    {
+        "id_location": 330561,
+        "id_location_parent": 330556,
+        "name": "Bremanger",
+        "seoname": "bremanger-43620"
+    },
+    {
+        "id_location": 330562,
+        "id_location_parent": 330556,
+        "name": "Eid",
+        "seoname": "eid-43621"
+    },
+    {
+        "id_location": 330563,
+        "id_location_parent": 330556,
+        "name": "Fjaler",
+        "seoname": "fjaler-43622"
+    },
+    {
+        "id_location": 330564,
+        "id_location_parent": 330556,
+        "name": "Flora",
+        "seoname": "flora-43623"
+    },
+    {
+        "id_location": 330565,
+        "id_location_parent": 330556,
+        "name": "F\u00f8rde",
+        "seoname": "forde-43624"
+    },
+    {
+        "id_location": 330566,
+        "id_location_parent": 330556,
+        "name": "Gaular",
+        "seoname": "gaular-43625"
+    },
+    {
+        "id_location": 330567,
+        "id_location_parent": 330556,
+        "name": "Gloppen",
+        "seoname": "gloppen-43626"
+    },
+    {
+        "id_location": 330568,
+        "id_location_parent": 330556,
+        "name": "Gulen",
+        "seoname": "gulen-43627"
+    },
+    {
+        "id_location": 330569,
+        "id_location_parent": 330556,
+        "name": "Hornindal",
+        "seoname": "hornindal-43628"
+    },
+    {
+        "id_location": 330570,
+        "id_location_parent": 330556,
+        "name": "H\u00f8yanger",
+        "seoname": "hoyanger-43629"
+    },
+    {
+        "id_location": 330571,
+        "id_location_parent": 330556,
+        "name": "Hyllestad",
+        "seoname": "hyllestad-43630"
+    },
+    {
+        "id_location": 330572,
+        "id_location_parent": 330556,
+        "name": "J\u00f8lster",
+        "seoname": "jolster-43631"
+    },
+    {
+        "id_location": 330573,
+        "id_location_parent": 330556,
+        "name": "L\u00e6rdal",
+        "seoname": "laerdal-43632"
+    },
+    {
+        "id_location": 330574,
+        "id_location_parent": 330556,
+        "name": "Leikanger",
+        "seoname": "leikanger-43633"
+    },
+    {
+        "id_location": 330575,
+        "id_location_parent": 330556,
+        "name": "Luster",
+        "seoname": "luster-43634"
+    },
+    {
+        "id_location": 330576,
+        "id_location_parent": 330556,
+        "name": "Naustdal",
+        "seoname": "naustdal-43635"
+    },
+    {
+        "id_location": 330577,
+        "id_location_parent": 330556,
+        "name": "Selje",
+        "seoname": "selje-43636"
+    },
+    {
+        "id_location": 330578,
+        "id_location_parent": 330556,
+        "name": "Sogndal",
+        "seoname": "sogndal-43637"
+    },
+    {
+        "id_location": 330579,
+        "id_location_parent": 330556,
+        "name": "Solund",
+        "seoname": "solund-43638"
+    },
+    {
+        "id_location": 330580,
+        "id_location_parent": 330556,
+        "name": "Stryn",
+        "seoname": "stryn-43639"
+    },
+    {
+        "id_location": 330581,
+        "id_location_parent": 330556,
+        "name": "V\u00e5gs\u00f8y",
+        "seoname": "vagsoy-43640"
+    },
+    {
+        "id_location": 330582,
+        "id_location_parent": 330556,
+        "name": "Vik",
+        "seoname": "vik-43641"
+    },
+    {
+        "id_location": 330583,
+        "id_location_parent": 1,
+        "name": "S\u00f8r-tr\u00f8ndelag",
+        "seoname": "sor-trondelag-780283"
+    },
+    {
+        "id_location": 330584,
+        "id_location_parent": 330583,
+        "name": "\u00c5fjord",
+        "seoname": "afjord-43642"
+    },
+    {
+        "id_location": 330585,
+        "id_location_parent": 330583,
+        "name": "Agdenes",
+        "seoname": "agdenes-43643"
+    },
+    {
+        "id_location": 330586,
+        "id_location_parent": 330583,
+        "name": "Bjugn",
+        "seoname": "bjugn-43644"
+    },
+    {
+        "id_location": 330587,
+        "id_location_parent": 330583,
+        "name": "Fr\u00f8ya",
+        "seoname": "froya-43645"
+    },
+    {
+        "id_location": 330588,
+        "id_location_parent": 330583,
+        "name": "Hemne",
+        "seoname": "hemne-43646"
+    },
+    {
+        "id_location": 330589,
+        "id_location_parent": 330583,
+        "name": "Hitra",
+        "seoname": "hitra-43647"
+    },
+    {
+        "id_location": 330590,
+        "id_location_parent": 330583,
+        "name": "Holt\u00e5len",
+        "seoname": "holtalen-43648"
+    },
+    {
+        "id_location": 330591,
+        "id_location_parent": 330583,
+        "name": "Kl\u00e6bu",
+        "seoname": "klaebu-43649"
+    },
+    {
+        "id_location": 330592,
+        "id_location_parent": 330583,
+        "name": "Malvik",
+        "seoname": "malvik-43650"
+    },
+    {
+        "id_location": 330593,
+        "id_location_parent": 330583,
+        "name": "Meldal",
+        "seoname": "meldal-43651"
+    },
+    {
+        "id_location": 330594,
+        "id_location_parent": 330583,
+        "name": "Melhus",
+        "seoname": "melhus-43652"
+    },
+    {
+        "id_location": 330595,
+        "id_location_parent": 330583,
+        "name": "Midtre Gauldal",
+        "seoname": "midtre-gauldal-43653"
+    },
+    {
+        "id_location": 330596,
+        "id_location_parent": 330583,
+        "name": "Oppdal",
+        "seoname": "oppdal-43654"
+    },
+    {
+        "id_location": 330597,
+        "id_location_parent": 330583,
+        "name": "Orkdal",
+        "seoname": "orkdal-43655"
+    },
+    {
+        "id_location": 330598,
+        "id_location_parent": 330583,
+        "name": "\u00d8rland",
+        "seoname": "orland-43656"
+    },
+    {
+        "id_location": 330599,
+        "id_location_parent": 330583,
+        "name": "Osen",
+        "seoname": "osen-43657"
+    },
+    {
+        "id_location": 330600,
+        "id_location_parent": 330583,
+        "name": "Rennebu",
+        "seoname": "rennebu-43658"
+    },
+    {
+        "id_location": 330601,
+        "id_location_parent": 330583,
+        "name": "Rissa",
+        "seoname": "rissa-43659"
+    },
+    {
+        "id_location": 330602,
+        "id_location_parent": 330583,
+        "name": "Roan",
+        "seoname": "roan-43660"
+    },
+    {
+        "id_location": 330603,
+        "id_location_parent": 330583,
+        "name": "R\u00f8ros",
+        "seoname": "roros-43661"
+    },
+    {
+        "id_location": 330604,
+        "id_location_parent": 330583,
+        "name": "Selbu",
+        "seoname": "selbu-43662"
+    },
+    {
+        "id_location": 330605,
+        "id_location_parent": 330583,
+        "name": "Skaun",
+        "seoname": "skaun-43663"
+    },
+    {
+        "id_location": 330606,
+        "id_location_parent": 330583,
+        "name": "Snillfjord",
+        "seoname": "snillfjord-43664"
+    },
+    {
+        "id_location": 330607,
+        "id_location_parent": 330583,
+        "name": "Trondheim",
+        "seoname": "trondheim-43665"
+    },
+    {
+        "id_location": 330608,
+        "id_location_parent": 330583,
+        "name": "Tydal",
+        "seoname": "tydal-43666"
+    },
+    {
+        "id_location": 330609,
+        "id_location_parent": 1,
+        "name": "Telemark",
+        "seoname": "telemark-780309"
+    },
+    {
+        "id_location": 330610,
+        "id_location_parent": 330609,
+        "name": "Bamble",
+        "seoname": "bamble-43667"
+    },
+    {
+        "id_location": 330611,
+        "id_location_parent": 330609,
+        "name": "B\u00f8",
+        "seoname": "bo-43668"
+    },
+    {
+        "id_location": 330612,
+        "id_location_parent": 330609,
+        "name": "Drangedal",
+        "seoname": "drangedal-43669"
+    },
+    {
+        "id_location": 330613,
+        "id_location_parent": 330609,
+        "name": "Fyresdal",
+        "seoname": "fyresdal-43670"
+    },
+    {
+        "id_location": 330614,
+        "id_location_parent": 330609,
+        "name": "Hjartdal",
+        "seoname": "hjartdal-43671"
+    },
+    {
+        "id_location": 330615,
+        "id_location_parent": 330609,
+        "name": "Krager\u00f8",
+        "seoname": "kragero-43672"
+    },
+    {
+        "id_location": 330616,
+        "id_location_parent": 330609,
+        "name": "Kviteseid",
+        "seoname": "kviteseid-43673"
+    },
+    {
+        "id_location": 330617,
+        "id_location_parent": 330609,
+        "name": "Nissedal",
+        "seoname": "nissedal-43674"
+    },
+    {
+        "id_location": 330618,
+        "id_location_parent": 330609,
+        "name": "Nome",
+        "seoname": "nome-43675"
+    },
+    {
+        "id_location": 330619,
+        "id_location_parent": 330609,
+        "name": "Notodden",
+        "seoname": "notodden-43676"
+    },
+    {
+        "id_location": 330620,
+        "id_location_parent": 330609,
+        "name": "Porsgrunn",
+        "seoname": "porsgrunn-43677"
+    },
+    {
+        "id_location": 330621,
+        "id_location_parent": 330609,
+        "name": "Sauherad",
+        "seoname": "sauherad-43678"
+    },
+    {
+        "id_location": 330622,
+        "id_location_parent": 330609,
+        "name": "Seljord",
+        "seoname": "seljord-43679"
+    },
+    {
+        "id_location": 330623,
+        "id_location_parent": 330609,
+        "name": "Siljan",
+        "seoname": "siljan-43680"
+    },
+    {
+        "id_location": 330624,
+        "id_location_parent": 330609,
+        "name": "Skien",
+        "seoname": "skien-43681"
+    },
+    {
+        "id_location": 330625,
+        "id_location_parent": 330609,
+        "name": "Tinn",
+        "seoname": "tinn-43682"
+    },
+    {
+        "id_location": 330626,
+        "id_location_parent": 330609,
+        "name": "Tokke",
+        "seoname": "tokke-43683"
+    },
+    {
+        "id_location": 330627,
+        "id_location_parent": 330609,
+        "name": "Vinje",
+        "seoname": "vinje-43684"
+    },
+    {
+        "id_location": 330628,
+        "id_location_parent": 1,
+        "name": "Troms",
+        "seoname": "troms-780328"
+    },
+    {
+        "id_location": 330629,
+        "id_location_parent": 330628,
+        "name": "Balsfjord",
+        "seoname": "balsfjord-43685"
+    },
+    {
+        "id_location": 330630,
+        "id_location_parent": 330628,
+        "name": "Bardu",
+        "seoname": "bardu-43686"
+    },
+    {
+        "id_location": 330631,
+        "id_location_parent": 330628,
+        "name": "Berg",
+        "seoname": "berg-43687"
+    },
+    {
+        "id_location": 330632,
+        "id_location_parent": 330628,
+        "name": "Bjark\u00f8y",
+        "seoname": "bjarkoy-43688"
+    },
+    {
+        "id_location": 330633,
+        "id_location_parent": 330628,
+        "name": "Dyr\u00f8y",
+        "seoname": "dyroy-43689"
+    },
+    {
+        "id_location": 330634,
+        "id_location_parent": 330628,
+        "name": "Gratangen",
+        "seoname": "gratangen-43690"
+    },
+    {
+        "id_location": 330635,
+        "id_location_parent": 330628,
+        "name": "Harstad",
+        "seoname": "harstad-43691"
+    },
+    {
+        "id_location": 330636,
+        "id_location_parent": 330628,
+        "name": "Ibestad",
+        "seoname": "ibestad-43692"
+    },
+    {
+        "id_location": 330637,
+        "id_location_parent": 330628,
+        "name": "K\u00e5fjord",
+        "seoname": "kafjord-43693"
+    },
+    {
+        "id_location": 330638,
+        "id_location_parent": 330628,
+        "name": "Karls\u00f8y",
+        "seoname": "karlsoy-43694"
+    },
+    {
+        "id_location": 330639,
+        "id_location_parent": 330628,
+        "name": "Kv\u00e6fjord",
+        "seoname": "kvaefjord-43695"
+    },
+    {
+        "id_location": 330640,
+        "id_location_parent": 330628,
+        "name": "Kv\u00e6nangen",
+        "seoname": "kvaenangen-43696"
+    },
+    {
+        "id_location": 330641,
+        "id_location_parent": 330628,
+        "name": "Lavangen",
+        "seoname": "lavangen-43697"
+    },
+    {
+        "id_location": 330642,
+        "id_location_parent": 330628,
+        "name": "Lenvik",
+        "seoname": "lenvik-43698"
+    },
+    {
+        "id_location": 330643,
+        "id_location_parent": 330628,
+        "name": "Lyngen",
+        "seoname": "lyngen-43699"
+    },
+    {
+        "id_location": 330644,
+        "id_location_parent": 330628,
+        "name": "M\u00e5lselv",
+        "seoname": "malselv-43700"
+    },
+    {
+        "id_location": 330645,
+        "id_location_parent": 330628,
+        "name": "Nordreisa",
+        "seoname": "nordreisa-43701"
+    },
+    {
+        "id_location": 330646,
+        "id_location_parent": 330628,
+        "name": "Salangen",
+        "seoname": "salangen-43702"
+    },
+    {
+        "id_location": 330647,
+        "id_location_parent": 330628,
+        "name": "Sk\u00e5nland",
+        "seoname": "skanland-43703"
+    },
+    {
+        "id_location": 330648,
+        "id_location_parent": 330628,
+        "name": "Skjerv\u00f8y",
+        "seoname": "skjervoy-43704"
+    },
+    {
+        "id_location": 330649,
+        "id_location_parent": 330628,
+        "name": "S\u00f8rreisa",
+        "seoname": "sorreisa-43705"
+    },
+    {
+        "id_location": 330650,
+        "id_location_parent": 330628,
+        "name": "Storfjord",
+        "seoname": "storfjord-43706"
+    },
+    {
+        "id_location": 330651,
+        "id_location_parent": 330628,
+        "name": "Torsken",
+        "seoname": "torsken-43707"
+    },
+    {
+        "id_location": 330652,
+        "id_location_parent": 330628,
+        "name": "Tran\u00f8y",
+        "seoname": "tranoy-43708"
+    },
+    {
+        "id_location": 330653,
+        "id_location_parent": 330628,
+        "name": "Troms\u00f8",
+        "seoname": "tromso-43709"
+    },
+    {
+        "id_location": 330654,
+        "id_location_parent": 1,
+        "name": "Vest-agder",
+        "seoname": "vest-agder-780354"
+    },
+    {
+        "id_location": 330655,
+        "id_location_parent": 330654,
+        "name": "\u00c5seral",
+        "seoname": "aseral-43710"
+    },
+    {
+        "id_location": 330656,
+        "id_location_parent": 330654,
+        "name": "Audnedal",
+        "seoname": "audnedal-43711"
+    },
+    {
+        "id_location": 330657,
+        "id_location_parent": 330654,
+        "name": "Farsund",
+        "seoname": "farsund-43712"
+    },
+    {
+        "id_location": 330658,
+        "id_location_parent": 330654,
+        "name": "Flekkefjord",
+        "seoname": "flekkefjord-43713"
+    },
+    {
+        "id_location": 330659,
+        "id_location_parent": 330654,
+        "name": "H\u00e6gebostad",
+        "seoname": "haegebostad-43714"
+    },
+    {
+        "id_location": 330660,
+        "id_location_parent": 330654,
+        "name": "Kristiansand",
+        "seoname": "kristiansand-43715"
+    },
+    {
+        "id_location": 330661,
+        "id_location_parent": 330654,
+        "name": "Kvinesdal",
+        "seoname": "kvinesdal-43716"
+    },
+    {
+        "id_location": 330662,
+        "id_location_parent": 330654,
+        "name": "Lindesnes",
+        "seoname": "lindesnes-43717"
+    },
+    {
+        "id_location": 330663,
+        "id_location_parent": 330654,
+        "name": "Lyngdal",
+        "seoname": "lyngdal-43718"
+    },
+    {
+        "id_location": 330664,
+        "id_location_parent": 330654,
+        "name": "Mandal",
+        "seoname": "mandal-43719"
+    },
+    {
+        "id_location": 330665,
+        "id_location_parent": 330654,
+        "name": "Marnardal",
+        "seoname": "marnardal-43720"
+    },
+    {
+        "id_location": 330666,
+        "id_location_parent": 330654,
+        "name": "Sirdal",
+        "seoname": "sirdal-43721"
+    },
+    {
+        "id_location": 330667,
+        "id_location_parent": 330654,
+        "name": "Songdalen",
+        "seoname": "songdalen-43722"
+    },
+    {
+        "id_location": 330668,
+        "id_location_parent": 330654,
+        "name": "S\u00f8gne",
+        "seoname": "sogne-43723"
+    },
+    {
+        "id_location": 330669,
+        "id_location_parent": 330654,
+        "name": "Vennesla",
+        "seoname": "vennesla-43724"
+    },
+    {
+        "id_location": 330670,
+        "id_location_parent": 1,
+        "name": "Vestfold",
+        "seoname": "vestfold-780370"
+    },
+    {
+        "id_location": 330671,
+        "id_location_parent": 330670,
+        "name": "Andebu",
+        "seoname": "andebu-43725"
+    },
+    {
+        "id_location": 330672,
+        "id_location_parent": 330670,
+        "name": "Hof",
+        "seoname": "hof-43726"
+    },
+    {
+        "id_location": 330673,
+        "id_location_parent": 330670,
+        "name": "Holmestrand",
+        "seoname": "holmestrand-43727"
+    },
+    {
+        "id_location": 330674,
+        "id_location_parent": 330670,
+        "name": "Horten",
+        "seoname": "horten-43728"
+    },
+    {
+        "id_location": 330675,
+        "id_location_parent": 330670,
+        "name": "Lardal",
+        "seoname": "lardal-43729"
+    },
+    {
+        "id_location": 330676,
+        "id_location_parent": 330670,
+        "name": "Larvik",
+        "seoname": "larvik-43730"
+    },
+    {
+        "id_location": 330677,
+        "id_location_parent": 330670,
+        "name": "N\u00f8tter\u00f8y",
+        "seoname": "notteroy-43731"
+    },
+    {
+        "id_location": 330678,
+        "id_location_parent": 330670,
+        "name": "Re",
+        "seoname": "re-43732"
+    },
+    {
+        "id_location": 330679,
+        "id_location_parent": 330670,
+        "name": "Sande",
+        "seoname": "sande-43733"
+    },
+    {
+        "id_location": 330680,
+        "id_location_parent": 330670,
+        "name": "Sandefjord",
+        "seoname": "sandefjord-43734"
+    },
+    {
+        "id_location": 330681,
+        "id_location_parent": 330670,
+        "name": "Stokke",
+        "seoname": "stokke-43735"
+    },
+    {
+        "id_location": 330682,
+        "id_location_parent": 330670,
+        "name": "Svelvik",
+        "seoname": "svelvik-43736"
+    },
+    {
+        "id_location": 330683,
+        "id_location_parent": 330670,
+        "name": "Tj\u00f8me",
+        "seoname": "tjome-43737"
+    },
+    {
+        "id_location": 330684,
+        "id_location_parent": 330670,
+        "name": "T\u00f8nsberg",
+        "seoname": "tonsberg-43738"
+    }
+]

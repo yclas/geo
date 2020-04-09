@@ -1,0 +1,56 @@
+[
+    {
+        "id_location": 389456,
+        "id_location_parent": 1,
+        "name": "Acquaviva",
+        "seoname": "acquaviva-779898"
+    },
+    {
+        "id_location": 389457,
+        "id_location_parent": 1,
+        "name": "Borgo Maggiore",
+        "seoname": "borgo-maggiore-779899"
+    },
+    {
+        "id_location": 389458,
+        "id_location_parent": 1,
+        "name": "Chiesanuova",
+        "seoname": "chiesanuova-779900"
+    },
+    {
+        "id_location": 389459,
+        "id_location_parent": 1,
+        "name": "Montegiardino",
+        "seoname": "montegiardino-779901"
+    },
+    {
+        "id_location": 389460,
+        "id_location_parent": 1,
+        "name": "Domagnano",
+        "seoname": "domagnano-779902"
+    },
+    {
+        "id_location": 389461,
+        "id_location_parent": 1,
+        "name": "Faetano",
+        "seoname": "faetano-779903"
+    },
+    {
+        "id_location": 389462,
+        "id_location_parent": 1,
+        "name": "Fiorentino",
+        "seoname": "fiorentino-779904"
+    },
+    {
+        "id_location": 389463,
+        "id_location_parent": 1,
+        "name": "San Marino",
+        "seoname": "san-marino-779905"
+    },
+    {
+        "id_location": 389464,
+        "id_location_parent": 1,
+        "name": "Serravalle",
+        "seoname": "serravalle-779906"
+    }
+]

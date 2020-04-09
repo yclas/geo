@@ -1,0 +1,506 @@
+[
+    {
+        "id_location": 389712,
+        "id_location_parent": 1,
+        "name": "Central",
+        "seoname": "central-782147"
+    },
+    {
+        "id_location": 389713,
+        "id_location_parent": 389712,
+        "name": "Ang Thong",
+        "seoname": "ang-thong-462589"
+    },
+    {
+        "id_location": 389714,
+        "id_location_parent": 389712,
+        "name": "Ayutthaya",
+        "seoname": "ayutthaya-462590"
+    },
+    {
+        "id_location": 389715,
+        "id_location_parent": 389712,
+        "name": "Chainat",
+        "seoname": "chainat-462591"
+    },
+    {
+        "id_location": 389716,
+        "id_location_parent": 389712,
+        "name": "Kamphaeng Phet",
+        "seoname": "kamphaeng-phet-462592"
+    },
+    {
+        "id_location": 389717,
+        "id_location_parent": 389712,
+        "name": "Lopburi",
+        "seoname": "lopburi-462593"
+    },
+    {
+        "id_location": 389718,
+        "id_location_parent": 389712,
+        "name": "Nakhon Nayok",
+        "seoname": "nakhon-nayok-462594"
+    },
+    {
+        "id_location": 389719,
+        "id_location_parent": 389712,
+        "name": "Nakhon Pathom",
+        "seoname": "nakhon-pathom-462595"
+    },
+    {
+        "id_location": 389720,
+        "id_location_parent": 389712,
+        "name": "Nakhon Sawan",
+        "seoname": "nakhon-sawan-462596"
+    },
+    {
+        "id_location": 389721,
+        "id_location_parent": 389712,
+        "name": "Nonthaburi",
+        "seoname": "nonthaburi-462597"
+    },
+    {
+        "id_location": 389722,
+        "id_location_parent": 389712,
+        "name": "Pathum Thani",
+        "seoname": "pathum-thani-462598"
+    },
+    {
+        "id_location": 389723,
+        "id_location_parent": 389712,
+        "name": "Phetchabun",
+        "seoname": "phetchabun-462599"
+    },
+    {
+        "id_location": 389724,
+        "id_location_parent": 389712,
+        "name": "Phichit",
+        "seoname": "phichit-462600"
+    },
+    {
+        "id_location": 389725,
+        "id_location_parent": 389712,
+        "name": "Phitsanulok",
+        "seoname": "phitsanulok-462601"
+    },
+    {
+        "id_location": 389726,
+        "id_location_parent": 389712,
+        "name": "Samut Prakan",
+        "seoname": "samut-prakan-462602"
+    },
+    {
+        "id_location": 389727,
+        "id_location_parent": 389712,
+        "name": "Samut Sakhon",
+        "seoname": "samut-sakhon-462603"
+    },
+    {
+        "id_location": 389728,
+        "id_location_parent": 389712,
+        "name": "Samut Songkhram",
+        "seoname": "samut-songkhram-462604"
+    },
+    {
+        "id_location": 389729,
+        "id_location_parent": 389712,
+        "name": "Saraburi",
+        "seoname": "saraburi-462605"
+    },
+    {
+        "id_location": 389730,
+        "id_location_parent": 389712,
+        "name": "Singburi",
+        "seoname": "singburi-462606"
+    },
+    {
+        "id_location": 389731,
+        "id_location_parent": 389712,
+        "name": "Sukhothai",
+        "seoname": "sukhothai-462607"
+    },
+    {
+        "id_location": 389732,
+        "id_location_parent": 389712,
+        "name": "Suphanburi",
+        "seoname": "suphanburi-462608"
+    },
+    {
+        "id_location": 389733,
+        "id_location_parent": 389712,
+        "name": "Uthai Thani",
+        "seoname": "uthai-thani-462609"
+    },
+    {
+        "id_location": 389734,
+        "id_location_parent": 1,
+        "name": "East",
+        "seoname": "east-782148"
+    },
+    {
+        "id_location": 389735,
+        "id_location_parent": 389734,
+        "name": "Chachoengsao",
+        "seoname": "chachoengsao-462610"
+    },
+    {
+        "id_location": 389736,
+        "id_location_parent": 389734,
+        "name": "Trat",
+        "seoname": "trat-462611"
+    },
+    {
+        "id_location": 389737,
+        "id_location_parent": 389734,
+        "name": "Chanthaburi",
+        "seoname": "chanthaburi-462612"
+    },
+    {
+        "id_location": 389738,
+        "id_location_parent": 389734,
+        "name": "Chonburi",
+        "seoname": "chonburi-462613"
+    },
+    {
+        "id_location": 389739,
+        "id_location_parent": 389734,
+        "name": "Pattaya",
+        "seoname": "pattaya-462614"
+    },
+    {
+        "id_location": 389740,
+        "id_location_parent": 389734,
+        "name": "Prachinburi",
+        "seoname": "prachinburi-462615"
+    },
+    {
+        "id_location": 389741,
+        "id_location_parent": 389734,
+        "name": "Rayong",
+        "seoname": "rayong-462616"
+    },
+    {
+        "id_location": 389742,
+        "id_location_parent": 389734,
+        "name": "Sa Kaeo",
+        "seoname": "sa-kaeo-462617"
+    },
+    {
+        "id_location": 389743,
+        "id_location_parent": 1,
+        "name": "North",
+        "seoname": "north-782149"
+    },
+    {
+        "id_location": 389744,
+        "id_location_parent": 389743,
+        "name": "Chiang Mai",
+        "seoname": "chiang-mai-462618"
+    },
+    {
+        "id_location": 389745,
+        "id_location_parent": 389743,
+        "name": "Chiang Rai",
+        "seoname": "chiang-rai-462619"
+    },
+    {
+        "id_location": 389746,
+        "id_location_parent": 389743,
+        "name": "Lampang",
+        "seoname": "lampang-462620"
+    },
+    {
+        "id_location": 389747,
+        "id_location_parent": 389743,
+        "name": "Lamphun",
+        "seoname": "lamphun-462621"
+    },
+    {
+        "id_location": 389748,
+        "id_location_parent": 389743,
+        "name": "Mae Hong Son",
+        "seoname": "mae-hong-son-462622"
+    },
+    {
+        "id_location": 389749,
+        "id_location_parent": 389743,
+        "name": "Nan",
+        "seoname": "nan-462623"
+    },
+    {
+        "id_location": 389750,
+        "id_location_parent": 389743,
+        "name": "Phayao",
+        "seoname": "phayao-462624"
+    },
+    {
+        "id_location": 389751,
+        "id_location_parent": 389743,
+        "name": "Phrae",
+        "seoname": "phrae-462625"
+    },
+    {
+        "id_location": 389752,
+        "id_location_parent": 389743,
+        "name": "Uttaradit",
+        "seoname": "uttaradit-462626"
+    },
+    {
+        "id_location": 389753,
+        "id_location_parent": 1,
+        "name": "North-East",
+        "seoname": "north-east-782150"
+    },
+    {
+        "id_location": 389754,
+        "id_location_parent": 389753,
+        "name": "Amnat Charoen",
+        "seoname": "amnat-charoen-462627"
+    },
+    {
+        "id_location": 389755,
+        "id_location_parent": 389753,
+        "name": "Bueng Kan",
+        "seoname": "bueng-kan-462628"
+    },
+    {
+        "id_location": 389756,
+        "id_location_parent": 389753,
+        "name": "Buri Ram",
+        "seoname": "buri-ram-462629"
+    },
+    {
+        "id_location": 389757,
+        "id_location_parent": 389753,
+        "name": "Chaiyaphum",
+        "seoname": "chaiyaphum-462630"
+    },
+    {
+        "id_location": 389758,
+        "id_location_parent": 389753,
+        "name": "Kalasin",
+        "seoname": "kalasin-462631"
+    },
+    {
+        "id_location": 389759,
+        "id_location_parent": 389753,
+        "name": "Khon Kaen",
+        "seoname": "khon-kaen-462632"
+    },
+    {
+        "id_location": 389760,
+        "id_location_parent": 389753,
+        "name": "Loei",
+        "seoname": "loei-462633"
+    },
+    {
+        "id_location": 389761,
+        "id_location_parent": 389753,
+        "name": "Maha Sarakham",
+        "seoname": "maha-sarakham-462634"
+    },
+    {
+        "id_location": 389762,
+        "id_location_parent": 389753,
+        "name": "Mukdahan",
+        "seoname": "mukdahan-462635"
+    },
+    {
+        "id_location": 389763,
+        "id_location_parent": 389753,
+        "name": "Nakhon Phanom",
+        "seoname": "nakhon-phanom-462636"
+    },
+    {
+        "id_location": 389764,
+        "id_location_parent": 389753,
+        "name": "Nakhon Ratchasima",
+        "seoname": "nakhon-ratchasima-462637"
+    },
+    {
+        "id_location": 389765,
+        "id_location_parent": 389753,
+        "name": "Nong Khai",
+        "seoname": "nong-khai-462638"
+    },
+    {
+        "id_location": 389766,
+        "id_location_parent": 389753,
+        "name": "Nongbua Lamphu",
+        "seoname": "nongbua-lamphu-462639"
+    },
+    {
+        "id_location": 389767,
+        "id_location_parent": 389753,
+        "name": "Roi Et",
+        "seoname": "roi-et-462640"
+    },
+    {
+        "id_location": 389768,
+        "id_location_parent": 389753,
+        "name": "Sakon Nakhon",
+        "seoname": "sakon-nakhon-462641"
+    },
+    {
+        "id_location": 389769,
+        "id_location_parent": 389753,
+        "name": "Sisaket",
+        "seoname": "sisaket-462642"
+    },
+    {
+        "id_location": 389770,
+        "id_location_parent": 389753,
+        "name": "Surin",
+        "seoname": "surin-462643"
+    },
+    {
+        "id_location": 389771,
+        "id_location_parent": 389753,
+        "name": "Ubon Ratchathani",
+        "seoname": "ubon-ratchathani-462644"
+    },
+    {
+        "id_location": 389772,
+        "id_location_parent": 389753,
+        "name": "Udon Thani",
+        "seoname": "udon-thani-462645"
+    },
+    {
+        "id_location": 389773,
+        "id_location_parent": 389753,
+        "name": "Yasothon",
+        "seoname": "yasothon-462646"
+    },
+    {
+        "id_location": 389774,
+        "id_location_parent": 1,
+        "name": "South",
+        "seoname": "south-782151"
+    },
+    {
+        "id_location": 389775,
+        "id_location_parent": 389774,
+        "name": "Chumphon",
+        "seoname": "chumphon-462647"
+    },
+    {
+        "id_location": 389776,
+        "id_location_parent": 389774,
+        "name": "Krabi",
+        "seoname": "krabi-462648"
+    },
+    {
+        "id_location": 389777,
+        "id_location_parent": 389774,
+        "name": "Nakhon Si Thammarat",
+        "seoname": "nakhon-si-thammarat-462649"
+    },
+    {
+        "id_location": 389778,
+        "id_location_parent": 389774,
+        "name": "Narathiwat",
+        "seoname": "narathiwat-462650"
+    },
+    {
+        "id_location": 389779,
+        "id_location_parent": 389774,
+        "name": "Pattani",
+        "seoname": "pattani-462651"
+    },
+    {
+        "id_location": 389780,
+        "id_location_parent": 389774,
+        "name": "Phang Nga",
+        "seoname": "phang-nga-462652"
+    },
+    {
+        "id_location": 389781,
+        "id_location_parent": 389774,
+        "name": "Phatthalung",
+        "seoname": "phatthalung-462653"
+    },
+    {
+        "id_location": 389782,
+        "id_location_parent": 389774,
+        "name": "Phuket",
+        "seoname": "phuket-462654"
+    },
+    {
+        "id_location": 389783,
+        "id_location_parent": 389774,
+        "name": "Ranong",
+        "seoname": "ranong-462655"
+    },
+    {
+        "id_location": 389784,
+        "id_location_parent": 389774,
+        "name": "Satun",
+        "seoname": "satun-462656"
+    },
+    {
+        "id_location": 389785,
+        "id_location_parent": 389774,
+        "name": "Songkhla",
+        "seoname": "songkhla-462657"
+    },
+    {
+        "id_location": 389786,
+        "id_location_parent": 389774,
+        "name": "Surat Thani",
+        "seoname": "surat-thani-462658"
+    },
+    {
+        "id_location": 389787,
+        "id_location_parent": 389774,
+        "name": "Trang",
+        "seoname": "trang-462659"
+    },
+    {
+        "id_location": 389788,
+        "id_location_parent": 389774,
+        "name": "Yala",
+        "seoname": "yala-462660"
+    },
+    {
+        "id_location": 389789,
+        "id_location_parent": 1,
+        "name": "West",
+        "seoname": "west-782152"
+    },
+    {
+        "id_location": 389790,
+        "id_location_parent": 389789,
+        "name": "Hua Hin",
+        "seoname": "hua-hin-462661"
+    },
+    {
+        "id_location": 389791,
+        "id_location_parent": 389789,
+        "name": "Kanchanaburi",
+        "seoname": "kanchanaburi-462662"
+    },
+    {
+        "id_location": 389792,
+        "id_location_parent": 389789,
+        "name": "Phetchaburi",
+        "seoname": "phetchaburi-462663"
+    },
+    {
+        "id_location": 389793,
+        "id_location_parent": 389789,
+        "name": "Prachuap Khiri Khan",
+        "seoname": "prachuap-khiri-khan-462664"
+    },
+    {
+        "id_location": 389794,
+        "id_location_parent": 389789,
+        "name": "Ratchaburi",
+        "seoname": "ratchaburi-462665"
+    },
+    {
+        "id_location": 389795,
+        "id_location_parent": 389789,
+        "name": "Tak",
+        "seoname": "tak-462666"
+    }
+]

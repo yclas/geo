@@ -1,0 +1,506 @@
+[
+    {
+        "id_location": 10627,
+        "id_location_parent": 1,
+        "name": "Bengo",
+        "seoname": "bengo-780965"
+    },
+    {
+        "id_location": 10628,
+        "id_location_parent": 10627,
+        "name": "Ambriz",
+        "seoname": "ambriz-44239"
+    },
+    {
+        "id_location": 10629,
+        "id_location_parent": 10627,
+        "name": "Dande",
+        "seoname": "dande-44240"
+    },
+    {
+        "id_location": 10630,
+        "id_location_parent": 10627,
+        "name": "Icolo E Bengo",
+        "seoname": "icolo-e-bengo-44241"
+    },
+    {
+        "id_location": 10631,
+        "id_location_parent": 10627,
+        "name": "Muxima",
+        "seoname": "muxima-44242"
+    },
+    {
+        "id_location": 10632,
+        "id_location_parent": 10627,
+        "name": "Nambuangongo",
+        "seoname": "nambuangongo-44243"
+    },
+    {
+        "id_location": 10633,
+        "id_location_parent": 1,
+        "name": "Benguela",
+        "seoname": "benguela-780971"
+    },
+    {
+        "id_location": 10634,
+        "id_location_parent": 10633,
+        "name": "Ba\u00eda Farta",
+        "seoname": "baia-farta-44244"
+    },
+    {
+        "id_location": 10635,
+        "id_location_parent": 10633,
+        "name": "Cubal",
+        "seoname": "cubal-44245"
+    },
+    {
+        "id_location": 10636,
+        "id_location_parent": 10633,
+        "name": "Chongoroi",
+        "seoname": "chongoroi-44246"
+    },
+    {
+        "id_location": 10637,
+        "id_location_parent": 10633,
+        "name": "Bocoio",
+        "seoname": "bocoio-44247"
+    },
+    {
+        "id_location": 10638,
+        "id_location_parent": 10633,
+        "name": "Caimbambo",
+        "seoname": "caimbambo-44248"
+    },
+    {
+        "id_location": 10639,
+        "id_location_parent": 10633,
+        "name": "Ganda",
+        "seoname": "ganda-44249"
+    },
+    {
+        "id_location": 10640,
+        "id_location_parent": 10633,
+        "name": "Benguela",
+        "seoname": "benguela-44250"
+    },
+    {
+        "id_location": 10641,
+        "id_location_parent": 10633,
+        "name": "Balombo",
+        "seoname": "balombo-44251"
+    },
+    {
+        "id_location": 10642,
+        "id_location_parent": 10633,
+        "name": "Lobito",
+        "seoname": "lobito-44252"
+    },
+    {
+        "id_location": 10643,
+        "id_location_parent": 1,
+        "name": "Bi\u00e9",
+        "seoname": "bie-780981"
+    },
+    {
+        "id_location": 10644,
+        "id_location_parent": 10643,
+        "name": "Andulo",
+        "seoname": "andulo-44253"
+    },
+    {
+        "id_location": 10645,
+        "id_location_parent": 10643,
+        "name": "Camacupa",
+        "seoname": "camacupa-44254"
+    },
+    {
+        "id_location": 10646,
+        "id_location_parent": 10643,
+        "name": "Catabola",
+        "seoname": "catabola-44255"
+    },
+    {
+        "id_location": 10647,
+        "id_location_parent": 10643,
+        "name": "Chinguar",
+        "seoname": "chinguar-44256"
+    },
+    {
+        "id_location": 10648,
+        "id_location_parent": 10643,
+        "name": "Chitembo",
+        "seoname": "chitembo-44257"
+    },
+    {
+        "id_location": 10649,
+        "id_location_parent": 10643,
+        "name": "Cuemba",
+        "seoname": "cuemba-44258"
+    },
+    {
+        "id_location": 10650,
+        "id_location_parent": 10643,
+        "name": "Cunhinga",
+        "seoname": "cunhinga-44259"
+    },
+    {
+        "id_location": 10651,
+        "id_location_parent": 10643,
+        "name": "Nharea",
+        "seoname": "nharea-44260"
+    },
+    {
+        "id_location": 10652,
+        "id_location_parent": 1,
+        "name": "Cabinda",
+        "seoname": "cabinda-780990"
+    },
+    {
+        "id_location": 10653,
+        "id_location_parent": 10652,
+        "name": "Belice",
+        "seoname": "belice-44261"
+    },
+    {
+        "id_location": 10654,
+        "id_location_parent": 10652,
+        "name": "Buco Zau",
+        "seoname": "buco-zau-44262"
+    },
+    {
+        "id_location": 10655,
+        "id_location_parent": 10652,
+        "name": "Cabinda",
+        "seoname": "cabinda-44263"
+    },
+    {
+        "id_location": 10656,
+        "id_location_parent": 10652,
+        "name": "Cacongo",
+        "seoname": "cacongo-44264"
+    },
+    {
+        "id_location": 10657,
+        "id_location_parent": 1,
+        "name": "Cuando Cubango",
+        "seoname": "cuando-cubango-780995"
+    },
+    {
+        "id_location": 10658,
+        "id_location_parent": 10657,
+        "name": "Calai",
+        "seoname": "calai-44265"
+    },
+    {
+        "id_location": 10659,
+        "id_location_parent": 10657,
+        "name": "Cuangar",
+        "seoname": "cuangar-44266"
+    },
+    {
+        "id_location": 10660,
+        "id_location_parent": 10657,
+        "name": "Cuchi",
+        "seoname": "cuchi-44267"
+    },
+    {
+        "id_location": 10661,
+        "id_location_parent": 10657,
+        "name": "Cuito Cuanavale",
+        "seoname": "cuito-cuanavale-44268"
+    },
+    {
+        "id_location": 10662,
+        "id_location_parent": 10657,
+        "name": "Dirico",
+        "seoname": "dirico-44269"
+    },
+    {
+        "id_location": 10663,
+        "id_location_parent": 10657,
+        "name": "Mavinga",
+        "seoname": "mavinga-44270"
+    },
+    {
+        "id_location": 10664,
+        "id_location_parent": 10657,
+        "name": "Menongue",
+        "seoname": "menongue-44271"
+    },
+    {
+        "id_location": 10665,
+        "id_location_parent": 10657,
+        "name": "Nankova",
+        "seoname": "nankova-44272"
+    },
+    {
+        "id_location": 10666,
+        "id_location_parent": 1,
+        "name": "Cuanza Norte",
+        "seoname": "cuanza-norte-781004"
+    },
+    {
+        "id_location": 10667,
+        "id_location_parent": 10666,
+        "name": "Ambaca",
+        "seoname": "ambaca-44273"
+    },
+    {
+        "id_location": 10668,
+        "id_location_parent": 10666,
+        "name": "Banga",
+        "seoname": "banga-44274"
+    },
+    {
+        "id_location": 10669,
+        "id_location_parent": 10666,
+        "name": "Bolongongo",
+        "seoname": "bolongongo-44275"
+    },
+    {
+        "id_location": 10670,
+        "id_location_parent": 10666,
+        "name": "Bula Atumba",
+        "seoname": "bula-atumba-44276"
+    },
+    {
+        "id_location": 10671,
+        "id_location_parent": 10666,
+        "name": "Cambambe",
+        "seoname": "cambambe-44277"
+    },
+    {
+        "id_location": 10672,
+        "id_location_parent": 10666,
+        "name": "Cazengo",
+        "seoname": "cazengo-44278"
+    },
+    {
+        "id_location": 10673,
+        "id_location_parent": 10666,
+        "name": "Dembos",
+        "seoname": "dembos-44279"
+    },
+    {
+        "id_location": 10674,
+        "id_location_parent": 10666,
+        "name": "Golungo Alto",
+        "seoname": "golungo-alto-44280"
+    },
+    {
+        "id_location": 10675,
+        "id_location_parent": 10666,
+        "name": "Gonguembo",
+        "seoname": "gonguembo-44281"
+    },
+    {
+        "id_location": 10676,
+        "id_location_parent": 10666,
+        "name": "Lucala",
+        "seoname": "lucala-44282"
+    },
+    {
+        "id_location": 10677,
+        "id_location_parent": 10666,
+        "name": "Pango Aluqu\u00e9m",
+        "seoname": "pango-aluquem-44283"
+    },
+    {
+        "id_location": 10678,
+        "id_location_parent": 10666,
+        "name": "Quiculungo",
+        "seoname": "quiculungo-44284"
+    },
+    {
+        "id_location": 10679,
+        "id_location_parent": 1,
+        "name": "Cuanza Sur",
+        "seoname": "cuanza-sur-781017"
+    },
+    {
+        "id_location": 10680,
+        "id_location_parent": 10679,
+        "name": "Amboim",
+        "seoname": "amboim-44285"
+    },
+    {
+        "id_location": 10681,
+        "id_location_parent": 10679,
+        "name": "Cassongue",
+        "seoname": "cassongue-44286"
+    },
+    {
+        "id_location": 10682,
+        "id_location_parent": 10679,
+        "name": "Conda",
+        "seoname": "conda-44287"
+    },
+    {
+        "id_location": 10683,
+        "id_location_parent": 10679,
+        "name": "Ebo",
+        "seoname": "ebo-44288"
+    },
+    {
+        "id_location": 10684,
+        "id_location_parent": 10679,
+        "name": "Libolo",
+        "seoname": "libolo-44289"
+    },
+    {
+        "id_location": 10685,
+        "id_location_parent": 10679,
+        "name": "Mussende",
+        "seoname": "mussende-44290"
+    },
+    {
+        "id_location": 10686,
+        "id_location_parent": 10679,
+        "name": "Porto Amboim",
+        "seoname": "porto-amboim-44291"
+    },
+    {
+        "id_location": 10687,
+        "id_location_parent": 10679,
+        "name": "Quibala",
+        "seoname": "quibala-44292"
+    },
+    {
+        "id_location": 10688,
+        "id_location_parent": 10679,
+        "name": "Quilenda",
+        "seoname": "quilenda-44293"
+    },
+    {
+        "id_location": 10689,
+        "id_location_parent": 10679,
+        "name": "Seles",
+        "seoname": "seles-44294"
+    },
+    {
+        "id_location": 10690,
+        "id_location_parent": 10679,
+        "name": "Sumbe",
+        "seoname": "sumbe-44295"
+    },
+    {
+        "id_location": 10691,
+        "id_location_parent": 10679,
+        "name": "Waku Kungo",
+        "seoname": "waku-kungo-44296"
+    },
+    {
+        "id_location": 10692,
+        "id_location_parent": 1,
+        "name": "Cunene",
+        "seoname": "cunene-781030"
+    },
+    {
+        "id_location": 10693,
+        "id_location_parent": 10692,
+        "name": "Cahama",
+        "seoname": "cahama-44297"
+    },
+    {
+        "id_location": 10694,
+        "id_location_parent": 10692,
+        "name": "Kuvelai",
+        "seoname": "kuvelai-44298"
+    },
+    {
+        "id_location": 10695,
+        "id_location_parent": 10692,
+        "name": "Namakunde",
+        "seoname": "namakunde-44299"
+    },
+    {
+        "id_location": 10696,
+        "id_location_parent": 10692,
+        "name": "Ombadja",
+        "seoname": "ombadja-44300"
+    },
+    {
+        "id_location": 10697,
+        "id_location_parent": 10692,
+        "name": "Santa-clara",
+        "seoname": "santa-clara-44301"
+    },
+    {
+        "id_location": 10698,
+        "id_location_parent": 10692,
+        "name": "Xangongo",
+        "seoname": "xangongo-44302"
+    },
+    {
+        "id_location": 10699,
+        "id_location_parent": 1,
+        "name": "Huambo",
+        "seoname": "huambo-781037"
+    },
+    {
+        "id_location": 10700,
+        "id_location_parent": 10699,
+        "name": "Bailundo",
+        "seoname": "bailundo-44303"
+    },
+    {
+        "id_location": 10701,
+        "id_location_parent": 10699,
+        "name": "Ca\u00e1la",
+        "seoname": "caala-44304"
+    },
+    {
+        "id_location": 10702,
+        "id_location_parent": 10699,
+        "name": "Ekunha",
+        "seoname": "ekunha-44305"
+    },
+    {
+        "id_location": 10703,
+        "id_location_parent": 10699,
+        "name": "Huambo",
+        "seoname": "huambo-44306"
+    },
+    {
+        "id_location": 10704,
+        "id_location_parent": 10699,
+        "name": "Katchiungo",
+        "seoname": "katchiungo-44307"
+    },
+    {
+        "id_location": 10705,
+        "id_location_parent": 10699,
+        "name": "Londuimbali",
+        "seoname": "londuimbali-44308"
+    },
+    {
+        "id_location": 10706,
+        "id_location_parent": 10699,
+        "name": "Longonjo",
+        "seoname": "longonjo-44309"
+    },
+    {
+        "id_location": 10707,
+        "id_location_parent": 10699,
+        "name": "Mungo",
+        "seoname": "mungo-44310"
+    },
+    {
+        "id_location": 10708,
+        "id_location_parent": 10699,
+        "name": "Tchikala-tcholohanga",
+        "seoname": "tchikala-tcholohanga-44311"
+    },
+    {
+        "id_location": 10709,
+        "id_location_parent": 10699,
+        "name": "Tchindjenje",
+        "seoname": "tchindjenje-44312"
+    },
+    {
+        "id_location": 10710,
+        "id_location_parent": 10699,
+        "name": "Ukuma",
+        "seoname": "ukuma-44313"
+    }
+]

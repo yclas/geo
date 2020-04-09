@@ -1,0 +1,5900 @@
+[
+    {
+        "id_location": 367870,
+        "id_location_parent": 1,
+        "name": "Adjuntas",
+        "seoname": "adjuntas-736475"
+    },
+    {
+        "id_location": 367871,
+        "id_location_parent": 367870,
+        "name": "Adjuntas",
+        "seoname": "adjuntas-30885"
+    },
+    {
+        "id_location": 367872,
+        "id_location_parent": 367870,
+        "name": "Cap\u00e1ez",
+        "seoname": "capaez-30886"
+    },
+    {
+        "id_location": 367873,
+        "id_location_parent": 367870,
+        "name": "Garzas",
+        "seoname": "garzas-30887"
+    },
+    {
+        "id_location": 367874,
+        "id_location_parent": 367870,
+        "name": "Guayabo Dulce",
+        "seoname": "guayabo-dulce-30888"
+    },
+    {
+        "id_location": 367875,
+        "id_location_parent": 367870,
+        "name": "Guayo",
+        "seoname": "guayo-30889"
+    },
+    {
+        "id_location": 367876,
+        "id_location_parent": 367870,
+        "name": "Guliarte",
+        "seoname": "guliarte-30890"
+    },
+    {
+        "id_location": 367877,
+        "id_location_parent": 367870,
+        "name": "Juan Gonzalez",
+        "seoname": "juan-gonzalez-30891"
+    },
+    {
+        "id_location": 367878,
+        "id_location_parent": 367870,
+        "name": "Liman\u00ed",
+        "seoname": "limani-30892"
+    },
+    {
+        "id_location": 367879,
+        "id_location_parent": 367870,
+        "name": "Pellejas",
+        "seoname": "pellejas-30893"
+    },
+    {
+        "id_location": 367880,
+        "id_location_parent": 367870,
+        "name": "Portuguez",
+        "seoname": "portuguez-30894"
+    },
+    {
+        "id_location": 367881,
+        "id_location_parent": 367870,
+        "name": "Saltillo",
+        "seoname": "saltillo-30895"
+    },
+    {
+        "id_location": 367882,
+        "id_location_parent": 367870,
+        "name": "Tanam\u00e1",
+        "seoname": "tanama-30896"
+    },
+    {
+        "id_location": 367883,
+        "id_location_parent": 367870,
+        "name": "Vegas Abajo",
+        "seoname": "vegas-abajo-30897"
+    },
+    {
+        "id_location": 367884,
+        "id_location_parent": 367870,
+        "name": "Vegas Arriba",
+        "seoname": "vegas-arriba-30898"
+    },
+    {
+        "id_location": 367885,
+        "id_location_parent": 367870,
+        "name": "Yahuecas",
+        "seoname": "yahuecas-30899"
+    },
+    {
+        "id_location": 367886,
+        "id_location_parent": 367870,
+        "name": "Yayales",
+        "seoname": "yayales-30900"
+    },
+    {
+        "id_location": 367887,
+        "id_location_parent": 1,
+        "name": "Aguada",
+        "seoname": "aguada-736492"
+    },
+    {
+        "id_location": 367888,
+        "id_location_parent": 367887,
+        "name": "Aguada",
+        "seoname": "aguada-30901"
+    },
+    {
+        "id_location": 367889,
+        "id_location_parent": 367887,
+        "name": "Asomante",
+        "seoname": "asomante-30902"
+    },
+    {
+        "id_location": 367890,
+        "id_location_parent": 367887,
+        "name": "Atalaya",
+        "seoname": "atalaya-30903"
+    },
+    {
+        "id_location": 367891,
+        "id_location_parent": 367887,
+        "name": "Carrizal",
+        "seoname": "carrizal-30904"
+    },
+    {
+        "id_location": 367892,
+        "id_location_parent": 367887,
+        "name": "Cerro Gordo",
+        "seoname": "cerro-gordo-30905"
+    },
+    {
+        "id_location": 367893,
+        "id_location_parent": 367887,
+        "name": "Cruces",
+        "seoname": "cruces-30906"
+    },
+    {
+        "id_location": 367894,
+        "id_location_parent": 367887,
+        "name": "Espinar",
+        "seoname": "espinar-30907"
+    },
+    {
+        "id_location": 367895,
+        "id_location_parent": 367887,
+        "name": "Guanab\u00e1no",
+        "seoname": "guanabano-30908"
+    },
+    {
+        "id_location": 367896,
+        "id_location_parent": 367887,
+        "name": "Guaniquilla",
+        "seoname": "guaniquilla-30909"
+    },
+    {
+        "id_location": 367897,
+        "id_location_parent": 367887,
+        "name": "Guayabo",
+        "seoname": "guayabo-30910"
+    },
+    {
+        "id_location": 367898,
+        "id_location_parent": 367887,
+        "name": "Jaguey",
+        "seoname": "jaguey-30911"
+    },
+    {
+        "id_location": 367899,
+        "id_location_parent": 367887,
+        "name": "Laguna",
+        "seoname": "laguna-30912"
+    },
+    {
+        "id_location": 367900,
+        "id_location_parent": 367887,
+        "name": "Mal Paso",
+        "seoname": "mal-paso-30913"
+    },
+    {
+        "id_location": 367901,
+        "id_location_parent": 367887,
+        "name": "Mamey",
+        "seoname": "mamey-30914"
+    },
+    {
+        "id_location": 367902,
+        "id_location_parent": 367887,
+        "name": "Mar\u00edas",
+        "seoname": "marias-30915"
+    },
+    {
+        "id_location": 367903,
+        "id_location_parent": 367887,
+        "name": "Naranjo",
+        "seoname": "naranjo-30916"
+    },
+    {
+        "id_location": 367904,
+        "id_location_parent": 367887,
+        "name": "Piedras Blancas",
+        "seoname": "piedras-blancas-30917"
+    },
+    {
+        "id_location": 367905,
+        "id_location_parent": 367887,
+        "name": "Rio Grande",
+        "seoname": "rio-grande-30918"
+    },
+    {
+        "id_location": 367906,
+        "id_location_parent": 1,
+        "name": "Aguadilla",
+        "seoname": "aguadilla-736511"
+    },
+    {
+        "id_location": 367907,
+        "id_location_parent": 367906,
+        "name": "Aguacate",
+        "seoname": "aguacate-30919"
+    },
+    {
+        "id_location": 367908,
+        "id_location_parent": 367906,
+        "name": "Aguadilla",
+        "seoname": "aguadilla-30920"
+    },
+    {
+        "id_location": 367909,
+        "id_location_parent": 367906,
+        "name": "Arenales",
+        "seoname": "arenales-30921"
+    },
+    {
+        "id_location": 367910,
+        "id_location_parent": 367906,
+        "name": "Borinqu\u00e9n",
+        "seoname": "borinquen-30922"
+    },
+    {
+        "id_location": 367911,
+        "id_location_parent": 367906,
+        "name": "Caiba Baja",
+        "seoname": "caiba-baja-30923"
+    },
+    {
+        "id_location": 367912,
+        "id_location_parent": 367906,
+        "name": "Caimital Alto",
+        "seoname": "caimital-alto-30924"
+    },
+    {
+        "id_location": 367913,
+        "id_location_parent": 367906,
+        "name": "Caimital bajo",
+        "seoname": "caimital-bajo-30925"
+    },
+    {
+        "id_location": 367914,
+        "id_location_parent": 367906,
+        "name": "Camaceye",
+        "seoname": "camaceye-30926"
+    },
+    {
+        "id_location": 367915,
+        "id_location_parent": 367906,
+        "name": "Ceiba Alta",
+        "seoname": "ceiba-alta-30927"
+    },
+    {
+        "id_location": 367916,
+        "id_location_parent": 367906,
+        "name": "Ceiba Baja",
+        "seoname": "ceiba-baja-30928"
+    },
+    {
+        "id_location": 367917,
+        "id_location_parent": 367906,
+        "name": "Corrales",
+        "seoname": "corrales-30929"
+    },
+    {
+        "id_location": 367918,
+        "id_location_parent": 367906,
+        "name": "Guerrero",
+        "seoname": "guerrero-30930"
+    },
+    {
+        "id_location": 367919,
+        "id_location_parent": 367906,
+        "name": "Maleza Alta",
+        "seoname": "maleza-alta-30931"
+    },
+    {
+        "id_location": 367920,
+        "id_location_parent": 367906,
+        "name": "Maleza Baja",
+        "seoname": "maleza-baja-30932"
+    },
+    {
+        "id_location": 367921,
+        "id_location_parent": 367906,
+        "name": "Monta\u00f1a",
+        "seoname": "montana-30933"
+    },
+    {
+        "id_location": 367922,
+        "id_location_parent": 367906,
+        "name": "Palmar",
+        "seoname": "palmar-30934"
+    },
+    {
+        "id_location": 367923,
+        "id_location_parent": 367906,
+        "name": "Victoria",
+        "seoname": "victoria-30935"
+    },
+    {
+        "id_location": 367924,
+        "id_location_parent": 1,
+        "name": "Aguas Buenas",
+        "seoname": "aguas-buenas-736529"
+    },
+    {
+        "id_location": 367925,
+        "id_location_parent": 367924,
+        "name": "Aguas Buenas",
+        "seoname": "aguas-buenas-30936"
+    },
+    {
+        "id_location": 367926,
+        "id_location_parent": 367924,
+        "name": "Bairoa",
+        "seoname": "bairoa-30937"
+    },
+    {
+        "id_location": 367927,
+        "id_location_parent": 367924,
+        "name": "Bayamoncito",
+        "seoname": "bayamoncito-30938"
+    },
+    {
+        "id_location": 367928,
+        "id_location_parent": 367924,
+        "name": "Caguitas",
+        "seoname": "caguitas-30939"
+    },
+    {
+        "id_location": 367929,
+        "id_location_parent": 367924,
+        "name": "Jagueyes",
+        "seoname": "jagueyes-30940"
+    },
+    {
+        "id_location": 367930,
+        "id_location_parent": 367924,
+        "name": "Juan Ascensio",
+        "seoname": "juan-ascensio-30941"
+    },
+    {
+        "id_location": 367931,
+        "id_location_parent": 367924,
+        "name": "Mulas",
+        "seoname": "mulas-30942"
+    },
+    {
+        "id_location": 367932,
+        "id_location_parent": 367924,
+        "name": "Mulitas",
+        "seoname": "mulitas-30943"
+    },
+    {
+        "id_location": 367933,
+        "id_location_parent": 367924,
+        "name": "Pueblo",
+        "seoname": "pueblo-30944"
+    },
+    {
+        "id_location": 367934,
+        "id_location_parent": 367924,
+        "name": "Sonadora",
+        "seoname": "sonadora-30945"
+    },
+    {
+        "id_location": 367935,
+        "id_location_parent": 367924,
+        "name": "Sumidero",
+        "seoname": "sumidero-30946"
+    },
+    {
+        "id_location": 367936,
+        "id_location_parent": 1,
+        "name": "Aibonito",
+        "seoname": "aibonito-736541"
+    },
+    {
+        "id_location": 367937,
+        "id_location_parent": 367936,
+        "name": "Aibonito",
+        "seoname": "aibonito-30947"
+    },
+    {
+        "id_location": 367938,
+        "id_location_parent": 367936,
+        "name": "Algarrobo",
+        "seoname": "algarrobo-30948"
+    },
+    {
+        "id_location": 367939,
+        "id_location_parent": 367936,
+        "name": "Asomante",
+        "seoname": "asomante-30949"
+    },
+    {
+        "id_location": 367940,
+        "id_location_parent": 367936,
+        "name": "Caonillas",
+        "seoname": "caonillas-30950"
+    },
+    {
+        "id_location": 367941,
+        "id_location_parent": 367936,
+        "name": "Cuy\u00f3n",
+        "seoname": "cuyon-30951"
+    },
+    {
+        "id_location": 367942,
+        "id_location_parent": 367936,
+        "name": "Llanos",
+        "seoname": "llanos-30952"
+    },
+    {
+        "id_location": 367943,
+        "id_location_parent": 367936,
+        "name": "Pasto",
+        "seoname": "pasto-30953"
+    },
+    {
+        "id_location": 367944,
+        "id_location_parent": 367936,
+        "name": "Plata",
+        "seoname": "plata-30954"
+    },
+    {
+        "id_location": 367945,
+        "id_location_parent": 367936,
+        "name": "Robles",
+        "seoname": "robles-30955"
+    },
+    {
+        "id_location": 367946,
+        "id_location_parent": 1,
+        "name": "Anasco",
+        "seoname": "anasco-736551"
+    },
+    {
+        "id_location": 367947,
+        "id_location_parent": 367946,
+        "name": "A\u00f1asco",
+        "seoname": "anasco-30956"
+    },
+    {
+        "id_location": 367948,
+        "id_location_parent": 367946,
+        "name": "A\u00f1asco Abajo",
+        "seoname": "anasco-abajo-30957"
+    },
+    {
+        "id_location": 367949,
+        "id_location_parent": 367946,
+        "name": "A\u00f1asco Arriba",
+        "seoname": "anasco-arriba-30958"
+    },
+    {
+        "id_location": 367950,
+        "id_location_parent": 367946,
+        "name": "Caguabo",
+        "seoname": "caguabo-30959"
+    },
+    {
+        "id_location": 367951,
+        "id_location_parent": 367946,
+        "name": "Caracol",
+        "seoname": "caracol-30960"
+    },
+    {
+        "id_location": 367952,
+        "id_location_parent": 367946,
+        "name": "Carreras",
+        "seoname": "carreras-30961"
+    },
+    {
+        "id_location": 367953,
+        "id_location_parent": 367946,
+        "name": "Casey Arriba",
+        "seoname": "casey-arriba-30962"
+    },
+    {
+        "id_location": 367954,
+        "id_location_parent": 367946,
+        "name": "Cerro Gordo",
+        "seoname": "cerro-gordo-30963"
+    },
+    {
+        "id_location": 367955,
+        "id_location_parent": 367946,
+        "name": "Cidra",
+        "seoname": "cidra-30964"
+    },
+    {
+        "id_location": 367956,
+        "id_location_parent": 367946,
+        "name": "Corc\u00f3vada",
+        "seoname": "corcovada-30965"
+    },
+    {
+        "id_location": 367957,
+        "id_location_parent": 367946,
+        "name": "Daguey",
+        "seoname": "daguey-30966"
+    },
+    {
+        "id_location": 367958,
+        "id_location_parent": 367946,
+        "name": "Espino",
+        "seoname": "espino-30967"
+    },
+    {
+        "id_location": 367959,
+        "id_location_parent": 367946,
+        "name": "Hatillo",
+        "seoname": "hatillo-30968"
+    },
+    {
+        "id_location": 367960,
+        "id_location_parent": 367946,
+        "name": "Humatos",
+        "seoname": "humatos-30969"
+    },
+    {
+        "id_location": 367961,
+        "id_location_parent": 367946,
+        "name": "Marias",
+        "seoname": "marias-30970"
+    },
+    {
+        "id_location": 367962,
+        "id_location_parent": 367946,
+        "name": "Oi\u00f1ales",
+        "seoname": "oinales-30971"
+    },
+    {
+        "id_location": 367963,
+        "id_location_parent": 367946,
+        "name": "Ovejas",
+        "seoname": "ovejas-30972"
+    },
+    {
+        "id_location": 367964,
+        "id_location_parent": 367946,
+        "name": "Playa",
+        "seoname": "playa-30973"
+    },
+    {
+        "id_location": 367965,
+        "id_location_parent": 367946,
+        "name": "Quebrada Larga",
+        "seoname": "quebrada-larga-30974"
+    },
+    {
+        "id_location": 367966,
+        "id_location_parent": 367946,
+        "name": "Rio Abajo",
+        "seoname": "rio-abajo-30975"
+    },
+    {
+        "id_location": 367967,
+        "id_location_parent": 1,
+        "name": "Arecibo",
+        "seoname": "arecibo-736572"
+    },
+    {
+        "id_location": 367968,
+        "id_location_parent": 367967,
+        "name": "Arecibo",
+        "seoname": "arecibo-30976"
+    },
+    {
+        "id_location": 367969,
+        "id_location_parent": 367967,
+        "name": "Arenalejos",
+        "seoname": "arenalejos-30977"
+    },
+    {
+        "id_location": 367970,
+        "id_location_parent": 367967,
+        "name": "Arrozal",
+        "seoname": "arrozal-30978"
+    },
+    {
+        "id_location": 367971,
+        "id_location_parent": 367967,
+        "name": "Cambalache",
+        "seoname": "cambalache-30979"
+    },
+    {
+        "id_location": 367972,
+        "id_location_parent": 367967,
+        "name": "Carreas",
+        "seoname": "carreas-30980"
+    },
+    {
+        "id_location": 367973,
+        "id_location_parent": 367967,
+        "name": "Domingo Ruiz",
+        "seoname": "domingo-ruiz-30981"
+    },
+    {
+        "id_location": 367974,
+        "id_location_parent": 367967,
+        "name": "Dominguito",
+        "seoname": "dominguito-30982"
+    },
+    {
+        "id_location": 367975,
+        "id_location_parent": 367967,
+        "name": "Esperanza",
+        "seoname": "esperanza-30983"
+    },
+    {
+        "id_location": 367976,
+        "id_location_parent": 367967,
+        "name": "Factor",
+        "seoname": "factor-30984"
+    },
+    {
+        "id_location": 367977,
+        "id_location_parent": 367967,
+        "name": "Garrochales",
+        "seoname": "garrochales-30985"
+    },
+    {
+        "id_location": 367978,
+        "id_location_parent": 367967,
+        "name": "Hato Abajo",
+        "seoname": "hato-abajo-30986"
+    },
+    {
+        "id_location": 367979,
+        "id_location_parent": 367967,
+        "name": "Hato Arriba",
+        "seoname": "hato-arriba-30987"
+    },
+    {
+        "id_location": 367980,
+        "id_location_parent": 367967,
+        "name": "Hato Viejo",
+        "seoname": "hato-viejo-30988"
+    },
+    {
+        "id_location": 367981,
+        "id_location_parent": 367967,
+        "name": "Islote",
+        "seoname": "islote-30989"
+    },
+    {
+        "id_location": 367982,
+        "id_location_parent": 367967,
+        "name": "Miraflores",
+        "seoname": "miraflores-30990"
+    },
+    {
+        "id_location": 367983,
+        "id_location_parent": 367967,
+        "name": "Rio Arriba",
+        "seoname": "rio-arriba-30991"
+    },
+    {
+        "id_location": 367984,
+        "id_location_parent": 367967,
+        "name": "Sabana Hoyos",
+        "seoname": "sabana-hoyos-30992"
+    },
+    {
+        "id_location": 367985,
+        "id_location_parent": 367967,
+        "name": "Santana",
+        "seoname": "santana-30993"
+    },
+    {
+        "id_location": 367986,
+        "id_location_parent": 367967,
+        "name": "Tanam\u00e1",
+        "seoname": "tanama-30994"
+    },
+    {
+        "id_location": 367987,
+        "id_location_parent": 1,
+        "name": "Arroyo",
+        "seoname": "arroyo-736592"
+    },
+    {
+        "id_location": 367988,
+        "id_location_parent": 367987,
+        "name": "Ancones",
+        "seoname": "ancones-30995"
+    },
+    {
+        "id_location": 367989,
+        "id_location_parent": 367987,
+        "name": "Arroyo",
+        "seoname": "arroyo-30996"
+    },
+    {
+        "id_location": 367990,
+        "id_location_parent": 367987,
+        "name": "Gu\u00e1sima",
+        "seoname": "guasima-30997"
+    },
+    {
+        "id_location": 367991,
+        "id_location_parent": 367987,
+        "name": "Palmas",
+        "seoname": "palmas-30998"
+    },
+    {
+        "id_location": 367992,
+        "id_location_parent": 367987,
+        "name": "Pitahaya",
+        "seoname": "pitahaya-30999"
+    },
+    {
+        "id_location": 367993,
+        "id_location_parent": 367987,
+        "name": "Yaurel",
+        "seoname": "yaurel-31000"
+    },
+    {
+        "id_location": 367994,
+        "id_location_parent": 1,
+        "name": "Barceloneta",
+        "seoname": "barceloneta-736599"
+    },
+    {
+        "id_location": 367995,
+        "id_location_parent": 367994,
+        "name": "Barceloneta",
+        "seoname": "barceloneta-31001"
+    },
+    {
+        "id_location": 367996,
+        "id_location_parent": 367994,
+        "name": "Florida Afuera",
+        "seoname": "florida-afuera-31002"
+    },
+    {
+        "id_location": 367997,
+        "id_location_parent": 367994,
+        "name": "Garrochales",
+        "seoname": "garrochales-31003"
+    },
+    {
+        "id_location": 367998,
+        "id_location_parent": 367994,
+        "name": "Palmas Altas",
+        "seoname": "palmas-altas-31004"
+    },
+    {
+        "id_location": 367999,
+        "id_location_parent": 1,
+        "name": "Barranquitas",
+        "seoname": "barranquitas-736604"
+    },
+    {
+        "id_location": 368000,
+        "id_location_parent": 367999,
+        "name": "Barrancas",
+        "seoname": "barrancas-31005"
+    },
+    {
+        "id_location": 368001,
+        "id_location_parent": 367999,
+        "name": "Barranquitas",
+        "seoname": "barranquitas-31006"
+    },
+    {
+        "id_location": 368002,
+        "id_location_parent": 367999,
+        "name": "Ca\u00f1ab\u00f3n",
+        "seoname": "canabon-31007"
+    },
+    {
+        "id_location": 368003,
+        "id_location_parent": 367999,
+        "name": "Helecha\u00f1 y Honduras",
+        "seoname": "helechan-y-honduras-31008"
+    },
+    {
+        "id_location": 368004,
+        "id_location_parent": 367999,
+        "name": "Palo Hincado",
+        "seoname": "palo-hincado-31009"
+    },
+    {
+        "id_location": 368005,
+        "id_location_parent": 367999,
+        "name": "Quebrada Grande",
+        "seoname": "quebrada-grande-31010"
+    },
+    {
+        "id_location": 368006,
+        "id_location_parent": 367999,
+        "name": "Quebradillas",
+        "seoname": "quebradillas-31011"
+    },
+    {
+        "id_location": 368007,
+        "id_location_parent": 1,
+        "name": "Bayamon",
+        "seoname": "bayamon-736612"
+    },
+    {
+        "id_location": 368008,
+        "id_location_parent": 368007,
+        "name": "Bayam\u00f3n",
+        "seoname": "bayamon-31012"
+    },
+    {
+        "id_location": 368009,
+        "id_location_parent": 368007,
+        "name": "Buena Vista",
+        "seoname": "buena-vista-31013"
+    },
+    {
+        "id_location": 368010,
+        "id_location_parent": 368007,
+        "name": "Cerro Gordo",
+        "seoname": "cerro-gordo-31014"
+    },
+    {
+        "id_location": 368011,
+        "id_location_parent": 368007,
+        "name": "Dejaos",
+        "seoname": "dejaos-31015"
+    },
+    {
+        "id_location": 368012,
+        "id_location_parent": 368007,
+        "name": "Guaraguao Abajo",
+        "seoname": "guaraguao-abajo-31016"
+    },
+    {
+        "id_location": 368013,
+        "id_location_parent": 368007,
+        "name": "Guaraguao Arriba",
+        "seoname": "guaraguao-arriba-31017"
+    },
+    {
+        "id_location": 368014,
+        "id_location_parent": 368007,
+        "name": "Hato Tejas",
+        "seoname": "hato-tejas-31018"
+    },
+    {
+        "id_location": 368015,
+        "id_location_parent": 368007,
+        "name": "Juan Sanchez",
+        "seoname": "juan-sanchez-31019"
+    },
+    {
+        "id_location": 368016,
+        "id_location_parent": 368007,
+        "name": "Minillas",
+        "seoname": "minillas-31020"
+    },
+    {
+        "id_location": 368017,
+        "id_location_parent": 368007,
+        "name": "Nuevo Pajaros",
+        "seoname": "nuevo-pajaros-31021"
+    },
+    {
+        "id_location": 368018,
+        "id_location_parent": 368007,
+        "name": "Santa Olaya",
+        "seoname": "santa-olaya-31022"
+    },
+    {
+        "id_location": 368019,
+        "id_location_parent": 1,
+        "name": "Cabo Rojo",
+        "seoname": "cabo-rojo-736624"
+    },
+    {
+        "id_location": 368020,
+        "id_location_parent": 368019,
+        "name": "Bajura",
+        "seoname": "bajura-31023"
+    },
+    {
+        "id_location": 368021,
+        "id_location_parent": 368019,
+        "name": "Boqueron",
+        "seoname": "boqueron-31024"
+    },
+    {
+        "id_location": 368022,
+        "id_location_parent": 368019,
+        "name": "Cabo Rojo",
+        "seoname": "cabo-rojo-31025"
+    },
+    {
+        "id_location": 368023,
+        "id_location_parent": 368019,
+        "name": "Guanajibo",
+        "seoname": "guanajibo-31026"
+    },
+    {
+        "id_location": 368024,
+        "id_location_parent": 368019,
+        "name": "Llanos Costa",
+        "seoname": "llanos-costa-31027"
+    },
+    {
+        "id_location": 368025,
+        "id_location_parent": 368019,
+        "name": "Llanos Tuna",
+        "seoname": "llanos-tuna-31028"
+    },
+    {
+        "id_location": 368026,
+        "id_location_parent": 368019,
+        "name": "Miradero",
+        "seoname": "miradero-31029"
+    },
+    {
+        "id_location": 368027,
+        "id_location_parent": 368019,
+        "name": "Monte Grande",
+        "seoname": "monte-grande-31030"
+    },
+    {
+        "id_location": 368028,
+        "id_location_parent": 368019,
+        "name": "Pedernales",
+        "seoname": "pedernales-31031"
+    },
+    {
+        "id_location": 368029,
+        "id_location_parent": 1,
+        "name": "Caguas",
+        "seoname": "caguas-736634"
+    },
+    {
+        "id_location": 368030,
+        "id_location_parent": 368029,
+        "name": "Bairoa",
+        "seoname": "bairoa-31032"
+    },
+    {
+        "id_location": 368031,
+        "id_location_parent": 368029,
+        "name": "Beatriz",
+        "seoname": "beatriz-31033"
+    },
+    {
+        "id_location": 368032,
+        "id_location_parent": 368029,
+        "name": "Borinquen",
+        "seoname": "borinquen-31034"
+    },
+    {
+        "id_location": 368033,
+        "id_location_parent": 368029,
+        "name": "Caguas",
+        "seoname": "caguas-31035"
+    },
+    {
+        "id_location": 368034,
+        "id_location_parent": 368029,
+        "name": "Ca\u00f1ab\u00f3n",
+        "seoname": "canabon-31036"
+    },
+    {
+        "id_location": 368035,
+        "id_location_parent": 368029,
+        "name": "Ca\u00f1aboncito",
+        "seoname": "canaboncito-31037"
+    },
+    {
+        "id_location": 368036,
+        "id_location_parent": 368029,
+        "name": "Pueblo",
+        "seoname": "pueblo-31038"
+    },
+    {
+        "id_location": 368037,
+        "id_location_parent": 368029,
+        "name": "R\u00edo Ca\u00f1as",
+        "seoname": "rio-canas-31039"
+    },
+    {
+        "id_location": 368038,
+        "id_location_parent": 368029,
+        "name": "San Antonio",
+        "seoname": "san-antonio-31040"
+    },
+    {
+        "id_location": 368039,
+        "id_location_parent": 368029,
+        "name": "San Salvador",
+        "seoname": "san-salvador-31041"
+    },
+    {
+        "id_location": 368040,
+        "id_location_parent": 368029,
+        "name": "Tom\u00e1s de Castro",
+        "seoname": "tomas-de-castro-31042"
+    },
+    {
+        "id_location": 368041,
+        "id_location_parent": 368029,
+        "name": "Turabo",
+        "seoname": "turabo-31043"
+    },
+    {
+        "id_location": 368042,
+        "id_location_parent": 1,
+        "name": "Camuy",
+        "seoname": "camuy-736647"
+    },
+    {
+        "id_location": 368043,
+        "id_location_parent": 368042,
+        "name": "Abra Honda",
+        "seoname": "abra-honda-31044"
+    },
+    {
+        "id_location": 368044,
+        "id_location_parent": 368042,
+        "name": "Camuy",
+        "seoname": "camuy-31045"
+    },
+    {
+        "id_location": 368045,
+        "id_location_parent": 368042,
+        "name": "Camuy Arriba",
+        "seoname": "camuy-arriba-31046"
+    },
+    {
+        "id_location": 368046,
+        "id_location_parent": 368042,
+        "name": "Cibao",
+        "seoname": "cibao-31047"
+    },
+    {
+        "id_location": 368047,
+        "id_location_parent": 368042,
+        "name": "Cienagas",
+        "seoname": "cienagas-31048"
+    },
+    {
+        "id_location": 368048,
+        "id_location_parent": 368042,
+        "name": "Membrillo",
+        "seoname": "membrillo-31049"
+    },
+    {
+        "id_location": 368049,
+        "id_location_parent": 368042,
+        "name": "Piedra Gorda",
+        "seoname": "piedra-gorda-31050"
+    },
+    {
+        "id_location": 368050,
+        "id_location_parent": 368042,
+        "name": "Pueblo Puente",
+        "seoname": "pueblo-puente-31051"
+    },
+    {
+        "id_location": 368051,
+        "id_location_parent": 368042,
+        "name": "Puertos",
+        "seoname": "puertos-31052"
+    },
+    {
+        "id_location": 368052,
+        "id_location_parent": 368042,
+        "name": "Quebrada",
+        "seoname": "quebrada-31053"
+    },
+    {
+        "id_location": 368053,
+        "id_location_parent": 368042,
+        "name": "Santiago",
+        "seoname": "santiago-31054"
+    },
+    {
+        "id_location": 368054,
+        "id_location_parent": 368042,
+        "name": "Yeguada",
+        "seoname": "yeguada-31055"
+    },
+    {
+        "id_location": 368055,
+        "id_location_parent": 368042,
+        "name": "Zanja",
+        "seoname": "zanja-31056"
+    },
+    {
+        "id_location": 368056,
+        "id_location_parent": 1,
+        "name": "Canovanas",
+        "seoname": "canovanas-736661"
+    },
+    {
+        "id_location": 368057,
+        "id_location_parent": 368056,
+        "name": "Campo Rico",
+        "seoname": "campo-rico-31057"
+    },
+    {
+        "id_location": 368058,
+        "id_location_parent": 368056,
+        "name": "Can\u00f3vanas",
+        "seoname": "canovanas-31058"
+    },
+    {
+        "id_location": 368059,
+        "id_location_parent": 368056,
+        "name": "Cubuy",
+        "seoname": "cubuy-31059"
+    },
+    {
+        "id_location": 368060,
+        "id_location_parent": 368056,
+        "name": "El Verde",
+        "seoname": "el-verde-31060"
+    },
+    {
+        "id_location": 368061,
+        "id_location_parent": 368056,
+        "name": "Hato Puerco",
+        "seoname": "hato-puerco-31061"
+    },
+    {
+        "id_location": 368062,
+        "id_location_parent": 368056,
+        "name": "Las Lomas",
+        "seoname": "las-lomas-31062"
+    },
+    {
+        "id_location": 368063,
+        "id_location_parent": 368056,
+        "name": "Las Mercedes",
+        "seoname": "las-mercedes-31063"
+    },
+    {
+        "id_location": 368064,
+        "id_location_parent": 368056,
+        "name": "Toma Agua",
+        "seoname": "toma-agua-31064"
+    },
+    {
+        "id_location": 368065,
+        "id_location_parent": 1,
+        "name": "Carolina",
+        "seoname": "carolina-736670"
+    },
+    {
+        "id_location": 368066,
+        "id_location_parent": 368065,
+        "name": "Barrazas",
+        "seoname": "barrazas-31065"
+    },
+    {
+        "id_location": 368067,
+        "id_location_parent": 368065,
+        "name": "Cacao",
+        "seoname": "cacao-31066"
+    },
+    {
+        "id_location": 368068,
+        "id_location_parent": 368065,
+        "name": "Cangrejo Arriba",
+        "seoname": "cangrejo-arriba-31067"
+    },
+    {
+        "id_location": 368069,
+        "id_location_parent": 368065,
+        "name": "Canovanillas",
+        "seoname": "canovanillas-31068"
+    },
+    {
+        "id_location": 368070,
+        "id_location_parent": 368065,
+        "name": "Carolina",
+        "seoname": "carolina-31069"
+    },
+    {
+        "id_location": 368071,
+        "id_location_parent": 368065,
+        "name": "Carruzos",
+        "seoname": "carruzos-31070"
+    },
+    {
+        "id_location": 368072,
+        "id_location_parent": 368065,
+        "name": "Cedro",
+        "seoname": "cedro-31071"
+    },
+    {
+        "id_location": 368073,
+        "id_location_parent": 368065,
+        "name": "Hoyo Mulas",
+        "seoname": "hoyo-mulas-31072"
+    },
+    {
+        "id_location": 368074,
+        "id_location_parent": 368065,
+        "name": "Mart\u00edn Gonz\u00e1lez",
+        "seoname": "martin-gonzalez-31073"
+    },
+    {
+        "id_location": 368075,
+        "id_location_parent": 368065,
+        "name": "Sabana Abajo",
+        "seoname": "sabana-abajo-31074"
+    },
+    {
+        "id_location": 368076,
+        "id_location_parent": 368065,
+        "name": "San Ant\u00f3n",
+        "seoname": "san-anton-31075"
+    },
+    {
+        "id_location": 368077,
+        "id_location_parent": 368065,
+        "name": "Santa Cruz",
+        "seoname": "santa-cruz-31076"
+    },
+    {
+        "id_location": 368078,
+        "id_location_parent": 368065,
+        "name": "Trujillo Abajo",
+        "seoname": "trujillo-abajo-31077"
+    },
+    {
+        "id_location": 368079,
+        "id_location_parent": 1,
+        "name": "Catano",
+        "seoname": "catano-736684"
+    },
+    {
+        "id_location": 368080,
+        "id_location_parent": 368079,
+        "name": "Babote",
+        "seoname": "babote-31078"
+    },
+    {
+        "id_location": 368081,
+        "id_location_parent": 368079,
+        "name": "Cata\u00f1o",
+        "seoname": "catano-31079"
+    },
+    {
+        "id_location": 368082,
+        "id_location_parent": 368079,
+        "name": "Cucharillas",
+        "seoname": "cucharillas-31080"
+    },
+    {
+        "id_location": 368083,
+        "id_location_parent": 368079,
+        "name": "Juana Matos",
+        "seoname": "juana-matos-31081"
+    },
+    {
+        "id_location": 368084,
+        "id_location_parent": 368079,
+        "name": "Palmas",
+        "seoname": "palmas-31082"
+    },
+    {
+        "id_location": 368085,
+        "id_location_parent": 368079,
+        "name": "Puente Blanco",
+        "seoname": "puente-blanco-31083"
+    },
+    {
+        "id_location": 368086,
+        "id_location_parent": 368079,
+        "name": "Puntilla",
+        "seoname": "puntilla-31084"
+    },
+    {
+        "id_location": 368087,
+        "id_location_parent": 368079,
+        "name": "William Fuentes",
+        "seoname": "william-fuentes-31085"
+    },
+    {
+        "id_location": 368088,
+        "id_location_parent": 1,
+        "name": "Cayey",
+        "seoname": "cayey-736693"
+    },
+    {
+        "id_location": 368089,
+        "id_location_parent": 368088,
+        "name": "Beatriz",
+        "seoname": "beatriz-31086"
+    },
+    {
+        "id_location": 368090,
+        "id_location_parent": 368088,
+        "name": "Cayey",
+        "seoname": "cayey-31087"
+    },
+    {
+        "id_location": 368091,
+        "id_location_parent": 368088,
+        "name": "Cedro",
+        "seoname": "cedro-31088"
+    },
+    {
+        "id_location": 368092,
+        "id_location_parent": 368088,
+        "name": "Cercadillo",
+        "seoname": "cercadillo-31089"
+    },
+    {
+        "id_location": 368093,
+        "id_location_parent": 368088,
+        "name": "Culebras Altos",
+        "seoname": "culebras-altos-31090"
+    },
+    {
+        "id_location": 368094,
+        "id_location_parent": 368088,
+        "name": "Culebras Bajos",
+        "seoname": "culebras-bajos-31091"
+    },
+    {
+        "id_location": 368095,
+        "id_location_parent": 368088,
+        "name": "Farall\u00f3n",
+        "seoname": "farallon-31092"
+    },
+    {
+        "id_location": 368096,
+        "id_location_parent": 368088,
+        "name": "Guavate",
+        "seoname": "guavate-31093"
+    },
+    {
+        "id_location": 368097,
+        "id_location_parent": 368088,
+        "name": "J\u00e1jome Alto",
+        "seoname": "jajome-alto-31094"
+    },
+    {
+        "id_location": 368098,
+        "id_location_parent": 368088,
+        "name": "J\u00e1jome bajo",
+        "seoname": "jajome-bajo-31095"
+    },
+    {
+        "id_location": 368099,
+        "id_location_parent": 368088,
+        "name": "Lapa",
+        "seoname": "lapa-31096"
+    },
+    {
+        "id_location": 368100,
+        "id_location_parent": 368088,
+        "name": "Mat\u00f3n Abajo",
+        "seoname": "maton-abajo-31097"
+    },
+    {
+        "id_location": 368101,
+        "id_location_parent": 368088,
+        "name": "Mat\u00f3n Arriba",
+        "seoname": "maton-arriba-31098"
+    },
+    {
+        "id_location": 368102,
+        "id_location_parent": 368088,
+        "name": "Monte Llano",
+        "seoname": "monte-llano-31099"
+    },
+    {
+        "id_location": 368103,
+        "id_location_parent": 368088,
+        "name": "Pasto Viejo",
+        "seoname": "pasto-viejo-31100"
+    },
+    {
+        "id_location": 368104,
+        "id_location_parent": 368088,
+        "name": "Pedro Avila",
+        "seoname": "pedro-avila-31101"
+    },
+    {
+        "id_location": 368105,
+        "id_location_parent": 368088,
+        "name": "Piedras",
+        "seoname": "piedras-31102"
+    },
+    {
+        "id_location": 368106,
+        "id_location_parent": 368088,
+        "name": "Quebrada Arriba",
+        "seoname": "quebrada-arriba-31103"
+    },
+    {
+        "id_location": 368107,
+        "id_location_parent": 368088,
+        "name": "Rinc\u00f3n",
+        "seoname": "rincon-31104"
+    },
+    {
+        "id_location": 368108,
+        "id_location_parent": 368088,
+        "name": "Sumido",
+        "seoname": "sumido-31105"
+    },
+    {
+        "id_location": 368109,
+        "id_location_parent": 368088,
+        "name": "Toita",
+        "seoname": "toita-31106"
+    },
+    {
+        "id_location": 368110,
+        "id_location_parent": 368088,
+        "name": "Vegas",
+        "seoname": "vegas-31107"
+    },
+    {
+        "id_location": 368111,
+        "id_location_parent": 1,
+        "name": "Ceiba",
+        "seoname": "ceiba-736716"
+    },
+    {
+        "id_location": 368112,
+        "id_location_parent": 368111,
+        "name": "Ceiba",
+        "seoname": "ceiba-31108"
+    },
+    {
+        "id_location": 368113,
+        "id_location_parent": 368111,
+        "name": "Chupacallos",
+        "seoname": "chupacallos-31109"
+    },
+    {
+        "id_location": 368114,
+        "id_location_parent": 368111,
+        "name": "Daguao",
+        "seoname": "daguao-31110"
+    },
+    {
+        "id_location": 368115,
+        "id_location_parent": 368111,
+        "name": "Guayac\u00e1n",
+        "seoname": "guayacan-31111"
+    },
+    {
+        "id_location": 368116,
+        "id_location_parent": 368111,
+        "name": "Machos",
+        "seoname": "machos-31112"
+    },
+    {
+        "id_location": 368117,
+        "id_location_parent": 368111,
+        "name": "Quebrada Seca",
+        "seoname": "quebrada-seca-31113"
+    },
+    {
+        "id_location": 368118,
+        "id_location_parent": 368111,
+        "name": "R\u00edo Abajo",
+        "seoname": "rio-abajo-31114"
+    },
+    {
+        "id_location": 368119,
+        "id_location_parent": 368111,
+        "name": "Saco",
+        "seoname": "saco-31115"
+    },
+    {
+        "id_location": 368120,
+        "id_location_parent": 1,
+        "name": "Ciales",
+        "seoname": "ciales-736725"
+    },
+    {
+        "id_location": 368121,
+        "id_location_parent": 368120,
+        "name": "Ciales",
+        "seoname": "ciales-31116"
+    },
+    {
+        "id_location": 368122,
+        "id_location_parent": 368120,
+        "name": "Cialito",
+        "seoname": "cialito-31117"
+    },
+    {
+        "id_location": 368123,
+        "id_location_parent": 368120,
+        "name": "Cordillera",
+        "seoname": "cordillera-31118"
+    },
+    {
+        "id_location": 368124,
+        "id_location_parent": 368120,
+        "name": "Front\u00f3n",
+        "seoname": "fronton-31119"
+    },
+    {
+        "id_location": 368125,
+        "id_location_parent": 368120,
+        "name": "Hato Viejo",
+        "seoname": "hato-viejo-31120"
+    },
+    {
+        "id_location": 368126,
+        "id_location_parent": 368120,
+        "name": "Jaguas",
+        "seoname": "jaguas-31121"
+    },
+    {
+        "id_location": 368127,
+        "id_location_parent": 368120,
+        "name": "Pezas",
+        "seoname": "pezas-31122"
+    },
+    {
+        "id_location": 368128,
+        "id_location_parent": 368120,
+        "name": "Pozas",
+        "seoname": "pozas-31123"
+    },
+    {
+        "id_location": 368129,
+        "id_location_parent": 368120,
+        "name": "Toro Negro",
+        "seoname": "toro-negro-31124"
+    },
+    {
+        "id_location": 368130,
+        "id_location_parent": 1,
+        "name": "Cidra",
+        "seoname": "cidra-736735"
+    },
+    {
+        "id_location": 368131,
+        "id_location_parent": 368130,
+        "name": "Arenas",
+        "seoname": "arenas-31125"
+    },
+    {
+        "id_location": 368132,
+        "id_location_parent": 368130,
+        "name": "Beatriz",
+        "seoname": "beatriz-31126"
+    },
+    {
+        "id_location": 368133,
+        "id_location_parent": 368130,
+        "name": "Caiba",
+        "seoname": "caiba-31127"
+    },
+    {
+        "id_location": 368134,
+        "id_location_parent": 368130,
+        "name": "Cidra",
+        "seoname": "cidra-31128"
+    },
+    {
+        "id_location": 368135,
+        "id_location_parent": 368130,
+        "name": "Mayam\u00f3n",
+        "seoname": "mayamon-31129"
+    },
+    {
+        "id_location": 368136,
+        "id_location_parent": 368130,
+        "name": "Monte Llano",
+        "seoname": "monte-llano-31130"
+    },
+    {
+        "id_location": 368137,
+        "id_location_parent": 368130,
+        "name": "Rabanal",
+        "seoname": "rabanal-31131"
+    },
+    {
+        "id_location": 368138,
+        "id_location_parent": 368130,
+        "name": "Rinc\u00f3n",
+        "seoname": "rincon-31132"
+    },
+    {
+        "id_location": 368139,
+        "id_location_parent": 368130,
+        "name": "Rio Abajo",
+        "seoname": "rio-abajo-31133"
+    },
+    {
+        "id_location": 368140,
+        "id_location_parent": 368130,
+        "name": "Salto",
+        "seoname": "salto-31134"
+    },
+    {
+        "id_location": 368141,
+        "id_location_parent": 368130,
+        "name": "Toita",
+        "seoname": "toita-31135"
+    },
+    {
+        "id_location": 368142,
+        "id_location_parent": 1,
+        "name": "Coamo",
+        "seoname": "coamo-736747"
+    },
+    {
+        "id_location": 368143,
+        "id_location_parent": 368142,
+        "name": "Coamo",
+        "seoname": "coamo-31136"
+    },
+    {
+        "id_location": 368144,
+        "id_location_parent": 368142,
+        "name": "Coamo Arriba",
+        "seoname": "coamo-arriba-31137"
+    },
+    {
+        "id_location": 368145,
+        "id_location_parent": 368142,
+        "name": "Cuy\u00f3n",
+        "seoname": "cuyon-31138"
+    },
+    {
+        "id_location": 368146,
+        "id_location_parent": 368142,
+        "name": "Hayales",
+        "seoname": "hayales-31139"
+    },
+    {
+        "id_location": 368147,
+        "id_location_parent": 368142,
+        "name": "Los Llanos",
+        "seoname": "los-llanos-31140"
+    },
+    {
+        "id_location": 368148,
+        "id_location_parent": 368142,
+        "name": "Palmarejo",
+        "seoname": "palmarejo-31141"
+    },
+    {
+        "id_location": 368149,
+        "id_location_parent": 368142,
+        "name": "Pasto",
+        "seoname": "pasto-31142"
+    },
+    {
+        "id_location": 368150,
+        "id_location_parent": 368142,
+        "name": "Pedro Garcia",
+        "seoname": "pedro-garcia-31143"
+    },
+    {
+        "id_location": 368151,
+        "id_location_parent": 368142,
+        "name": "Pulgillas",
+        "seoname": "pulgillas-31144"
+    },
+    {
+        "id_location": 368152,
+        "id_location_parent": 368142,
+        "name": "San Idelfonso",
+        "seoname": "san-idelfonso-31145"
+    },
+    {
+        "id_location": 368153,
+        "id_location_parent": 368142,
+        "name": "Santa Catalina",
+        "seoname": "santa-catalina-31146"
+    },
+    {
+        "id_location": 368154,
+        "id_location_parent": 1,
+        "name": "Comerio",
+        "seoname": "comerio-736759"
+    },
+    {
+        "id_location": 368155,
+        "id_location_parent": 368154,
+        "name": "Cedrito",
+        "seoname": "cedrito-31147"
+    },
+    {
+        "id_location": 368156,
+        "id_location_parent": 368154,
+        "name": "Comerio",
+        "seoname": "comerio-31148"
+    },
+    {
+        "id_location": 368157,
+        "id_location_parent": 368154,
+        "name": "Do\u00f1a Elena",
+        "seoname": "dona-elena-31149"
+    },
+    {
+        "id_location": 368158,
+        "id_location_parent": 368154,
+        "name": "Nananjo",
+        "seoname": "nananjo-31150"
+    },
+    {
+        "id_location": 368159,
+        "id_location_parent": 368154,
+        "name": "Palomas",
+        "seoname": "palomas-31151"
+    },
+    {
+        "id_location": 368160,
+        "id_location_parent": 368154,
+        "name": "Pi\u00f1as",
+        "seoname": "pinas-31152"
+    },
+    {
+        "id_location": 368161,
+        "id_location_parent": 368154,
+        "name": "Rio Hondo",
+        "seoname": "rio-hondo-31153"
+    },
+    {
+        "id_location": 368162,
+        "id_location_parent": 368154,
+        "name": "Vega Redonda",
+        "seoname": "vega-redonda-31154"
+    },
+    {
+        "id_location": 368163,
+        "id_location_parent": 1,
+        "name": "Corozal",
+        "seoname": "corozal-736768"
+    },
+    {
+        "id_location": 368164,
+        "id_location_parent": 368163,
+        "name": "Abras",
+        "seoname": "abras-31155"
+    },
+    {
+        "id_location": 368165,
+        "id_location_parent": 368163,
+        "name": "Cibuco",
+        "seoname": "cibuco-31156"
+    },
+    {
+        "id_location": 368166,
+        "id_location_parent": 368163,
+        "name": "Corozal",
+        "seoname": "corozal-31157"
+    },
+    {
+        "id_location": 368167,
+        "id_location_parent": 368163,
+        "name": "Cuchillas",
+        "seoname": "cuchillas-31158"
+    },
+    {
+        "id_location": 368168,
+        "id_location_parent": 368163,
+        "name": "Dos Bocas",
+        "seoname": "dos-bocas-31159"
+    },
+    {
+        "id_location": 368169,
+        "id_location_parent": 368163,
+        "name": "Man\u00e1",
+        "seoname": "mana-31160"
+    },
+    {
+        "id_location": 368170,
+        "id_location_parent": 368163,
+        "name": "Negros",
+        "seoname": "negros-31161"
+    },
+    {
+        "id_location": 368171,
+        "id_location_parent": 368163,
+        "name": "Padilla",
+        "seoname": "padilla-31162"
+    },
+    {
+        "id_location": 368172,
+        "id_location_parent": 368163,
+        "name": "Palmarejo",
+        "seoname": "palmarejo-31163"
+    },
+    {
+        "id_location": 368173,
+        "id_location_parent": 368163,
+        "name": "Palmarito",
+        "seoname": "palmarito-31164"
+    },
+    {
+        "id_location": 368174,
+        "id_location_parent": 1,
+        "name": "Culebra",
+        "seoname": "culebra-736780"
+    },
+    {
+        "id_location": 368175,
+        "id_location_parent": 368174,
+        "name": "Alcarraza",
+        "seoname": "alcarraza-31166"
+    },
+    {
+        "id_location": 368176,
+        "id_location_parent": 368174,
+        "name": "Arrecife Culebrita",
+        "seoname": "arrecife-culebrita-31167"
+    },
+    {
+        "id_location": 368177,
+        "id_location_parent": 368174,
+        "name": "Cayo Ballena",
+        "seoname": "cayo-ballena-31168"
+    },
+    {
+        "id_location": 368178,
+        "id_location_parent": 368174,
+        "name": "Cayo Botijuela",
+        "seoname": "cayo-botijuela-31169"
+    },
+    {
+        "id_location": 368179,
+        "id_location_parent": 368174,
+        "name": "Cayo Lobito",
+        "seoname": "cayo-lobito-31170"
+    },
+    {
+        "id_location": 368180,
+        "id_location_parent": 368174,
+        "name": "Cayo Lobo",
+        "seoname": "cayo-lobo-31171"
+    },
+    {
+        "id_location": 368181,
+        "id_location_parent": 368174,
+        "name": "Cayo Luis Pe\u00f1a",
+        "seoname": "cayo-luis-pena-31172"
+    },
+    {
+        "id_location": 368182,
+        "id_location_parent": 368174,
+        "name": "Cayo Norte",
+        "seoname": "cayo-norte-31173"
+    },
+    {
+        "id_location": 368183,
+        "id_location_parent": 368174,
+        "name": "Cayos Geniqui",
+        "seoname": "cayos-geniqui-31174"
+    },
+    {
+        "id_location": 368184,
+        "id_location_parent": 368174,
+        "name": "Culebra",
+        "seoname": "culebra-31175"
+    },
+    {
+        "id_location": 368185,
+        "id_location_parent": 368174,
+        "name": "Culebrita",
+        "seoname": "culebrita-31176"
+    },
+    {
+        "id_location": 368186,
+        "id_location_parent": 368174,
+        "name": "Dewey",
+        "seoname": "dewey-31177"
+    },
+    {
+        "id_location": 368187,
+        "id_location_parent": 368174,
+        "name": "El Mono",
+        "seoname": "el-mono-31178"
+    },
+    {
+        "id_location": 368188,
+        "id_location_parent": 368174,
+        "name": "Flamenco",
+        "seoname": "flamenco-31179"
+    },
+    {
+        "id_location": 368189,
+        "id_location_parent": 368174,
+        "name": "Fraile",
+        "seoname": "fraile-31180"
+    },
+    {
+        "id_location": 368190,
+        "id_location_parent": 368174,
+        "name": "Las Hermanas",
+        "seoname": "las-hermanas-31181"
+    },
+    {
+        "id_location": 368191,
+        "id_location_parent": 368174,
+        "name": "Los Gemelos",
+        "seoname": "los-gemelos-31182"
+    },
+    {
+        "id_location": 368192,
+        "id_location_parent": 368174,
+        "name": "Piedra Steven",
+        "seoname": "piedra-steven-31183"
+    },
+    {
+        "id_location": 368193,
+        "id_location_parent": 368174,
+        "name": "Playa Sardinas",
+        "seoname": "playa-sardinas-31184"
+    },
+    {
+        "id_location": 368194,
+        "id_location_parent": 368174,
+        "name": "San Isidro",
+        "seoname": "san-isidro-31185"
+    },
+    {
+        "id_location": 368195,
+        "id_location_parent": 1,
+        "name": "Dorado",
+        "seoname": "dorado-736801"
+    },
+    {
+        "id_location": 368196,
+        "id_location_parent": 368195,
+        "name": "Dorado",
+        "seoname": "dorado-31186"
+    },
+    {
+        "id_location": 368197,
+        "id_location_parent": 368195,
+        "name": "Espinosa",
+        "seoname": "espinosa-31187"
+    },
+    {
+        "id_location": 368198,
+        "id_location_parent": 368195,
+        "name": "Higuillar",
+        "seoname": "higuillar-31188"
+    },
+    {
+        "id_location": 368199,
+        "id_location_parent": 368195,
+        "name": "Maguayo",
+        "seoname": "maguayo-31189"
+    },
+    {
+        "id_location": 368200,
+        "id_location_parent": 368195,
+        "name": "Mameyal",
+        "seoname": "mameyal-31190"
+    },
+    {
+        "id_location": 368201,
+        "id_location_parent": 368195,
+        "name": "Rio Lajas",
+        "seoname": "rio-lajas-31191"
+    },
+    {
+        "id_location": 368202,
+        "id_location_parent": 1,
+        "name": "Fajardo",
+        "seoname": "fajardo-736808"
+    },
+    {
+        "id_location": 368203,
+        "id_location_parent": 368202,
+        "name": "Cabezas",
+        "seoname": "cabezas-31192"
+    },
+    {
+        "id_location": 368204,
+        "id_location_parent": 368202,
+        "name": "Demajagua",
+        "seoname": "demajagua-31193"
+    },
+    {
+        "id_location": 368205,
+        "id_location_parent": 368202,
+        "name": "Fajardo",
+        "seoname": "fajardo-31194"
+    },
+    {
+        "id_location": 368206,
+        "id_location_parent": 368202,
+        "name": "Florecio",
+        "seoname": "florecio-31195"
+    },
+    {
+        "id_location": 368207,
+        "id_location_parent": 368202,
+        "name": "Naranjo",
+        "seoname": "naranjo-31196"
+    },
+    {
+        "id_location": 368208,
+        "id_location_parent": 368202,
+        "name": "Quebrada Fajardo",
+        "seoname": "quebrada-fajardo-31197"
+    },
+    {
+        "id_location": 368209,
+        "id_location_parent": 368202,
+        "name": "Quebrada Vuelta",
+        "seoname": "quebrada-vuelta-31198"
+    },
+    {
+        "id_location": 368210,
+        "id_location_parent": 368202,
+        "name": "R\u00edo Arriba",
+        "seoname": "rio-arriba-31199"
+    },
+    {
+        "id_location": 368211,
+        "id_location_parent": 368202,
+        "name": "Sandinera",
+        "seoname": "sandinera-31200"
+    },
+    {
+        "id_location": 368212,
+        "id_location_parent": 1,
+        "name": "Florida",
+        "seoname": "florida-736819"
+    },
+    {
+        "id_location": 368213,
+        "id_location_parent": 368212,
+        "name": "Florida",
+        "seoname": "florida-31201"
+    },
+    {
+        "id_location": 368214,
+        "id_location_parent": 368212,
+        "name": "Florida Adentro",
+        "seoname": "florida-adentro-31202"
+    },
+    {
+        "id_location": 368215,
+        "id_location_parent": 1,
+        "name": "Guanica",
+        "seoname": "guanica-736822"
+    },
+    {
+        "id_location": 368216,
+        "id_location_parent": 368215,
+        "name": "Arena",
+        "seoname": "arena-31203"
+    },
+    {
+        "id_location": 368217,
+        "id_location_parent": 368215,
+        "name": "Ca\u00f1o",
+        "seoname": "cano-31204"
+    },
+    {
+        "id_location": 368218,
+        "id_location_parent": 368215,
+        "name": "Carnero",
+        "seoname": "carnero-31205"
+    },
+    {
+        "id_location": 368219,
+        "id_location_parent": 368215,
+        "name": "Ci\u00e9naga",
+        "seoname": "cienaga-31206"
+    },
+    {
+        "id_location": 368220,
+        "id_location_parent": 368215,
+        "name": "Ensenada",
+        "seoname": "ensenada-31207"
+    },
+    {
+        "id_location": 368221,
+        "id_location_parent": 368215,
+        "name": "Guanica",
+        "seoname": "guanica-31208"
+    },
+    {
+        "id_location": 368222,
+        "id_location_parent": 368215,
+        "name": "Montalva",
+        "seoname": "montalva-31209"
+    },
+    {
+        "id_location": 368223,
+        "id_location_parent": 368215,
+        "name": "Susu\u00e1 Baja",
+        "seoname": "susua-baja-31210"
+    },
+    {
+        "id_location": 368224,
+        "id_location_parent": 1,
+        "name": "Guayama",
+        "seoname": "guayama-736831"
+    },
+    {
+        "id_location": 368225,
+        "id_location_parent": 368224,
+        "name": "Algarrobo",
+        "seoname": "algarrobo-31211"
+    },
+    {
+        "id_location": 368226,
+        "id_location_parent": 368224,
+        "name": "Caimital",
+        "seoname": "caimital-31212"
+    },
+    {
+        "id_location": 368227,
+        "id_location_parent": 368224,
+        "name": "Carite",
+        "seoname": "carite-31213"
+    },
+    {
+        "id_location": 368228,
+        "id_location_parent": 368224,
+        "name": "Carmen",
+        "seoname": "carmen-31214"
+    },
+    {
+        "id_location": 368229,
+        "id_location_parent": 368224,
+        "name": "Guaman\u00ed",
+        "seoname": "guamani-31215"
+    },
+    {
+        "id_location": 368230,
+        "id_location_parent": 368224,
+        "name": "Guayama",
+        "seoname": "guayama-31216"
+    },
+    {
+        "id_location": 368231,
+        "id_location_parent": 368224,
+        "name": "Jobos",
+        "seoname": "jobos-31217"
+    },
+    {
+        "id_location": 368232,
+        "id_location_parent": 368224,
+        "name": "Machete",
+        "seoname": "machete-31218"
+    },
+    {
+        "id_location": 368233,
+        "id_location_parent": 368224,
+        "name": "Palmas",
+        "seoname": "palmas-31219"
+    },
+    {
+        "id_location": 368234,
+        "id_location_parent": 368224,
+        "name": "Pozo Hondo",
+        "seoname": "pozo-hondo-31220"
+    },
+    {
+        "id_location": 368235,
+        "id_location_parent": 1,
+        "name": "Guayanilla",
+        "seoname": "guayanilla-736842"
+    },
+    {
+        "id_location": 368236,
+        "id_location_parent": 368235,
+        "name": "Barrero",
+        "seoname": "barrero-31221"
+    },
+    {
+        "id_location": 368237,
+        "id_location_parent": 368235,
+        "name": "Boca",
+        "seoname": "boca-31222"
+    },
+    {
+        "id_location": 368238,
+        "id_location_parent": 368235,
+        "name": "Consejo",
+        "seoname": "consejo-31223"
+    },
+    {
+        "id_location": 368239,
+        "id_location_parent": 368235,
+        "name": "Guayanilla",
+        "seoname": "guayanilla-31224"
+    },
+    {
+        "id_location": 368240,
+        "id_location_parent": 368235,
+        "name": "Indios",
+        "seoname": "indios-31225"
+    },
+    {
+        "id_location": 368241,
+        "id_location_parent": 368235,
+        "name": "Jagua",
+        "seoname": "jagua-31226"
+    },
+    {
+        "id_location": 368242,
+        "id_location_parent": 368235,
+        "name": "Jagua Pasto",
+        "seoname": "jagua-pasto-31227"
+    },
+    {
+        "id_location": 368243,
+        "id_location_parent": 368235,
+        "name": "Macan\u00e1",
+        "seoname": "macana-31228"
+    },
+    {
+        "id_location": 368244,
+        "id_location_parent": 368235,
+        "name": "Magas",
+        "seoname": "magas-31229"
+    },
+    {
+        "id_location": 368245,
+        "id_location_parent": 368235,
+        "name": "Pasto",
+        "seoname": "pasto-31230"
+    },
+    {
+        "id_location": 368246,
+        "id_location_parent": 368235,
+        "name": "Playa",
+        "seoname": "playa-31231"
+    },
+    {
+        "id_location": 368247,
+        "id_location_parent": 368235,
+        "name": "Quebrada Honda",
+        "seoname": "quebrada-honda-31232"
+    },
+    {
+        "id_location": 368248,
+        "id_location_parent": 368235,
+        "name": "Quebradas",
+        "seoname": "quebradas-31233"
+    },
+    {
+        "id_location": 368249,
+        "id_location_parent": 368235,
+        "name": "Rufina",
+        "seoname": "rufina-31234"
+    },
+    {
+        "id_location": 368250,
+        "id_location_parent": 368235,
+        "name": "Sierra Baja",
+        "seoname": "sierra-baja-31235"
+    },
+    {
+        "id_location": 368251,
+        "id_location_parent": 1,
+        "name": "Guaynabo",
+        "seoname": "guaynabo-736858"
+    },
+    {
+        "id_location": 368252,
+        "id_location_parent": 368251,
+        "name": "Camarones",
+        "seoname": "camarones-31236"
+    },
+    {
+        "id_location": 368253,
+        "id_location_parent": 368251,
+        "name": "Frailes",
+        "seoname": "frailes-31237"
+    },
+    {
+        "id_location": 368254,
+        "id_location_parent": 368251,
+        "name": "Garden Hills",
+        "seoname": "garden-hills-31238"
+    },
+    {
+        "id_location": 368255,
+        "id_location_parent": 368251,
+        "name": "Gardenville",
+        "seoname": "gardenville-31239"
+    },
+    {
+        "id_location": 368256,
+        "id_location_parent": 368251,
+        "name": "Guaraguao",
+        "seoname": "guaraguao-31240"
+    },
+    {
+        "id_location": 368257,
+        "id_location_parent": 368251,
+        "name": "Guaynabo",
+        "seoname": "guaynabo-31241"
+    },
+    {
+        "id_location": 368258,
+        "id_location_parent": 368251,
+        "name": "Hato",
+        "seoname": "hato-31242"
+    },
+    {
+        "id_location": 368259,
+        "id_location_parent": 368251,
+        "name": "Nuevo",
+        "seoname": "nuevo-31243"
+    },
+    {
+        "id_location": 368260,
+        "id_location_parent": 368251,
+        "name": "Mamey",
+        "seoname": "mamey-31244"
+    },
+    {
+        "id_location": 368261,
+        "id_location_parent": 368251,
+        "name": "Pueblo Viejo",
+        "seoname": "pueblo-viejo-31245"
+    },
+    {
+        "id_location": 368262,
+        "id_location_parent": 368251,
+        "name": "R\u00edo",
+        "seoname": "rio-31246"
+    },
+    {
+        "id_location": 368263,
+        "id_location_parent": 368251,
+        "name": "Santa Rosa",
+        "seoname": "santa-rosa-31247"
+    },
+    {
+        "id_location": 368264,
+        "id_location_parent": 368251,
+        "name": "Sonadora",
+        "seoname": "sonadora-31248"
+    },
+    {
+        "id_location": 368265,
+        "id_location_parent": 368251,
+        "name": "Torrimar",
+        "seoname": "torrimar-31249"
+    },
+    {
+        "id_location": 368266,
+        "id_location_parent": 1,
+        "name": "Gurabo",
+        "seoname": "gurabo-736873"
+    },
+    {
+        "id_location": 368267,
+        "id_location_parent": 368266,
+        "name": "Celada",
+        "seoname": "celada-31250"
+    },
+    {
+        "id_location": 368268,
+        "id_location_parent": 368266,
+        "name": "Gurabo",
+        "seoname": "gurabo-31251"
+    },
+    {
+        "id_location": 368269,
+        "id_location_parent": 368266,
+        "name": "Hato Nuevo",
+        "seoname": "hato-nuevo-31252"
+    },
+    {
+        "id_location": 368270,
+        "id_location_parent": 368266,
+        "name": "Jaguas",
+        "seoname": "jaguas-31253"
+    },
+    {
+        "id_location": 368271,
+        "id_location_parent": 368266,
+        "name": "Mamey",
+        "seoname": "mamey-31254"
+    },
+    {
+        "id_location": 368272,
+        "id_location_parent": 368266,
+        "name": "Masas",
+        "seoname": "masas-31255"
+    },
+    {
+        "id_location": 368273,
+        "id_location_parent": 368266,
+        "name": "Navarro",
+        "seoname": "navarro-31256"
+    },
+    {
+        "id_location": 368274,
+        "id_location_parent": 368266,
+        "name": "Rinc\u00f3n",
+        "seoname": "rincon-31257"
+    },
+    {
+        "id_location": 368275,
+        "id_location_parent": 368266,
+        "name": "Santa Rita",
+        "seoname": "santa-rita-31258"
+    },
+    {
+        "id_location": 368276,
+        "id_location_parent": 1,
+        "name": "Hatillo",
+        "seoname": "hatillo-736883"
+    },
+    {
+        "id_location": 368277,
+        "id_location_parent": 368276,
+        "name": "Aibonito",
+        "seoname": "aibonito-31259"
+    },
+    {
+        "id_location": 368278,
+        "id_location_parent": 368276,
+        "name": "Bayaney",
+        "seoname": "bayaney-31260"
+    },
+    {
+        "id_location": 368279,
+        "id_location_parent": 368276,
+        "name": "Buena Vista",
+        "seoname": "buena-vista-31261"
+    },
+    {
+        "id_location": 368280,
+        "id_location_parent": 368276,
+        "name": "Campo Alegre",
+        "seoname": "campo-alegre-31262"
+    },
+    {
+        "id_location": 368281,
+        "id_location_parent": 368276,
+        "name": "Cap\u00e1ez",
+        "seoname": "capaez-31263"
+    },
+    {
+        "id_location": 368282,
+        "id_location_parent": 368276,
+        "name": "Carrizales",
+        "seoname": "carrizales-31264"
+    },
+    {
+        "id_location": 368283,
+        "id_location_parent": 368276,
+        "name": "Corcovado",
+        "seoname": "corcovado-31265"
+    },
+    {
+        "id_location": 368284,
+        "id_location_parent": 368276,
+        "name": "Hatillo",
+        "seoname": "hatillo-31266"
+    },
+    {
+        "id_location": 368285,
+        "id_location_parent": 368276,
+        "name": "Naranjito",
+        "seoname": "naranjito-31267"
+    },
+    {
+        "id_location": 368286,
+        "id_location_parent": 1,
+        "name": "Hormigueros",
+        "seoname": "hormigueros-736893"
+    },
+    {
+        "id_location": 368287,
+        "id_location_parent": 368286,
+        "name": "Benavente",
+        "seoname": "benavente-31268"
+    },
+    {
+        "id_location": 368288,
+        "id_location_parent": 368286,
+        "name": "Guanajibo",
+        "seoname": "guanajibo-31269"
+    },
+    {
+        "id_location": 368289,
+        "id_location_parent": 368286,
+        "name": "Hormigueros",
+        "seoname": "hormigueros-31270"
+    },
+    {
+        "id_location": 368290,
+        "id_location_parent": 368286,
+        "name": "Jaguitas",
+        "seoname": "jaguitas-31271"
+    },
+    {
+        "id_location": 368291,
+        "id_location_parent": 368286,
+        "name": "Lavadero",
+        "seoname": "lavadero-31272"
+    },
+    {
+        "id_location": 368292,
+        "id_location_parent": 1,
+        "name": "Humacao",
+        "seoname": "humacao-736899"
+    },
+    {
+        "id_location": 368293,
+        "id_location_parent": 368292,
+        "name": "Anton Ruiz",
+        "seoname": "anton-ruiz-31273"
+    },
+    {
+        "id_location": 368294,
+        "id_location_parent": 368292,
+        "name": "Buena Vista",
+        "seoname": "buena-vista-31274"
+    },
+    {
+        "id_location": 368295,
+        "id_location_parent": 368292,
+        "name": "Candelero Abajo",
+        "seoname": "candelero-abajo-31275"
+    },
+    {
+        "id_location": 368296,
+        "id_location_parent": 368292,
+        "name": "Candelero Arriba",
+        "seoname": "candelero-arriba-31276"
+    },
+    {
+        "id_location": 368297,
+        "id_location_parent": 368292,
+        "name": "Cata\u00f1o",
+        "seoname": "catano-31277"
+    },
+    {
+        "id_location": 368298,
+        "id_location_parent": 368292,
+        "name": "Collores",
+        "seoname": "collores-31278"
+    },
+    {
+        "id_location": 368299,
+        "id_location_parent": 368292,
+        "name": "Humacao",
+        "seoname": "humacao-31279"
+    },
+    {
+        "id_location": 368300,
+        "id_location_parent": 368292,
+        "name": "Mab\u00fa",
+        "seoname": "mabu-31280"
+    },
+    {
+        "id_location": 368301,
+        "id_location_parent": 368292,
+        "name": "Manbiche",
+        "seoname": "manbiche-31281"
+    },
+    {
+        "id_location": 368302,
+        "id_location_parent": 368292,
+        "name": "Mariana",
+        "seoname": "mariana-31282"
+    },
+    {
+        "id_location": 368303,
+        "id_location_parent": 368292,
+        "name": "Punta Santiago",
+        "seoname": "punta-santiago-31283"
+    },
+    {
+        "id_location": 368304,
+        "id_location_parent": 368292,
+        "name": "Rio Abajo",
+        "seoname": "rio-abajo-31284"
+    },
+    {
+        "id_location": 368305,
+        "id_location_parent": 368292,
+        "name": "Tejas",
+        "seoname": "tejas-31285"
+    },
+    {
+        "id_location": 368306,
+        "id_location_parent": 1,
+        "name": "Isabela",
+        "seoname": "isabela-736913"
+    },
+    {
+        "id_location": 368307,
+        "id_location_parent": 368306,
+        "name": "Arenales Altos",
+        "seoname": "arenales-altos-31286"
+    },
+    {
+        "id_location": 368308,
+        "id_location_parent": 368306,
+        "name": "Arenales Bajos",
+        "seoname": "arenales-bajos-31287"
+    },
+    {
+        "id_location": 368309,
+        "id_location_parent": 368306,
+        "name": "Bajuras",
+        "seoname": "bajuras-31288"
+    },
+    {
+        "id_location": 368310,
+        "id_location_parent": 368306,
+        "name": "Bejucos",
+        "seoname": "bejucos-31289"
+    },
+    {
+        "id_location": 368311,
+        "id_location_parent": 368306,
+        "name": "Coto",
+        "seoname": "coto-31290"
+    },
+    {
+        "id_location": 368312,
+        "id_location_parent": 368306,
+        "name": "Galateo Alto",
+        "seoname": "galateo-alto-31291"
+    },
+    {
+        "id_location": 368313,
+        "id_location_parent": 368306,
+        "name": "Galateo bajo",
+        "seoname": "galateo-bajo-31292"
+    },
+    {
+        "id_location": 368314,
+        "id_location_parent": 368306,
+        "name": "Guayabos",
+        "seoname": "guayabos-31293"
+    },
+    {
+        "id_location": 368315,
+        "id_location_parent": 368306,
+        "name": "Guerrero",
+        "seoname": "guerrero-31294"
+    },
+    {
+        "id_location": 368316,
+        "id_location_parent": 368306,
+        "name": "Isabela",
+        "seoname": "isabela-31295"
+    },
+    {
+        "id_location": 368317,
+        "id_location_parent": 368306,
+        "name": "Jobos",
+        "seoname": "jobos-31296"
+    },
+    {
+        "id_location": 368318,
+        "id_location_parent": 368306,
+        "name": "Llanadas",
+        "seoname": "llanadas-31297"
+    },
+    {
+        "id_location": 368319,
+        "id_location_parent": 368306,
+        "name": "Mora",
+        "seoname": "mora-31298"
+    },
+    {
+        "id_location": 368320,
+        "id_location_parent": 368306,
+        "name": "Planas",
+        "seoname": "planas-31299"
+    },
+    {
+        "id_location": 368321,
+        "id_location_parent": 1,
+        "name": "Jayuya",
+        "seoname": "jayuya-736928"
+    },
+    {
+        "id_location": 368322,
+        "id_location_parent": 368321,
+        "name": "Coabey",
+        "seoname": "coabey-31300"
+    },
+    {
+        "id_location": 368323,
+        "id_location_parent": 368321,
+        "name": "Collores",
+        "seoname": "collores-31301"
+    },
+    {
+        "id_location": 368324,
+        "id_location_parent": 368321,
+        "name": "Jauca",
+        "seoname": "jauca-31302"
+    },
+    {
+        "id_location": 368325,
+        "id_location_parent": 368321,
+        "name": "Jayuya",
+        "seoname": "jayuya-31303"
+    },
+    {
+        "id_location": 368326,
+        "id_location_parent": 368321,
+        "name": "Jayuya Abajo",
+        "seoname": "jayuya-abajo-31304"
+    },
+    {
+        "id_location": 368327,
+        "id_location_parent": 368321,
+        "name": "Mameyes Arriba",
+        "seoname": "mameyes-arriba-31305"
+    },
+    {
+        "id_location": 368328,
+        "id_location_parent": 368321,
+        "name": "Pica",
+        "seoname": "pica-31306"
+    },
+    {
+        "id_location": 368329,
+        "id_location_parent": 368321,
+        "name": "Rio Grande",
+        "seoname": "rio-grande-31307"
+    },
+    {
+        "id_location": 368330,
+        "id_location_parent": 368321,
+        "name": "Saliente",
+        "seoname": "saliente-31308"
+    },
+    {
+        "id_location": 368331,
+        "id_location_parent": 368321,
+        "name": "Veguitas",
+        "seoname": "veguitas-31309"
+    },
+    {
+        "id_location": 368332,
+        "id_location_parent": 1,
+        "name": "Juana D\u00edaz",
+        "seoname": "juana-diaz-736939"
+    },
+    {
+        "id_location": 368333,
+        "id_location_parent": 368332,
+        "name": "Amuelas",
+        "seoname": "amuelas-31310"
+    },
+    {
+        "id_location": 368334,
+        "id_location_parent": 368332,
+        "name": "Callabo",
+        "seoname": "callabo-31311"
+    },
+    {
+        "id_location": 368335,
+        "id_location_parent": 368332,
+        "name": "Capitanejo",
+        "seoname": "capitanejo-31312"
+    },
+    {
+        "id_location": 368336,
+        "id_location_parent": 368332,
+        "name": "Cintrona",
+        "seoname": "cintrona-31313"
+    },
+    {
+        "id_location": 368337,
+        "id_location_parent": 368332,
+        "name": "Collores",
+        "seoname": "collores-31314"
+    },
+    {
+        "id_location": 368338,
+        "id_location_parent": 368332,
+        "name": "Guayacal",
+        "seoname": "guayacal-31315"
+    },
+    {
+        "id_location": 368339,
+        "id_location_parent": 368332,
+        "name": "Jacaguas",
+        "seoname": "jacaguas-31316"
+    },
+    {
+        "id_location": 368340,
+        "id_location_parent": 368332,
+        "name": "Juana D\u00edaz",
+        "seoname": "juana-diaz-31317"
+    },
+    {
+        "id_location": 368341,
+        "id_location_parent": 368332,
+        "name": "Lomas",
+        "seoname": "lomas-31318"
+    },
+    {
+        "id_location": 368342,
+        "id_location_parent": 368332,
+        "name": "Rio Ca\u00f1as Abajo",
+        "seoname": "rio-canas-abajo-31319"
+    },
+    {
+        "id_location": 368343,
+        "id_location_parent": 368332,
+        "name": "Rio Ca\u00f1as Arriba",
+        "seoname": "rio-canas-arriba-31320"
+    },
+    {
+        "id_location": 368344,
+        "id_location_parent": 368332,
+        "name": "Sabana Llana",
+        "seoname": "sabana-llana-31321"
+    },
+    {
+        "id_location": 368345,
+        "id_location_parent": 368332,
+        "name": "Tijeras",
+        "seoname": "tijeras-31322"
+    },
+    {
+        "id_location": 368346,
+        "id_location_parent": 1,
+        "name": "Juncos",
+        "seoname": "juncos-736953"
+    },
+    {
+        "id_location": 368347,
+        "id_location_parent": 368346,
+        "name": "Caimito",
+        "seoname": "caimito-31323"
+    },
+    {
+        "id_location": 368348,
+        "id_location_parent": 368346,
+        "name": "Ceiba Norte",
+        "seoname": "ceiba-norte-31324"
+    },
+    {
+        "id_location": 368349,
+        "id_location_parent": 368346,
+        "name": "Ceiba Sur",
+        "seoname": "ceiba-sur-31325"
+    },
+    {
+        "id_location": 368350,
+        "id_location_parent": 368346,
+        "name": "Gurabio Abajo",
+        "seoname": "gurabio-abajo-31326"
+    },
+    {
+        "id_location": 368351,
+        "id_location_parent": 368346,
+        "name": "Gurabo Arriba",
+        "seoname": "gurabo-arriba-31327"
+    },
+    {
+        "id_location": 368352,
+        "id_location_parent": 368346,
+        "name": "Juncos",
+        "seoname": "juncos-31328"
+    },
+    {
+        "id_location": 368353,
+        "id_location_parent": 368346,
+        "name": "Lirios",
+        "seoname": "lirios-31329"
+    },
+    {
+        "id_location": 368354,
+        "id_location_parent": 368346,
+        "name": "Mamey",
+        "seoname": "mamey-31330"
+    },
+    {
+        "id_location": 368355,
+        "id_location_parent": 368346,
+        "name": "Valenciano Abajo",
+        "seoname": "valenciano-abajo-31331"
+    },
+    {
+        "id_location": 368356,
+        "id_location_parent": 368346,
+        "name": "Valenciano Arriba",
+        "seoname": "valenciano-arriba-31332"
+    },
+    {
+        "id_location": 368357,
+        "id_location_parent": 1,
+        "name": "Lajas",
+        "seoname": "lajas-736964"
+    },
+    {
+        "id_location": 368358,
+        "id_location_parent": 368357,
+        "name": "Candelaria",
+        "seoname": "candelaria-31333"
+    },
+    {
+        "id_location": 368359,
+        "id_location_parent": 368357,
+        "name": "Costa",
+        "seoname": "costa-31334"
+    },
+    {
+        "id_location": 368360,
+        "id_location_parent": 368357,
+        "name": "La Plata",
+        "seoname": "la-plata-31335"
+    },
+    {
+        "id_location": 368361,
+        "id_location_parent": 368357,
+        "name": "Lajas",
+        "seoname": "lajas-31336"
+    },
+    {
+        "id_location": 368362,
+        "id_location_parent": 368357,
+        "name": "Lajas Arriba",
+        "seoname": "lajas-arriba-31337"
+    },
+    {
+        "id_location": 368363,
+        "id_location_parent": 368357,
+        "name": "Llanos",
+        "seoname": "llanos-31338"
+    },
+    {
+        "id_location": 368364,
+        "id_location_parent": 368357,
+        "name": "Palmarejo",
+        "seoname": "palmarejo-31339"
+    },
+    {
+        "id_location": 368365,
+        "id_location_parent": 368357,
+        "name": "Parguera",
+        "seoname": "parguera-31340"
+    },
+    {
+        "id_location": 368366,
+        "id_location_parent": 368357,
+        "name": "Paris",
+        "seoname": "paris-31341"
+    },
+    {
+        "id_location": 368367,
+        "id_location_parent": 368357,
+        "name": "Sababa Yeguas",
+        "seoname": "sababa-yeguas-31342"
+    },
+    {
+        "id_location": 368368,
+        "id_location_parent": 368357,
+        "name": "Santa Rosa",
+        "seoname": "santa-rosa-31343"
+    },
+    {
+        "id_location": 368369,
+        "id_location_parent": 1,
+        "name": "Lares",
+        "seoname": "lares-736976"
+    },
+    {
+        "id_location": 368370,
+        "id_location_parent": 368369,
+        "name": "Bartolo",
+        "seoname": "bartolo-31344"
+    },
+    {
+        "id_location": 368371,
+        "id_location_parent": 368369,
+        "name": "Buenos Aires",
+        "seoname": "buenos-aires-31345"
+    },
+    {
+        "id_location": 368372,
+        "id_location_parent": 368369,
+        "name": "Callejones",
+        "seoname": "callejones-31346"
+    },
+    {
+        "id_location": 368373,
+        "id_location_parent": 368369,
+        "name": "Espino",
+        "seoname": "espino-31347"
+    },
+    {
+        "id_location": 368374,
+        "id_location_parent": 368369,
+        "name": "La Torre",
+        "seoname": "la-torre-31348"
+    },
+    {
+        "id_location": 368375,
+        "id_location_parent": 368369,
+        "name": "Lares",
+        "seoname": "lares-31349"
+    },
+    {
+        "id_location": 368376,
+        "id_location_parent": 368369,
+        "name": "Mirasol",
+        "seoname": "mirasol-31350"
+    },
+    {
+        "id_location": 368377,
+        "id_location_parent": 368369,
+        "name": "Pezuela",
+        "seoname": "pezuela-31351"
+    },
+    {
+        "id_location": 368378,
+        "id_location_parent": 368369,
+        "name": "Piletas",
+        "seoname": "piletas-31352"
+    },
+    {
+        "id_location": 368379,
+        "id_location_parent": 368369,
+        "name": "Rio Prieto",
+        "seoname": "rio-prieto-31353"
+    },
+    {
+        "id_location": 368380,
+        "id_location_parent": 1,
+        "name": "Las Mar\u00edas",
+        "seoname": "las-marias-736987"
+    },
+    {
+        "id_location": 368381,
+        "id_location_parent": 368380,
+        "name": "Anones",
+        "seoname": "anones-31354"
+    },
+    {
+        "id_location": 368382,
+        "id_location_parent": 368380,
+        "name": "Bucarabones",
+        "seoname": "bucarabones-31355"
+    },
+    {
+        "id_location": 368383,
+        "id_location_parent": 368380,
+        "name": "Buenavista",
+        "seoname": "buenavista-31356"
+    },
+    {
+        "id_location": 368384,
+        "id_location_parent": 368380,
+        "name": "Cerrote",
+        "seoname": "cerrote-31357"
+    },
+    {
+        "id_location": 368385,
+        "id_location_parent": 368380,
+        "name": "Espino",
+        "seoname": "espino-31358"
+    },
+    {
+        "id_location": 368386,
+        "id_location_parent": 368380,
+        "name": "Furnias",
+        "seoname": "furnias-31359"
+    },
+    {
+        "id_location": 368387,
+        "id_location_parent": 368380,
+        "name": "Las Marias",
+        "seoname": "las-marias-31360"
+    },
+    {
+        "id_location": 368388,
+        "id_location_parent": 368380,
+        "name": "Maravilla Este",
+        "seoname": "maravilla-este-31361"
+    },
+    {
+        "id_location": 368389,
+        "id_location_parent": 368380,
+        "name": "Maravilla Norte",
+        "seoname": "maravilla-norte-31362"
+    },
+    {
+        "id_location": 368390,
+        "id_location_parent": 368380,
+        "name": "Maravilla Sur",
+        "seoname": "maravilla-sur-31363"
+    },
+    {
+        "id_location": 368391,
+        "id_location_parent": 368380,
+        "name": "Naranjales",
+        "seoname": "naranjales-31364"
+    },
+    {
+        "id_location": 368392,
+        "id_location_parent": 368380,
+        "name": "Palma Escrita",
+        "seoname": "palma-escrita-31365"
+    },
+    {
+        "id_location": 368393,
+        "id_location_parent": 368380,
+        "name": "Pur\u00edsima Concepci\u00f3n",
+        "seoname": "purisima-concepcion-31366"
+    },
+    {
+        "id_location": 368394,
+        "id_location_parent": 368380,
+        "name": "Rio Ca\u00f1as",
+        "seoname": "rio-canas-31367"
+    },
+    {
+        "id_location": 368395,
+        "id_location_parent": 1,
+        "name": "Las Piedras",
+        "seoname": "las-piedras-737002"
+    },
+    {
+        "id_location": 368396,
+        "id_location_parent": 368395,
+        "name": "Arenas",
+        "seoname": "arenas-31368"
+    },
+    {
+        "id_location": 368397,
+        "id_location_parent": 368395,
+        "name": "Boquer\u00f3n",
+        "seoname": "boqueron-31369"
+    },
+    {
+        "id_location": 368398,
+        "id_location_parent": 368395,
+        "name": "Caiba",
+        "seoname": "caiba-31370"
+    },
+    {
+        "id_location": 368399,
+        "id_location_parent": 368395,
+        "name": "Collores",
+        "seoname": "collores-31371"
+    },
+    {
+        "id_location": 368400,
+        "id_location_parent": 368395,
+        "name": "Las Piedras",
+        "seoname": "las-piedras-31372"
+    },
+    {
+        "id_location": 368401,
+        "id_location_parent": 368395,
+        "name": "Montones",
+        "seoname": "montones-31373"
+    },
+    {
+        "id_location": 368402,
+        "id_location_parent": 368395,
+        "name": "Quebrada",
+        "seoname": "quebrada-31374"
+    },
+    {
+        "id_location": 368403,
+        "id_location_parent": 368395,
+        "name": "Tejas",
+        "seoname": "tejas-31375"
+    },
+    {
+        "id_location": 368404,
+        "id_location_parent": 1,
+        "name": "Loiza",
+        "seoname": "loiza-737011"
+    },
+    {
+        "id_location": 368405,
+        "id_location_parent": 368404,
+        "name": "Can\u00f3vanas",
+        "seoname": "canovanas-31376"
+    },
+    {
+        "id_location": 368406,
+        "id_location_parent": 368404,
+        "name": "Loiza",
+        "seoname": "loiza-31377"
+    },
+    {
+        "id_location": 368407,
+        "id_location_parent": 368404,
+        "name": "Median\u00eda Alta",
+        "seoname": "mediania-alta-31378"
+    },
+    {
+        "id_location": 368408,
+        "id_location_parent": 368404,
+        "name": "Median\u00eda Baja",
+        "seoname": "mediania-baja-31379"
+    },
+    {
+        "id_location": 368409,
+        "id_location_parent": 368404,
+        "name": "Torrecilla Alta",
+        "seoname": "torrecilla-alta-31380"
+    },
+    {
+        "id_location": 368410,
+        "id_location_parent": 368404,
+        "name": "Torrecilla Baja",
+        "seoname": "torrecilla-baja-31381"
+    },
+    {
+        "id_location": 368411,
+        "id_location_parent": 1,
+        "name": "Luquillo",
+        "seoname": "luquillo-737018"
+    },
+    {
+        "id_location": 368412,
+        "id_location_parent": 368411,
+        "name": "Juan Martin",
+        "seoname": "juan-martin-31382"
+    },
+    {
+        "id_location": 368413,
+        "id_location_parent": 368411,
+        "name": "Luquillo",
+        "seoname": "luquillo-31383"
+    },
+    {
+        "id_location": 368414,
+        "id_location_parent": 368411,
+        "name": "Mameyes",
+        "seoname": "mameyes-31384"
+    },
+    {
+        "id_location": 368415,
+        "id_location_parent": 368411,
+        "name": "Mata de Pl\u00e1tano",
+        "seoname": "mata-de-platano-31385"
+    },
+    {
+        "id_location": 368416,
+        "id_location_parent": 368411,
+        "name": "Pitahaya",
+        "seoname": "pitahaya-31386"
+    },
+    {
+        "id_location": 368417,
+        "id_location_parent": 368411,
+        "name": "Sabana",
+        "seoname": "sabana-31387"
+    },
+    {
+        "id_location": 368418,
+        "id_location_parent": 1,
+        "name": "Manati",
+        "seoname": "manati-737025"
+    },
+    {
+        "id_location": 368419,
+        "id_location_parent": 368418,
+        "name": "Bajura Adentro",
+        "seoname": "bajura-adentro-31388"
+    },
+    {
+        "id_location": 368420,
+        "id_location_parent": 368418,
+        "name": "Bajura Afuera",
+        "seoname": "bajura-afuera-31389"
+    },
+    {
+        "id_location": 368421,
+        "id_location_parent": 368418,
+        "name": "Coto Norte",
+        "seoname": "coto-norte-31390"
+    },
+    {
+        "id_location": 368422,
+        "id_location_parent": 368418,
+        "name": "Coto Sur",
+        "seoname": "coto-sur-31391"
+    },
+    {
+        "id_location": 368423,
+        "id_location_parent": 368418,
+        "name": "Manati",
+        "seoname": "manati-31392"
+    },
+    {
+        "id_location": 368424,
+        "id_location_parent": 368418,
+        "name": "R\u00edo Arriba Poniente",
+        "seoname": "rio-arriba-poniente-31393"
+    },
+    {
+        "id_location": 368425,
+        "id_location_parent": 368418,
+        "name": "R\u00edo Arriba Saliente",
+        "seoname": "rio-arriba-saliente-31394"
+    },
+    {
+        "id_location": 368426,
+        "id_location_parent": 368418,
+        "name": "Saliente",
+        "seoname": "saliente-31395"
+    },
+    {
+        "id_location": 368427,
+        "id_location_parent": 368418,
+        "name": "Tierras Nuevas Poniente",
+        "seoname": "tierras-nuevas-poniente-31396"
+    },
+    {
+        "id_location": 368428,
+        "id_location_parent": 368418,
+        "name": "Tierras Nuevas Saliente",
+        "seoname": "tierras-nuevas-saliente-31397"
+    },
+    {
+        "id_location": 368429,
+        "id_location_parent": 1,
+        "name": "Maricao",
+        "seoname": "maricao-737036"
+    },
+    {
+        "id_location": 368430,
+        "id_location_parent": 368429,
+        "name": "Bucarabones",
+        "seoname": "bucarabones-31398"
+    },
+    {
+        "id_location": 368431,
+        "id_location_parent": 368429,
+        "name": "Indiera Alta",
+        "seoname": "indiera-alta-31399"
+    },
+    {
+        "id_location": 368432,
+        "id_location_parent": 368429,
+        "name": "Indiera Baja",
+        "seoname": "indiera-baja-31400"
+    },
+    {
+        "id_location": 368433,
+        "id_location_parent": 368429,
+        "name": "Indiera Fr\u00eda",
+        "seoname": "indiera-fria-31401"
+    },
+    {
+        "id_location": 368434,
+        "id_location_parent": 368429,
+        "name": "Maricao",
+        "seoname": "maricao-31402"
+    },
+    {
+        "id_location": 368435,
+        "id_location_parent": 368429,
+        "name": "Maricao Afuera",
+        "seoname": "maricao-afuera-31403"
+    },
+    {
+        "id_location": 368436,
+        "id_location_parent": 368429,
+        "name": "Montoso",
+        "seoname": "montoso-31404"
+    },
+    {
+        "id_location": 368437,
+        "id_location_parent": 1,
+        "name": "Maunabo",
+        "seoname": "maunabo-737044"
+    },
+    {
+        "id_location": 368438,
+        "id_location_parent": 368437,
+        "name": "Calzada",
+        "seoname": "calzada-31405"
+    },
+    {
+        "id_location": 368439,
+        "id_location_parent": 368437,
+        "name": "Emajagua",
+        "seoname": "emajagua-31406"
+    },
+    {
+        "id_location": 368440,
+        "id_location_parent": 368437,
+        "name": "Lizas",
+        "seoname": "lizas-31407"
+    },
+    {
+        "id_location": 368441,
+        "id_location_parent": 368437,
+        "name": "Manuabo",
+        "seoname": "manuabo-31408"
+    },
+    {
+        "id_location": 368442,
+        "id_location_parent": 368437,
+        "name": "Matuyas Alto",
+        "seoname": "matuyas-alto-31409"
+    },
+    {
+        "id_location": 368443,
+        "id_location_parent": 368437,
+        "name": "Matuyas bajo",
+        "seoname": "matuyas-bajo-31410"
+    },
+    {
+        "id_location": 368444,
+        "id_location_parent": 368437,
+        "name": "Palo Seco",
+        "seoname": "palo-seco-31411"
+    },
+    {
+        "id_location": 368445,
+        "id_location_parent": 368437,
+        "name": "Quebrada Arenas",
+        "seoname": "quebrada-arenas-31412"
+    },
+    {
+        "id_location": 368446,
+        "id_location_parent": 368437,
+        "name": "Talante",
+        "seoname": "talante-31413"
+    },
+    {
+        "id_location": 368447,
+        "id_location_parent": 1,
+        "name": "Mayaguez",
+        "seoname": "mayaguez-737054"
+    },
+    {
+        "id_location": 368448,
+        "id_location_parent": 368447,
+        "name": "Algarrobo",
+        "seoname": "algarrobo-31414"
+    },
+    {
+        "id_location": 368449,
+        "id_location_parent": 368447,
+        "name": "Arriba",
+        "seoname": "arriba-31415"
+    },
+    {
+        "id_location": 368450,
+        "id_location_parent": 368447,
+        "name": "Bateyes",
+        "seoname": "bateyes-31416"
+    },
+    {
+        "id_location": 368451,
+        "id_location_parent": 368447,
+        "name": "Guanajibo",
+        "seoname": "guanajibo-31417"
+    },
+    {
+        "id_location": 368452,
+        "id_location_parent": 368447,
+        "name": "Juan Alonso",
+        "seoname": "juan-alonso-31418"
+    },
+    {
+        "id_location": 368453,
+        "id_location_parent": 368447,
+        "name": "Legu\u00edsamo",
+        "seoname": "leguisamo-31419"
+    },
+    {
+        "id_location": 368454,
+        "id_location_parent": 368447,
+        "name": "Lim\u00f3n",
+        "seoname": "limon-31420"
+    },
+    {
+        "id_location": 368455,
+        "id_location_parent": 368447,
+        "name": "Malezas",
+        "seoname": "malezas-31421"
+    },
+    {
+        "id_location": 368456,
+        "id_location_parent": 368447,
+        "name": "Mayaguez",
+        "seoname": "mayaguez-31422"
+    },
+    {
+        "id_location": 368457,
+        "id_location_parent": 368447,
+        "name": "Miradero",
+        "seoname": "miradero-31423"
+    },
+    {
+        "id_location": 368458,
+        "id_location_parent": 368447,
+        "name": "Montoso",
+        "seoname": "montoso-31424"
+    },
+    {
+        "id_location": 368459,
+        "id_location_parent": 368447,
+        "name": "Naranjales",
+        "seoname": "naranjales-31425"
+    },
+    {
+        "id_location": 368460,
+        "id_location_parent": 368447,
+        "name": "Quebrada Grande",
+        "seoname": "quebrada-grande-31426"
+    },
+    {
+        "id_location": 368461,
+        "id_location_parent": 368447,
+        "name": "Quemado",
+        "seoname": "quemado-31427"
+    },
+    {
+        "id_location": 368462,
+        "id_location_parent": 368447,
+        "name": "Rio Ca\u00f1as Abajo",
+        "seoname": "rio-canas-abajo-31428"
+    },
+    {
+        "id_location": 368463,
+        "id_location_parent": 368447,
+        "name": "Rio Ca\u00f1as Arriba",
+        "seoname": "rio-canas-arriba-31429"
+    },
+    {
+        "id_location": 368464,
+        "id_location_parent": 368447,
+        "name": "Rio Hondo",
+        "seoname": "rio-hondo-31430"
+    },
+    {
+        "id_location": 368465,
+        "id_location_parent": 368447,
+        "name": "Rosario",
+        "seoname": "rosario-31431"
+    },
+    {
+        "id_location": 368466,
+        "id_location_parent": 368447,
+        "name": "S\u00e1balos",
+        "seoname": "sabalos-31432"
+    },
+    {
+        "id_location": 368467,
+        "id_location_parent": 368447,
+        "name": "Sabanetas",
+        "seoname": "sabanetas-31433"
+    },
+    {
+        "id_location": 368468,
+        "id_location_parent": 1,
+        "name": "Moca",
+        "seoname": "moca-737075"
+    },
+    {
+        "id_location": 368469,
+        "id_location_parent": 368468,
+        "name": "Aceitunas",
+        "seoname": "aceitunas-31434"
+    },
+    {
+        "id_location": 368470,
+        "id_location_parent": 368468,
+        "name": "Cap\u00e1",
+        "seoname": "capa-31435"
+    },
+    {
+        "id_location": 368471,
+        "id_location_parent": 368468,
+        "name": "Cerro Gordo",
+        "seoname": "cerro-gordo-31436"
+    },
+    {
+        "id_location": 368472,
+        "id_location_parent": 368468,
+        "name": "Cruz",
+        "seoname": "cruz-31437"
+    },
+    {
+        "id_location": 368473,
+        "id_location_parent": 368468,
+        "name": "Cuchillas",
+        "seoname": "cuchillas-31438"
+    },
+    {
+        "id_location": 368474,
+        "id_location_parent": 368468,
+        "name": "Mar\u00edas",
+        "seoname": "marias-31439"
+    },
+    {
+        "id_location": 368475,
+        "id_location_parent": 368468,
+        "name": "Moca",
+        "seoname": "moca-31440"
+    },
+    {
+        "id_location": 368476,
+        "id_location_parent": 368468,
+        "name": "Naranjo",
+        "seoname": "naranjo-31441"
+    },
+    {
+        "id_location": 368477,
+        "id_location_parent": 368468,
+        "name": "Plata",
+        "seoname": "plata-31442"
+    },
+    {
+        "id_location": 368478,
+        "id_location_parent": 368468,
+        "name": "Pueblo Rocha",
+        "seoname": "pueblo-rocha-31443"
+    },
+    {
+        "id_location": 368479,
+        "id_location_parent": 368468,
+        "name": "Voladoras",
+        "seoname": "voladoras-31444"
+    },
+    {
+        "id_location": 368480,
+        "id_location_parent": 1,
+        "name": "Morovis",
+        "seoname": "morovis-737087"
+    },
+    {
+        "id_location": 368481,
+        "id_location_parent": 368480,
+        "name": "Barahona",
+        "seoname": "barahona-31445"
+    },
+    {
+        "id_location": 368482,
+        "id_location_parent": 368480,
+        "name": "Cuchillas",
+        "seoname": "cuchillas-31446"
+    },
+    {
+        "id_location": 368483,
+        "id_location_parent": 368480,
+        "name": "Franquez",
+        "seoname": "franquez-31447"
+    },
+    {
+        "id_location": 368484,
+        "id_location_parent": 368480,
+        "name": "Monte Llano",
+        "seoname": "monte-llano-31448"
+    },
+    {
+        "id_location": 368485,
+        "id_location_parent": 368480,
+        "name": "Morovis Norte",
+        "seoname": "morovis-norte-31449"
+    },
+    {
+        "id_location": 368486,
+        "id_location_parent": 368480,
+        "name": "Morovis Sur",
+        "seoname": "morovis-sur-31450"
+    },
+    {
+        "id_location": 368487,
+        "id_location_parent": 368480,
+        "name": "Pasto",
+        "seoname": "pasto-31451"
+    },
+    {
+        "id_location": 368488,
+        "id_location_parent": 368480,
+        "name": "Perchas",
+        "seoname": "perchas-31452"
+    },
+    {
+        "id_location": 368489,
+        "id_location_parent": 368480,
+        "name": "Rio Grande",
+        "seoname": "rio-grande-31453"
+    },
+    {
+        "id_location": 368490,
+        "id_location_parent": 368480,
+        "name": "San Lorenzo",
+        "seoname": "san-lorenzo-31454"
+    },
+    {
+        "id_location": 368491,
+        "id_location_parent": 368480,
+        "name": "Torrecillas",
+        "seoname": "torrecillas-31455"
+    },
+    {
+        "id_location": 368492,
+        "id_location_parent": 368480,
+        "name": "Unib\u00f3n",
+        "seoname": "unibon-31456"
+    },
+    {
+        "id_location": 368493,
+        "id_location_parent": 368480,
+        "name": "Vaga",
+        "seoname": "vaga-31457"
+    },
+    {
+        "id_location": 368494,
+        "id_location_parent": 1,
+        "name": "Naguabo",
+        "seoname": "naguabo-737101"
+    },
+    {
+        "id_location": 368495,
+        "id_location_parent": 368494,
+        "name": "Daguabo",
+        "seoname": "daguabo-31458"
+    },
+    {
+        "id_location": 368496,
+        "id_location_parent": 368494,
+        "name": "Duque",
+        "seoname": "duque-31459"
+    },
+    {
+        "id_location": 368497,
+        "id_location_parent": 368494,
+        "name": "H\u00facares",
+        "seoname": "hucares-31460"
+    },
+    {
+        "id_location": 368498,
+        "id_location_parent": 368494,
+        "name": "Lima",
+        "seoname": "lima-31461"
+    },
+    {
+        "id_location": 368499,
+        "id_location_parent": 368494,
+        "name": "Maizales",
+        "seoname": "maizales-31462"
+    },
+    {
+        "id_location": 368500,
+        "id_location_parent": 368494,
+        "name": "Mariana",
+        "seoname": "mariana-31463"
+    },
+    {
+        "id_location": 368501,
+        "id_location_parent": 368494,
+        "name": "Naguabo",
+        "seoname": "naguabo-31464"
+    },
+    {
+        "id_location": 368502,
+        "id_location_parent": 368494,
+        "name": "Pe\u00f1a Pobre",
+        "seoname": "pena-pobre-31465"
+    },
+    {
+        "id_location": 368503,
+        "id_location_parent": 368494,
+        "name": "Pueblo R\u00edo",
+        "seoname": "pueblo-rio-31466"
+    },
+    {
+        "id_location": 368504,
+        "id_location_parent": 368494,
+        "name": "R\u00edo",
+        "seoname": "rio-31467"
+    },
+    {
+        "id_location": 368505,
+        "id_location_parent": 368494,
+        "name": "R\u00edo Blanco",
+        "seoname": "rio-blanco-31468"
+    },
+    {
+        "id_location": 368506,
+        "id_location_parent": 368494,
+        "name": "Santiago",
+        "seoname": "santiago-31469"
+    },
+    {
+        "id_location": 368507,
+        "id_location_parent": 1,
+        "name": "Naranjito",
+        "seoname": "naranjito-737114"
+    },
+    {
+        "id_location": 368508,
+        "id_location_parent": 368507,
+        "name": "Achiotes",
+        "seoname": "achiotes-31470"
+    },
+    {
+        "id_location": 368509,
+        "id_location_parent": 368507,
+        "name": "Anones",
+        "seoname": "anones-31471"
+    },
+    {
+        "id_location": 368510,
+        "id_location_parent": 368507,
+        "name": "Cedro Abajo",
+        "seoname": "cedro-abajo-31472"
+    },
+    {
+        "id_location": 368511,
+        "id_location_parent": 368507,
+        "name": "Cedro Arriba",
+        "seoname": "cedro-arriba-31473"
+    },
+    {
+        "id_location": 368512,
+        "id_location_parent": 368507,
+        "name": "Guadiana",
+        "seoname": "guadiana-31474"
+    },
+    {
+        "id_location": 368513,
+        "id_location_parent": 368507,
+        "name": "Lomas",
+        "seoname": "lomas-31475"
+    },
+    {
+        "id_location": 368514,
+        "id_location_parent": 368507,
+        "name": "Naranjito",
+        "seoname": "naranjito-31476"
+    },
+    {
+        "id_location": 368515,
+        "id_location_parent": 368507,
+        "name": "Nuevo",
+        "seoname": "nuevo-31477"
+    },
+    {
+        "id_location": 368516,
+        "id_location_parent": 1,
+        "name": "Orocovis",
+        "seoname": "orocovis-737123"
+    },
+    {
+        "id_location": 368517,
+        "id_location_parent": 368516,
+        "name": "Ala de Piedra",
+        "seoname": "ala-de-piedra-31478"
+    },
+    {
+        "id_location": 368518,
+        "id_location_parent": 368516,
+        "name": "Barros",
+        "seoname": "barros-31479"
+    },
+    {
+        "id_location": 368519,
+        "id_location_parent": 368516,
+        "name": "Bauta Abajo",
+        "seoname": "bauta-abajo-31480"
+    },
+    {
+        "id_location": 368520,
+        "id_location_parent": 368516,
+        "name": "Bauta Arriba",
+        "seoname": "bauta-arriba-31481"
+    },
+    {
+        "id_location": 368521,
+        "id_location_parent": 368516,
+        "name": "Bermejales",
+        "seoname": "bermejales-31482"
+    },
+    {
+        "id_location": 368522,
+        "id_location_parent": 368516,
+        "name": "Botijas",
+        "seoname": "botijas-31483"
+    },
+    {
+        "id_location": 368523,
+        "id_location_parent": 368516,
+        "name": "Cacaos",
+        "seoname": "cacaos-31484"
+    },
+    {
+        "id_location": 368524,
+        "id_location_parent": 368516,
+        "name": "Collores",
+        "seoname": "collores-31485"
+    },
+    {
+        "id_location": 368525,
+        "id_location_parent": 368516,
+        "name": "Damian Arriba",
+        "seoname": "damian-arriba-31486"
+    },
+    {
+        "id_location": 368526,
+        "id_location_parent": 368516,
+        "name": "Gato",
+        "seoname": "gato-31487"
+    },
+    {
+        "id_location": 368527,
+        "id_location_parent": 368516,
+        "name": "Mata de Ca\u00f1a",
+        "seoname": "mata-de-cana-31488"
+    },
+    {
+        "id_location": 368528,
+        "id_location_parent": 368516,
+        "name": "Orocovis",
+        "seoname": "orocovis-31489"
+    },
+    {
+        "id_location": 368529,
+        "id_location_parent": 368516,
+        "name": "Pellejas",
+        "seoname": "pellejas-31490"
+    },
+    {
+        "id_location": 368530,
+        "id_location_parent": 368516,
+        "name": "Sabana",
+        "seoname": "sabana-31491"
+    },
+    {
+        "id_location": 368531,
+        "id_location_parent": 368516,
+        "name": "Saltos",
+        "seoname": "saltos-31492"
+    },
+    {
+        "id_location": 368532,
+        "id_location_parent": 1,
+        "name": "Patillas",
+        "seoname": "patillas-737139"
+    },
+    {
+        "id_location": 368533,
+        "id_location_parent": 368532,
+        "name": "Apeadero",
+        "seoname": "apeadero-31493"
+    },
+    {
+        "id_location": 368534,
+        "id_location_parent": 368532,
+        "name": "Bajo",
+        "seoname": "bajo-31494"
+    },
+    {
+        "id_location": 368535,
+        "id_location_parent": 368532,
+        "name": "Cacao bajo",
+        "seoname": "cacao-bajo-31495"
+    },
+    {
+        "id_location": 368536,
+        "id_location_parent": 368532,
+        "name": "Caco Alto",
+        "seoname": "caco-alto-31496"
+    },
+    {
+        "id_location": 368537,
+        "id_location_parent": 368532,
+        "name": "Egozcue",
+        "seoname": "egozcue-31497"
+    },
+    {
+        "id_location": 368538,
+        "id_location_parent": 368532,
+        "name": "Guardarraya",
+        "seoname": "guardarraya-31498"
+    },
+    {
+        "id_location": 368539,
+        "id_location_parent": 368532,
+        "name": "Jacaboa",
+        "seoname": "jacaboa-31499"
+    },
+    {
+        "id_location": 368540,
+        "id_location_parent": 368532,
+        "name": "Jagual",
+        "seoname": "jagual-31500"
+    },
+    {
+        "id_location": 368541,
+        "id_location_parent": 368532,
+        "name": "Mamey",
+        "seoname": "mamey-31501"
+    },
+    {
+        "id_location": 368542,
+        "id_location_parent": 368532,
+        "name": "Mar\u00edn",
+        "seoname": "marin-31502"
+    },
+    {
+        "id_location": 368543,
+        "id_location_parent": 368532,
+        "name": "Mulas",
+        "seoname": "mulas-31503"
+    },
+    {
+        "id_location": 368544,
+        "id_location_parent": 368532,
+        "name": "Mu\u00f1oz Rivera",
+        "seoname": "munoz-rivera-31504"
+    },
+    {
+        "id_location": 368545,
+        "id_location_parent": 368532,
+        "name": "Patillas",
+        "seoname": "patillas-31505"
+    },
+    {
+        "id_location": 368546,
+        "id_location_parent": 368532,
+        "name": "Pollos",
+        "seoname": "pollos-31506"
+    },
+    {
+        "id_location": 368547,
+        "id_location_parent": 368532,
+        "name": "Quebrada Arriba",
+        "seoname": "quebrada-arriba-31507"
+    },
+    {
+        "id_location": 368548,
+        "id_location_parent": 368532,
+        "name": "Rios",
+        "seoname": "rios-31508"
+    },
+    {
+        "id_location": 368549,
+        "id_location_parent": 1,
+        "name": "Pe\u00f1uelas",
+        "seoname": "penuelas-737156"
+    },
+    {
+        "id_location": 368550,
+        "id_location_parent": 368549,
+        "name": "Barreal",
+        "seoname": "barreal-31509"
+    },
+    {
+        "id_location": 368551,
+        "id_location_parent": 368549,
+        "name": "Coto",
+        "seoname": "coto-31510"
+    },
+    {
+        "id_location": 368552,
+        "id_location_parent": 368549,
+        "name": "Cuevas",
+        "seoname": "cuevas-31511"
+    },
+    {
+        "id_location": 368553,
+        "id_location_parent": 368549,
+        "name": "Encarnaci\u00f3n",
+        "seoname": "encarnacion-31512"
+    },
+    {
+        "id_location": 368554,
+        "id_location_parent": 368549,
+        "name": "Jaguas",
+        "seoname": "jaguas-31513"
+    },
+    {
+        "id_location": 368555,
+        "id_location_parent": 368549,
+        "name": "Macan\u00e1",
+        "seoname": "macana-31514"
+    },
+    {
+        "id_location": 368556,
+        "id_location_parent": 368549,
+        "name": "Pe\u00f1uelas",
+        "seoname": "penuelas-31515"
+    },
+    {
+        "id_location": 368557,
+        "id_location_parent": 368549,
+        "name": "Quebrada",
+        "seoname": "quebrada-31516"
+    },
+    {
+        "id_location": 368558,
+        "id_location_parent": 368549,
+        "name": "Ceiba",
+        "seoname": "ceiba-31517"
+    },
+    {
+        "id_location": 368559,
+        "id_location_parent": 368549,
+        "name": "Rucio",
+        "seoname": "rucio-31518"
+    },
+    {
+        "id_location": 368560,
+        "id_location_parent": 368549,
+        "name": "Santo Domingo",
+        "seoname": "santo-domingo-31519"
+    },
+    {
+        "id_location": 368561,
+        "id_location_parent": 368549,
+        "name": "Tallaboa Alta",
+        "seoname": "tallaboa-alta-31520"
+    },
+    {
+        "id_location": 368562,
+        "id_location_parent": 368549,
+        "name": "Tallaboa Poniente",
+        "seoname": "tallaboa-poniente-31521"
+    },
+    {
+        "id_location": 368563,
+        "id_location_parent": 368549,
+        "name": "Tallaboa Saliente",
+        "seoname": "tallaboa-saliente-31522"
+    },
+    {
+        "id_location": 368564,
+        "id_location_parent": 1,
+        "name": "Ponce",
+        "seoname": "ponce-737171"
+    },
+    {
+        "id_location": 368565,
+        "id_location_parent": 368564,
+        "name": "Alhambra",
+        "seoname": "alhambra-31523"
+    },
+    {
+        "id_location": 368566,
+        "id_location_parent": 368564,
+        "name": "An\u00f3n",
+        "seoname": "anon-31524"
+    },
+    {
+        "id_location": 368567,
+        "id_location_parent": 368564,
+        "name": "Barriada Ferran",
+        "seoname": "barriada-ferran-31525"
+    },
+    {
+        "id_location": 368568,
+        "id_location_parent": 368564,
+        "name": "Belgica",
+        "seoname": "belgica-31526"
+    },
+    {
+        "id_location": 368569,
+        "id_location_parent": 368564,
+        "name": "Bucana",
+        "seoname": "bucana-31527"
+    },
+    {
+        "id_location": 368570,
+        "id_location_parent": 368564,
+        "name": "Caja de Muertos",
+        "seoname": "caja-de-muertos-31528"
+    },
+    {
+        "id_location": 368571,
+        "id_location_parent": 368564,
+        "name": "Canas",
+        "seoname": "canas-31529"
+    },
+    {
+        "id_location": 368572,
+        "id_location_parent": 368564,
+        "name": "Capitanejo",
+        "seoname": "capitanejo-31530"
+    },
+    {
+        "id_location": 368573,
+        "id_location_parent": 368564,
+        "name": "Carrillos",
+        "seoname": "carrillos-31531"
+    },
+    {
+        "id_location": 368574,
+        "id_location_parent": 368564,
+        "name": "Clausells",
+        "seoname": "clausells-31532"
+    },
+    {
+        "id_location": 368575,
+        "id_location_parent": 368564,
+        "name": "Constancia",
+        "seoname": "constancia-31533"
+    },
+    {
+        "id_location": 368576,
+        "id_location_parent": 368564,
+        "name": "Coto Laurel",
+        "seoname": "coto-laurel-31534"
+    },
+    {
+        "id_location": 368577,
+        "id_location_parent": 368564,
+        "name": "El Vigia",
+        "seoname": "el-vigia-31535"
+    },
+    {
+        "id_location": 368578,
+        "id_location_parent": 368564,
+        "name": "Guaraguau",
+        "seoname": "guaraguau-31536"
+    },
+    {
+        "id_location": 368579,
+        "id_location_parent": 368564,
+        "name": "Jardines Fagot",
+        "seoname": "jardines-fagot-31537"
+    },
+    {
+        "id_location": 368580,
+        "id_location_parent": 368564,
+        "name": "La Rambla",
+        "seoname": "la-rambla-31538"
+    },
+    {
+        "id_location": 368581,
+        "id_location_parent": 368564,
+        "name": "Las Americas",
+        "seoname": "las-americas-31539"
+    },
+    {
+        "id_location": 368582,
+        "id_location_parent": 368564,
+        "name": "Los Caobos",
+        "seoname": "los-caobos-31540"
+    },
+    {
+        "id_location": 368583,
+        "id_location_parent": 368564,
+        "name": "Machuelo",
+        "seoname": "machuelo-31541"
+    },
+    {
+        "id_location": 368584,
+        "id_location_parent": 368564,
+        "name": "Magueyes",
+        "seoname": "magueyes-31542"
+    },
+    {
+        "id_location": 368585,
+        "id_location_parent": 368564,
+        "name": "Maraguez",
+        "seoname": "maraguez-31543"
+    },
+    {
+        "id_location": 368586,
+        "id_location_parent": 368564,
+        "name": "Mariani",
+        "seoname": "mariani-31544"
+    },
+    {
+        "id_location": 368587,
+        "id_location_parent": 368564,
+        "name": "Marue\u00f1o",
+        "seoname": "marueno-31545"
+    },
+    {
+        "id_location": 368588,
+        "id_location_parent": 368564,
+        "name": "Mona",
+        "seoname": "mona-31546"
+    },
+    {
+        "id_location": 368589,
+        "id_location_parent": 368564,
+        "name": "Monte Llano",
+        "seoname": "monte-llano-31547"
+    },
+    {
+        "id_location": 368590,
+        "id_location_parent": 368564,
+        "name": "Morell Campos",
+        "seoname": "morell-campos-31548"
+    },
+    {
+        "id_location": 368591,
+        "id_location_parent": 368564,
+        "name": "Ponce",
+        "seoname": "ponce-31549"
+    },
+    {
+        "id_location": 368592,
+        "id_location_parent": 368564,
+        "name": "Portugues",
+        "seoname": "portugues-31550"
+    },
+    {
+        "id_location": 368593,
+        "id_location_parent": 368564,
+        "name": "Quebrada Limon",
+        "seoname": "quebrada-limon-31551"
+    },
+    {
+        "id_location": 368594,
+        "id_location_parent": 368564,
+        "name": "Real",
+        "seoname": "real-31552"
+    },
+    {
+        "id_location": 368595,
+        "id_location_parent": 368564,
+        "name": "Sabanetas",
+        "seoname": "sabanetas-31553"
+    },
+    {
+        "id_location": 368596,
+        "id_location_parent": 368564,
+        "name": "San Anton",
+        "seoname": "san-anton-31554"
+    },
+    {
+        "id_location": 368597,
+        "id_location_parent": 368564,
+        "name": "San Patricio",
+        "seoname": "san-patricio-31555"
+    },
+    {
+        "id_location": 368598,
+        "id_location_parent": 368564,
+        "name": "Tibes",
+        "seoname": "tibes-31556"
+    },
+    {
+        "id_location": 368599,
+        "id_location_parent": 368564,
+        "name": "Vayas",
+        "seoname": "vayas-31557"
+    },
+    {
+        "id_location": 368600,
+        "id_location_parent": 1,
+        "name": "Quebradillas",
+        "seoname": "quebradillas-737207"
+    },
+    {
+        "id_location": 368601,
+        "id_location_parent": 368600,
+        "name": "Cacao",
+        "seoname": "cacao-31558"
+    },
+    {
+        "id_location": 368602,
+        "id_location_parent": 368600,
+        "name": "Charcas",
+        "seoname": "charcas-31559"
+    },
+    {
+        "id_location": 368603,
+        "id_location_parent": 368600,
+        "name": "Cocos",
+        "seoname": "cocos-31560"
+    },
+    {
+        "id_location": 368604,
+        "id_location_parent": 368600,
+        "name": "Guajataca",
+        "seoname": "guajataca-31561"
+    },
+    {
+        "id_location": 368605,
+        "id_location_parent": 368600,
+        "name": "Quebradillas",
+        "seoname": "quebradillas-31562"
+    },
+    {
+        "id_location": 368606,
+        "id_location_parent": 368600,
+        "name": "San Antonio",
+        "seoname": "san-antonio-31563"
+    },
+    {
+        "id_location": 368607,
+        "id_location_parent": 368600,
+        "name": "San Jose",
+        "seoname": "san-jose-31564"
+    },
+    {
+        "id_location": 368608,
+        "id_location_parent": 368600,
+        "name": "Terranova",
+        "seoname": "terranova-31565"
+    },
+    {
+        "id_location": 368609,
+        "id_location_parent": 1,
+        "name": "Rinc\u00f3n",
+        "seoname": "rincon-737216"
+    },
+    {
+        "id_location": 368610,
+        "id_location_parent": 368609,
+        "name": "Atalaya",
+        "seoname": "atalaya-31566"
+    },
+    {
+        "id_location": 368611,
+        "id_location_parent": 368609,
+        "name": "Barrero",
+        "seoname": "barrero-31567"
+    },
+    {
+        "id_location": 368612,
+        "id_location_parent": 368609,
+        "name": "Calvache",
+        "seoname": "calvache-31568"
+    },
+    {
+        "id_location": 368613,
+        "id_location_parent": 368609,
+        "name": "Cruses",
+        "seoname": "cruses-31569"
+    },
+    {
+        "id_location": 368614,
+        "id_location_parent": 368609,
+        "name": "Desecheo",
+        "seoname": "desecheo-31570"
+    },
+    {
+        "id_location": 368615,
+        "id_location_parent": 368609,
+        "name": "Ensenada",
+        "seoname": "ensenada-31571"
+    },
+    {
+        "id_location": 368616,
+        "id_location_parent": 368609,
+        "name": "Jaguey",
+        "seoname": "jaguey-31572"
+    },
+    {
+        "id_location": 368617,
+        "id_location_parent": 368609,
+        "name": "Pueblo",
+        "seoname": "pueblo-31573"
+    },
+    {
+        "id_location": 368618,
+        "id_location_parent": 368609,
+        "name": "Puntas",
+        "seoname": "puntas-31574"
+    },
+    {
+        "id_location": 368619,
+        "id_location_parent": 368609,
+        "name": "Rincon",
+        "seoname": "rincon-31575"
+    },
+    {
+        "id_location": 368620,
+        "id_location_parent": 368609,
+        "name": "Rio Grande",
+        "seoname": "rio-grande-31576"
+    },
+    {
+        "id_location": 368621,
+        "id_location_parent": 1,
+        "name": "Rio Grande",
+        "seoname": "rio-grande-737228"
+    },
+    {
+        "id_location": 368622,
+        "id_location_parent": 368621,
+        "name": "Cienaga Alta",
+        "seoname": "cienaga-alta-31577"
+    },
+    {
+        "id_location": 368623,
+        "id_location_parent": 368621,
+        "name": "Cienaga Baja",
+        "seoname": "cienaga-baja-31578"
+    },
+    {
+        "id_location": 368624,
+        "id_location_parent": 368621,
+        "name": "Guzm\u00e1n Abajo",
+        "seoname": "guzman-abajo-31579"
+    },
+    {
+        "id_location": 368625,
+        "id_location_parent": 368621,
+        "name": "Guzm\u00e1n Arriba",
+        "seoname": "guzman-arriba-31580"
+    },
+    {
+        "id_location": 368626,
+        "id_location_parent": 368621,
+        "name": "Herreras",
+        "seoname": "herreras-31581"
+    },
+    {
+        "id_location": 368627,
+        "id_location_parent": 368621,
+        "name": "Jim\u00e9nez",
+        "seoname": "jimenez-31582"
+    },
+    {
+        "id_location": 368628,
+        "id_location_parent": 368621,
+        "name": "Mameyes ii",
+        "seoname": "mameyes-ii-31583"
+    },
+    {
+        "id_location": 368629,
+        "id_location_parent": 368621,
+        "name": "Rio Grande",
+        "seoname": "rio-grande-31584"
+    },
+    {
+        "id_location": 368630,
+        "id_location_parent": 368621,
+        "name": "Zarzal",
+        "seoname": "zarzal-31585"
+    },
+    {
+        "id_location": 368631,
+        "id_location_parent": 1,
+        "name": "Sabana Grande",
+        "seoname": "sabana-grande-737238"
+    },
+    {
+        "id_location": 368632,
+        "id_location_parent": 368631,
+        "name": "La Torre",
+        "seoname": "la-torre-31586"
+    },
+    {
+        "id_location": 368633,
+        "id_location_parent": 368631,
+        "name": "Machuchal",
+        "seoname": "machuchal-31587"
+    },
+    {
+        "id_location": 368634,
+        "id_location_parent": 368631,
+        "name": "Rayo",
+        "seoname": "rayo-31588"
+    },
+    {
+        "id_location": 368635,
+        "id_location_parent": 368631,
+        "name": "Rinc\u00f3n",
+        "seoname": "rincon-31589"
+    },
+    {
+        "id_location": 368636,
+        "id_location_parent": 368631,
+        "name": "Sabana Grande",
+        "seoname": "sabana-grande-31590"
+    },
+    {
+        "id_location": 368637,
+        "id_location_parent": 368631,
+        "name": "Santana",
+        "seoname": "santana-31591"
+    },
+    {
+        "id_location": 368638,
+        "id_location_parent": 368631,
+        "name": "Sus\u00faa",
+        "seoname": "susua-31592"
+    },
+    {
+        "id_location": 368639,
+        "id_location_parent": 368631,
+        "name": "Tabonuco",
+        "seoname": "tabonuco-31593"
+    },
+    {
+        "id_location": 368640,
+        "id_location_parent": 1,
+        "name": "Salinas",
+        "seoname": "salinas-737247"
+    },
+    {
+        "id_location": 368641,
+        "id_location_parent": 368640,
+        "name": "Aguirre",
+        "seoname": "aguirre-31594"
+    },
+    {
+        "id_location": 368642,
+        "id_location_parent": 368640,
+        "name": "Coqu\u00ed",
+        "seoname": "coqui-31595"
+    },
+    {
+        "id_location": 368643,
+        "id_location_parent": 368640,
+        "name": "Lapa",
+        "seoname": "lapa-31596"
+    },
+    {
+        "id_location": 368644,
+        "id_location_parent": 368640,
+        "name": "Palmas",
+        "seoname": "palmas-31597"
+    },
+    {
+        "id_location": 368645,
+        "id_location_parent": 368640,
+        "name": "Quebrada",
+        "seoname": "quebrada-31598"
+    },
+    {
+        "id_location": 368646,
+        "id_location_parent": 368640,
+        "name": "Rio Jueyes",
+        "seoname": "rio-jueyes-31599"
+    },
+    {
+        "id_location": 368647,
+        "id_location_parent": 368640,
+        "name": "Salinas",
+        "seoname": "salinas-31600"
+    },
+    {
+        "id_location": 368648,
+        "id_location_parent": 368640,
+        "name": "San Felipe",
+        "seoname": "san-felipe-31601"
+    },
+    {
+        "id_location": 368649,
+        "id_location_parent": 1,
+        "name": "San German",
+        "seoname": "san-german-737256"
+    },
+    {
+        "id_location": 368650,
+        "id_location_parent": 368649,
+        "name": "Ancones",
+        "seoname": "ancones-31602"
+    },
+    {
+        "id_location": 368651,
+        "id_location_parent": 368649,
+        "name": "Ca\u00edn Alto",
+        "seoname": "cain-alto-31603"
+    },
+    {
+        "id_location": 368652,
+        "id_location_parent": 368649,
+        "name": "Ca\u00edn bajo",
+        "seoname": "cain-bajo-31604"
+    },
+    {
+        "id_location": 368653,
+        "id_location_parent": 368649,
+        "name": "Cotui",
+        "seoname": "cotui-31605"
+    },
+    {
+        "id_location": 368654,
+        "id_location_parent": 368649,
+        "name": "Deuy bajo",
+        "seoname": "deuy-bajo-31606"
+    },
+    {
+        "id_location": 368655,
+        "id_location_parent": 368649,
+        "name": "Duey Alto",
+        "seoname": "duey-alto-31607"
+    },
+    {
+        "id_location": 368656,
+        "id_location_parent": 368649,
+        "name": "Guam\u00e1",
+        "seoname": "guama-31608"
+    },
+    {
+        "id_location": 368657,
+        "id_location_parent": 368649,
+        "name": "Hoconuco Alto",
+        "seoname": "hoconuco-alto-31609"
+    },
+    {
+        "id_location": 368658,
+        "id_location_parent": 368649,
+        "name": "Hoconuco bajo",
+        "seoname": "hoconuco-bajo-31610"
+    },
+    {
+        "id_location": 368659,
+        "id_location_parent": 368649,
+        "name": "Mares\u00faa",
+        "seoname": "maresua-31611"
+    },
+    {
+        "id_location": 368660,
+        "id_location_parent": 368649,
+        "name": "Minillas",
+        "seoname": "minillas-31612"
+    },
+    {
+        "id_location": 368661,
+        "id_location_parent": 368649,
+        "name": "Retiro",
+        "seoname": "retiro-31613"
+    },
+    {
+        "id_location": 368662,
+        "id_location_parent": 368649,
+        "name": "Rosario Alto",
+        "seoname": "rosario-alto-31614"
+    },
+    {
+        "id_location": 368663,
+        "id_location_parent": 368649,
+        "name": "Rosario bajo",
+        "seoname": "rosario-bajo-31615"
+    },
+    {
+        "id_location": 368664,
+        "id_location_parent": 368649,
+        "name": "Rosario Pe\u00f1on",
+        "seoname": "rosario-penon-31616"
+    },
+    {
+        "id_location": 368665,
+        "id_location_parent": 368649,
+        "name": "Sabana Eneas",
+        "seoname": "sabana-eneas-31617"
+    },
+    {
+        "id_location": 368666,
+        "id_location_parent": 368649,
+        "name": "Sabana Grande Abajo",
+        "seoname": "sabana-grande-abajo-31618"
+    },
+    {
+        "id_location": 368667,
+        "id_location_parent": 368649,
+        "name": "San Germ\u00e1n",
+        "seoname": "san-german-31619"
+    },
+    {
+        "id_location": 368668,
+        "id_location_parent": 1,
+        "name": "San Juan",
+        "seoname": "san-juan-737275"
+    },
+    {
+        "id_location": 368669,
+        "id_location_parent": 368668,
+        "name": "Barrio Obrero y Villa Palmeras",
+        "seoname": "barrio-obrero-y-villa-palmeras-31620"
+    },
+    {
+        "id_location": 368670,
+        "id_location_parent": 368668,
+        "name": "Buen Consejo",
+        "seoname": "buen-consejo-31621"
+    },
+    {
+        "id_location": 368671,
+        "id_location_parent": 368668,
+        "name": "Caimito",
+        "seoname": "caimito-31622"
+    },
+    {
+        "id_location": 368672,
+        "id_location_parent": 368668,
+        "name": "Cupey",
+        "seoname": "cupey-31623"
+    },
+    {
+        "id_location": 368673,
+        "id_location_parent": 368668,
+        "name": "El Viejo San Juan",
+        "seoname": "el-viejo-san-juan-31624"
+    },
+    {
+        "id_location": 368674,
+        "id_location_parent": 368668,
+        "name": "Hato Rey",
+        "seoname": "hato-rey-31625"
+    },
+    {
+        "id_location": 368675,
+        "id_location_parent": 368668,
+        "name": "Las Monjas",
+        "seoname": "las-monjas-31626"
+    },
+    {
+        "id_location": 368676,
+        "id_location_parent": 368668,
+        "name": "Monacillos",
+        "seoname": "monacillos-31627"
+    },
+    {
+        "id_location": 368677,
+        "id_location_parent": 368668,
+        "name": "Puerta de Tierra",
+        "seoname": "puerta-de-tierra-31628"
+    },
+    {
+        "id_location": 368678,
+        "id_location_parent": 368668,
+        "name": "Puerto Nuevo",
+        "seoname": "puerto-nuevo-31629"
+    },
+    {
+        "id_location": 368679,
+        "id_location_parent": 368668,
+        "name": "Quebrada Arenas",
+        "seoname": "quebrada-arenas-31630"
+    },
+    {
+        "id_location": 368680,
+        "id_location_parent": 368668,
+        "name": "Rio Piedras",
+        "seoname": "rio-piedras-31631"
+    },
+    {
+        "id_location": 368681,
+        "id_location_parent": 368668,
+        "name": "Sabana Llana",
+        "seoname": "sabana-llana-31632"
+    },
+    {
+        "id_location": 368682,
+        "id_location_parent": 368668,
+        "name": "San Juan",
+        "seoname": "san-juan-31633"
+    },
+    {
+        "id_location": 368683,
+        "id_location_parent": 368668,
+        "name": "Santurce",
+        "seoname": "santurce-31634"
+    },
+    {
+        "id_location": 368684,
+        "id_location_parent": 368668,
+        "name": "Tortugo",
+        "seoname": "tortugo-31635"
+    },
+    {
+        "id_location": 368685,
+        "id_location_parent": 1,
+        "name": "San Lorenzo",
+        "seoname": "san-lorenzo-737292"
+    },
+    {
+        "id_location": 368686,
+        "id_location_parent": 368685,
+        "name": "Cayagu\u00e1s",
+        "seoname": "cayaguas-31636"
+    },
+    {
+        "id_location": 368687,
+        "id_location_parent": 368685,
+        "name": "Cerro Gordo",
+        "seoname": "cerro-gordo-31637"
+    },
+    {
+        "id_location": 368688,
+        "id_location_parent": 368685,
+        "name": "Espino",
+        "seoname": "espino-31638"
+    },
+    {
+        "id_location": 368689,
+        "id_location_parent": 368685,
+        "name": "Florida",
+        "seoname": "florida-31639"
+    },
+    {
+        "id_location": 368690,
+        "id_location_parent": 368685,
+        "name": "Hato",
+        "seoname": "hato-31640"
+    },
+    {
+        "id_location": 368691,
+        "id_location_parent": 368685,
+        "name": "Jagual",
+        "seoname": "jagual-31641"
+    },
+    {
+        "id_location": 368692,
+        "id_location_parent": 368685,
+        "name": "Quebrada",
+        "seoname": "quebrada-31642"
+    },
+    {
+        "id_location": 368693,
+        "id_location_parent": 368685,
+        "name": "Quebrada Arenas",
+        "seoname": "quebrada-arenas-31643"
+    },
+    {
+        "id_location": 368694,
+        "id_location_parent": 368685,
+        "name": "Quebrada Honda",
+        "seoname": "quebrada-honda-31644"
+    },
+    {
+        "id_location": 368695,
+        "id_location_parent": 368685,
+        "name": "Quemados",
+        "seoname": "quemados-31645"
+    },
+    {
+        "id_location": 368696,
+        "id_location_parent": 368685,
+        "name": "San Lorenzo",
+        "seoname": "san-lorenzo-31646"
+    },
+    {
+        "id_location": 368697,
+        "id_location_parent": 1,
+        "name": "San Sebastian",
+        "seoname": "san-sebastian-737304"
+    },
+    {
+        "id_location": 368698,
+        "id_location_parent": 368697,
+        "name": "Aibonito",
+        "seoname": "aibonito-31647"
+    },
+    {
+        "id_location": 368699,
+        "id_location_parent": 368697,
+        "name": "Guerrero",
+        "seoname": "guerrero-31648"
+    },
+    {
+        "id_location": 368700,
+        "id_location_parent": 368697,
+        "name": "Altozano",
+        "seoname": "altozano-31649"
+    },
+    {
+        "id_location": 368701,
+        "id_location_parent": 368697,
+        "name": "Bahomamey",
+        "seoname": "bahomamey-31650"
+    },
+    {
+        "id_location": 368702,
+        "id_location_parent": 368697,
+        "name": "Calabazas",
+        "seoname": "calabazas-31651"
+    },
+    {
+        "id_location": 368703,
+        "id_location_parent": 368697,
+        "name": "Cibao",
+        "seoname": "cibao-31652"
+    },
+    {
+        "id_location": 368704,
+        "id_location_parent": 368697,
+        "name": "Cidral",
+        "seoname": "cidral-31653"
+    },
+    {
+        "id_location": 368705,
+        "id_location_parent": 368697,
+        "name": "Culebrinas",
+        "seoname": "culebrinas-31654"
+    },
+    {
+        "id_location": 368706,
+        "id_location_parent": 368697,
+        "name": "Eneas",
+        "seoname": "eneas-31655"
+    },
+    {
+        "id_location": 368707,
+        "id_location_parent": 368697,
+        "name": "Guacio",
+        "seoname": "guacio-31656"
+    },
+    {
+        "id_location": 368708,
+        "id_location_parent": 368697,
+        "name": "Guajataca",
+        "seoname": "guajataca-31657"
+    },
+    {
+        "id_location": 368709,
+        "id_location_parent": 368697,
+        "name": "Guatemala",
+        "seoname": "guatemala-31658"
+    },
+    {
+        "id_location": 368710,
+        "id_location_parent": 368697,
+        "name": "Hato Arriba",
+        "seoname": "hato-arriba-31659"
+    },
+    {
+        "id_location": 368711,
+        "id_location_parent": 368697,
+        "name": "Hoyamala",
+        "seoname": "hoyamala-31660"
+    },
+    {
+        "id_location": 368712,
+        "id_location_parent": 368697,
+        "name": "Juncal",
+        "seoname": "juncal-31661"
+    },
+    {
+        "id_location": 368713,
+        "id_location_parent": 368697,
+        "name": "Magos",
+        "seoname": "magos-31662"
+    },
+    {
+        "id_location": 368714,
+        "id_location_parent": 368697,
+        "name": "Mirabales",
+        "seoname": "mirabales-31663"
+    },
+    {
+        "id_location": 368715,
+        "id_location_parent": 368697,
+        "name": "Perchas",
+        "seoname": "perchas-31664"
+    },
+    {
+        "id_location": 368716,
+        "id_location_parent": 368697,
+        "name": "Piedras Blancas",
+        "seoname": "piedras-blancas-31665"
+    },
+    {
+        "id_location": 368717,
+        "id_location_parent": 368697,
+        "name": "Pozas",
+        "seoname": "pozas-31666"
+    },
+    {
+        "id_location": 368718,
+        "id_location_parent": 368697,
+        "name": "Robles",
+        "seoname": "robles-31667"
+    },
+    {
+        "id_location": 368719,
+        "id_location_parent": 368697,
+        "name": "Salto",
+        "seoname": "salto-31668"
+    },
+    {
+        "id_location": 368720,
+        "id_location_parent": 368697,
+        "name": "San Sebastian",
+        "seoname": "san-sebastian-31669"
+    },
+    {
+        "id_location": 368721,
+        "id_location_parent": 368697,
+        "name": "San Sebasti\u00e1n de las Vegas del Pepino",
+        "seoname": "san-sebastian-de-las-vegas-del-pepino-31670"
+    },
+    {
+        "id_location": 368722,
+        "id_location_parent": 368697,
+        "name": "Sonador",
+        "seoname": "sonador-31671"
+    },
+    {
+        "id_location": 368723,
+        "id_location_parent": 1,
+        "name": "Santa Isabel",
+        "seoname": "santa-isabel-737330"
+    },
+    {
+        "id_location": 368724,
+        "id_location_parent": 368723,
+        "name": "Boca Velazquez",
+        "seoname": "boca-velazquez-31672"
+    },
+    {
+        "id_location": 368725,
+        "id_location_parent": 368723,
+        "name": "Descalabrado",
+        "seoname": "descalabrado-31673"
+    },
+    {
+        "id_location": 368726,
+        "id_location_parent": 368723,
+        "name": "Felicia",
+        "seoname": "felicia-31674"
+    },
+    {
+        "id_location": 368727,
+        "id_location_parent": 368723,
+        "name": "Jauca",
+        "seoname": "jauca-31675"
+    },
+    {
+        "id_location": 368728,
+        "id_location_parent": 368723,
+        "name": "Playa",
+        "seoname": "playa-31676"
+    },
+    {
+        "id_location": 368729,
+        "id_location_parent": 368723,
+        "name": "Santa Isabel",
+        "seoname": "santa-isabel-31677"
+    },
+    {
+        "id_location": 368730,
+        "id_location_parent": 1,
+        "name": "Toa Alta",
+        "seoname": "toa-alta-737337"
+    },
+    {
+        "id_location": 368731,
+        "id_location_parent": 368730,
+        "name": "Contorno",
+        "seoname": "contorno-31678"
+    },
+    {
+        "id_location": 368732,
+        "id_location_parent": 368730,
+        "name": "Galateo",
+        "seoname": "galateo-31679"
+    },
+    {
+        "id_location": 368733,
+        "id_location_parent": 368730,
+        "name": "Mucarabones",
+        "seoname": "mucarabones-31680"
+    },
+    {
+        "id_location": 368734,
+        "id_location_parent": 368730,
+        "name": "Ortiz",
+        "seoname": "ortiz-31681"
+    },
+    {
+        "id_location": 368735,
+        "id_location_parent": 368730,
+        "name": "Pi\u00f1as",
+        "seoname": "pinas-31682"
+    },
+    {
+        "id_location": 368736,
+        "id_location_parent": 368730,
+        "name": "Quebrada Arenas",
+        "seoname": "quebrada-arenas-31683"
+    },
+    {
+        "id_location": 368737,
+        "id_location_parent": 368730,
+        "name": "Quebrada Cruz",
+        "seoname": "quebrada-cruz-31684"
+    },
+    {
+        "id_location": 368738,
+        "id_location_parent": 368730,
+        "name": "Rio Lajas",
+        "seoname": "rio-lajas-31685"
+    },
+    {
+        "id_location": 368739,
+        "id_location_parent": 368730,
+        "name": "Toa Alta",
+        "seoname": "toa-alta-31686"
+    },
+    {
+        "id_location": 368740,
+        "id_location_parent": 1,
+        "name": "Toa Baja",
+        "seoname": "toa-baja-737347"
+    },
+    {
+        "id_location": 368741,
+        "id_location_parent": 368740,
+        "name": "Candelaria",
+        "seoname": "candelaria-31687"
+    },
+    {
+        "id_location": 368742,
+        "id_location_parent": 368740,
+        "name": "Lewittown",
+        "seoname": "lewittown-31688"
+    },
+    {
+        "id_location": 368743,
+        "id_location_parent": 368740,
+        "name": "Media Luna",
+        "seoname": "media-luna-31689"
+    },
+    {
+        "id_location": 368744,
+        "id_location_parent": 368740,
+        "name": "Palo Seco",
+        "seoname": "palo-seco-31690"
+    },
+    {
+        "id_location": 368745,
+        "id_location_parent": 368740,
+        "name": "Sabana Seca",
+        "seoname": "sabana-seca-31691"
+    },
+    {
+        "id_location": 368746,
+        "id_location_parent": 368740,
+        "name": "Toa Baja",
+        "seoname": "toa-baja-31692"
+    },
+    {
+        "id_location": 368747,
+        "id_location_parent": 1,
+        "name": "Trujillo Alto",
+        "seoname": "trujillo-alto-737354"
+    },
+    {
+        "id_location": 368748,
+        "id_location_parent": 368747,
+        "name": "Carraizo",
+        "seoname": "carraizo-31693"
+    },
+    {
+        "id_location": 368749,
+        "id_location_parent": 368747,
+        "name": "Cuevas",
+        "seoname": "cuevas-31694"
+    },
+    {
+        "id_location": 368750,
+        "id_location_parent": 368747,
+        "name": "Dos Bocas",
+        "seoname": "dos-bocas-31695"
+    },
+    {
+        "id_location": 368751,
+        "id_location_parent": 368747,
+        "name": "La Gloria",
+        "seoname": "la-gloria-31696"
+    },
+    {
+        "id_location": 368752,
+        "id_location_parent": 368747,
+        "name": "Quebrada Grande",
+        "seoname": "quebrada-grande-31697"
+    },
+    {
+        "id_location": 368753,
+        "id_location_parent": 368747,
+        "name": "Quebrada Negrito",
+        "seoname": "quebrada-negrito-31698"
+    },
+    {
+        "id_location": 368754,
+        "id_location_parent": 368747,
+        "name": "Trujillo Alto",
+        "seoname": "trujillo-alto-31699"
+    },
+    {
+        "id_location": 368755,
+        "id_location_parent": 1,
+        "name": "Utuado",
+        "seoname": "utuado-737362"
+    },
+    {
+        "id_location": 368756,
+        "id_location_parent": 368755,
+        "name": "Angeles",
+        "seoname": "angeles-31700"
+    },
+    {
+        "id_location": 368757,
+        "id_location_parent": 368755,
+        "name": "Arena",
+        "seoname": "arena-31701"
+    },
+    {
+        "id_location": 368758,
+        "id_location_parent": 368755,
+        "name": "Caguana",
+        "seoname": "caguana-31702"
+    },
+    {
+        "id_location": 368759,
+        "id_location_parent": 368755,
+        "name": "Caniaco",
+        "seoname": "caniaco-31703"
+    },
+    {
+        "id_location": 368760,
+        "id_location_parent": 368755,
+        "name": "Caonillas Abajo",
+        "seoname": "caonillas-abajo-31704"
+    },
+    {
+        "id_location": 368761,
+        "id_location_parent": 368755,
+        "name": "Caonillas Arriba",
+        "seoname": "caonillas-arriba-31705"
+    },
+    {
+        "id_location": 368762,
+        "id_location_parent": 368755,
+        "name": "Consejo",
+        "seoname": "consejo-31706"
+    },
+    {
+        "id_location": 368763,
+        "id_location_parent": 368755,
+        "name": "Don Alonso",
+        "seoname": "don-alonso-31707"
+    },
+    {
+        "id_location": 368764,
+        "id_location_parent": 368755,
+        "name": "Guaonico",
+        "seoname": "guaonico-31708"
+    },
+    {
+        "id_location": 368765,
+        "id_location_parent": 368755,
+        "name": "Las Palmas",
+        "seoname": "las-palmas-31709"
+    },
+    {
+        "id_location": 368766,
+        "id_location_parent": 368755,
+        "name": "Mameyes Abajo",
+        "seoname": "mameyes-abajo-31710"
+    },
+    {
+        "id_location": 368767,
+        "id_location_parent": 368755,
+        "name": "Paso Palmas",
+        "seoname": "paso-palmas-31711"
+    },
+    {
+        "id_location": 368768,
+        "id_location_parent": 368755,
+        "name": "Rio Abajo",
+        "seoname": "rio-abajo-31712"
+    },
+    {
+        "id_location": 368769,
+        "id_location_parent": 368755,
+        "name": "Roncador",
+        "seoname": "roncador-31713"
+    },
+    {
+        "id_location": 368770,
+        "id_location_parent": 368755,
+        "name": "Sabana Grande",
+        "seoname": "sabana-grande-31714"
+    },
+    {
+        "id_location": 368771,
+        "id_location_parent": 368755,
+        "name": "Salto Alto",
+        "seoname": "salto-alto-31715"
+    },
+    {
+        "id_location": 368772,
+        "id_location_parent": 368755,
+        "name": "Salto Arriba",
+        "seoname": "salto-arriba-31716"
+    },
+    {
+        "id_location": 368773,
+        "id_location_parent": 368755,
+        "name": "Santa Isabel",
+        "seoname": "santa-isabel-31717"
+    },
+    {
+        "id_location": 368774,
+        "id_location_parent": 368755,
+        "name": "Santa Rosa",
+        "seoname": "santa-rosa-31718"
+    },
+    {
+        "id_location": 368775,
+        "id_location_parent": 368755,
+        "name": "Utuado",
+        "seoname": "utuado-31719"
+    },
+    {
+        "id_location": 368776,
+        "id_location_parent": 368755,
+        "name": "Viv\u00ed Abajo",
+        "seoname": "vivi-abajo-31720"
+    },
+    {
+        "id_location": 368777,
+        "id_location_parent": 368755,
+        "name": "Viv\u00ed Arriba",
+        "seoname": "vivi-arriba-31721"
+    },
+    {
+        "id_location": 368778,
+        "id_location_parent": 1,
+        "name": "Vega Alta",
+        "seoname": "vega-alta-737385"
+    },
+    {
+        "id_location": 368779,
+        "id_location_parent": 368778,
+        "name": "Bajura",
+        "seoname": "bajura-31722"
+    },
+    {
+        "id_location": 368780,
+        "id_location_parent": 368778,
+        "name": "Candelaria",
+        "seoname": "candelaria-31723"
+    },
+    {
+        "id_location": 368781,
+        "id_location_parent": 368778,
+        "name": "Cienagueta",
+        "seoname": "cienagueta-31724"
+    },
+    {
+        "id_location": 368782,
+        "id_location_parent": 368778,
+        "name": "Espinosa",
+        "seoname": "espinosa-31725"
+    },
+    {
+        "id_location": 368783,
+        "id_location_parent": 368778,
+        "name": "Maricao",
+        "seoname": "maricao-31726"
+    },
+    {
+        "id_location": 368784,
+        "id_location_parent": 368778,
+        "name": "Mavilla",
+        "seoname": "mavilla-31727"
+    },
+    {
+        "id_location": 368785,
+        "id_location_parent": 368778,
+        "name": "Sbana",
+        "seoname": "sbana-31728"
+    },
+    {
+        "id_location": 368786,
+        "id_location_parent": 368778,
+        "name": "Vega Alta",
+        "seoname": "vega-alta-31729"
+    },
+    {
+        "id_location": 368787,
+        "id_location_parent": 1,
+        "name": "Vega Baja",
+        "seoname": "vega-baja-737394"
+    },
+    {
+        "id_location": 368788,
+        "id_location_parent": 368787,
+        "name": "Algarrobo",
+        "seoname": "algarrobo-31730"
+    },
+    {
+        "id_location": 368789,
+        "id_location_parent": 368787,
+        "name": "Almirante Norte",
+        "seoname": "almirante-norte-31731"
+    },
+    {
+        "id_location": 368790,
+        "id_location_parent": 368787,
+        "name": "Almirante Sur",
+        "seoname": "almirante-sur-31732"
+    },
+    {
+        "id_location": 368791,
+        "id_location_parent": 368787,
+        "name": "Cabo Caribe",
+        "seoname": "cabo-caribe-31733"
+    },
+    {
+        "id_location": 368792,
+        "id_location_parent": 368787,
+        "name": "Caiba",
+        "seoname": "caiba-31734"
+    },
+    {
+        "id_location": 368793,
+        "id_location_parent": 368787,
+        "name": "Cibuco",
+        "seoname": "cibuco-31735"
+    },
+    {
+        "id_location": 368794,
+        "id_location_parent": 368787,
+        "name": "Puerto Nuevo",
+        "seoname": "puerto-nuevo-31736"
+    },
+    {
+        "id_location": 368795,
+        "id_location_parent": 368787,
+        "name": "Pugnado Adentro",
+        "seoname": "pugnado-adentro-31737"
+    },
+    {
+        "id_location": 368796,
+        "id_location_parent": 368787,
+        "name": "Pugnado Afuera",
+        "seoname": "pugnado-afuera-31738"
+    },
+    {
+        "id_location": 368797,
+        "id_location_parent": 368787,
+        "name": "Quebrada Arenas",
+        "seoname": "quebrada-arenas-31739"
+    },
+    {
+        "id_location": 368798,
+        "id_location_parent": 368787,
+        "name": "Rio Abajo",
+        "seoname": "rio-abajo-31740"
+    },
+    {
+        "id_location": 368799,
+        "id_location_parent": 368787,
+        "name": "Rio Arriba",
+        "seoname": "rio-arriba-31741"
+    },
+    {
+        "id_location": 368800,
+        "id_location_parent": 368787,
+        "name": "Vega Baja",
+        "seoname": "vega-baja-31742"
+    },
+    {
+        "id_location": 368801,
+        "id_location_parent": 368787,
+        "name": "Yeguada",
+        "seoname": "yeguada-31743"
+    },
+    {
+        "id_location": 368802,
+        "id_location_parent": 1,
+        "name": "Vieques",
+        "seoname": "vieques-737409"
+    },
+    {
+        "id_location": 368803,
+        "id_location_parent": 368802,
+        "name": "Isabel Segunda",
+        "seoname": "isabel-segunda-31744"
+    },
+    {
+        "id_location": 368804,
+        "id_location_parent": 368802,
+        "name": "Llave",
+        "seoname": "llave-31745"
+    },
+    {
+        "id_location": 368805,
+        "id_location_parent": 368802,
+        "name": "Mosquito",
+        "seoname": "mosquito-31746"
+    },
+    {
+        "id_location": 368806,
+        "id_location_parent": 368802,
+        "name": "Puerto Diablo",
+        "seoname": "puerto-diablo-31747"
+    },
+    {
+        "id_location": 368807,
+        "id_location_parent": 368802,
+        "name": "Puerto Ferro",
+        "seoname": "puerto-ferro-31748"
+    },
+    {
+        "id_location": 368808,
+        "id_location_parent": 368802,
+        "name": "Puerto Real",
+        "seoname": "puerto-real-31749"
+    },
+    {
+        "id_location": 368809,
+        "id_location_parent": 368802,
+        "name": "Punta Mulas",
+        "seoname": "punta-mulas-31750"
+    },
+    {
+        "id_location": 368810,
+        "id_location_parent": 368802,
+        "name": "Punto Arenas",
+        "seoname": "punto-arenas-31751"
+    },
+    {
+        "id_location": 368811,
+        "id_location_parent": 368802,
+        "name": "Vieques",
+        "seoname": "vieques-31752"
+    },
+    {
+        "id_location": 368812,
+        "id_location_parent": 1,
+        "name": "Villalba",
+        "seoname": "villalba-737419"
+    },
+    {
+        "id_location": 368813,
+        "id_location_parent": 368812,
+        "name": "Caonillas Abajo",
+        "seoname": "caonillas-abajo-31753"
+    },
+    {
+        "id_location": 368814,
+        "id_location_parent": 368812,
+        "name": "Caonillas Arriba",
+        "seoname": "caonillas-arriba-31754"
+    },
+    {
+        "id_location": 368815,
+        "id_location_parent": 368812,
+        "name": "Hato Puerco Arriba",
+        "seoname": "hato-puerco-arriba-31755"
+    },
+    {
+        "id_location": 368816,
+        "id_location_parent": 368812,
+        "name": "Vacas",
+        "seoname": "vacas-31756"
+    },
+    {
+        "id_location": 368817,
+        "id_location_parent": 368812,
+        "name": "Villaba",
+        "seoname": "villaba-31757"
+    },
+    {
+        "id_location": 368818,
+        "id_location_parent": 368812,
+        "name": "Villalba Abajo",
+        "seoname": "villalba-abajo-31758"
+    },
+    {
+        "id_location": 368819,
+        "id_location_parent": 368812,
+        "name": "Villalba Arriba",
+        "seoname": "villalba-arriba-31759"
+    },
+    {
+        "id_location": 368820,
+        "id_location_parent": 1,
+        "name": "Yabucoa",
+        "seoname": "yabucoa-737427"
+    },
+    {
+        "id_location": 368821,
+        "id_location_parent": 368820,
+        "name": "Aguacate",
+        "seoname": "aguacate-31760"
+    },
+    {
+        "id_location": 368822,
+        "id_location_parent": 368820,
+        "name": "Calabaza",
+        "seoname": "calabaza-31761"
+    },
+    {
+        "id_location": 368823,
+        "id_location_parent": 368820,
+        "name": "Camino Nuevo",
+        "seoname": "camino-nuevo-31762"
+    },
+    {
+        "id_location": 368824,
+        "id_location_parent": 368820,
+        "name": "Guayabota",
+        "seoname": "guayabota-31763"
+    },
+    {
+        "id_location": 368825,
+        "id_location_parent": 368820,
+        "name": "J\u00e1cana",
+        "seoname": "jacana-31764"
+    },
+    {
+        "id_location": 368826,
+        "id_location_parent": 368820,
+        "name": "Juan Mar\u00edn",
+        "seoname": "juan-marin-31765"
+    },
+    {
+        "id_location": 368827,
+        "id_location_parent": 368820,
+        "name": "Limones",
+        "seoname": "limones-31766"
+    },
+    {
+        "id_location": 368828,
+        "id_location_parent": 368820,
+        "name": "Playa",
+        "seoname": "playa-31767"
+    },
+    {
+        "id_location": 368829,
+        "id_location_parent": 368820,
+        "name": "Tejas",
+        "seoname": "tejas-31768"
+    },
+    {
+        "id_location": 368830,
+        "id_location_parent": 368820,
+        "name": "Yabucoa",
+        "seoname": "yabucoa-31769"
+    },
+    {
+        "id_location": 368831,
+        "id_location_parent": 1,
+        "name": "Yauco",
+        "seoname": "yauco-737438"
+    },
+    {
+        "id_location": 368832,
+        "id_location_parent": 368831,
+        "name": "Aguas Blancas",
+        "seoname": "aguas-blancas-31770"
+    },
+    {
+        "id_location": 368833,
+        "id_location_parent": 368831,
+        "name": "Algarrobo",
+        "seoname": "algarrobo-31771"
+    },
+    {
+        "id_location": 368834,
+        "id_location_parent": 368831,
+        "name": "Alm\u00e1cigo Alto",
+        "seoname": "almacigo-alto-31772"
+    },
+    {
+        "id_location": 368835,
+        "id_location_parent": 368831,
+        "name": "Alm\u00e1cigo bajo",
+        "seoname": "almacigo-bajo-31773"
+    },
+    {
+        "id_location": 368836,
+        "id_location_parent": 368831,
+        "name": "Barina",
+        "seoname": "barina-31774"
+    },
+    {
+        "id_location": 368837,
+        "id_location_parent": 368831,
+        "name": "Caimito",
+        "seoname": "caimito-31775"
+    },
+    {
+        "id_location": 368838,
+        "id_location_parent": 368831,
+        "name": "Collores",
+        "seoname": "collores-31776"
+    },
+    {
+        "id_location": 368839,
+        "id_location_parent": 368831,
+        "name": "Diego Hernandez",
+        "seoname": "diego-hernandez-31777"
+    },
+    {
+        "id_location": 368840,
+        "id_location_parent": 368831,
+        "name": "Duey",
+        "seoname": "duey-31778"
+    },
+    {
+        "id_location": 368841,
+        "id_location_parent": 368831,
+        "name": "Frailes",
+        "seoname": "frailes-31779"
+    },
+    {
+        "id_location": 368842,
+        "id_location_parent": 368831,
+        "name": "J\u00e1cana",
+        "seoname": "jacana-31780"
+    },
+    {
+        "id_location": 368843,
+        "id_location_parent": 368831,
+        "name": "Naranjo",
+        "seoname": "naranjo-31781"
+    },
+    {
+        "id_location": 368844,
+        "id_location_parent": 368831,
+        "name": "Quebradas",
+        "seoname": "quebradas-31782"
+    },
+    {
+        "id_location": 368845,
+        "id_location_parent": 368831,
+        "name": "Ranchera",
+        "seoname": "ranchera-31783"
+    },
+    {
+        "id_location": 368846,
+        "id_location_parent": 368831,
+        "name": "Rio Prieto",
+        "seoname": "rio-prieto-31784"
+    },
+    {
+        "id_location": 368847,
+        "id_location_parent": 368831,
+        "name": "Rubias",
+        "seoname": "rubias-31785"
+    },
+    {
+        "id_location": 368848,
+        "id_location_parent": 368831,
+        "name": "Sierra Alta",
+        "seoname": "sierra-alta-31786"
+    },
+    {
+        "id_location": 368849,
+        "id_location_parent": 368831,
+        "name": "Sus\u00faa Alta",
+        "seoname": "susua-alta-31787"
+    },
+    {
+        "id_location": 368850,
+        "id_location_parent": 368831,
+        "name": "Sus\u00faa Baja",
+        "seoname": "susua-baja-31788"
+    },
+    {
+        "id_location": 368851,
+        "id_location_parent": 368831,
+        "name": "Vegas",
+        "seoname": "vegas-31789"
+    },
+    {
+        "id_location": 368852,
+        "id_location_parent": 368831,
+        "name": "Yauco",
+        "seoname": "yauco-31790"
+    }
+]

@@ -1,0 +1,2594 @@
+[
+    {
+        "id_location": 390773,
+        "id_location_parent": 1,
+        "name": "\u0410\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0440\u044b\u043c",
+        "seoname": "avtonomnaya-respublika-krym-782895"
+    },
+    {
+        "id_location": 390774,
+        "id_location_parent": 390773,
+        "name": "\u0410\u043b\u0443\u043f\u043a\u0430",
+        "seoname": "alupka-514734"
+    },
+    {
+        "id_location": 390775,
+        "id_location_parent": 390773,
+        "name": "\u0410\u043b\u0443\u0448\u0442\u0430",
+        "seoname": "alusta-514735"
+    },
+    {
+        "id_location": 390776,
+        "id_location_parent": 390773,
+        "name": "\u0410\u0440\u043c\u044f\u043d\u0441\u043a",
+        "seoname": "armyansk-514736"
+    },
+    {
+        "id_location": 390777,
+        "id_location_parent": 390773,
+        "name": "\u0411\u0430\u0445\u0447\u0438\u0441\u0430\u0440\u0430\u0439",
+        "seoname": "baxcisarai-514737"
+    },
+    {
+        "id_location": 390778,
+        "id_location_parent": 390773,
+        "name": "\u0411\u0435\u043b\u043e\u0433\u043e\u0440\u0441\u043a",
+        "seoname": "belogorsk-514738"
+    },
+    {
+        "id_location": 390779,
+        "id_location_parent": 390773,
+        "name": "\u0414\u0436\u0430\u043d\u043a\u043e\u0439",
+        "seoname": "dzankoi-514739"
+    },
+    {
+        "id_location": 390780,
+        "id_location_parent": 390773,
+        "name": "\u0415\u0432\u043f\u0430\u0442\u043e\u0440\u0438\u044f",
+        "seoname": "evpatoriya-514740"
+    },
+    {
+        "id_location": 390781,
+        "id_location_parent": 390773,
+        "name": "\u041a\u0435\u0440\u0447\u044c",
+        "seoname": "kerc-514741"
+    },
+    {
+        "id_location": 390782,
+        "id_location_parent": 390773,
+        "name": "\u041a\u0440\u0430\u0441\u043d\u043e\u043f\u0435\u0440\u0435\u043a\u043e\u043f\u0441\u043a",
+        "seoname": "krasnoperekopsk-514742"
+    },
+    {
+        "id_location": 390783,
+        "id_location_parent": 390773,
+        "name": "\u0421\u0430\u043a\u0438",
+        "seoname": "saki-514743"
+    },
+    {
+        "id_location": 390784,
+        "id_location_parent": 390773,
+        "name": "\u0421\u0435\u0432\u0430\u0441\u0442\u043e\u043f\u043e\u043b\u044c",
+        "seoname": "sevastopol-514744"
+    },
+    {
+        "id_location": 390785,
+        "id_location_parent": 390773,
+        "name": "\u0421\u0438\u043c\u0444\u0435\u0440\u043e\u043f\u043e\u043b\u044c",
+        "seoname": "simferopol-514745"
+    },
+    {
+        "id_location": 390786,
+        "id_location_parent": 390773,
+        "name": "\u0421\u0442\u0430\u0440\u044b\u0439 \u041a\u0440\u044b\u043c",
+        "seoname": "staryi-krym-514746"
+    },
+    {
+        "id_location": 390787,
+        "id_location_parent": 390773,
+        "name": "\u0421\u0443\u0434\u0430\u043a",
+        "seoname": "sudak-514747"
+    },
+    {
+        "id_location": 390788,
+        "id_location_parent": 390773,
+        "name": "\u0424\u0435\u043e\u0434\u043e\u0441\u0438\u044f",
+        "seoname": "feodosiya-514748"
+    },
+    {
+        "id_location": 390789,
+        "id_location_parent": 390773,
+        "name": "\u0429\u0451\u043b\u043a\u0438\u043d\u043e",
+        "seoname": "shhyolkino-514749"
+    },
+    {
+        "id_location": 390790,
+        "id_location_parent": 390773,
+        "name": "\u042f\u043b\u0442\u0430",
+        "seoname": "yalta-514750"
+    },
+    {
+        "id_location": 390791,
+        "id_location_parent": 1,
+        "name": "\u0412\u0438\u043d\u043d\u0438\u0446\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+        "seoname": "vinnickaya-oblast-782896"
+    },
+    {
+        "id_location": 390792,
+        "id_location_parent": 390791,
+        "name": "\u0411\u0430\u0440",
+        "seoname": "bar-514751"
+    },
+    {
+        "id_location": 390793,
+        "id_location_parent": 390791,
+        "name": "\u0411\u0435\u0440\u0448\u0430\u0434\u044c",
+        "seoname": "bersad-514752"
+    },
+    {
+        "id_location": 390794,
+        "id_location_parent": 390791,
+        "name": "\u0412\u0438\u043d\u043d\u0438\u0446\u0430",
+        "seoname": "vinnica-514753"
+    },
+    {
+        "id_location": 390795,
+        "id_location_parent": 390791,
+        "name": "\u0413\u0430\u0439\u0441\u0438\u043d",
+        "seoname": "gaisin-514754"
+    },
+    {
+        "id_location": 390796,
+        "id_location_parent": 390791,
+        "name": "\u0416\u043c\u0435\u0440\u0438\u043d\u043a\u0430",
+        "seoname": "zmerinka-514755"
+    },
+    {
+        "id_location": 390797,
+        "id_location_parent": 390791,
+        "name": "\u041a\u0430\u0437\u0430\u0442\u0438\u043d",
+        "seoname": "kazatin-514756"
+    },
+    {
+        "id_location": 390798,
+        "id_location_parent": 390791,
+        "name": "\u041a\u0430\u043b\u0438\u043d\u043e\u0432\u043a\u0430",
+        "seoname": "kalinovka-514757"
+    },
+    {
+        "id_location": 390799,
+        "id_location_parent": 390791,
+        "name": "\u041b\u0430\u0434\u044b\u0436\u0438\u043d",
+        "seoname": "ladyzin-514758"
+    },
+    {
+        "id_location": 390800,
+        "id_location_parent": 390791,
+        "name": "\u041c\u043e\u0433\u0438\u043b\u0451\u0432-\u041f\u043e\u0434\u043e\u043b\u044c\u0441\u043a\u0438\u0439",
+        "seoname": "mogilyov-podolskii-514759"
+    },
+    {
+        "id_location": 390801,
+        "id_location_parent": 390791,
+        "name": "\u041d\u0435\u043c\u0438\u0440\u043e\u0432",
+        "seoname": "nemirov-514760"
+    },
+    {
+        "id_location": 390802,
+        "id_location_parent": 390791,
+        "name": "\u041f\u043e\u0433\u0440\u0435\u0431\u0438\u0449\u0435",
+        "seoname": "pogrebishhe-514761"
+    },
+    {
+        "id_location": 390803,
+        "id_location_parent": 390791,
+        "name": "\u0422\u0443\u043b\u044c\u0447\u0438\u043d",
+        "seoname": "tulcin-514762"
+    },
+    {
+        "id_location": 390804,
+        "id_location_parent": 390791,
+        "name": "\u0425\u043c\u0435\u043b\u044c\u043d\u0438\u043a",
+        "seoname": "xmelnik-514763"
+    },
+    {
+        "id_location": 390805,
+        "id_location_parent": 390791,
+        "name": "\u0428\u0430\u0440\u0433\u043e\u0440\u043e\u0434",
+        "seoname": "sargorod-514764"
+    },
+    {
+        "id_location": 390806,
+        "id_location_parent": 390791,
+        "name": "\u042f\u043c\u043f\u043e\u043b\u044c",
+        "seoname": "yampol-514765"
+    },
+    {
+        "id_location": 390807,
+        "id_location_parent": 1,
+        "name": "\u0412\u043e\u043b\u044b\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+        "seoname": "volynskaya-oblast-782897"
+    },
+    {
+        "id_location": 390808,
+        "id_location_parent": 390807,
+        "name": "\u0411\u0435\u0440\u0435\u0441\u0442\u0435\u0447\u043a\u043e",
+        "seoname": "berestecko-514766"
+    },
+    {
+        "id_location": 390809,
+        "id_location_parent": 390807,
+        "name": "\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440-\u0412\u043e\u043b\u044b\u043d\u0441\u043a\u0438\u0439",
+        "seoname": "vladimir-volynskii-514767"
+    },
+    {
+        "id_location": 390810,
+        "id_location_parent": 390807,
+        "name": "\u0413\u043e\u0440\u043e\u0445\u043e\u0432",
+        "seoname": "goroxov-514768"
+    },
+    {
+        "id_location": 390811,
+        "id_location_parent": 390807,
+        "name": "\u041a\u0430\u043c\u0435\u043d\u044c-\u041a\u0430\u0448\u0438\u0440\u0441\u043a\u0438\u0439",
+        "seoname": "kamen-kasirskii-514769"
+    },
+    {
+        "id_location": 390812,
+        "id_location_parent": 390807,
+        "name": "\u041a\u0438\u0432\u0435\u0440\u0446\u044b",
+        "seoname": "kivercy-514770"
+    },
+    {
+        "id_location": 390813,
+        "id_location_parent": 390807,
+        "name": "\u041a\u043e\u0432\u0435\u043b\u044c",
+        "seoname": "kovel-514771"
+    },
+    {
+        "id_location": 390814,
+        "id_location_parent": 390807,
+        "name": "\u041b\u0443\u0446\u043a",
+        "seoname": "luck-514772"
+    },
+    {
+        "id_location": 390815,
+        "id_location_parent": 390807,
+        "name": "\u041b\u044e\u0431\u043e\u043c\u043b\u044c",
+        "seoname": "lyuboml-514773"
+    },
+    {
+        "id_location": 390816,
+        "id_location_parent": 390807,
+        "name": "\u041d\u043e\u0432\u043e\u0432\u043e\u043b\u044b\u043d\u0441\u043a",
+        "seoname": "novovolynsk-514774"
+    },
+    {
+        "id_location": 390817,
+        "id_location_parent": 390807,
+        "name": "\u0420\u043e\u0436\u0438\u0449\u0435",
+        "seoname": "rozishhe-514775"
+    },
+    {
+        "id_location": 390818,
+        "id_location_parent": 390807,
+        "name": "\u0423\u0441\u0442\u0438\u043b\u0443\u0433",
+        "seoname": "ustilug-514776"
+    },
+    {
+        "id_location": 390819,
+        "id_location_parent": 1,
+        "name": "\u0414\u043d\u0435\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+        "seoname": "dnepropetrovskaya-oblast-782898"
+    },
+    {
+        "id_location": 390820,
+        "id_location_parent": 390819,
+        "name": "\u0410\u043f\u043e\u0441\u0442\u043e\u043b\u043e\u0432\u043e",
+        "seoname": "apostolovo-514777"
+    },
+    {
+        "id_location": 390821,
+        "id_location_parent": 390819,
+        "name": "\u0412\u0435\u0440\u0445\u043d\u0435\u0434\u043d\u0435\u043f\u0440\u043e\u0432\u0441\u043a",
+        "seoname": "verxnedneprovsk-514778"
+    },
+    {
+        "id_location": 390822,
+        "id_location_parent": 390819,
+        "name": "\u0412\u043e\u043b\u044c\u043d\u043e\u0433\u043e\u0440\u0441\u043a",
+        "seoname": "volnogorsk-514779"
+    },
+    {
+        "id_location": 390823,
+        "id_location_parent": 390819,
+        "name": "\u0414\u043d\u0435\u043f\u0440\u043e\u0434\u0437\u0435\u0440\u0436\u0438\u043d\u0441\u043a",
+        "seoname": "dneprodzerzinsk-514780"
+    },
+    {
+        "id_location": 390824,
+        "id_location_parent": 390819,
+        "name": "\u0414\u043d\u0435\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u043a",
+        "seoname": "dnepropetrovsk-514781"
+    },
+    {
+        "id_location": 390825,
+        "id_location_parent": 390819,
+        "name": "\u0416\u0451\u043b\u0442\u044b\u0435 \u0412\u043e\u0434\u044b",
+        "seoname": "zyoltye-vody-514782"
+    },
+    {
+        "id_location": 390826,
+        "id_location_parent": 390819,
+        "name": "\u041a\u0440\u0438\u0432\u043e\u0439 \u0420\u043e\u0433",
+        "seoname": "krivoi-rog-514783"
+    },
+    {
+        "id_location": 390827,
+        "id_location_parent": 390819,
+        "name": "\u041c\u0430\u0440\u0433\u0430\u043d\u0435\u0446",
+        "seoname": "marganec-514784"
+    },
+    {
+        "id_location": 390828,
+        "id_location_parent": 390819,
+        "name": "\u041d\u0438\u043a\u043e\u043f\u043e\u043b\u044c",
+        "seoname": "nikopol-514785"
+    },
+    {
+        "id_location": 390829,
+        "id_location_parent": 390819,
+        "name": "\u041d\u043e\u0432\u043e\u043c\u043e\u0441\u043a\u043e\u0432\u0441\u043a",
+        "seoname": "novomoskovsk-514786"
+    },
+    {
+        "id_location": 390830,
+        "id_location_parent": 390819,
+        "name": "\u041e\u0440\u0434\u0436\u043e\u043d\u0438\u043a\u0438\u0434\u0437\u0435",
+        "seoname": "ordzonikidze-514787"
+    },
+    {
+        "id_location": 390831,
+        "id_location_parent": 390819,
+        "name": "\u041f\u0430\u0432\u043b\u043e\u0433\u0440\u0430\u0434",
+        "seoname": "pavlograd-514788"
+    },
+    {
+        "id_location": 390832,
+        "id_location_parent": 390819,
+        "name": "\u041f\u0435\u0440\u0435\u0449\u0435\u043f\u0438\u043d\u043e",
+        "seoname": "pereshhepino-514789"
+    },
+    {
+        "id_location": 390833,
+        "id_location_parent": 390819,
+        "name": "\u041f\u0435\u0440\u0448\u043e\u0442\u0440\u0430\u0432\u0435\u043d\u0441\u043a",
+        "seoname": "persotravensk-514790"
+    },
+    {
+        "id_location": 390834,
+        "id_location_parent": 390819,
+        "name": "\u041f\u043e\u0434\u0433\u043e\u0440\u043e\u0434\u043d\u043e\u0435",
+        "seoname": "podgorodnoe-514791"
+    },
+    {
+        "id_location": 390835,
+        "id_location_parent": 390819,
+        "name": "\u041f\u044f\u0442\u0438\u0445\u0430\u0442\u043a\u0438",
+        "seoname": "pyatixatki-514792"
+    },
+    {
+        "id_location": 390836,
+        "id_location_parent": 390819,
+        "name": "\u0421\u0438\u043d\u0435\u043b\u044c\u043d\u0438\u043a\u043e\u0432\u043e",
+        "seoname": "sinelnikovo-514793"
+    },
+    {
+        "id_location": 390837,
+        "id_location_parent": 390819,
+        "name": "\u0422\u0435\u0440\u043d\u043e\u0432\u043a\u0430",
+        "seoname": "ternovka-514794"
+    },
+    {
+        "id_location": 390838,
+        "id_location_parent": 1,
+        "name": "\u0414\u043e\u043d\u0435\u0446\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+        "seoname": "doneckaya-oblast-782899"
+    },
+    {
+        "id_location": 390839,
+        "id_location_parent": 390838,
+        "name": "\u0410\u0432\u0434\u0435\u0435\u0432\u043a\u0430",
+        "seoname": "avdeevka-514795"
+    },
+    {
+        "id_location": 390840,
+        "id_location_parent": 390838,
+        "name": "\u0410\u0440\u0442\u0451\u043c\u043e\u0432\u0441\u043a",
+        "seoname": "artyomovsk-514796"
+    },
+    {
+        "id_location": 390841,
+        "id_location_parent": 390838,
+        "name": "\u0412\u043e\u043b\u043d\u043e\u0432\u0430\u0445\u0430",
+        "seoname": "volnovaxa-514797"
+    },
+    {
+        "id_location": 390842,
+        "id_location_parent": 390838,
+        "name": "\u0413\u043e\u0440\u043b\u043e\u0432\u043a\u0430",
+        "seoname": "gorlovka-514798"
+    },
+    {
+        "id_location": 390843,
+        "id_location_parent": 390838,
+        "name": "\u0414\u0437\u0435\u0440\u0436\u0438\u043d\u0441\u043a",
+        "seoname": "dzerzinsk-514799"
+    },
+    {
+        "id_location": 390844,
+        "id_location_parent": 390838,
+        "name": "\u0414\u0435\u0431\u0430\u043b\u044c\u0446\u0435\u0432\u043e",
+        "seoname": "debalcevo-514800"
+    },
+    {
+        "id_location": 390845,
+        "id_location_parent": 390838,
+        "name": "\u0414\u0438\u043c\u0438\u0442\u0440\u043e\u0432",
+        "seoname": "dimitrov-514801"
+    },
+    {
+        "id_location": 390846,
+        "id_location_parent": 390838,
+        "name": "\u0414\u043e\u0431\u0440\u043e\u043f\u043e\u043b\u044c\u0435",
+        "seoname": "dobropole-514802"
+    },
+    {
+        "id_location": 390847,
+        "id_location_parent": 390838,
+        "name": "\u0414\u043e\u043a\u0443\u0447\u0430\u0435\u0432\u0441\u043a",
+        "seoname": "dokucaevsk-514803"
+    },
+    {
+        "id_location": 390848,
+        "id_location_parent": 390838,
+        "name": "\u0414\u043e\u043d\u0435\u0446\u043a",
+        "seoname": "doneck-514804"
+    },
+    {
+        "id_location": 390849,
+        "id_location_parent": 390838,
+        "name": "\u0414\u0440\u0443\u0436\u043a\u043e\u0432\u043a\u0430",
+        "seoname": "druzkovka-514805"
+    },
+    {
+        "id_location": 390850,
+        "id_location_parent": 390838,
+        "name": "\u0415\u043d\u0430\u043a\u0438\u0435\u0432\u043e",
+        "seoname": "enakievo-514806"
+    },
+    {
+        "id_location": 390851,
+        "id_location_parent": 390838,
+        "name": "\u0416\u0434\u0430\u043d\u043e\u0432\u043a\u0430",
+        "seoname": "zdanovka-514807"
+    },
+    {
+        "id_location": 390852,
+        "id_location_parent": 390838,
+        "name": "\u0417\u0443\u0433\u0440\u044d\u0441",
+        "seoname": "zugres-514808"
+    },
+    {
+        "id_location": 390853,
+        "id_location_parent": 390838,
+        "name": "\u041a\u0438\u0440\u043e\u0432\u0441\u043a\u043e\u0435",
+        "seoname": "kirovskoe-514809"
+    },
+    {
+        "id_location": 390854,
+        "id_location_parent": 390838,
+        "name": "\u041a\u0440\u0430\u043c\u0430\u0442\u043e\u0440\u0441\u043a",
+        "seoname": "kramatorsk-514810"
+    },
+    {
+        "id_location": 390855,
+        "id_location_parent": 390838,
+        "name": "\u041a\u0440\u0430\u0441\u043d\u043e\u0430\u0440\u043c\u0435\u0439\u0441\u043a",
+        "seoname": "krasnoarmeisk-514811"
+    },
+    {
+        "id_location": 390856,
+        "id_location_parent": 390838,
+        "name": "\u041a\u0440\u0430\u0441\u043d\u044b\u0439 \u041b\u0438\u043c\u0430\u043d",
+        "seoname": "krasnyi-liman-514812"
+    },
+    {
+        "id_location": 390857,
+        "id_location_parent": 390838,
+        "name": "\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\u043e\u0432\u043a\u0430",
+        "seoname": "konstantinovka-514813"
+    },
+    {
+        "id_location": 390858,
+        "id_location_parent": 390838,
+        "name": "\u041c\u0430\u0440\u0438\u0443\u043f\u043e\u043b\u044c",
+        "seoname": "mariupol-514814"
+    },
+    {
+        "id_location": 390859,
+        "id_location_parent": 390838,
+        "name": "\u041c\u0430\u043a\u0435\u0435\u0432\u043a\u0430",
+        "seoname": "makeevka-514815"
+    },
+    {
+        "id_location": 390860,
+        "id_location_parent": 390838,
+        "name": "\u041d\u043e\u0432\u043e\u0433\u0440\u043e\u0434\u043e\u0432\u043a\u0430",
+        "seoname": "novogrodovka-514816"
+    },
+    {
+        "id_location": 390861,
+        "id_location_parent": 390838,
+        "name": "\u0421\u0435\u043b\u0438\u0434\u043e\u0432\u043e",
+        "seoname": "selidovo-514817"
+    },
+    {
+        "id_location": 390862,
+        "id_location_parent": 390838,
+        "name": "\u0421\u043b\u0430\u0432\u044f\u043d\u0441\u043a",
+        "seoname": "slavyansk-514818"
+    },
+    {
+        "id_location": 390863,
+        "id_location_parent": 390838,
+        "name": "\u0421\u043d\u0435\u0436\u043d\u043e\u0435",
+        "seoname": "sneznoe-514819"
+    },
+    {
+        "id_location": 390864,
+        "id_location_parent": 390838,
+        "name": "\u0421\u043e\u043b\u0435\u0434\u0430\u0440",
+        "seoname": "soledar-514820"
+    },
+    {
+        "id_location": 390865,
+        "id_location_parent": 390838,
+        "name": "\u0422\u043e\u0440\u0435\u0437",
+        "seoname": "torez-514821"
+    },
+    {
+        "id_location": 390866,
+        "id_location_parent": 390838,
+        "name": "\u0423\u0433\u043b\u0435\u0434\u0430\u0440",
+        "seoname": "ugledar-514822"
+    },
+    {
+        "id_location": 390867,
+        "id_location_parent": 390838,
+        "name": "\u0425\u0430\u0440\u0446\u044b\u0437\u0441\u043a",
+        "seoname": "xarcyzsk-514823"
+    },
+    {
+        "id_location": 390868,
+        "id_location_parent": 390838,
+        "name": "\u0428\u0430\u0445\u0442\u0451\u0440\u0441\u043a",
+        "seoname": "saxtyorsk-514824"
+    },
+    {
+        "id_location": 390869,
+        "id_location_parent": 390838,
+        "name": "\u042f\u0441\u0438\u043d\u043e\u0432\u0430\u0442\u0430\u044f",
+        "seoname": "yasinovataya-514825"
+    },
+    {
+        "id_location": 390870,
+        "id_location_parent": 1,
+        "name": "\u0416\u0438\u0442\u043e\u043c\u0438\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+        "seoname": "zitomirskaya-oblast-782900"
+    },
+    {
+        "id_location": 390871,
+        "id_location_parent": 390870,
+        "name": "\u0410\u043d\u0434\u0440\u0443\u0448\u0451\u0432\u043a\u0430",
+        "seoname": "andrusyovka-514826"
+    },
+    {
+        "id_location": 390872,
+        "id_location_parent": 390870,
+        "name": "\u0411\u0430\u0440\u0430\u043d\u043e\u0432\u043a\u0430",
+        "seoname": "baranovka-514827"
+    },
+    {
+        "id_location": 390873,
+        "id_location_parent": 390870,
+        "name": "\u0411\u0435\u0440\u0434\u0438\u0447\u0435\u0432",
+        "seoname": "berdicev-514828"
+    },
+    {
+        "id_location": 390874,
+        "id_location_parent": 390870,
+        "name": "\u0416\u0438\u0442\u043e\u043c\u0438\u0440",
+        "seoname": "zitomir-514829"
+    },
+    {
+        "id_location": 390875,
+        "id_location_parent": 390870,
+        "name": "\u041a\u043e\u0440\u043e\u0441\u0442\u0435\u043d\u044c",
+        "seoname": "korosten-514830"
+    },
+    {
+        "id_location": 390876,
+        "id_location_parent": 390870,
+        "name": "\u041a\u043e\u0440\u043e\u0441\u0442\u044b\u0448\u0435\u0432",
+        "seoname": "korostysev-514831"
+    },
+    {
+        "id_location": 390877,
+        "id_location_parent": 390870,
+        "name": "\u041c\u0430\u043b\u0438\u043d",
+        "seoname": "malin-514832"
+    },
+    {
+        "id_location": 390878,
+        "id_location_parent": 390870,
+        "name": "\u041d\u043e\u0432\u043e\u0433\u0440\u0430\u0434-\u0412\u043e\u043b\u044b\u043d\u0441\u043a\u0438\u0439",
+        "seoname": "novograd-volynskii-514833"
+    },
+    {
+        "id_location": 390879,
+        "id_location_parent": 390870,
+        "name": "\u041e\u0432\u0440\u0443\u0447",
+        "seoname": "ovruc-514834"
+    },
+    {
+        "id_location": 390880,
+        "id_location_parent": 390870,
+        "name": "\u0420\u0430\u0434\u043e\u043c\u044b\u0448\u043b\u044c",
+        "seoname": "radomysl-514835"
+    },
+    {
+        "id_location": 390881,
+        "id_location_parent": 1,
+        "name": "\u0417\u0430\u043a\u0430\u0440\u043f\u0430\u0442\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+        "seoname": "zakarpatskaya-oblast-782901"
+    },
+    {
+        "id_location": 390882,
+        "id_location_parent": 390881,
+        "name": "\u0411\u0435\u0440\u0435\u0433\u043e\u0432\u043e",
+        "seoname": "beregovo-514836"
+    },
+    {
+        "id_location": 390883,
+        "id_location_parent": 390881,
+        "name": "\u0412\u0438\u043d\u043e\u0433\u0440\u0430\u0434\u043e\u0432",
+        "seoname": "vinogradov-514837"
+    },
+    {
+        "id_location": 390884,
+        "id_location_parent": 390881,
+        "name": "\u0418\u0440\u0448\u0430\u0432\u0430",
+        "seoname": "irsava-514838"
+    },
+    {
+        "id_location": 390885,
+        "id_location_parent": 390881,
+        "name": "\u041c\u0443\u043a\u0430\u0447\u0435\u0432\u043e",
+        "seoname": "mukacevo-514839"
+    },
+    {
+        "id_location": 390886,
+        "id_location_parent": 390881,
+        "name": "\u041f\u0435\u0440\u0435\u0447\u0438\u043d",
+        "seoname": "perecin-514840"
+    },
+    {
+        "id_location": 390887,
+        "id_location_parent": 390881,
+        "name": "\u0420\u0430\u0445\u043e\u0432",
+        "seoname": "raxov-514841"
+    },
+    {
+        "id_location": 390888,
+        "id_location_parent": 390881,
+        "name": "\u0421\u0432\u0430\u043b\u044f\u0432\u0430",
+        "seoname": "svalyava-514842"
+    },
+    {
+        "id_location": 390889,
+        "id_location_parent": 390881,
+        "name": "\u0422\u044f\u0447\u0435\u0432",
+        "seoname": "tyacev-514843"
+    },
+    {
+        "id_location": 390890,
+        "id_location_parent": 390881,
+        "name": "\u0423\u0436\u0433\u043e\u0440\u043e\u0434",
+        "seoname": "uzgorod-514844"
+    },
+    {
+        "id_location": 390891,
+        "id_location_parent": 390881,
+        "name": "\u0425\u0443\u0441\u0442",
+        "seoname": "xust-514845"
+    },
+    {
+        "id_location": 390892,
+        "id_location_parent": 390881,
+        "name": "\u0427\u043e\u043f",
+        "seoname": "cop-514846"
+    },
+    {
+        "id_location": 390893,
+        "id_location_parent": 1,
+        "name": "\u0417\u0430\u043f\u043e\u0440\u043e\u0436\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+        "seoname": "zaporozskaya-oblast-782902"
+    },
+    {
+        "id_location": 390894,
+        "id_location_parent": 390893,
+        "name": "\u0411\u0435\u0440\u0434\u044f\u043d\u0441\u043a",
+        "seoname": "berdyansk-514847"
+    },
+    {
+        "id_location": 390895,
+        "id_location_parent": 390893,
+        "name": "\u0412\u0430\u0441\u0438\u043b\u044c\u0435\u0432\u043a\u0430",
+        "seoname": "vasilevka-514848"
+    },
+    {
+        "id_location": 390896,
+        "id_location_parent": 390893,
+        "name": "\u0412\u043e\u043b\u044c\u043d\u044f\u043d\u0441\u043a",
+        "seoname": "volnyansk-514849"
+    },
+    {
+        "id_location": 390897,
+        "id_location_parent": 390893,
+        "name": "\u0413\u0443\u043b\u044f\u0439\u043f\u043e\u043b\u0435",
+        "seoname": "gulyaipole-514850"
+    },
+    {
+        "id_location": 390898,
+        "id_location_parent": 390893,
+        "name": "\u0414\u043d\u0435\u043f\u0440\u043e\u0440\u0443\u0434\u043d\u043e\u0435",
+        "seoname": "dneprorudnoe-514851"
+    },
+    {
+        "id_location": 390899,
+        "id_location_parent": 390893,
+        "name": "\u0417\u0430\u043f\u043e\u0440\u043e\u0436\u044c\u0435",
+        "seoname": "zaporoze-514852"
+    },
+    {
+        "id_location": 390900,
+        "id_location_parent": 390893,
+        "name": "\u041a\u0430\u043c\u0435\u043d\u043a\u0430-\u0414\u043d\u0435\u043f\u0440\u043e\u0432\u0441\u043a\u0430\u044f",
+        "seoname": "kamenka-dneprovskaya-514853"
+    },
+    {
+        "id_location": 390901,
+        "id_location_parent": 390893,
+        "name": "\u041c\u0435\u043b\u0438\u0442\u043e\u043f\u043e\u043b\u044c",
+        "seoname": "melitopol-514854"
+    },
+    {
+        "id_location": 390902,
+        "id_location_parent": 390893,
+        "name": "\u041c\u043e\u043b\u043e\u0447\u0430\u043d\u0441\u043a",
+        "seoname": "molocansk-514855"
+    },
+    {
+        "id_location": 390903,
+        "id_location_parent": 390893,
+        "name": "\u041e\u0440\u0435\u0445\u043e\u0432",
+        "seoname": "orexov-514856"
+    },
+    {
+        "id_location": 390904,
+        "id_location_parent": 390893,
+        "name": "\u041f\u043e\u043b\u043e\u0433\u0438",
+        "seoname": "pologi-514857"
+    },
+    {
+        "id_location": 390905,
+        "id_location_parent": 390893,
+        "name": "\u041f\u0440\u0438\u043c\u043e\u0440\u0441\u043a",
+        "seoname": "primorsk-514858"
+    },
+    {
+        "id_location": 390906,
+        "id_location_parent": 390893,
+        "name": "\u0422\u043e\u043a\u043c\u0430\u043a",
+        "seoname": "tokmak-514859"
+    },
+    {
+        "id_location": 390907,
+        "id_location_parent": 390893,
+        "name": "\u042d\u043d\u0435\u0440\u0433\u043e\u0434\u0430\u0440",
+        "seoname": "energodar-514860"
+    },
+    {
+        "id_location": 390908,
+        "id_location_parent": 1,
+        "name": "\u0418\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+        "seoname": "ivano-frankovskaya-oblast-782903"
+    },
+    {
+        "id_location": 390909,
+        "id_location_parent": 390908,
+        "name": "\u0411\u043e\u043b\u0435\u0445\u043e\u0432",
+        "seoname": "bolexov-514861"
+    },
+    {
+        "id_location": 390910,
+        "id_location_parent": 390908,
+        "name": "\u0411\u0443\u0440\u0448\u0442\u044b\u043d",
+        "seoname": "burstyn-514862"
+    },
+    {
+        "id_location": 390911,
+        "id_location_parent": 390908,
+        "name": "\u0413\u0430\u043b\u0438\u0447",
+        "seoname": "galic-514863"
+    },
+    {
+        "id_location": 390912,
+        "id_location_parent": 390908,
+        "name": "\u0413\u043e\u0440\u043e\u0434\u0435\u043d\u043a\u0430",
+        "seoname": "gorodenka-514864"
+    },
+    {
+        "id_location": 390913,
+        "id_location_parent": 390908,
+        "name": "\u0414\u043e\u043b\u0438\u043d\u0430",
+        "seoname": "dolina-514865"
+    },
+    {
+        "id_location": 390914,
+        "id_location_parent": 390908,
+        "name": "\u0418\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u043e\u0432\u0441\u043a",
+        "seoname": "ivano-frankovsk-514866"
+    },
+    {
+        "id_location": 390915,
+        "id_location_parent": 390908,
+        "name": "\u041a\u0430\u043b\u0443\u0448",
+        "seoname": "kalus-514867"
+    },
+    {
+        "id_location": 390916,
+        "id_location_parent": 390908,
+        "name": "\u041a\u043e\u043b\u043e\u043c\u044b\u044f",
+        "seoname": "kolomyya-514868"
+    },
+    {
+        "id_location": 390917,
+        "id_location_parent": 390908,
+        "name": "\u041a\u043e\u0441\u043e\u0432",
+        "seoname": "kosov-514869"
+    },
+    {
+        "id_location": 390918,
+        "id_location_parent": 390908,
+        "name": "\u041d\u0430\u0434\u0432\u043e\u0440\u043d\u0430\u044f",
+        "seoname": "nadvornaya-514870"
+    },
+    {
+        "id_location": 390919,
+        "id_location_parent": 390908,
+        "name": "\u0420\u043e\u0433\u0430\u0442\u0438\u043d",
+        "seoname": "rogatin-514871"
+    },
+    {
+        "id_location": 390920,
+        "id_location_parent": 390908,
+        "name": "\u0421\u043d\u044f\u0442\u044b\u043d",
+        "seoname": "snyatyn-514872"
+    },
+    {
+        "id_location": 390921,
+        "id_location_parent": 390908,
+        "name": "\u0422\u044b\u0441\u043c\u0435\u043d\u0438\u0446\u0430",
+        "seoname": "tysmenica-514873"
+    },
+    {
+        "id_location": 390922,
+        "id_location_parent": 390908,
+        "name": "\u0422\u043b\u0443\u043c\u0430\u0447",
+        "seoname": "tlumac-514874"
+    },
+    {
+        "id_location": 390923,
+        "id_location_parent": 390908,
+        "name": "\u042f\u0440\u0435\u043c\u0447\u0435",
+        "seoname": "yaremce-514875"
+    },
+    {
+        "id_location": 390924,
+        "id_location_parent": 1,
+        "name": "\u041a\u0438\u0435\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+        "seoname": "kievskaya-oblast-782904"
+    },
+    {
+        "id_location": 390925,
+        "id_location_parent": 390924,
+        "name": "\u0411\u0435\u043b\u0430\u044f \u0426\u0435\u0440\u043a\u043e\u0432\u044c",
+        "seoname": "belaya-cerkov-514876"
+    },
+    {
+        "id_location": 390926,
+        "id_location_parent": 390924,
+        "name": "\u0411\u0435\u0440\u0435\u0437\u0430\u043d\u044c",
+        "seoname": "berezan-514877"
+    },
+    {
+        "id_location": 390927,
+        "id_location_parent": 390924,
+        "name": "\u0411\u043e\u0433\u0443\u0441\u043b\u0430\u0432",
+        "seoname": "boguslav-514878"
+    },
+    {
+        "id_location": 390928,
+        "id_location_parent": 390924,
+        "name": "\u0411\u043e\u0440\u0438\u0441\u043f\u043e\u043b\u044c",
+        "seoname": "borispol-514879"
+    },
+    {
+        "id_location": 390929,
+        "id_location_parent": 390924,
+        "name": "\u0411\u043e\u044f\u0440\u043a\u0430",
+        "seoname": "boyarka-514880"
+    },
+    {
+        "id_location": 390930,
+        "id_location_parent": 390924,
+        "name": "\u0411\u0440\u043e\u0432\u0430\u0440\u044b",
+        "seoname": "brovary-514881"
+    },
+    {
+        "id_location": 390931,
+        "id_location_parent": 390924,
+        "name": "\u0411\u0443\u0447\u0430",
+        "seoname": "buca-514882"
+    },
+    {
+        "id_location": 390932,
+        "id_location_parent": 390924,
+        "name": "\u0412\u0430\u0441\u0438\u043b\u044c\u043a\u043e\u0432",
+        "seoname": "vasilkov-514883"
+    },
+    {
+        "id_location": 390933,
+        "id_location_parent": 390924,
+        "name": "\u0412\u0438\u0448\u043d\u0451\u0432\u043e\u0435",
+        "seoname": "visnyovoe-514884"
+    },
+    {
+        "id_location": 390934,
+        "id_location_parent": 390924,
+        "name": "\u0412\u044b\u0448\u0433\u043e\u0440\u043e\u0434",
+        "seoname": "vysgorod-514885"
+    },
+    {
+        "id_location": 390935,
+        "id_location_parent": 390924,
+        "name": "\u0418\u0440\u043f\u0435\u043d\u044c",
+        "seoname": "irpen-514886"
+    },
+    {
+        "id_location": 390936,
+        "id_location_parent": 390924,
+        "name": "\u041a\u0430\u0433\u0430\u0440\u043b\u044b\u043a",
+        "seoname": "kagarlyk-514887"
+    },
+    {
+        "id_location": 390937,
+        "id_location_parent": 390924,
+        "name": "\u041a\u0438\u0435\u0432",
+        "seoname": "kiev-514888"
+    },
+    {
+        "id_location": 390938,
+        "id_location_parent": 390924,
+        "name": "\u041c\u0438\u0440\u043e\u043d\u043e\u0432\u043a\u0430",
+        "seoname": "mironovka-514889"
+    },
+    {
+        "id_location": 390939,
+        "id_location_parent": 390924,
+        "name": "\u041e\u0431\u0443\u0445\u043e\u0432",
+        "seoname": "obuxov-514890"
+    },
+    {
+        "id_location": 390940,
+        "id_location_parent": 390924,
+        "name": "\u041f\u0435\u0440\u0435\u044f\u0441\u043b\u0430\u0432-\u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u043a\u0438\u0439",
+        "seoname": "pereyaslav-xmelnickii-514891"
+    },
+    {
+        "id_location": 390941,
+        "id_location_parent": 390924,
+        "name": "\u041f\u0440\u0438\u043f\u044f\u0442\u044c",
+        "seoname": "pripyat-514892"
+    },
+    {
+        "id_location": 390942,
+        "id_location_parent": 390924,
+        "name": "\u0420\u0436\u0438\u0449\u0435\u0432",
+        "seoname": "rzishhev-514893"
+    },
+    {
+        "id_location": 390943,
+        "id_location_parent": 390924,
+        "name": "\u0421\u043a\u0432\u0438\u0440\u0430",
+        "seoname": "skvira-514894"
+    },
+    {
+        "id_location": 390944,
+        "id_location_parent": 390924,
+        "name": "\u0421\u043b\u0430\u0432\u0443\u0442\u0438\u0447",
+        "seoname": "slavutic-514895"
+    },
+    {
+        "id_location": 390945,
+        "id_location_parent": 390924,
+        "name": "\u0422\u0430\u0440\u0430\u0449\u0430",
+        "seoname": "tarashha-514896"
+    },
+    {
+        "id_location": 390946,
+        "id_location_parent": 390924,
+        "name": "\u0422\u0435\u0442\u0438\u0435\u0432",
+        "seoname": "tetiev-514897"
+    },
+    {
+        "id_location": 390947,
+        "id_location_parent": 390924,
+        "name": "\u0423\u0437\u0438\u043d",
+        "seoname": "uzin-514898"
+    },
+    {
+        "id_location": 390948,
+        "id_location_parent": 390924,
+        "name": "\u0423\u043a\u0440\u0430\u0438\u043d\u043a\u0430",
+        "seoname": "ukrainka-514899"
+    },
+    {
+        "id_location": 390949,
+        "id_location_parent": 390924,
+        "name": "\u0424\u0430\u0441\u0442\u043e\u0432",
+        "seoname": "fastov-514900"
+    },
+    {
+        "id_location": 390950,
+        "id_location_parent": 390924,
+        "name": "\u0427\u0435\u0440\u043d\u043e\u0431\u044b\u043b\u044c",
+        "seoname": "cernobyl-514901"
+    },
+    {
+        "id_location": 390951,
+        "id_location_parent": 390924,
+        "name": "\u042f\u0433\u043e\u0442\u0438\u043d",
+        "seoname": "yagotin-514902"
+    },
+    {
+        "id_location": 390952,
+        "id_location_parent": 1,
+        "name": "\u041a\u0438\u0440\u043e\u0432\u043e\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+        "seoname": "kirovogradskaya-oblast-782905"
+    },
+    {
+        "id_location": 390953,
+        "id_location_parent": 390952,
+        "name": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0438\u044f",
+        "seoname": "aleksandriya-514903"
+    },
+    {
+        "id_location": 390954,
+        "id_location_parent": 390952,
+        "name": "\u0411\u043e\u0431\u0440\u0438\u043d\u0435\u0446",
+        "seoname": "bobrinec-514904"
+    },
+    {
+        "id_location": 390955,
+        "id_location_parent": 390952,
+        "name": "\u0413\u0430\u0439\u0432\u043e\u0440\u043e\u043d",
+        "seoname": "gaivoron-514905"
+    },
+    {
+        "id_location": 390956,
+        "id_location_parent": 390952,
+        "name": "\u0414\u043e\u043b\u0438\u043d\u0441\u043a\u0430\u044f",
+        "seoname": "dolinskaya-514906"
+    },
+    {
+        "id_location": 390957,
+        "id_location_parent": 390952,
+        "name": "\u0417\u043d\u0430\u043c\u0435\u043d\u043a\u0430",
+        "seoname": "znamenka-514907"
+    },
+    {
+        "id_location": 390958,
+        "id_location_parent": 390952,
+        "name": "\u041a\u0438\u0440\u043e\u0432\u043e\u0433\u0440\u0430\u0434",
+        "seoname": "kirovograd-514908"
+    },
+    {
+        "id_location": 390959,
+        "id_location_parent": 390952,
+        "name": "\u041c\u0430\u043b\u0430\u044f \u0412\u0438\u0441\u043a\u0430",
+        "seoname": "malaya-viska-514909"
+    },
+    {
+        "id_location": 390960,
+        "id_location_parent": 390952,
+        "name": "\u041d\u043e\u0432\u043e\u043c\u0438\u0440\u0433\u043e\u0440\u043e\u0434",
+        "seoname": "novomirgorod-514910"
+    },
+    {
+        "id_location": 390961,
+        "id_location_parent": 390952,
+        "name": "\u041d\u043e\u0432\u043e\u0443\u043a\u0440\u0430\u0438\u043d\u043a\u0430",
+        "seoname": "novoukrainka-514911"
+    },
+    {
+        "id_location": 390962,
+        "id_location_parent": 390952,
+        "name": "\u0421\u0432\u0435\u0442\u043b\u043e\u0432\u043e\u0434\u0441\u043a",
+        "seoname": "svetlovodsk-514912"
+    },
+    {
+        "id_location": 390963,
+        "id_location_parent": 1,
+        "name": "\u041b\u0443\u0433\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+        "seoname": "luganskaya-oblast-782906"
+    },
+    {
+        "id_location": 390964,
+        "id_location_parent": 390963,
+        "name": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u0441\u043a",
+        "seoname": "aleksandrovsk-514913"
+    },
+    {
+        "id_location": 390965,
+        "id_location_parent": 390963,
+        "name": "\u0410\u043b\u043c\u0430\u0437\u043d\u0430\u044f",
+        "seoname": "almaznaya-514914"
+    },
+    {
+        "id_location": 390966,
+        "id_location_parent": 390963,
+        "name": "\u0410\u043b\u0447\u0435\u0432\u0441\u043a",
+        "seoname": "alcevsk-514915"
+    },
+    {
+        "id_location": 390967,
+        "id_location_parent": 390963,
+        "name": "\u0410\u043d\u0442\u0440\u0430\u0446\u0438\u0442",
+        "seoname": "antracit-514916"
+    },
+    {
+        "id_location": 390968,
+        "id_location_parent": 390963,
+        "name": "\u0411\u0440\u044f\u043d\u043a\u0430",
+        "seoname": "bryanka-514917"
+    },
+    {
+        "id_location": 390969,
+        "id_location_parent": 390963,
+        "name": "\u0412\u0430\u0445\u0440\u0443\u0448\u0435\u0432\u043e",
+        "seoname": "vaxrusevo-514918"
+    },
+    {
+        "id_location": 390970,
+        "id_location_parent": 390963,
+        "name": "\u0413\u043e\u0440\u043d\u043e\u0435",
+        "seoname": "gornoe-514919"
+    },
+    {
+        "id_location": 390971,
+        "id_location_parent": 390963,
+        "name": "\u0417\u0438\u043c\u043e\u0433\u043e\u0440\u044c\u0435",
+        "seoname": "zimogore-514920"
+    },
+    {
+        "id_location": 390972,
+        "id_location_parent": 390963,
+        "name": "\u0417\u043e\u043b\u043e\u0442\u043e\u0435",
+        "seoname": "zolotoe-514921"
+    },
+    {
+        "id_location": 390973,
+        "id_location_parent": 390963,
+        "name": "\u0417\u043e\u0440\u0438\u043d\u0441\u043a",
+        "seoname": "zorinsk-514922"
+    },
+    {
+        "id_location": 390974,
+        "id_location_parent": 390963,
+        "name": "\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u043e\u043d",
+        "seoname": "krasnodon-514923"
+    },
+    {
+        "id_location": 390975,
+        "id_location_parent": 390963,
+        "name": "\u041a\u0440\u0430\u0441\u043d\u044b\u0439 \u041b\u0443\u0447",
+        "seoname": "krasnyi-luc-514924"
+    },
+    {
+        "id_location": 390976,
+        "id_location_parent": 390963,
+        "name": "\u041b\u0438\u0441\u0438\u0447\u0430\u043d\u0441\u043a",
+        "seoname": "lisicansk-514925"
+    },
+    {
+        "id_location": 390977,
+        "id_location_parent": 390963,
+        "name": "\u041b\u0443\u0433\u0430\u043d\u0441\u043a",
+        "seoname": "lugansk-514926"
+    },
+    {
+        "id_location": 390978,
+        "id_location_parent": 390963,
+        "name": "\u041b\u0443\u0442\u0443\u0433\u0438\u043d\u043e",
+        "seoname": "lutugino-514927"
+    },
+    {
+        "id_location": 390979,
+        "id_location_parent": 390963,
+        "name": "\u041c\u0438\u0443\u0441\u0438\u043d\u0441\u043a",
+        "seoname": "miusinsk-514928"
+    },
+    {
+        "id_location": 390980,
+        "id_location_parent": 390963,
+        "name": "\u041c\u043e\u043b\u043e\u0434\u043e\u0433\u0432\u0430\u0440\u0434\u0435\u0439\u0441\u043a",
+        "seoname": "molodogvardeisk-514929"
+    },
+    {
+        "id_location": 390981,
+        "id_location_parent": 390963,
+        "name": "\u041d\u043e\u0432\u043e\u0434\u0440\u0443\u0436\u0435\u0441\u043a",
+        "seoname": "novodruzesk-514930"
+    },
+    {
+        "id_location": 390982,
+        "id_location_parent": 390963,
+        "name": "\u041d\u043e\u0432\u043e\u043f\u0441\u043a\u043e\u0432",
+        "seoname": "novopskov-514931"
+    },
+    {
+        "id_location": 390983,
+        "id_location_parent": 390963,
+        "name": "\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0441\u043a",
+        "seoname": "pervomaisk-514932"
+    },
+    {
+        "id_location": 390984,
+        "id_location_parent": 390963,
+        "name": "\u041f\u0435\u0440\u0435\u0432\u0430\u043b\u044c\u0441\u043a",
+        "seoname": "perevalsk-514933"
+    },
+    {
+        "id_location": 390985,
+        "id_location_parent": 390963,
+        "name": "\u041f\u0435\u0442\u0440\u043e\u0432\u0441\u043a\u043e\u0435",
+        "seoname": "petrovskoe-514934"
+    },
+    {
+        "id_location": 390986,
+        "id_location_parent": 390963,
+        "name": "\u041f\u043e\u043f\u0430\u0441\u043d\u0430\u044f",
+        "seoname": "popasnaya-514935"
+    },
+    {
+        "id_location": 390987,
+        "id_location_parent": 390963,
+        "name": "\u041f\u0440\u0438\u0432\u043e\u043b\u044c\u0435",
+        "seoname": "privole-514936"
+    },
+    {
+        "id_location": 390988,
+        "id_location_parent": 390963,
+        "name": "\u0420\u043e\u0432\u0435\u043d\u044c\u043a\u0438",
+        "seoname": "rovenki-514937"
+    },
+    {
+        "id_location": 390989,
+        "id_location_parent": 390963,
+        "name": "\u0420\u0443\u0431\u0435\u0436\u043d\u043e\u0435",
+        "seoname": "rubeznoe-514938"
+    },
+    {
+        "id_location": 390990,
+        "id_location_parent": 390963,
+        "name": "\u0421\u0432\u0430\u0442\u043e\u0432\u043e",
+        "seoname": "svatovo-514939"
+    },
+    {
+        "id_location": 390991,
+        "id_location_parent": 390963,
+        "name": "\u0421\u0432\u0435\u0440\u0434\u043b\u043e\u0432\u0441\u043a",
+        "seoname": "sverdlovsk-514940"
+    },
+    {
+        "id_location": 390992,
+        "id_location_parent": 390963,
+        "name": "\u0421\u0435\u0432\u0435\u0440\u043e\u0434\u043e\u043d\u0435\u0446\u043a",
+        "seoname": "severodoneck-514941"
+    },
+    {
+        "id_location": 390993,
+        "id_location_parent": 390963,
+        "name": "\u0421\u0442\u0430\u0440\u043e\u0431\u0435\u043b\u044c\u0441\u043a",
+        "seoname": "starobelsk-514942"
+    },
+    {
+        "id_location": 390994,
+        "id_location_parent": 390963,
+        "name": "\u0421\u0442\u0430\u0445\u0430\u043d\u043e\u0432",
+        "seoname": "staxanov-514943"
+    },
+    {
+        "id_location": 390995,
+        "id_location_parent": 390963,
+        "name": "\u0421\u0443\u0445\u043e\u0434\u043e\u043b\u044c\u0441\u043a",
+        "seoname": "suxodolsk-514944"
+    },
+    {
+        "id_location": 390996,
+        "id_location_parent": 390963,
+        "name": "\u0421\u0447\u0430\u0441\u0442\u044c\u0435",
+        "seoname": "scaste-514945"
+    },
+    {
+        "id_location": 390997,
+        "id_location_parent": 390963,
+        "name": "\u0422\u0435\u043f\u043b\u043e\u0433\u043e\u0440\u0441\u043a",
+        "seoname": "teplogorsk-514946"
+    },
+    {
+        "id_location": 390998,
+        "id_location_parent": 390963,
+        "name": "\u0427\u0435\u0440\u0432\u043e\u043d\u043e\u043f\u0430\u0440\u0442\u0438\u0437\u0430\u043d\u0441\u043a",
+        "seoname": "cervonopartizansk-514947"
+    },
+    {
+        "id_location": 390999,
+        "id_location_parent": 1,
+        "name": "\u041b\u044c\u0432\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+        "seoname": "lvovskaya-oblast-782907"
+    },
+    {
+        "id_location": 391000,
+        "id_location_parent": 390999,
+        "name": "\u0411\u0435\u043b\u0437",
+        "seoname": "belz-514948"
+    },
+    {
+        "id_location": 391001,
+        "id_location_parent": 390999,
+        "name": "\u0411\u043e\u0431\u0440\u043a\u0430",
+        "seoname": "bobrka-514949"
+    },
+    {
+        "id_location": 391002,
+        "id_location_parent": 390999,
+        "name": "\u0411\u043e\u0440\u0438\u0441\u043b\u0430\u0432",
+        "seoname": "borislav-514950"
+    },
+    {
+        "id_location": 391003,
+        "id_location_parent": 390999,
+        "name": "\u0411\u0440\u043e\u0434\u044b",
+        "seoname": "brody-514951"
+    },
+    {
+        "id_location": 391004,
+        "id_location_parent": 390999,
+        "name": "\u0411\u0443\u0441\u043a",
+        "seoname": "busk-514952"
+    },
+    {
+        "id_location": 391005,
+        "id_location_parent": 390999,
+        "name": "\u0412\u0435\u043b\u0438\u043a\u0438\u0435 \u041c\u043e\u0441\u0442\u044b",
+        "seoname": "velikie-mosty-514953"
+    },
+    {
+        "id_location": 391006,
+        "id_location_parent": 390999,
+        "name": "\u0413\u043b\u0438\u043d\u044f\u043d\u044b",
+        "seoname": "glinyany-514954"
+    },
+    {
+        "id_location": 391007,
+        "id_location_parent": 390999,
+        "name": "\u0413\u043e\u0440\u043e\u0434\u043e\u043a",
+        "seoname": "gorodok-514955"
+    },
+    {
+        "id_location": 391008,
+        "id_location_parent": 390999,
+        "name": "\u0414\u043e\u0431\u0440\u043e\u043c\u0438\u043b\u044c",
+        "seoname": "dobromil-514956"
+    },
+    {
+        "id_location": 391009,
+        "id_location_parent": 390999,
+        "name": "\u0414\u0440\u043e\u0433\u043e\u0431\u044b\u0447",
+        "seoname": "drogobyc-514957"
+    },
+    {
+        "id_location": 391010,
+        "id_location_parent": 390999,
+        "name": "\u0414\u0443\u0431\u043b\u044f\u043d\u044b",
+        "seoname": "dublyany-514958"
+    },
+    {
+        "id_location": 391011,
+        "id_location_parent": 390999,
+        "name": "\u0416\u0438\u0434\u0430\u0447\u043e\u0432",
+        "seoname": "zidacov-514959"
+    },
+    {
+        "id_location": 391012,
+        "id_location_parent": 390999,
+        "name": "\u0416\u043e\u043b\u043a\u0432\u0430",
+        "seoname": "zolkva-514960"
+    },
+    {
+        "id_location": 391013,
+        "id_location_parent": 390999,
+        "name": "\u0417\u043e\u043b\u043e\u0447\u0435\u0432",
+        "seoname": "zolocev-514961"
+    },
+    {
+        "id_location": 391014,
+        "id_location_parent": 390999,
+        "name": "\u041a\u0430\u043c\u0435\u043d\u043a\u0430-\u0411\u0443\u0433\u0441\u043a\u0430\u044f",
+        "seoname": "kamenka-bugskaya-514962"
+    },
+    {
+        "id_location": 391015,
+        "id_location_parent": 390999,
+        "name": "\u041b\u044c\u0432\u043e\u0432",
+        "seoname": "lvov-514963"
+    },
+    {
+        "id_location": 391016,
+        "id_location_parent": 390999,
+        "name": "\u041c\u043e\u0441\u0442\u0438\u0441\u043a\u0430",
+        "seoname": "mostiska-514964"
+    },
+    {
+        "id_location": 391017,
+        "id_location_parent": 390999,
+        "name": "\u041f\u0435\u0440\u0435\u043c\u044b\u0448\u043b\u044f\u043d\u044b",
+        "seoname": "peremyslyany-514965"
+    },
+    {
+        "id_location": 391018,
+        "id_location_parent": 390999,
+        "name": "\u041f\u0443\u0441\u0442\u043e\u043c\u044b\u0442\u044b",
+        "seoname": "pustomyty-514966"
+    },
+    {
+        "id_location": 391019,
+        "id_location_parent": 390999,
+        "name": "\u0420\u0430\u0432\u0430-\u0420\u0443\u0441\u0441\u043a\u0430\u044f",
+        "seoname": "rava-russkaya-514967"
+    },
+    {
+        "id_location": 391020,
+        "id_location_parent": 390999,
+        "name": "\u0420\u0430\u0434\u0435\u0445\u043e\u0432",
+        "seoname": "radexov-514968"
+    },
+    {
+        "id_location": 391021,
+        "id_location_parent": 390999,
+        "name": "\u0420\u0443\u0434\u043a\u0438",
+        "seoname": "rudki-514969"
+    },
+    {
+        "id_location": 391022,
+        "id_location_parent": 390999,
+        "name": "\u0421\u0430\u043c\u0431\u043e\u0440",
+        "seoname": "sambor-514970"
+    },
+    {
+        "id_location": 391023,
+        "id_location_parent": 390999,
+        "name": "\u0421\u043a\u043e\u043b\u0435",
+        "seoname": "skole-514971"
+    },
+    {
+        "id_location": 391024,
+        "id_location_parent": 390999,
+        "name": "\u0421\u043e\u043a\u0430\u043b\u044c",
+        "seoname": "sokal-514972"
+    },
+    {
+        "id_location": 391025,
+        "id_location_parent": 390999,
+        "name": "\u0421\u0442\u0430\u0440\u044b\u0439 \u0421\u0430\u043c\u0431\u043e\u0440",
+        "seoname": "staryi-sambor-514973"
+    },
+    {
+        "id_location": 391026,
+        "id_location_parent": 390999,
+        "name": "\u0421\u0442\u0440\u044b\u0439",
+        "seoname": "stryi-514974"
+    },
+    {
+        "id_location": 391027,
+        "id_location_parent": 390999,
+        "name": "\u0422\u0440\u0443\u0441\u043a\u0430\u0432\u0435\u0446",
+        "seoname": "truskavec-514975"
+    },
+    {
+        "id_location": 391028,
+        "id_location_parent": 390999,
+        "name": "\u0423\u0433\u043d\u0435\u0432",
+        "seoname": "ugnev-514976"
+    },
+    {
+        "id_location": 391029,
+        "id_location_parent": 390999,
+        "name": "\u0425\u044b\u0440\u043e\u0432",
+        "seoname": "xyrov-514977"
+    },
+    {
+        "id_location": 391030,
+        "id_location_parent": 390999,
+        "name": "\u0427\u0435\u0440\u0432\u043e\u043d\u043e\u0433\u0440\u0430\u0434",
+        "seoname": "cervonograd-514978"
+    },
+    {
+        "id_location": 391031,
+        "id_location_parent": 390999,
+        "name": "\u042f\u0432\u043e\u0440\u043e\u0432",
+        "seoname": "yavorov-514979"
+    },
+    {
+        "id_location": 391032,
+        "id_location_parent": 1,
+        "name": "\u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+        "seoname": "nikolaevskaya-oblast-782908"
+    },
+    {
+        "id_location": 391033,
+        "id_location_parent": 391032,
+        "name": "\u0411\u0430\u0448\u0442\u0430\u043d\u043a\u0430",
+        "seoname": "bastanka-514980"
+    },
+    {
+        "id_location": 391034,
+        "id_location_parent": 391032,
+        "name": "\u0412\u043e\u0437\u043d\u0435\u0441\u0435\u043d\u0441\u043a",
+        "seoname": "voznesensk-514981"
+    },
+    {
+        "id_location": 391035,
+        "id_location_parent": 391032,
+        "name": "\u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432",
+        "seoname": "nikolaev-514982"
+    },
+    {
+        "id_location": 391036,
+        "id_location_parent": 391032,
+        "name": "\u041d\u043e\u0432\u0430\u044f \u041e\u0434\u0435\u0441\u0441\u0430",
+        "seoname": "novaya-odessa-514983"
+    },
+    {
+        "id_location": 391037,
+        "id_location_parent": 391032,
+        "name": "\u041d\u043e\u0432\u044b\u0439 \u0411\u0443\u0433",
+        "seoname": "novyi-bug-514984"
+    },
+    {
+        "id_location": 391038,
+        "id_location_parent": 391032,
+        "name": "\u041e\u0447\u0430\u043a\u043e\u0432",
+        "seoname": "ocakov-514985"
+    },
+    {
+        "id_location": 391039,
+        "id_location_parent": 391032,
+        "name": "\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0441\u043a",
+        "seoname": "pervomaisk-514986"
+    },
+    {
+        "id_location": 391040,
+        "id_location_parent": 391032,
+        "name": "\u0421\u043d\u0438\u0433\u0438\u0440\u0451\u0432\u043a\u0430",
+        "seoname": "snigiryovka-514987"
+    },
+    {
+        "id_location": 391041,
+        "id_location_parent": 391032,
+        "name": "\u042e\u0436\u043d\u043e\u0443\u043a\u0440\u0430\u0438\u043d\u0441\u043a",
+        "seoname": "yuznoukrainsk-514988"
+    },
+    {
+        "id_location": 391042,
+        "id_location_parent": 1,
+        "name": "\u041e\u0434\u0435\u0441\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+        "seoname": "odesskaya-oblast-782909"
+    },
+    {
+        "id_location": 391043,
+        "id_location_parent": 391042,
+        "name": "\u0410\u043d\u0430\u043d\u044c\u0435\u0432",
+        "seoname": "ananev-514989"
+    },
+    {
+        "id_location": 391044,
+        "id_location_parent": 391042,
+        "name": "\u0410\u0440\u0446\u0438\u0437",
+        "seoname": "arciz-514990"
+    },
+    {
+        "id_location": 391045,
+        "id_location_parent": 391042,
+        "name": "\u0411\u0430\u043b\u0442\u0430",
+        "seoname": "balta-514991"
+    },
+    {
+        "id_location": 391046,
+        "id_location_parent": 391042,
+        "name": "\u0411\u0435\u043b\u0433\u043e\u0440\u043e\u0434-\u0414\u043d\u0435\u0441\u0442\u0440\u043e\u0432\u0441\u043a\u0438\u0439",
+        "seoname": "belgorod-dnestrovskii-514992"
+    },
+    {
+        "id_location": 391047,
+        "id_location_parent": 391042,
+        "name": "\u0411\u043e\u043b\u0433\u0440\u0430\u0434",
+        "seoname": "bolgrad-514993"
+    },
+    {
+        "id_location": 391048,
+        "id_location_parent": 391042,
+        "name": "\u0418\u0437\u043c\u0430\u0438\u043b",
+        "seoname": "izmail-514994"
+    },
+    {
+        "id_location": 391049,
+        "id_location_parent": 391042,
+        "name": "\u0418\u043b\u044c\u0438\u0447\u0451\u0432\u0441\u043a",
+        "seoname": "ilicyovsk-514995"
+    },
+    {
+        "id_location": 391050,
+        "id_location_parent": 391042,
+        "name": "\u041a\u0438\u043b\u0438\u044f",
+        "seoname": "kiliya-514996"
+    },
+    {
+        "id_location": 391051,
+        "id_location_parent": 391042,
+        "name": "\u041a\u043e\u0434\u044b\u043c\u0430",
+        "seoname": "kodyma-514997"
+    },
+    {
+        "id_location": 391052,
+        "id_location_parent": 391042,
+        "name": "\u041a\u043e\u0442\u043e\u0432\u0441\u043a",
+        "seoname": "kotovsk-514998"
+    },
+    {
+        "id_location": 391053,
+        "id_location_parent": 391042,
+        "name": "\u041e\u0434\u0435\u0441\u0441\u0430",
+        "seoname": "odessa-514999"
+    },
+    {
+        "id_location": 391054,
+        "id_location_parent": 391042,
+        "name": "\u0422\u0430\u0442\u0430\u0440\u0431\u0443\u043d\u0430\u0440\u044b",
+        "seoname": "tatarbunary-515000"
+    },
+    {
+        "id_location": 391055,
+        "id_location_parent": 391042,
+        "name": "\u0422\u0435\u043f\u043b\u043e\u0434\u0430\u0440",
+        "seoname": "teplodar-515001"
+    },
+    {
+        "id_location": 391056,
+        "id_location_parent": 391042,
+        "name": "\u042e\u0436\u043d\u043e\u0435",
+        "seoname": "yuznoe-515002"
+    },
+    {
+        "id_location": 391057,
+        "id_location_parent": 1,
+        "name": "\u041f\u043e\u043b\u0442\u0430\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+        "seoname": "poltavskaya-oblast-782910"
+    },
+    {
+        "id_location": 391058,
+        "id_location_parent": 391057,
+        "name": "\u0413\u0430\u0434\u044f\u0447",
+        "seoname": "gadyac-515003"
+    },
+    {
+        "id_location": 391059,
+        "id_location_parent": 391057,
+        "name": "\u0413\u043b\u043e\u0431\u0438\u043d\u043e",
+        "seoname": "globino-515004"
+    },
+    {
+        "id_location": 391060,
+        "id_location_parent": 391057,
+        "name": "\u0413\u0440\u0435\u0431\u0451\u043d\u043a\u0430",
+        "seoname": "grebyonka-515005"
+    },
+    {
+        "id_location": 391061,
+        "id_location_parent": 391057,
+        "name": "\u0417\u0435\u043d\u044c\u043a\u043e\u0432",
+        "seoname": "zenkov-515006"
+    },
+    {
+        "id_location": 391062,
+        "id_location_parent": 391057,
+        "name": "\u041a\u0430\u0440\u043b\u043e\u0432\u043a\u0430",
+        "seoname": "karlovka-515007"
+    },
+    {
+        "id_location": 391063,
+        "id_location_parent": 391057,
+        "name": "\u041a\u0440\u0435\u043c\u0435\u043d\u0447\u0443\u0433",
+        "seoname": "kremencug-515008"
+    },
+    {
+        "id_location": 391064,
+        "id_location_parent": 391057,
+        "name": "\u041a\u043e\u0431\u0435\u043b\u044f\u043a\u0438",
+        "seoname": "kobelyaki-515009"
+    },
+    {
+        "id_location": 391065,
+        "id_location_parent": 391057,
+        "name": "\u041a\u043e\u043c\u0441\u043e\u043c\u043e\u043b\u044c\u0441\u043a",
+        "seoname": "komsomolsk-515010"
+    },
+    {
+        "id_location": 391066,
+        "id_location_parent": 391057,
+        "name": "\u041b\u043e\u0445\u0432\u0438\u0446\u0430",
+        "seoname": "loxvica-515011"
+    },
+    {
+        "id_location": 391067,
+        "id_location_parent": 391057,
+        "name": "\u041b\u0443\u0431\u043d\u044b",
+        "seoname": "lubny-515012"
+    },
+    {
+        "id_location": 391068,
+        "id_location_parent": 391057,
+        "name": "\u041c\u0438\u0440\u0433\u043e\u0440\u043e\u0434",
+        "seoname": "mirgorod-515013"
+    },
+    {
+        "id_location": 391069,
+        "id_location_parent": 391057,
+        "name": "\u041f\u0438\u0440\u044f\u0442\u0438\u043d",
+        "seoname": "piryatin-515014"
+    },
+    {
+        "id_location": 391070,
+        "id_location_parent": 391057,
+        "name": "\u041f\u043e\u043b\u0442\u0430\u0432\u0430",
+        "seoname": "poltava-515015"
+    },
+    {
+        "id_location": 391071,
+        "id_location_parent": 391057,
+        "name": "\u0425\u043e\u0440\u043e\u043b",
+        "seoname": "xorol-515016"
+    },
+    {
+        "id_location": 391072,
+        "id_location_parent": 391057,
+        "name": "\u0427\u0435\u0440\u0432\u043e\u043d\u043e\u0437\u0430\u0432\u043e\u0434\u0441\u043a\u043e\u0435",
+        "seoname": "cervonozavodskoe-515017"
+    },
+    {
+        "id_location": 391073,
+        "id_location_parent": 1,
+        "name": "\u0420\u043e\u0432\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+        "seoname": "rovenskaya-oblast-782911"
+    },
+    {
+        "id_location": 391074,
+        "id_location_parent": 391073,
+        "name": "\u0411\u0435\u0440\u0435\u0437\u043d\u0435",
+        "seoname": "berezne-515018"
+    },
+    {
+        "id_location": 391075,
+        "id_location_parent": 391073,
+        "name": "\u0414\u0443\u0431\u043d\u043e",
+        "seoname": "dubno-515019"
+    },
+    {
+        "id_location": 391076,
+        "id_location_parent": 391073,
+        "name": "\u0414\u0443\u0431\u0440\u043e\u0432\u0438\u0446\u0430",
+        "seoname": "dubrovica-515020"
+    },
+    {
+        "id_location": 391077,
+        "id_location_parent": 391073,
+        "name": "\u0417\u0434\u043e\u043b\u0431\u0443\u043d\u043e\u0432",
+        "seoname": "zdolbunov-515021"
+    },
+    {
+        "id_location": 391078,
+        "id_location_parent": 391073,
+        "name": "\u041a\u043e\u0440\u0435\u0446",
+        "seoname": "korec-515022"
+    },
+    {
+        "id_location": 391079,
+        "id_location_parent": 391073,
+        "name": "\u041a\u043e\u0441\u0442\u043e\u043f\u043e\u043b\u044c",
+        "seoname": "kostopol-515023"
+    },
+    {
+        "id_location": 391080,
+        "id_location_parent": 391073,
+        "name": "\u041a\u0443\u0437\u043d\u0435\u0446\u043e\u0432\u0441\u043a",
+        "seoname": "kuznecovsk-515024"
+    },
+    {
+        "id_location": 391081,
+        "id_location_parent": 391073,
+        "name": "\u041e\u0441\u0442\u0440\u043e\u0433",
+        "seoname": "ostrog-515025"
+    },
+    {
+        "id_location": 391082,
+        "id_location_parent": 391073,
+        "name": "\u0420\u0430\u0434\u0438\u0432\u0438\u043b\u043e\u0432",
+        "seoname": "radivilov-515026"
+    },
+    {
+        "id_location": 391083,
+        "id_location_parent": 391073,
+        "name": "\u0420\u043e\u0432\u043d\u043e",
+        "seoname": "rovno-515027"
+    },
+    {
+        "id_location": 391084,
+        "id_location_parent": 391073,
+        "name": "\u0421\u0430\u0440\u043d\u044b",
+        "seoname": "sarny-515028"
+    },
+    {
+        "id_location": 391085,
+        "id_location_parent": 1,
+        "name": "\u0421\u0443\u043c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+        "seoname": "sumskaya-oblast-782912"
+    },
+    {
+        "id_location": 391086,
+        "id_location_parent": 391085,
+        "name": "\u0410\u0445\u0442\u044b\u0440\u043a\u0430",
+        "seoname": "axtyrka-515029"
+    },
+    {
+        "id_location": 391087,
+        "id_location_parent": 391085,
+        "name": "\u0411\u0435\u043b\u043e\u043f\u043e\u043b\u044c\u0435",
+        "seoname": "belopole-515030"
+    },
+    {
+        "id_location": 391088,
+        "id_location_parent": 391085,
+        "name": "\u0411\u0443\u0440\u044b\u043d\u044c",
+        "seoname": "buryn-515031"
+    },
+    {
+        "id_location": 391089,
+        "id_location_parent": 391085,
+        "name": "\u0413\u043b\u0443\u0445\u043e\u0432",
+        "seoname": "gluxov-515032"
+    },
+    {
+        "id_location": 391090,
+        "id_location_parent": 391085,
+        "name": "\u041a\u0440\u043e\u043b\u0435\u0432\u0435\u0446",
+        "seoname": "krolevec-515033"
+    },
+    {
+        "id_location": 391091,
+        "id_location_parent": 391085,
+        "name": "\u041a\u043e\u043d\u043e\u0442\u043e\u043f",
+        "seoname": "konotop-515034"
+    },
+    {
+        "id_location": 391092,
+        "id_location_parent": 391085,
+        "name": "\u041b\u0435\u0431\u0435\u0434\u0438\u043d",
+        "seoname": "lebedin-515035"
+    },
+    {
+        "id_location": 391093,
+        "id_location_parent": 391085,
+        "name": "\u041f\u0443\u0442\u0438\u0432\u043b\u044c",
+        "seoname": "putivl-515036"
+    },
+    {
+        "id_location": 391094,
+        "id_location_parent": 391085,
+        "name": "\u0420\u043e\u043c\u043d\u044b",
+        "seoname": "romny-515037"
+    },
+    {
+        "id_location": 391095,
+        "id_location_parent": 391085,
+        "name": "\u0421\u0435\u0440\u0435\u0434\u0438\u043d\u0430-\u0411\u0443\u0434\u0430",
+        "seoname": "seredina-buda-515038"
+    },
+    {
+        "id_location": 391096,
+        "id_location_parent": 391085,
+        "name": "\u0421\u0443\u043c\u044b",
+        "seoname": "sumy-515039"
+    },
+    {
+        "id_location": 391097,
+        "id_location_parent": 391085,
+        "name": "\u0422\u0440\u043e\u0441\u0442\u044f\u043d\u0435\u0446",
+        "seoname": "trostyanec-515040"
+    },
+    {
+        "id_location": 391098,
+        "id_location_parent": 391085,
+        "name": "\u0428\u043e\u0441\u0442\u043a\u0430",
+        "seoname": "sostka-515041"
+    },
+    {
+        "id_location": 391099,
+        "id_location_parent": 1,
+        "name": "\u0422\u0435\u0440\u043d\u043e\u043f\u043e\u043b\u044c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+        "seoname": "ternopolskaya-oblast-782913"
+    },
+    {
+        "id_location": 391100,
+        "id_location_parent": 391099,
+        "name": "\u0411\u0435\u0440\u0435\u0436\u0430\u043d\u044b",
+        "seoname": "berezany-515042"
+    },
+    {
+        "id_location": 391101,
+        "id_location_parent": 391099,
+        "name": "\u0411\u043e\u0440\u0449\u0451\u0432",
+        "seoname": "borshhyov-515043"
+    },
+    {
+        "id_location": 391102,
+        "id_location_parent": 391099,
+        "name": "\u0411\u0443\u0447\u0430\u0447",
+        "seoname": "bucac-515044"
+    },
+    {
+        "id_location": 391103,
+        "id_location_parent": 391099,
+        "name": "\u0417\u0430\u043b\u0435\u0449\u0438\u043a\u0438",
+        "seoname": "zaleshhiki-515045"
+    },
+    {
+        "id_location": 391104,
+        "id_location_parent": 391099,
+        "name": "\u0417\u0431\u0430\u0440\u0430\u0436",
+        "seoname": "zbaraz-515046"
+    },
+    {
+        "id_location": 391105,
+        "id_location_parent": 391099,
+        "name": "\u0417\u0431\u043e\u0440\u043e\u0432",
+        "seoname": "zborov-515047"
+    },
+    {
+        "id_location": 391106,
+        "id_location_parent": 391099,
+        "name": "\u041a\u0440\u0435\u043c\u0435\u043d\u0435\u0446",
+        "seoname": "kremenec-515048"
+    },
+    {
+        "id_location": 391107,
+        "id_location_parent": 391099,
+        "name": "\u041b\u0430\u043d\u043e\u0432\u0446\u044b",
+        "seoname": "lanovcy-515049"
+    },
+    {
+        "id_location": 391108,
+        "id_location_parent": 391099,
+        "name": "\u041c\u043e\u043d\u0430\u0441\u0442\u044b\u0440\u0438\u0441\u043a\u0430",
+        "seoname": "monastyriska-515050"
+    },
+    {
+        "id_location": 391109,
+        "id_location_parent": 391099,
+        "name": "\u041f\u043e\u0434\u0432\u043e\u043b\u043e\u0447\u0438\u0441\u043a",
+        "seoname": "podvolocisk-515051"
+    },
+    {
+        "id_location": 391110,
+        "id_location_parent": 391099,
+        "name": "\u041f\u043e\u0434\u0433\u0430\u0439\u0446\u044b",
+        "seoname": "podgaicy-515052"
+    },
+    {
+        "id_location": 391111,
+        "id_location_parent": 391099,
+        "name": "\u041f\u043e\u0447\u0430\u0435\u0432",
+        "seoname": "pocaev-515053"
+    },
+    {
+        "id_location": 391112,
+        "id_location_parent": 391099,
+        "name": "\u0421\u043a\u0430\u043b\u0430\u0442",
+        "seoname": "skalat-515054"
+    },
+    {
+        "id_location": 391113,
+        "id_location_parent": 391099,
+        "name": "\u0422\u0435\u0440\u043d\u043e\u043f\u043e\u043b\u044c",
+        "seoname": "ternopol-515055"
+    },
+    {
+        "id_location": 391114,
+        "id_location_parent": 391099,
+        "name": "\u0422\u0435\u0440\u0435\u0431\u043e\u0432\u043b\u044f",
+        "seoname": "terebovlya-515056"
+    },
+    {
+        "id_location": 391115,
+        "id_location_parent": 391099,
+        "name": "\u0427\u043e\u0440\u0442\u043a\u043e\u0432",
+        "seoname": "cortkov-515057"
+    },
+    {
+        "id_location": 391116,
+        "id_location_parent": 391099,
+        "name": "\u0428\u0443\u043c\u0441\u043a",
+        "seoname": "sumsk-515058"
+    },
+    {
+        "id_location": 391117,
+        "id_location_parent": 1,
+        "name": "\u0425\u0430\u0440\u044c\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+        "seoname": "xarkovskaya-oblast-782914"
+    },
+    {
+        "id_location": 391118,
+        "id_location_parent": 391117,
+        "name": "\u0411\u0430\u043b\u0430\u043a\u043b\u0435\u044f",
+        "seoname": "balakleya-515059"
+    },
+    {
+        "id_location": 391119,
+        "id_location_parent": 391117,
+        "name": "\u0411\u0430\u0440\u0432\u0435\u043d\u043a\u043e\u0432\u043e",
+        "seoname": "barvenkovo-515060"
+    },
+    {
+        "id_location": 391120,
+        "id_location_parent": 391117,
+        "name": "\u0411\u043e\u0433\u043e\u0434\u0443\u0445\u043e\u0432",
+        "seoname": "bogoduxov-515061"
+    },
+    {
+        "id_location": 391121,
+        "id_location_parent": 391117,
+        "name": "\u0412\u0430\u043b\u043a\u0438",
+        "seoname": "valki-515062"
+    },
+    {
+        "id_location": 391122,
+        "id_location_parent": 391117,
+        "name": "\u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u0411\u0443\u0440\u043b\u0443\u043a",
+        "seoname": "velikii-burluk-515063"
+    },
+    {
+        "id_location": 391123,
+        "id_location_parent": 391117,
+        "name": "\u0412\u043e\u043b\u0447\u0430\u043d\u0441\u043a",
+        "seoname": "volcansk-515064"
+    },
+    {
+        "id_location": 391124,
+        "id_location_parent": 391117,
+        "name": "\u0414\u0435\u0440\u0433\u0430\u0447\u0438",
+        "seoname": "dergaci-515065"
+    },
+    {
+        "id_location": 391125,
+        "id_location_parent": 391117,
+        "name": "\u0417\u043c\u0438\u0435\u0432",
+        "seoname": "zmiev-515066"
+    },
+    {
+        "id_location": 391126,
+        "id_location_parent": 391117,
+        "name": "\u0418\u0437\u044e\u043c",
+        "seoname": "izyum-515067"
+    },
+    {
+        "id_location": 391127,
+        "id_location_parent": 391117,
+        "name": "\u041a\u0440\u0430\u0441\u043d\u043e\u0433\u0440\u0430\u0434",
+        "seoname": "krasnograd-515068"
+    },
+    {
+        "id_location": 391128,
+        "id_location_parent": 391117,
+        "name": "\u041a\u0443\u043f\u044f\u043d\u0441\u043a",
+        "seoname": "kupyansk-515069"
+    },
+    {
+        "id_location": 391129,
+        "id_location_parent": 391117,
+        "name": "\u041b\u043e\u0437\u043e\u0432\u0430\u044f",
+        "seoname": "lozovaya-515070"
+    },
+    {
+        "id_location": 391130,
+        "id_location_parent": 391117,
+        "name": "\u041b\u044e\u0431\u043e\u0442\u0438\u043d",
+        "seoname": "lyubotin-515071"
+    },
+    {
+        "id_location": 391131,
+        "id_location_parent": 391117,
+        "name": "\u041c\u0435\u0440\u0435\u0444\u0430",
+        "seoname": "merefa-515072"
+    },
+    {
+        "id_location": 391132,
+        "id_location_parent": 391117,
+        "name": "\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0441\u043a\u0438\u0439",
+        "seoname": "pervomaiskii-515073"
+    },
+    {
+        "id_location": 391133,
+        "id_location_parent": 391117,
+        "name": "\u0425\u0430\u0440\u044c\u043a\u043e\u0432",
+        "seoname": "xarkov-515074"
+    },
+    {
+        "id_location": 391134,
+        "id_location_parent": 391117,
+        "name": "\u0427\u0443\u0433\u0443\u0435\u0432",
+        "seoname": "cuguev-515075"
+    },
+    {
+        "id_location": 391135,
+        "id_location_parent": 1,
+        "name": "\u0425\u0435\u0440\u0441\u043e\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+        "seoname": "xersonskaya-oblast-782915"
+    },
+    {
+        "id_location": 391136,
+        "id_location_parent": 391135,
+        "name": "\u0411\u0435\u0440\u0438\u0441\u043b\u0430\u0432",
+        "seoname": "berislav-515076"
+    },
+    {
+        "id_location": 391137,
+        "id_location_parent": 391135,
+        "name": "\u0413\u0435\u043d\u0438\u0447\u0435\u0441\u043a",
+        "seoname": "genicesk-515077"
+    },
+    {
+        "id_location": 391138,
+        "id_location_parent": 391135,
+        "name": "\u0413\u043e\u043b\u0430\u044f \u041f\u0440\u0438\u0441\u0442\u0430\u043d\u044c",
+        "seoname": "golaya-pristan-515078"
+    },
+    {
+        "id_location": 391139,
+        "id_location_parent": 391135,
+        "name": "\u041a\u0430\u0445\u043e\u0432\u043a\u0430",
+        "seoname": "kaxovka-515079"
+    },
+    {
+        "id_location": 391140,
+        "id_location_parent": 391135,
+        "name": "\u041d\u043e\u0432\u0430\u044f \u041a\u0430\u0445\u043e\u0432\u043a\u0430",
+        "seoname": "novaya-kaxovka-515080"
+    },
+    {
+        "id_location": 391141,
+        "id_location_parent": 391135,
+        "name": "\u0421\u043a\u0430\u0434\u043e\u0432\u0441\u043a",
+        "seoname": "skadovsk-515081"
+    },
+    {
+        "id_location": 391142,
+        "id_location_parent": 391135,
+        "name": "\u0422\u0430\u0432\u0440\u0438\u0439\u0441\u043a",
+        "seoname": "tavriisk-515082"
+    },
+    {
+        "id_location": 391143,
+        "id_location_parent": 391135,
+        "name": "\u0425\u0435\u0440\u0441\u043e\u043d",
+        "seoname": "xerson-515083"
+    },
+    {
+        "id_location": 391144,
+        "id_location_parent": 391135,
+        "name": "\u0426\u044e\u0440\u0443\u043f\u0438\u043d\u0441\u043a",
+        "seoname": "cyurupinsk-515084"
+    },
+    {
+        "id_location": 391145,
+        "id_location_parent": 1,
+        "name": "\u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+        "seoname": "xmelnickaya-oblast-782916"
+    },
+    {
+        "id_location": 391146,
+        "id_location_parent": 391145,
+        "name": "\u0412\u043e\u043b\u043e\u0447\u0438\u0441\u043a",
+        "seoname": "volocisk-515085"
+    },
+    {
+        "id_location": 391147,
+        "id_location_parent": 391145,
+        "name": "\u0413\u043e\u0440\u043e\u0434\u043e\u043a",
+        "seoname": "gorodok-515086"
+    },
+    {
+        "id_location": 391148,
+        "id_location_parent": 391145,
+        "name": "\u0414\u0435\u0440\u0430\u0436\u043d\u044f",
+        "seoname": "deraznya-515087"
+    },
+    {
+        "id_location": 391149,
+        "id_location_parent": 391145,
+        "name": "\u0414\u0443\u043d\u0430\u0435\u0432\u0446\u044b",
+        "seoname": "dunaevcy-515088"
+    },
+    {
+        "id_location": 391150,
+        "id_location_parent": 391145,
+        "name": "\u0418\u0437\u044f\u0441\u043b\u0430\u0432",
+        "seoname": "izyaslav-515089"
+    },
+    {
+        "id_location": 391151,
+        "id_location_parent": 391145,
+        "name": "\u041a\u0430\u043c\u0435\u043d\u0435\u0446-\u041f\u043e\u0434\u043e\u043b\u044c\u0441\u043a\u0438\u0439",
+        "seoname": "kamenec-podolskii-515090"
+    },
+    {
+        "id_location": 391152,
+        "id_location_parent": 391145,
+        "name": "\u041a\u0440\u0430\u0441\u0438\u043b\u043e\u0432",
+        "seoname": "krasilov-515091"
+    },
+    {
+        "id_location": 391153,
+        "id_location_parent": 391145,
+        "name": "\u041d\u0435\u0442\u0435\u0448\u0438\u043d",
+        "seoname": "netesin-515092"
+    },
+    {
+        "id_location": 391154,
+        "id_location_parent": 391145,
+        "name": "\u041f\u043e\u043b\u043e\u043d\u043d\u043e\u0435",
+        "seoname": "polonnoe-515093"
+    },
+    {
+        "id_location": 391155,
+        "id_location_parent": 391145,
+        "name": "\u0421\u043b\u0430\u0432\u0443\u0442\u0430",
+        "seoname": "slavuta-515094"
+    },
+    {
+        "id_location": 391156,
+        "id_location_parent": 391145,
+        "name": "\u0421\u0442\u0430\u0440\u043e\u043a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\u043e\u0432",
+        "seoname": "starokonstantinov-515095"
+    },
+    {
+        "id_location": 391157,
+        "id_location_parent": 391145,
+        "name": "\u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u043a\u0438\u0439",
+        "seoname": "xmelnickii-515096"
+    },
+    {
+        "id_location": 391158,
+        "id_location_parent": 391145,
+        "name": "\u0428\u0435\u043f\u0435\u0442\u043e\u0432\u043a\u0430",
+        "seoname": "sepetovka-515097"
+    },
+    {
+        "id_location": 391159,
+        "id_location_parent": 1,
+        "name": "\u0427\u0435\u0440\u043a\u0430\u0441\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+        "seoname": "cerkasskaya-oblast-782917"
+    },
+    {
+        "id_location": 391160,
+        "id_location_parent": 391159,
+        "name": "\u0412\u0430\u0442\u0443\u0442\u0438\u043d\u043e",
+        "seoname": "vatutino-515098"
+    },
+    {
+        "id_location": 391161,
+        "id_location_parent": 391159,
+        "name": "\u0413\u043e\u0440\u043e\u0434\u0438\u0449\u0435",
+        "seoname": "gorodishhe-515099"
+    },
+    {
+        "id_location": 391162,
+        "id_location_parent": 391159,
+        "name": "\u0416\u0430\u0448\u043a\u043e\u0432",
+        "seoname": "zaskov-515100"
+    },
+    {
+        "id_location": 391163,
+        "id_location_parent": 391159,
+        "name": "\u0417\u0432\u0435\u043d\u0438\u0433\u043e\u0440\u043e\u0434\u043a\u0430",
+        "seoname": "zvenigorodka-515101"
+    },
+    {
+        "id_location": 391164,
+        "id_location_parent": 391159,
+        "name": "\u0417\u043e\u043b\u043e\u0442\u043e\u043d\u043e\u0448\u0430",
+        "seoname": "zolotonosa-515102"
+    },
+    {
+        "id_location": 391165,
+        "id_location_parent": 391159,
+        "name": "\u041a\u0430\u043c\u0435\u043d\u043a\u0430",
+        "seoname": "kamenka-515103"
+    },
+    {
+        "id_location": 391166,
+        "id_location_parent": 391159,
+        "name": "\u041a\u0430\u043d\u0435\u0432",
+        "seoname": "kanev-515104"
+    },
+    {
+        "id_location": 391167,
+        "id_location_parent": 391159,
+        "name": "\u041a\u043e\u0440\u0441\u0443\u043d\u044c-\u0428\u0435\u0432\u0447\u0435\u043d\u043a\u043e\u0432\u0441\u043a\u0438\u0439",
+        "seoname": "korsun-sevcenkovskii-515105"
+    },
+    {
+        "id_location": 391168,
+        "id_location_parent": 391159,
+        "name": "\u041c\u043e\u043d\u0430\u0441\u0442\u044b\u0440\u0438\u0449\u0435",
+        "seoname": "monastyrishhe-515106"
+    },
+    {
+        "id_location": 391169,
+        "id_location_parent": 391159,
+        "name": "\u0421\u043c\u0435\u043b\u0430",
+        "seoname": "smela-515107"
+    },
+    {
+        "id_location": 391170,
+        "id_location_parent": 391159,
+        "name": "\u0422\u0430\u043b\u044c\u043d\u043e\u0435",
+        "seoname": "talnoe-515108"
+    },
+    {
+        "id_location": 391171,
+        "id_location_parent": 391159,
+        "name": "\u0423\u043c\u0430\u043d\u044c",
+        "seoname": "uman-515109"
+    },
+    {
+        "id_location": 391172,
+        "id_location_parent": 391159,
+        "name": "\u0425\u0440\u0438\u0441\u0442\u0438\u043d\u043e\u0432\u043a\u0430",
+        "seoname": "xristinovka-515110"
+    },
+    {
+        "id_location": 391173,
+        "id_location_parent": 391159,
+        "name": "\u0427\u0435\u0440\u043a\u0430\u0441\u0441\u044b",
+        "seoname": "cerkassy-515111"
+    },
+    {
+        "id_location": 391174,
+        "id_location_parent": 391159,
+        "name": "\u0427\u0438\u0433\u0438\u0440\u0438\u043d",
+        "seoname": "cigirin-515112"
+    },
+    {
+        "id_location": 391175,
+        "id_location_parent": 391159,
+        "name": "\u0428\u043f\u043e\u043b\u0430",
+        "seoname": "spola-515113"
+    },
+    {
+        "id_location": 391176,
+        "id_location_parent": 1,
+        "name": "\u0427\u0435\u0440\u043d\u0438\u0433\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+        "seoname": "cernigovskaya-oblast-782918"
+    },
+    {
+        "id_location": 391177,
+        "id_location_parent": 391176,
+        "name": "\u0411\u0430\u0445\u043c\u0430\u0447",
+        "seoname": "baxmac-515114"
+    },
+    {
+        "id_location": 391178,
+        "id_location_parent": 391176,
+        "name": "\u0411\u043e\u0431\u0440\u043e\u0432\u0438\u0446\u0430",
+        "seoname": "bobrovica-515115"
+    },
+    {
+        "id_location": 391179,
+        "id_location_parent": 391176,
+        "name": "\u0411\u043e\u0440\u0437\u043d\u0430",
+        "seoname": "borzna-515116"
+    },
+    {
+        "id_location": 391180,
+        "id_location_parent": 391176,
+        "name": "\u0413\u043e\u0440\u043e\u0434\u043d\u044f",
+        "seoname": "gorodnya-515117"
+    },
+    {
+        "id_location": 391181,
+        "id_location_parent": 391176,
+        "name": "\u0414\u0435\u0441\u043d\u0430",
+        "seoname": "desna-515118"
+    },
+    {
+        "id_location": 391182,
+        "id_location_parent": 391176,
+        "name": "\u0418\u0447\u043d\u044f",
+        "seoname": "icnya-515119"
+    },
+    {
+        "id_location": 391183,
+        "id_location_parent": 391176,
+        "name": "\u041a\u043e\u0440\u044e\u043a\u043e\u0432\u043a\u0430",
+        "seoname": "koryukovka-515120"
+    },
+    {
+        "id_location": 391184,
+        "id_location_parent": 391176,
+        "name": "\u041c\u0435\u043d\u0430",
+        "seoname": "mena-515121"
+    },
+    {
+        "id_location": 391185,
+        "id_location_parent": 391176,
+        "name": "\u041d\u0435\u0436\u0438\u043d",
+        "seoname": "nezin-515122"
+    },
+    {
+        "id_location": 391186,
+        "id_location_parent": 391176,
+        "name": "\u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434-\u0421\u0435\u0432\u0435\u0440\u0441\u043a\u0438\u0439",
+        "seoname": "novgorod-severskii-515123"
+    },
+    {
+        "id_location": 391187,
+        "id_location_parent": 391176,
+        "name": "\u041d\u043e\u0441\u043e\u0432\u043a\u0430",
+        "seoname": "nosovka-515124"
+    },
+    {
+        "id_location": 391188,
+        "id_location_parent": 391176,
+        "name": "\u041f\u0440\u0438\u043b\u0443\u043a\u0438",
+        "seoname": "priluki-515125"
+    },
+    {
+        "id_location": 391189,
+        "id_location_parent": 391176,
+        "name": "\u0421\u0435\u0434\u043d\u0435\u0432",
+        "seoname": "sednev-515126"
+    },
+    {
+        "id_location": 391190,
+        "id_location_parent": 391176,
+        "name": "\u0421\u0435\u043c\u0451\u043d\u043e\u0432\u043a\u0430",
+        "seoname": "semyonovka-515127"
+    },
+    {
+        "id_location": 391191,
+        "id_location_parent": 391176,
+        "name": "\u0427\u0435\u0440\u043d\u0438\u0433\u043e\u0432",
+        "seoname": "cernigov-515128"
+    },
+    {
+        "id_location": 391192,
+        "id_location_parent": 391176,
+        "name": "\u0429\u043e\u0440\u0441",
+        "seoname": "shhors-515129"
+    },
+    {
+        "id_location": 391193,
+        "id_location_parent": 1,
+        "name": "\u0427\u0435\u0440\u043d\u043e\u0432\u0438\u0446\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+        "seoname": "cernovickaya-oblast-782919"
+    },
+    {
+        "id_location": 391194,
+        "id_location_parent": 391193,
+        "name": "\u0412\u0430\u0448\u043a\u043e\u0432\u0446\u044b",
+        "seoname": "vaskovcy-515130"
+    },
+    {
+        "id_location": 391195,
+        "id_location_parent": 391193,
+        "name": "\u0412\u0438\u0436\u043d\u0438\u0446\u0430",
+        "seoname": "viznica-515131"
+    },
+    {
+        "id_location": 391196,
+        "id_location_parent": 391193,
+        "name": "\u0413\u0435\u0440\u0446\u0430",
+        "seoname": "gerca-515132"
+    },
+    {
+        "id_location": 391197,
+        "id_location_parent": 391193,
+        "name": "\u0417\u0430\u0441\u0442\u0430\u0432\u043d\u0430",
+        "seoname": "zastavna-515133"
+    },
+    {
+        "id_location": 391198,
+        "id_location_parent": 391193,
+        "name": "\u041a\u0438\u0446\u043c\u0430\u043d\u044c",
+        "seoname": "kicman-515134"
+    },
+    {
+        "id_location": 391199,
+        "id_location_parent": 391193,
+        "name": "\u041d\u043e\u0432\u043e\u0434\u043d\u0435\u0441\u0442\u0440\u043e\u0432\u0441\u043a",
+        "seoname": "novodnestrovsk-515135"
+    },
+    {
+        "id_location": 391200,
+        "id_location_parent": 391193,
+        "name": "\u041d\u043e\u0432\u043e\u0441\u0435\u043b\u0438\u0446\u0430",
+        "seoname": "novoselica-515136"
+    },
+    {
+        "id_location": 391201,
+        "id_location_parent": 391193,
+        "name": "\u0421\u043e\u043a\u0438\u0440\u044f\u043d\u044b",
+        "seoname": "sokiryany-515137"
+    },
+    {
+        "id_location": 391202,
+        "id_location_parent": 391193,
+        "name": "\u0421\u0442\u043e\u0440\u043e\u0436\u0438\u043d\u0435\u0446",
+        "seoname": "storozinec-515138"
+    },
+    {
+        "id_location": 391203,
+        "id_location_parent": 391193,
+        "name": "\u0425\u043e\u0442\u0438\u043d",
+        "seoname": "xotin-515139"
+    },
+    {
+        "id_location": 391204,
+        "id_location_parent": 391193,
+        "name": "\u0427\u0435\u0440\u043d\u043e\u0432\u0446\u044b",
+        "seoname": "cernovcy-515140"
+    }
+]

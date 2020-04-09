@@ -1,0 +1,68 @@
+[
+    {
+        "id_location": 271463,
+        "id_location_parent": 1,
+        "name": "Castries",
+        "seoname": "castries-779886"
+    },
+    {
+        "id_location": 271464,
+        "id_location_parent": 1,
+        "name": "Choiseul",
+        "seoname": "choiseul-779887"
+    },
+    {
+        "id_location": 271465,
+        "id_location_parent": 1,
+        "name": "Dauphin",
+        "seoname": "dauphin-779888"
+    },
+    {
+        "id_location": 271466,
+        "id_location_parent": 1,
+        "name": "Dennery",
+        "seoname": "dennery-779889"
+    },
+    {
+        "id_location": 271467,
+        "id_location_parent": 1,
+        "name": "Gros Islet",
+        "seoname": "gros-islet-779890"
+    },
+    {
+        "id_location": 271468,
+        "id_location_parent": 1,
+        "name": "Laborie",
+        "seoname": "laborie-779891"
+    },
+    {
+        "id_location": 271469,
+        "id_location_parent": 1,
+        "name": "Micoud",
+        "seoname": "micoud-779892"
+    },
+    {
+        "id_location": 271470,
+        "id_location_parent": 1,
+        "name": "Praslin",
+        "seoname": "praslin-779893"
+    },
+    {
+        "id_location": 271471,
+        "id_location_parent": 1,
+        "name": "Soufriere",
+        "seoname": "soufriere-779894"
+    },
+    {
+        "id_location": 271472,
+        "id_location_parent": 1,
+        "name": "Vieux Fort",
+        "seoname": "vieux-fort-779895"
+    },
+    {
+        "id_location": 271473,
+        "id_location_parent": 1,
+        "name": "Anse la Raye",
+        "seoname": "anse-la-raye-779896"
+    }
+]

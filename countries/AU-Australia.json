@@ -1,0 +1,4394 @@
+[
+    {
+        "id_location": 30194,
+        "id_location_parent": 1,
+        "name": "Adelaide",
+        "seoname": "adelaide-781072"
+    },
+    {
+        "id_location": 30195,
+        "id_location_parent": 30194,
+        "name": "Adelaide Hills",
+        "seoname": "adelaide-hills-65592"
+    },
+    {
+        "id_location": 30196,
+        "id_location_parent": 30194,
+        "name": "Burnside",
+        "seoname": "burnside-65593"
+    },
+    {
+        "id_location": 30197,
+        "id_location_parent": 30194,
+        "name": "Campbelltown",
+        "seoname": "campbelltown-65594"
+    },
+    {
+        "id_location": 30198,
+        "id_location_parent": 30194,
+        "name": "Charles Sturt",
+        "seoname": "charles-sturt-65595"
+    },
+    {
+        "id_location": 30199,
+        "id_location_parent": 30194,
+        "name": "Holdfast Bay",
+        "seoname": "holdfast-bay-65596"
+    },
+    {
+        "id_location": 30200,
+        "id_location_parent": 30194,
+        "name": "Onkaparinga",
+        "seoname": "onkaparinga-65598"
+    },
+    {
+        "id_location": 30201,
+        "id_location_parent": 30194,
+        "name": "Playford",
+        "seoname": "playford-65599"
+    },
+    {
+        "id_location": 30202,
+        "id_location_parent": 30194,
+        "name": "Port Adel. Enfield",
+        "seoname": "port-adel-enfield-65600"
+    },
+    {
+        "id_location": 30203,
+        "id_location_parent": 30194,
+        "name": "Salisbury",
+        "seoname": "salisbury-65601"
+    },
+    {
+        "id_location": 30204,
+        "id_location_parent": 30194,
+        "name": "Tea Tree Gully",
+        "seoname": "tea-tree-gully-65602"
+    },
+    {
+        "id_location": 30205,
+        "id_location_parent": 30194,
+        "name": "Walkerville",
+        "seoname": "walkerville-65603"
+    },
+    {
+        "id_location": 30206,
+        "id_location_parent": 30194,
+        "name": "West Torrens",
+        "seoname": "west-torrens-65604"
+    },
+    {
+        "id_location": 30207,
+        "id_location_parent": 30194,
+        "name": "Gawler",
+        "seoname": "gawler-65605"
+    },
+    {
+        "id_location": 30208,
+        "id_location_parent": 30194,
+        "name": "Mitcham",
+        "seoname": "mitcham-65606"
+    },
+    {
+        "id_location": 30209,
+        "id_location_parent": 30194,
+        "name": "Unley",
+        "seoname": "unley-65607"
+    },
+    {
+        "id_location": 30210,
+        "id_location_parent": 30194,
+        "name": "Marion",
+        "seoname": "marion-65608"
+    },
+    {
+        "id_location": 30211,
+        "id_location_parent": 30194,
+        "name": "Prospect",
+        "seoname": "prospect-65609"
+    },
+    {
+        "id_location": 30212,
+        "id_location_parent": 30194,
+        "name": "Crafers",
+        "seoname": "crafers-65610"
+    },
+    {
+        "id_location": 30213,
+        "id_location_parent": 30194,
+        "name": "Adelaide",
+        "seoname": "adelaide-65611"
+    },
+    {
+        "id_location": 30214,
+        "id_location_parent": 1,
+        "name": "All Gippsland",
+        "seoname": "all-gippsland-781073"
+    },
+    {
+        "id_location": 30215,
+        "id_location_parent": 1,
+        "name": "Australian Capital Territory",
+        "seoname": "australian-capital-territory-781074"
+    },
+    {
+        "id_location": 30216,
+        "id_location_parent": 30215,
+        "name": "Canberra",
+        "seoname": "canberra-65612"
+    },
+    {
+        "id_location": 30217,
+        "id_location_parent": 1,
+        "name": "Barwon-Western",
+        "seoname": "barwon-western-781075"
+    },
+    {
+        "id_location": 30218,
+        "id_location_parent": 30217,
+        "name": "Ocean Grove",
+        "seoname": "ocean-grove-65613"
+    },
+    {
+        "id_location": 30219,
+        "id_location_parent": 30217,
+        "name": "Barwon Heads",
+        "seoname": "barwon-heads-65614"
+    },
+    {
+        "id_location": 30220,
+        "id_location_parent": 30217,
+        "name": "Bellarine",
+        "seoname": "bellarine-65615"
+    },
+    {
+        "id_location": 30221,
+        "id_location_parent": 30217,
+        "name": "Corangamite",
+        "seoname": "corangamite-65616"
+    },
+    {
+        "id_location": 30222,
+        "id_location_parent": 30217,
+        "name": "Golden Plains",
+        "seoname": "golden-plains-65617"
+    },
+    {
+        "id_location": 30223,
+        "id_location_parent": 30217,
+        "name": "Lady Julia Percy Island",
+        "seoname": "lady-julia-percy-island-65618"
+    },
+    {
+        "id_location": 30224,
+        "id_location_parent": 30217,
+        "name": "Moyne",
+        "seoname": "moyne-65619"
+    },
+    {
+        "id_location": 30225,
+        "id_location_parent": 30217,
+        "name": "Newtown",
+        "seoname": "newtown-65620"
+    },
+    {
+        "id_location": 30226,
+        "id_location_parent": 30217,
+        "name": "Otway",
+        "seoname": "otway-65621"
+    },
+    {
+        "id_location": 30227,
+        "id_location_parent": 30217,
+        "name": "Queenscliffe",
+        "seoname": "queenscliffe-65622"
+    },
+    {
+        "id_location": 30228,
+        "id_location_parent": 30217,
+        "name": "S. Grampians",
+        "seoname": "s-grampians-65623"
+    },
+    {
+        "id_location": 30229,
+        "id_location_parent": 30217,
+        "name": "South Barwon",
+        "seoname": "south-barwon-65624"
+    },
+    {
+        "id_location": 30230,
+        "id_location_parent": 30217,
+        "name": "Surf Coast",
+        "seoname": "surf-coast-65625"
+    },
+    {
+        "id_location": 30231,
+        "id_location_parent": 30217,
+        "name": "Clifton Springs",
+        "seoname": "clifton-springs-65626"
+    },
+    {
+        "id_location": 30232,
+        "id_location_parent": 30217,
+        "name": "Colac",
+        "seoname": "colac-65627"
+    },
+    {
+        "id_location": 30233,
+        "id_location_parent": 30217,
+        "name": "Warrnambool",
+        "seoname": "warrnambool-65628"
+    },
+    {
+        "id_location": 30234,
+        "id_location_parent": 30217,
+        "name": "Geelong",
+        "seoname": "geelong-65629"
+    },
+    {
+        "id_location": 30235,
+        "id_location_parent": 1,
+        "name": "Brisbane",
+        "seoname": "brisbane-781076"
+    },
+    {
+        "id_location": 30236,
+        "id_location_parent": 30235,
+        "name": "Beaudesert Shire",
+        "seoname": "beaudesert-shire-65630"
+    },
+    {
+        "id_location": 30237,
+        "id_location_parent": 30235,
+        "name": "Caboolture",
+        "seoname": "caboolture-65631"
+    },
+    {
+        "id_location": 30238,
+        "id_location_parent": 30235,
+        "name": "Ipswich",
+        "seoname": "ipswich-65632"
+    },
+    {
+        "id_location": 30239,
+        "id_location_parent": 30235,
+        "name": "Pine Rivers Shire",
+        "seoname": "pine-rivers-shire-65633"
+    },
+    {
+        "id_location": 30240,
+        "id_location_parent": 30235,
+        "name": "Redcliffe",
+        "seoname": "redcliffe-65634"
+    },
+    {
+        "id_location": 30241,
+        "id_location_parent": 30235,
+        "name": "Redland Shire",
+        "seoname": "redland-shire-65635"
+    },
+    {
+        "id_location": 30242,
+        "id_location_parent": 30235,
+        "name": "Logan",
+        "seoname": "logan-65636"
+    },
+    {
+        "id_location": 30243,
+        "id_location_parent": 30235,
+        "name": "Brisbane",
+        "seoname": "brisbane-65637"
+    },
+    {
+        "id_location": 30244,
+        "id_location_parent": 1,
+        "name": "Central Highlands-Wimmera",
+        "seoname": "central-highlands-wimmera-781077"
+    },
+    {
+        "id_location": 30245,
+        "id_location_parent": 30244,
+        "name": "Hepburn",
+        "seoname": "hepburn-65638"
+    },
+    {
+        "id_location": 30246,
+        "id_location_parent": 30244,
+        "name": "Moorabool",
+        "seoname": "moorabool-65639"
+    },
+    {
+        "id_location": 30247,
+        "id_location_parent": 30244,
+        "name": "N. Grampians",
+        "seoname": "n-grampians-65640"
+    },
+    {
+        "id_location": 30248,
+        "id_location_parent": 30244,
+        "name": "Pyrenees",
+        "seoname": "pyrenees-65641"
+    },
+    {
+        "id_location": 30249,
+        "id_location_parent": 30244,
+        "name": "West Wimmera",
+        "seoname": "west-wimmera-65642"
+    },
+    {
+        "id_location": 30250,
+        "id_location_parent": 30244,
+        "name": "Yarriambiack",
+        "seoname": "yarriambiack-65643"
+    },
+    {
+        "id_location": 30251,
+        "id_location_parent": 30244,
+        "name": "Hindmarsh",
+        "seoname": "hindmarsh-65644"
+    },
+    {
+        "id_location": 30252,
+        "id_location_parent": 30244,
+        "name": "Ararat",
+        "seoname": "ararat-65645"
+    },
+    {
+        "id_location": 30253,
+        "id_location_parent": 30244,
+        "name": "Horsham",
+        "seoname": "horsham-65646"
+    },
+    {
+        "id_location": 30254,
+        "id_location_parent": 30244,
+        "name": "Ballarat",
+        "seoname": "ballarat-65647"
+    },
+    {
+        "id_location": 30255,
+        "id_location_parent": 1,
+        "name": "Central West NSW",
+        "seoname": "central-west-nsw-781078"
+    },
+    {
+        "id_location": 30256,
+        "id_location_parent": 30255,
+        "name": "Bathurst",
+        "seoname": "bathurst-65648"
+    },
+    {
+        "id_location": 30257,
+        "id_location_parent": 30255,
+        "name": "Cabonne",
+        "seoname": "cabonne-65649"
+    },
+    {
+        "id_location": 30258,
+        "id_location_parent": 30255,
+        "name": "Evans",
+        "seoname": "evans-65650"
+    },
+    {
+        "id_location": 30259,
+        "id_location_parent": 30255,
+        "name": "Rylstone",
+        "seoname": "rylstone-65651"
+    },
+    {
+        "id_location": 30260,
+        "id_location_parent": 30255,
+        "name": "Weddin",
+        "seoname": "weddin-65652"
+    },
+    {
+        "id_location": 30261,
+        "id_location_parent": 30255,
+        "name": "Bland",
+        "seoname": "bland-65653"
+    },
+    {
+        "id_location": 30262,
+        "id_location_parent": 30255,
+        "name": "Lachlan",
+        "seoname": "lachlan-65654"
+    },
+    {
+        "id_location": 30263,
+        "id_location_parent": 30255,
+        "name": "Blayney",
+        "seoname": "blayney-65655"
+    },
+    {
+        "id_location": 30264,
+        "id_location_parent": 30255,
+        "name": "Oberon",
+        "seoname": "oberon-65656"
+    },
+    {
+        "id_location": 30265,
+        "id_location_parent": 30255,
+        "name": "Forbes",
+        "seoname": "forbes-65657"
+    },
+    {
+        "id_location": 30266,
+        "id_location_parent": 30255,
+        "name": "Cowra",
+        "seoname": "cowra-65658"
+    },
+    {
+        "id_location": 30267,
+        "id_location_parent": 30255,
+        "name": "Lithgow",
+        "seoname": "lithgow-65659"
+    },
+    {
+        "id_location": 30268,
+        "id_location_parent": 30255,
+        "name": "Parkes",
+        "seoname": "parkes-65660"
+    },
+    {
+        "id_location": 30269,
+        "id_location_parent": 30255,
+        "name": "Orange",
+        "seoname": "orange-65661"
+    },
+    {
+        "id_location": 30270,
+        "id_location_parent": 1,
+        "name": "Central West Queensland",
+        "seoname": "central-west-queensland-781079"
+    },
+    {
+        "id_location": 30271,
+        "id_location_parent": 30270,
+        "name": "Aramac",
+        "seoname": "aramac-65662"
+    },
+    {
+        "id_location": 30272,
+        "id_location_parent": 30270,
+        "name": "Barcaldine",
+        "seoname": "barcaldine-65663"
+    },
+    {
+        "id_location": 30273,
+        "id_location_parent": 30270,
+        "name": "Barcoo",
+        "seoname": "barcoo-65664"
+    },
+    {
+        "id_location": 30274,
+        "id_location_parent": 30270,
+        "name": "Blackall",
+        "seoname": "blackall-65665"
+    },
+    {
+        "id_location": 30275,
+        "id_location_parent": 30270,
+        "name": "Boulia",
+        "seoname": "boulia-65666"
+    },
+    {
+        "id_location": 30276,
+        "id_location_parent": 30270,
+        "name": "Diamantina",
+        "seoname": "diamantina-65667"
+    },
+    {
+        "id_location": 30277,
+        "id_location_parent": 30270,
+        "name": "Ilfracombe",
+        "seoname": "ilfracombe-65668"
+    },
+    {
+        "id_location": 30278,
+        "id_location_parent": 30270,
+        "name": "Isisford",
+        "seoname": "isisford-65669"
+    },
+    {
+        "id_location": 30279,
+        "id_location_parent": 30270,
+        "name": "Longreach",
+        "seoname": "longreach-65670"
+    },
+    {
+        "id_location": 30280,
+        "id_location_parent": 30270,
+        "name": "Winton",
+        "seoname": "winton-65671"
+    },
+    {
+        "id_location": 30281,
+        "id_location_parent": 30270,
+        "name": "Tambo",
+        "seoname": "tambo-65672"
+    },
+    {
+        "id_location": 30282,
+        "id_location_parent": 30270,
+        "name": "Yeppoon",
+        "seoname": "yeppoon-65673"
+    },
+    {
+        "id_location": 30283,
+        "id_location_parent": 1,
+        "name": "Christmas Island",
+        "seoname": "christmas-island-781080"
+    },
+    {
+        "id_location": 30284,
+        "id_location_parent": 1,
+        "name": "Cocos Islands",
+        "seoname": "cocos-islands-781081"
+    },
+    {
+        "id_location": 30285,
+        "id_location_parent": 1,
+        "name": "Darling Downs",
+        "seoname": "darling-downs-781082"
+    },
+    {
+        "id_location": 30286,
+        "id_location_parent": 30285,
+        "name": "Cambooya",
+        "seoname": "cambooya-65674"
+    },
+    {
+        "id_location": 30287,
+        "id_location_parent": 30285,
+        "name": "Chinchilla",
+        "seoname": "chinchilla-65675"
+    },
+    {
+        "id_location": 30288,
+        "id_location_parent": 30285,
+        "name": "Clifton",
+        "seoname": "clifton-65676"
+    },
+    {
+        "id_location": 30289,
+        "id_location_parent": 30285,
+        "name": "Goondiwindi",
+        "seoname": "goondiwindi-65678"
+    },
+    {
+        "id_location": 30290,
+        "id_location_parent": 30285,
+        "name": "Inglewood",
+        "seoname": "inglewood-65679"
+    },
+    {
+        "id_location": 30291,
+        "id_location_parent": 30285,
+        "name": "Jondaryan",
+        "seoname": "jondaryan-65680"
+    },
+    {
+        "id_location": 30292,
+        "id_location_parent": 30285,
+        "name": "Millmerran",
+        "seoname": "millmerran-65681"
+    },
+    {
+        "id_location": 30293,
+        "id_location_parent": 30285,
+        "name": "Murilla",
+        "seoname": "murilla-65682"
+    },
+    {
+        "id_location": 30294,
+        "id_location_parent": 30285,
+        "name": "Pittsworth",
+        "seoname": "pittsworth-65683"
+    },
+    {
+        "id_location": 30295,
+        "id_location_parent": 30285,
+        "name": "Tara",
+        "seoname": "tara-65684"
+    },
+    {
+        "id_location": 30296,
+        "id_location_parent": 30285,
+        "name": "Waggamba",
+        "seoname": "waggamba-65685"
+    },
+    {
+        "id_location": 30297,
+        "id_location_parent": 30285,
+        "name": "Wambo",
+        "seoname": "wambo-65686"
+    },
+    {
+        "id_location": 30298,
+        "id_location_parent": 30285,
+        "name": "Rosalie",
+        "seoname": "rosalie-65687"
+    },
+    {
+        "id_location": 30299,
+        "id_location_parent": 30285,
+        "name": "Taroom",
+        "seoname": "taroom-65688"
+    },
+    {
+        "id_location": 30300,
+        "id_location_parent": 30285,
+        "name": "Stanthorpe",
+        "seoname": "stanthorpe-65689"
+    },
+    {
+        "id_location": 30301,
+        "id_location_parent": 30285,
+        "name": "Dalby",
+        "seoname": "dalby-65690"
+    },
+    {
+        "id_location": 30302,
+        "id_location_parent": 30285,
+        "name": "Warwick",
+        "seoname": "warwick-65691"
+    },
+    {
+        "id_location": 30303,
+        "id_location_parent": 30285,
+        "name": "Toowoomba",
+        "seoname": "toowoomba-65692"
+    },
+    {
+        "id_location": 30304,
+        "id_location_parent": 1,
+        "name": "Far North Queensland",
+        "seoname": "far-north-queensland-781083"
+    },
+    {
+        "id_location": 30305,
+        "id_location_parent": 30304,
+        "name": "Aurukun",
+        "seoname": "aurukun-65693"
+    },
+    {
+        "id_location": 30306,
+        "id_location_parent": 30304,
+        "name": "Cardwell",
+        "seoname": "cardwell-65694"
+    },
+    {
+        "id_location": 30307,
+        "id_location_parent": 30304,
+        "name": "Cook",
+        "seoname": "cook-65695"
+    },
+    {
+        "id_location": 30308,
+        "id_location_parent": 30304,
+        "name": "Croydon",
+        "seoname": "croydon-65696"
+    },
+    {
+        "id_location": 30309,
+        "id_location_parent": 30304,
+        "name": "Douglas",
+        "seoname": "douglas-65697"
+    },
+    {
+        "id_location": 30310,
+        "id_location_parent": 30304,
+        "name": "Eacham",
+        "seoname": "eacham-65698"
+    },
+    {
+        "id_location": 30311,
+        "id_location_parent": 30304,
+        "name": "Etheridge",
+        "seoname": "etheridge-65699"
+    },
+    {
+        "id_location": 30312,
+        "id_location_parent": 30304,
+        "name": "Herberton",
+        "seoname": "herberton-65700"
+    },
+    {
+        "id_location": 30313,
+        "id_location_parent": 30304,
+        "name": "Johnstone",
+        "seoname": "johnstone-65701"
+    },
+    {
+        "id_location": 30314,
+        "id_location_parent": 30304,
+        "name": "Torres",
+        "seoname": "torres-65702"
+    },
+    {
+        "id_location": 30315,
+        "id_location_parent": 30304,
+        "name": "Atherton",
+        "seoname": "atherton-65703"
+    },
+    {
+        "id_location": 30316,
+        "id_location_parent": 30304,
+        "name": "Mareeba",
+        "seoname": "mareeba-65704"
+    },
+    {
+        "id_location": 30317,
+        "id_location_parent": 30304,
+        "name": "Cairns",
+        "seoname": "cairns-65705"
+    },
+    {
+        "id_location": 30318,
+        "id_location_parent": 1,
+        "name": "Far West-North Western",
+        "seoname": "far-west-north-western-781084"
+    },
+    {
+        "id_location": 30319,
+        "id_location_parent": 30318,
+        "name": "Bogan",
+        "seoname": "bogan-65706"
+    },
+    {
+        "id_location": 30320,
+        "id_location_parent": 30318,
+        "name": "Central Darling",
+        "seoname": "central-darling-65707"
+    },
+    {
+        "id_location": 30321,
+        "id_location_parent": 30318,
+        "name": "Walgett",
+        "seoname": "walgett-65708"
+    },
+    {
+        "id_location": 30322,
+        "id_location_parent": 30318,
+        "name": "Warren",
+        "seoname": "warren-65709"
+    },
+    {
+        "id_location": 30323,
+        "id_location_parent": 30318,
+        "name": "Wellington",
+        "seoname": "wellington-65710"
+    },
+    {
+        "id_location": 30324,
+        "id_location_parent": 30318,
+        "name": "Coolah",
+        "seoname": "coolah-65711"
+    },
+    {
+        "id_location": 30325,
+        "id_location_parent": 30318,
+        "name": "Brewarrina",
+        "seoname": "brewarrina-65712"
+    },
+    {
+        "id_location": 30326,
+        "id_location_parent": 30318,
+        "name": "Bourke",
+        "seoname": "bourke-65713"
+    },
+    {
+        "id_location": 30327,
+        "id_location_parent": 30318,
+        "name": "Coonabarabran",
+        "seoname": "coonabarabran-65714"
+    },
+    {
+        "id_location": 30328,
+        "id_location_parent": 30318,
+        "name": "Coonamble",
+        "seoname": "coonamble-65715"
+    },
+    {
+        "id_location": 30329,
+        "id_location_parent": 30318,
+        "name": "Gilgandra",
+        "seoname": "gilgandra-65716"
+    },
+    {
+        "id_location": 30330,
+        "id_location_parent": 30318,
+        "name": "Cobar",
+        "seoname": "cobar-65717"
+    },
+    {
+        "id_location": 30331,
+        "id_location_parent": 30318,
+        "name": "Narromine",
+        "seoname": "narromine-65718"
+    },
+    {
+        "id_location": 30332,
+        "id_location_parent": 30318,
+        "name": "Mudgee",
+        "seoname": "mudgee-65719"
+    },
+    {
+        "id_location": 30333,
+        "id_location_parent": 30318,
+        "name": "Broken Hill",
+        "seoname": "broken-hill-65720"
+    },
+    {
+        "id_location": 30334,
+        "id_location_parent": 30318,
+        "name": "Dubbo",
+        "seoname": "dubbo-65721"
+    },
+    {
+        "id_location": 30335,
+        "id_location_parent": 1,
+        "name": "Fitzroy",
+        "seoname": "fitzroy-781085"
+    },
+    {
+        "id_location": 30336,
+        "id_location_parent": 30335,
+        "name": "Banana",
+        "seoname": "banana-65722"
+    },
+    {
+        "id_location": 30337,
+        "id_location_parent": 30335,
+        "name": "Bauhinia",
+        "seoname": "bauhinia-65723"
+    },
+    {
+        "id_location": 30338,
+        "id_location_parent": 30335,
+        "name": "Calliope",
+        "seoname": "calliope-65724"
+    },
+    {
+        "id_location": 30339,
+        "id_location_parent": 30335,
+        "name": "Duaringa",
+        "seoname": "duaringa-65725"
+    },
+    {
+        "id_location": 30340,
+        "id_location_parent": 30335,
+        "name": "Fitzroy",
+        "seoname": "fitzroy-65726"
+    },
+    {
+        "id_location": 30341,
+        "id_location_parent": 30335,
+        "name": "Jericho",
+        "seoname": "jericho-65727"
+    },
+    {
+        "id_location": 30342,
+        "id_location_parent": 30335,
+        "name": "Livingstone",
+        "seoname": "livingstone-65728"
+    },
+    {
+        "id_location": 30343,
+        "id_location_parent": 30335,
+        "name": "Mount Morgan",
+        "seoname": "mount-morgan-65729"
+    },
+    {
+        "id_location": 30344,
+        "id_location_parent": 30335,
+        "name": "Peak Downs",
+        "seoname": "peak-downs-65730"
+    },
+    {
+        "id_location": 30345,
+        "id_location_parent": 30335,
+        "name": "Emerald",
+        "seoname": "emerald-65731"
+    },
+    {
+        "id_location": 30346,
+        "id_location_parent": 30335,
+        "name": "Gladstone",
+        "seoname": "gladstone-65732"
+    },
+    {
+        "id_location": 30347,
+        "id_location_parent": 30335,
+        "name": "Rockhampton",
+        "seoname": "rockhampton-65733"
+    },
+    {
+        "id_location": 30348,
+        "id_location_parent": 1,
+        "name": "Gascoyne",
+        "seoname": "gascoyne-781086"
+    },
+    {
+        "id_location": 30349,
+        "id_location_parent": 30348,
+        "name": "Upper Gascoyne",
+        "seoname": "upper-gascoyne-65734"
+    },
+    {
+        "id_location": 30350,
+        "id_location_parent": 30348,
+        "name": "Exmouth",
+        "seoname": "exmouth-65735"
+    },
+    {
+        "id_location": 30351,
+        "id_location_parent": 30348,
+        "name": "Carnarvon",
+        "seoname": "carnarvon-65736"
+    },
+    {
+        "id_location": 30352,
+        "id_location_parent": 30348,
+        "name": "Shark Bay",
+        "seoname": "shark-bay-65737"
+    },
+    {
+        "id_location": 30353,
+        "id_location_parent": 1,
+        "name": "Gippsland",
+        "seoname": "gippsland-781087"
+    },
+    {
+        "id_location": 30354,
+        "id_location_parent": 30353,
+        "name": "Bass Coast",
+        "seoname": "bass-coast-65738"
+    },
+    {
+        "id_location": 30355,
+        "id_location_parent": 30353,
+        "name": "Bass Strait Islands",
+        "seoname": "bass-strait-islands-65739"
+    },
+    {
+        "id_location": 30356,
+        "id_location_parent": 30353,
+        "name": "Baw Baw",
+        "seoname": "baw-baw-65740"
+    },
+    {
+        "id_location": 30357,
+        "id_location_parent": 30353,
+        "name": "E. Gippsland",
+        "seoname": "e-gippsland-65741"
+    },
+    {
+        "id_location": 30358,
+        "id_location_parent": 30353,
+        "name": "French Island",
+        "seoname": "french-island-65742"
+    },
+    {
+        "id_location": 30359,
+        "id_location_parent": 30353,
+        "name": "Latrobe",
+        "seoname": "latrobe-65743"
+    },
+    {
+        "id_location": 30360,
+        "id_location_parent": 30353,
+        "name": "South Gippsland",
+        "seoname": "south-gippsland-65744"
+    },
+    {
+        "id_location": 30361,
+        "id_location_parent": 30353,
+        "name": "Wellington",
+        "seoname": "wellington-65745"
+    },
+    {
+        "id_location": 30362,
+        "id_location_parent": 30353,
+        "name": "Yarra Ranges",
+        "seoname": "yarra-ranges-65746"
+    },
+    {
+        "id_location": 30363,
+        "id_location_parent": 30353,
+        "name": "Bairnsdale",
+        "seoname": "bairnsdale-65747"
+    },
+    {
+        "id_location": 30364,
+        "id_location_parent": 30353,
+        "name": "Morwell",
+        "seoname": "morwell-65748"
+    },
+    {
+        "id_location": 30365,
+        "id_location_parent": 30353,
+        "name": "Sale",
+        "seoname": "sale-65749"
+    },
+    {
+        "id_location": 30366,
+        "id_location_parent": 30353,
+        "name": "Moe",
+        "seoname": "moe-65750"
+    },
+    {
+        "id_location": 30367,
+        "id_location_parent": 30353,
+        "name": "Traralgon",
+        "seoname": "traralgon-65751"
+    },
+    {
+        "id_location": 30368,
+        "id_location_parent": 1,
+        "name": "Goldfields-Esperance",
+        "seoname": "goldfields-esperance-781088"
+    },
+    {
+        "id_location": 30369,
+        "id_location_parent": 30368,
+        "name": "Dundas",
+        "seoname": "dundas-65752"
+    },
+    {
+        "id_location": 30370,
+        "id_location_parent": 30368,
+        "name": "Laverton",
+        "seoname": "laverton-65753"
+    },
+    {
+        "id_location": 30371,
+        "id_location_parent": 30368,
+        "name": "Ngaanyatjarraku",
+        "seoname": "ngaanyatjarraku-65754"
+    },
+    {
+        "id_location": 30372,
+        "id_location_parent": 30368,
+        "name": "Menzies",
+        "seoname": "menzies-65755"
+    },
+    {
+        "id_location": 30373,
+        "id_location_parent": 30368,
+        "name": "Leonora",
+        "seoname": "leonora-65756"
+    },
+    {
+        "id_location": 30374,
+        "id_location_parent": 30368,
+        "name": "Coolgardie",
+        "seoname": "coolgardie-65757"
+    },
+    {
+        "id_location": 30375,
+        "id_location_parent": 30368,
+        "name": "Ravensthorpe",
+        "seoname": "ravensthorpe-65758"
+    },
+    {
+        "id_location": 30376,
+        "id_location_parent": 30368,
+        "name": "Boulder",
+        "seoname": "boulder-65759"
+    },
+    {
+        "id_location": 30377,
+        "id_location_parent": 30368,
+        "name": "Esperance",
+        "seoname": "esperance-65760"
+    },
+    {
+        "id_location": 30378,
+        "id_location_parent": 30368,
+        "name": "Kalgoorlie",
+        "seoname": "kalgoorlie-65761"
+    },
+    {
+        "id_location": 30379,
+        "id_location_parent": 1,
+        "name": "Goulburn-Ovens-Murray",
+        "seoname": "goulburn-ovens-murray-781089"
+    },
+    {
+        "id_location": 30380,
+        "id_location_parent": 30379,
+        "name": "Mooroopna",
+        "seoname": "mooroopna-65762"
+    },
+    {
+        "id_location": 30381,
+        "id_location_parent": 30379,
+        "name": "Alpine",
+        "seoname": "alpine-65763"
+    },
+    {
+        "id_location": 30382,
+        "id_location_parent": 30379,
+        "name": "Campaspe",
+        "seoname": "campaspe-65764"
+    },
+    {
+        "id_location": 30383,
+        "id_location_parent": 30379,
+        "name": "Delatite",
+        "seoname": "delatite-65765"
+    },
+    {
+        "id_location": 30384,
+        "id_location_parent": 30379,
+        "name": "Gr. Shepparton",
+        "seoname": "gr-shepparton-65766"
+    },
+    {
+        "id_location": 30385,
+        "id_location_parent": 30379,
+        "name": "Indigo",
+        "seoname": "indigo-65767"
+    },
+    {
+        "id_location": 30386,
+        "id_location_parent": 30379,
+        "name": "Mitchell",
+        "seoname": "mitchell-65768"
+    },
+    {
+        "id_location": 30387,
+        "id_location_parent": 30379,
+        "name": "Moira",
+        "seoname": "moira-65769"
+    },
+    {
+        "id_location": 30388,
+        "id_location_parent": 30379,
+        "name": "Murrindindi",
+        "seoname": "murrindindi-65770"
+    },
+    {
+        "id_location": 30389,
+        "id_location_parent": 30379,
+        "name": "Strathbogie",
+        "seoname": "strathbogie-65771"
+    },
+    {
+        "id_location": 30390,
+        "id_location_parent": 30379,
+        "name": "Towong",
+        "seoname": "towong-65772"
+    },
+    {
+        "id_location": 30391,
+        "id_location_parent": 30379,
+        "name": "Wangaratta",
+        "seoname": "wangaratta-65773"
+    },
+    {
+        "id_location": 30392,
+        "id_location_parent": 30379,
+        "name": "Goulburn",
+        "seoname": "goulburn-65774"
+    },
+    {
+        "id_location": 30393,
+        "id_location_parent": 30379,
+        "name": "Wodonga",
+        "seoname": "wodonga-65775"
+    },
+    {
+        "id_location": 30394,
+        "id_location_parent": 30379,
+        "name": "Shepparton",
+        "seoname": "shepparton-65776"
+    },
+    {
+        "id_location": 30395,
+        "id_location_parent": 1,
+        "name": "Greater Hobart",
+        "seoname": "greater-hobart-781090"
+    },
+    {
+        "id_location": 30396,
+        "id_location_parent": 30395,
+        "name": "Kingston",
+        "seoname": "kingston-65777"
+    },
+    {
+        "id_location": 30397,
+        "id_location_parent": 30395,
+        "name": "Brighton",
+        "seoname": "brighton-65778"
+    },
+    {
+        "id_location": 30398,
+        "id_location_parent": 30395,
+        "name": "Central Highlands",
+        "seoname": "central-highlands-65779"
+    },
+    {
+        "id_location": 30399,
+        "id_location_parent": 30395,
+        "name": "Clarence",
+        "seoname": "clarence-65780"
+    },
+    {
+        "id_location": 30400,
+        "id_location_parent": 30395,
+        "name": "Derwent Valley",
+        "seoname": "derwent-valley-65781"
+    },
+    {
+        "id_location": 30401,
+        "id_location_parent": 30395,
+        "name": "Glamorgan\/Spring Bay",
+        "seoname": "glamorganspring-bay-65782"
+    },
+    {
+        "id_location": 30402,
+        "id_location_parent": 30395,
+        "name": "Glenorchy",
+        "seoname": "glenorchy-65783"
+    },
+    {
+        "id_location": 30403,
+        "id_location_parent": 30395,
+        "name": "Huon Valley",
+        "seoname": "huon-valley-65784"
+    },
+    {
+        "id_location": 30404,
+        "id_location_parent": 30395,
+        "name": "Kingborough",
+        "seoname": "kingborough-65785"
+    },
+    {
+        "id_location": 30405,
+        "id_location_parent": 30395,
+        "name": "Southern Midlands",
+        "seoname": "southern-midlands-65786"
+    },
+    {
+        "id_location": 30406,
+        "id_location_parent": 30395,
+        "name": "Tasman",
+        "seoname": "tasman-65787"
+    },
+    {
+        "id_location": 30407,
+        "id_location_parent": 30395,
+        "name": "Sorell",
+        "seoname": "sorell-65788"
+    },
+    {
+        "id_location": 30408,
+        "id_location_parent": 30395,
+        "name": "Hobart",
+        "seoname": "hobart-65789"
+    },
+    {
+        "id_location": 30409,
+        "id_location_parent": 1,
+        "name": "Hunter",
+        "seoname": "hunter-781091"
+    },
+    {
+        "id_location": 30410,
+        "id_location_parent": 30409,
+        "name": "Great Lakes",
+        "seoname": "great-lakes-65790"
+    },
+    {
+        "id_location": 30411,
+        "id_location_parent": 30409,
+        "name": "Lake Macquarie",
+        "seoname": "lake-macquarie-65791"
+    },
+    {
+        "id_location": 30412,
+        "id_location_parent": 30409,
+        "name": "Scone",
+        "seoname": "scone-65792"
+    },
+    {
+        "id_location": 30413,
+        "id_location_parent": 30409,
+        "name": "Murrurundi",
+        "seoname": "murrurundi-65793"
+    },
+    {
+        "id_location": 30414,
+        "id_location_parent": 30409,
+        "name": "Maitland",
+        "seoname": "maitland-65794"
+    },
+    {
+        "id_location": 30415,
+        "id_location_parent": 30409,
+        "name": "Merriwa",
+        "seoname": "merriwa-65795"
+    },
+    {
+        "id_location": 30416,
+        "id_location_parent": 30409,
+        "name": "Dungog",
+        "seoname": "dungog-65796"
+    },
+    {
+        "id_location": 30417,
+        "id_location_parent": 30409,
+        "name": "Gloucester",
+        "seoname": "gloucester-65797"
+    },
+    {
+        "id_location": 30418,
+        "id_location_parent": 30409,
+        "name": "Kiama",
+        "seoname": "kiama-65798"
+    },
+    {
+        "id_location": 30419,
+        "id_location_parent": 30409,
+        "name": "Kurri Kurri",
+        "seoname": "kurri-kurri-65799"
+    },
+    {
+        "id_location": 30420,
+        "id_location_parent": 30409,
+        "name": "Muswellbrook",
+        "seoname": "muswellbrook-65800"
+    },
+    {
+        "id_location": 30421,
+        "id_location_parent": 30409,
+        "name": "Raymond Terrace",
+        "seoname": "raymond-terrace-65801"
+    },
+    {
+        "id_location": 30422,
+        "id_location_parent": 30409,
+        "name": "Singleton",
+        "seoname": "singleton-65802"
+    },
+    {
+        "id_location": 30423,
+        "id_location_parent": 30409,
+        "name": "Cessnock",
+        "seoname": "cessnock-65803"
+    },
+    {
+        "id_location": 30424,
+        "id_location_parent": 30409,
+        "name": "Port Stephens",
+        "seoname": "port-stephens-65804"
+    },
+    {
+        "id_location": 30425,
+        "id_location_parent": 30409,
+        "name": "Newcastle",
+        "seoname": "newcastle-65805"
+    },
+    {
+        "id_location": 30426,
+        "id_location_parent": 1,
+        "name": "Illawarra",
+        "seoname": "illawarra-781092"
+    },
+    {
+        "id_location": 30427,
+        "id_location_parent": 30426,
+        "name": "Bega Valley",
+        "seoname": "bega-valley-65806"
+    },
+    {
+        "id_location": 30428,
+        "id_location_parent": 30426,
+        "name": "Shoalhaven",
+        "seoname": "shoalhaven-65807"
+    },
+    {
+        "id_location": 30429,
+        "id_location_parent": 30426,
+        "name": "Wingecarribee",
+        "seoname": "wingecarribee-65808"
+    },
+    {
+        "id_location": 30430,
+        "id_location_parent": 30426,
+        "name": "Shellharbour",
+        "seoname": "shellharbour-65809"
+    },
+    {
+        "id_location": 30431,
+        "id_location_parent": 30426,
+        "name": "Wollongong",
+        "seoname": "wollongong-65810"
+    },
+    {
+        "id_location": 30432,
+        "id_location_parent": 1,
+        "name": "Kimberley",
+        "seoname": "kimberley-781093"
+    },
+    {
+        "id_location": 30433,
+        "id_location_parent": 30432,
+        "name": "Derby-West Kimberley",
+        "seoname": "derby-west-kimberley-65811"
+    },
+    {
+        "id_location": 30434,
+        "id_location_parent": 30432,
+        "name": "Wyndham-East Kimberley",
+        "seoname": "wyndham-east-kimberley-65812"
+    },
+    {
+        "id_location": 30435,
+        "id_location_parent": 30432,
+        "name": "Halls Creek",
+        "seoname": "halls-creek-65813"
+    },
+    {
+        "id_location": 30436,
+        "id_location_parent": 30432,
+        "name": "Broome",
+        "seoname": "broome-65814"
+    },
+    {
+        "id_location": 30437,
+        "id_location_parent": 1,
+        "name": "Loddon-Mallee",
+        "seoname": "loddon-mallee-781094"
+    },
+    {
+        "id_location": 30438,
+        "id_location_parent": 30437,
+        "name": "Buloke",
+        "seoname": "buloke-65815"
+    },
+    {
+        "id_location": 30439,
+        "id_location_parent": 30437,
+        "name": "C. Goldfields",
+        "seoname": "c-goldfields-65816"
+    },
+    {
+        "id_location": 30440,
+        "id_location_parent": 30437,
+        "name": "Gannawarra",
+        "seoname": "gannawarra-65817"
+    },
+    {
+        "id_location": 30441,
+        "id_location_parent": 30437,
+        "name": "Loddon",
+        "seoname": "loddon-65818"
+    },
+    {
+        "id_location": 30442,
+        "id_location_parent": 30437,
+        "name": "Macedon Ranges",
+        "seoname": "macedon-ranges-65819"
+    },
+    {
+        "id_location": 30443,
+        "id_location_parent": 30437,
+        "name": "Mount Alexander",
+        "seoname": "mount-alexander-65820"
+    },
+    {
+        "id_location": 30444,
+        "id_location_parent": 30437,
+        "name": "Swan Hill",
+        "seoname": "swan-hill-65821"
+    },
+    {
+        "id_location": 30445,
+        "id_location_parent": 30437,
+        "name": "Mildura",
+        "seoname": "mildura-65822"
+    },
+    {
+        "id_location": 30446,
+        "id_location_parent": 30437,
+        "name": "Bendigo",
+        "seoname": "bendigo-65823"
+    },
+    {
+        "id_location": 30447,
+        "id_location_parent": 1,
+        "name": "Lower West WA",
+        "seoname": "lower-west-wa-781095"
+    },
+    {
+        "id_location": 30448,
+        "id_location_parent": 30447,
+        "name": "Augusta-Margaret River",
+        "seoname": "augusta-margaret-river-65824"
+    },
+    {
+        "id_location": 30449,
+        "id_location_parent": 30447,
+        "name": "Bridgetown-Greenbushes",
+        "seoname": "bridgetown-greenbushes-65825"
+    },
+    {
+        "id_location": 30450,
+        "id_location_parent": 30447,
+        "name": "Brookton",
+        "seoname": "brookton-65826"
+    },
+    {
+        "id_location": 30451,
+        "id_location_parent": 30447,
+        "name": "Corrigin",
+        "seoname": "corrigin-65827"
+    },
+    {
+        "id_location": 30452,
+        "id_location_parent": 30447,
+        "name": "Cuballing",
+        "seoname": "cuballing-65828"
+    },
+    {
+        "id_location": 30453,
+        "id_location_parent": 30447,
+        "name": "Donnybrook-Balingup",
+        "seoname": "donnybrook-balingup-65829"
+    },
+    {
+        "id_location": 30454,
+        "id_location_parent": 30447,
+        "name": "Dumbleyung",
+        "seoname": "dumbleyung-65830"
+    },
+    {
+        "id_location": 30455,
+        "id_location_parent": 30447,
+        "name": "Jerramungup",
+        "seoname": "jerramungup-65831"
+    },
+    {
+        "id_location": 30456,
+        "id_location_parent": 30447,
+        "name": "Kent",
+        "seoname": "kent-65832"
+    },
+    {
+        "id_location": 30457,
+        "id_location_parent": 30447,
+        "name": "Kondinin",
+        "seoname": "kondinin-65833"
+    },
+    {
+        "id_location": 30458,
+        "id_location_parent": 30447,
+        "name": "Kulin",
+        "seoname": "kulin-65834"
+    },
+    {
+        "id_location": 30459,
+        "id_location_parent": 30447,
+        "name": "Lake Grace",
+        "seoname": "lake-grace-65835"
+    },
+    {
+        "id_location": 30460,
+        "id_location_parent": 30447,
+        "name": "Murray",
+        "seoname": "murray-65836"
+    },
+    {
+        "id_location": 30461,
+        "id_location_parent": 30447,
+        "name": "Pingelly",
+        "seoname": "pingelly-65837"
+    },
+    {
+        "id_location": 30462,
+        "id_location_parent": 30447,
+        "name": "Plantagenet",
+        "seoname": "plantagenet-65838"
+    },
+    {
+        "id_location": 30463,
+        "id_location_parent": 30447,
+        "name": "Wagin",
+        "seoname": "wagin-65839"
+    },
+    {
+        "id_location": 30464,
+        "id_location_parent": 30447,
+        "name": "Wandering",
+        "seoname": "wandering-65840"
+    },
+    {
+        "id_location": 30465,
+        "id_location_parent": 30447,
+        "name": "West Arthur",
+        "seoname": "west-arthur-65841"
+    },
+    {
+        "id_location": 30466,
+        "id_location_parent": 30447,
+        "name": "Wickepin",
+        "seoname": "wickepin-65842"
+    },
+    {
+        "id_location": 30467,
+        "id_location_parent": 30447,
+        "name": "Williams",
+        "seoname": "williams-65843"
+    },
+    {
+        "id_location": 30468,
+        "id_location_parent": 30447,
+        "name": "Collie",
+        "seoname": "collie-65844"
+    },
+    {
+        "id_location": 30469,
+        "id_location_parent": 30447,
+        "name": "Cranbrook",
+        "seoname": "cranbrook-65845"
+    },
+    {
+        "id_location": 30470,
+        "id_location_parent": 30447,
+        "name": "Broomehill",
+        "seoname": "broomehill-65846"
+    },
+    {
+        "id_location": 30471,
+        "id_location_parent": 30447,
+        "name": "Woodanilling",
+        "seoname": "woodanilling-65847"
+    },
+    {
+        "id_location": 30472,
+        "id_location_parent": 30447,
+        "name": "Tambellup",
+        "seoname": "tambellup-65848"
+    },
+    {
+        "id_location": 30473,
+        "id_location_parent": 30447,
+        "name": "Nannup",
+        "seoname": "nannup-65849"
+    },
+    {
+        "id_location": 30474,
+        "id_location_parent": 30447,
+        "name": "Gnowangerup",
+        "seoname": "gnowangerup-65850"
+    },
+    {
+        "id_location": 30475,
+        "id_location_parent": 30447,
+        "name": "Dardanup",
+        "seoname": "dardanup-65851"
+    },
+    {
+        "id_location": 30476,
+        "id_location_parent": 30447,
+        "name": "Boddington",
+        "seoname": "boddington-65852"
+    },
+    {
+        "id_location": 30477,
+        "id_location_parent": 30447,
+        "name": "Boyup Brook",
+        "seoname": "boyup-brook-65853"
+    },
+    {
+        "id_location": 30478,
+        "id_location_parent": 30447,
+        "name": "Kojonup",
+        "seoname": "kojonup-65854"
+    },
+    {
+        "id_location": 30479,
+        "id_location_parent": 30447,
+        "name": "Denmark",
+        "seoname": "denmark-65855"
+    },
+    {
+        "id_location": 30480,
+        "id_location_parent": 30447,
+        "name": "Capel",
+        "seoname": "capel-65856"
+    },
+    {
+        "id_location": 30481,
+        "id_location_parent": 30447,
+        "name": "Waroona",
+        "seoname": "waroona-65857"
+    },
+    {
+        "id_location": 30482,
+        "id_location_parent": 30447,
+        "name": "Harvey",
+        "seoname": "harvey-65858"
+    },
+    {
+        "id_location": 30483,
+        "id_location_parent": 30447,
+        "name": "Katanning",
+        "seoname": "katanning-65859"
+    },
+    {
+        "id_location": 30484,
+        "id_location_parent": 30447,
+        "name": "Narrogin",
+        "seoname": "narrogin-65860"
+    },
+    {
+        "id_location": 30485,
+        "id_location_parent": 30447,
+        "name": "Manjimup",
+        "seoname": "manjimup-65861"
+    },
+    {
+        "id_location": 30486,
+        "id_location_parent": 30447,
+        "name": "Busselton",
+        "seoname": "busselton-65862"
+    },
+    {
+        "id_location": 30487,
+        "id_location_parent": 30447,
+        "name": "Albany",
+        "seoname": "albany-65863"
+    },
+    {
+        "id_location": 30488,
+        "id_location_parent": 30447,
+        "name": "Bunbury",
+        "seoname": "bunbury-65864"
+    },
+    {
+        "id_location": 30489,
+        "id_location_parent": 30447,
+        "name": "Mandurah",
+        "seoname": "mandurah-65865"
+    },
+    {
+        "id_location": 30490,
+        "id_location_parent": 1,
+        "name": "Mackay",
+        "seoname": "mackay-781096"
+    },
+    {
+        "id_location": 30491,
+        "id_location_parent": 30490,
+        "name": "Belyando",
+        "seoname": "belyando-65866"
+    },
+    {
+        "id_location": 30492,
+        "id_location_parent": 30490,
+        "name": "Broadsound",
+        "seoname": "broadsound-65867"
+    },
+    {
+        "id_location": 30493,
+        "id_location_parent": 30490,
+        "name": "Mirani",
+        "seoname": "mirani-65868"
+    },
+    {
+        "id_location": 30494,
+        "id_location_parent": 30490,
+        "name": "Nebo",
+        "seoname": "nebo-65869"
+    },
+    {
+        "id_location": 30495,
+        "id_location_parent": 30490,
+        "name": "Whitsunday",
+        "seoname": "whitsunday-65870"
+    },
+    {
+        "id_location": 30496,
+        "id_location_parent": 30490,
+        "name": "Sarina",
+        "seoname": "sarina-65871"
+    },
+    {
+        "id_location": 30497,
+        "id_location_parent": 30490,
+        "name": "Bowen",
+        "seoname": "bowen-65872"
+    },
+    {
+        "id_location": 30498,
+        "id_location_parent": 30490,
+        "name": "Mackay",
+        "seoname": "mackay-65873"
+    },
+    {
+        "id_location": 30499,
+        "id_location_parent": 1,
+        "name": "Melbourne",
+        "seoname": "melbourne-781097"
+    },
+    {
+        "id_location": 30500,
+        "id_location_parent": 30499,
+        "name": "Banyule",
+        "seoname": "banyule-65874"
+    },
+    {
+        "id_location": 30501,
+        "id_location_parent": 30499,
+        "name": "Bayside",
+        "seoname": "bayside-65875"
+    },
+    {
+        "id_location": 30502,
+        "id_location_parent": 30499,
+        "name": "Boroondara",
+        "seoname": "boroondara-65876"
+    },
+    {
+        "id_location": 30503,
+        "id_location_parent": 30499,
+        "name": "Brimbank",
+        "seoname": "brimbank-65877"
+    },
+    {
+        "id_location": 30504,
+        "id_location_parent": 30499,
+        "name": "Cardinia",
+        "seoname": "cardinia-65878"
+    },
+    {
+        "id_location": 30505,
+        "id_location_parent": 30499,
+        "name": "Casey",
+        "seoname": "casey-65879"
+    },
+    {
+        "id_location": 30506,
+        "id_location_parent": 30499,
+        "name": "Darebin",
+        "seoname": "darebin-65880"
+    },
+    {
+        "id_location": 30507,
+        "id_location_parent": 30499,
+        "name": "Frankston",
+        "seoname": "frankston-65881"
+    },
+    {
+        "id_location": 30508,
+        "id_location_parent": 30499,
+        "name": "Glen Eira",
+        "seoname": "glen-eira-65882"
+    },
+    {
+        "id_location": 30509,
+        "id_location_parent": 30499,
+        "name": "Gr. Dandenong",
+        "seoname": "gr-dandenong-65883"
+    },
+    {
+        "id_location": 30510,
+        "id_location_parent": 30499,
+        "name": "Hobsons Bay",
+        "seoname": "hobsons-bay-65884"
+    },
+    {
+        "id_location": 30511,
+        "id_location_parent": 30499,
+        "name": "Hume",
+        "seoname": "hume-65885"
+    },
+    {
+        "id_location": 30512,
+        "id_location_parent": 30499,
+        "name": "Kingston",
+        "seoname": "kingston-65886"
+    },
+    {
+        "id_location": 30513,
+        "id_location_parent": 30499,
+        "name": "Knox",
+        "seoname": "knox-65887"
+    },
+    {
+        "id_location": 30514,
+        "id_location_parent": 30499,
+        "name": "Manningham",
+        "seoname": "manningham-65888"
+    },
+    {
+        "id_location": 30515,
+        "id_location_parent": 30499,
+        "name": "Maribyrnong",
+        "seoname": "maribyrnong-65889"
+    },
+    {
+        "id_location": 30516,
+        "id_location_parent": 30499,
+        "name": "Maroondah",
+        "seoname": "maroondah-65890"
+    },
+    {
+        "id_location": 30517,
+        "id_location_parent": 30499,
+        "name": "Melton",
+        "seoname": "melton-65891"
+    },
+    {
+        "id_location": 30518,
+        "id_location_parent": 30499,
+        "name": "Monash",
+        "seoname": "monash-65892"
+    },
+    {
+        "id_location": 30519,
+        "id_location_parent": 30499,
+        "name": "Moonee Valley",
+        "seoname": "moonee-valley-65893"
+    },
+    {
+        "id_location": 30520,
+        "id_location_parent": 30499,
+        "name": "Moreland",
+        "seoname": "moreland-65894"
+    },
+    {
+        "id_location": 30521,
+        "id_location_parent": 30499,
+        "name": "Nillumbik",
+        "seoname": "nillumbik-65896"
+    },
+    {
+        "id_location": 30522,
+        "id_location_parent": 30499,
+        "name": "Port Phillip",
+        "seoname": "port-phillip-65897"
+    },
+    {
+        "id_location": 30523,
+        "id_location_parent": 30499,
+        "name": "Stonnington",
+        "seoname": "stonnington-65898"
+    },
+    {
+        "id_location": 30524,
+        "id_location_parent": 30499,
+        "name": "Whitehorse",
+        "seoname": "whitehorse-65899"
+    },
+    {
+        "id_location": 30525,
+        "id_location_parent": 30499,
+        "name": "Whittlesea",
+        "seoname": "whittlesea-65900"
+    },
+    {
+        "id_location": 30526,
+        "id_location_parent": 30499,
+        "name": "Wyndham",
+        "seoname": "wyndham-65901"
+    },
+    {
+        "id_location": 30527,
+        "id_location_parent": 30499,
+        "name": "Yarra",
+        "seoname": "yarra-65902"
+    },
+    {
+        "id_location": 30528,
+        "id_location_parent": 30499,
+        "name": "Yarra Ranges",
+        "seoname": "yarra-ranges-65903"
+    },
+    {
+        "id_location": 30529,
+        "id_location_parent": 30499,
+        "name": "Melbourne",
+        "seoname": "melbourne-65904"
+    },
+    {
+        "id_location": 30530,
+        "id_location_parent": 1,
+        "name": "Mersey-Lyell",
+        "seoname": "mersey-lyell-781098"
+    },
+    {
+        "id_location": 30531,
+        "id_location_parent": 30530,
+        "name": "Central Coast",
+        "seoname": "central-coast-65905"
+    },
+    {
+        "id_location": 30532,
+        "id_location_parent": 30530,
+        "name": "Circular Head",
+        "seoname": "circular-head-65906"
+    },
+    {
+        "id_location": 30533,
+        "id_location_parent": 30530,
+        "name": "Kentish",
+        "seoname": "kentish-65907"
+    },
+    {
+        "id_location": 30534,
+        "id_location_parent": 30530,
+        "name": "King Island",
+        "seoname": "king-island-65908"
+    },
+    {
+        "id_location": 30535,
+        "id_location_parent": 30530,
+        "name": "Latrobe",
+        "seoname": "latrobe-65909"
+    },
+    {
+        "id_location": 30536,
+        "id_location_parent": 30530,
+        "name": "Waratah",
+        "seoname": "waratah-65910"
+    },
+    {
+        "id_location": 30537,
+        "id_location_parent": 30530,
+        "name": "West Coast",
+        "seoname": "west-coast-65911"
+    },
+    {
+        "id_location": 30538,
+        "id_location_parent": 30530,
+        "name": "Devonport",
+        "seoname": "devonport-65912"
+    },
+    {
+        "id_location": 30539,
+        "id_location_parent": 30530,
+        "name": "Burnie",
+        "seoname": "burnie-65913"
+    },
+    {
+        "id_location": 30540,
+        "id_location_parent": 1,
+        "name": "Mid West",
+        "seoname": "mid-west-781099"
+    },
+    {
+        "id_location": 30541,
+        "id_location_parent": 30540,
+        "name": "Chapman Valley",
+        "seoname": "chapman-valley-65914"
+    },
+    {
+        "id_location": 30542,
+        "id_location_parent": 30540,
+        "name": "Irwin",
+        "seoname": "irwin-65915"
+    },
+    {
+        "id_location": 30543,
+        "id_location_parent": 30540,
+        "name": "Mingenew",
+        "seoname": "mingenew-65916"
+    },
+    {
+        "id_location": 30544,
+        "id_location_parent": 30540,
+        "name": "Murchison",
+        "seoname": "murchison-65917"
+    },
+    {
+        "id_location": 30545,
+        "id_location_parent": 30540,
+        "name": "Sandstone",
+        "seoname": "sandstone-65918"
+    },
+    {
+        "id_location": 30546,
+        "id_location_parent": 30540,
+        "name": "Yalgoo",
+        "seoname": "yalgoo-65919"
+    },
+    {
+        "id_location": 30547,
+        "id_location_parent": 30540,
+        "name": "Coorow",
+        "seoname": "coorow-65920"
+    },
+    {
+        "id_location": 30548,
+        "id_location_parent": 30540,
+        "name": "Perenjori",
+        "seoname": "perenjori-65921"
+    },
+    {
+        "id_location": 30549,
+        "id_location_parent": 30540,
+        "name": "Cue",
+        "seoname": "cue-65922"
+    },
+    {
+        "id_location": 30550,
+        "id_location_parent": 30540,
+        "name": "Three Springs",
+        "seoname": "three-springs-65923"
+    },
+    {
+        "id_location": 30551,
+        "id_location_parent": 30540,
+        "name": "Mullewa",
+        "seoname": "mullewa-65924"
+    },
+    {
+        "id_location": 30552,
+        "id_location_parent": 30540,
+        "name": "Mount Magnet",
+        "seoname": "mount-magnet-65925"
+    },
+    {
+        "id_location": 30553,
+        "id_location_parent": 30540,
+        "name": "Carnamah",
+        "seoname": "carnamah-65926"
+    },
+    {
+        "id_location": 30554,
+        "id_location_parent": 30540,
+        "name": "Wiluna",
+        "seoname": "wiluna-65927"
+    },
+    {
+        "id_location": 30555,
+        "id_location_parent": 30540,
+        "name": "Morawa",
+        "seoname": "morawa-65928"
+    },
+    {
+        "id_location": 30556,
+        "id_location_parent": 30540,
+        "name": "Greenough",
+        "seoname": "greenough-65929"
+    },
+    {
+        "id_location": 30557,
+        "id_location_parent": 30540,
+        "name": "Meekatharra",
+        "seoname": "meekatharra-65930"
+    },
+    {
+        "id_location": 30558,
+        "id_location_parent": 30540,
+        "name": "Northampton",
+        "seoname": "northampton-65931"
+    },
+    {
+        "id_location": 30559,
+        "id_location_parent": 30540,
+        "name": "Geraldton",
+        "seoname": "geraldton-65932"
+    },
+    {
+        "id_location": 30560,
+        "id_location_parent": 1,
+        "name": "Mid-North Coast",
+        "seoname": "mid-north-coast-781100"
+    },
+    {
+        "id_location": 30561,
+        "id_location_parent": 30560,
+        "name": "Lord Howe Island",
+        "seoname": "lord-howe-island-65933"
+    },
+    {
+        "id_location": 30562,
+        "id_location_parent": 30560,
+        "name": "Maclean",
+        "seoname": "maclean-65934"
+    },
+    {
+        "id_location": 30563,
+        "id_location_parent": 30560,
+        "name": "Pristine Waters",
+        "seoname": "pristine-waters-65935"
+    },
+    {
+        "id_location": 30564,
+        "id_location_parent": 30560,
+        "name": "Copmanhurst",
+        "seoname": "copmanhurst-65936"
+    },
+    {
+        "id_location": 30565,
+        "id_location_parent": 30560,
+        "name": "Bellingen",
+        "seoname": "bellingen-65937"
+    },
+    {
+        "id_location": 30566,
+        "id_location_parent": 30560,
+        "name": "Nambucca",
+        "seoname": "nambucca-65938"
+    },
+    {
+        "id_location": 30567,
+        "id_location_parent": 30560,
+        "name": "Hastings",
+        "seoname": "hastings-65939"
+    },
+    {
+        "id_location": 30568,
+        "id_location_parent": 30560,
+        "name": "Kempsey",
+        "seoname": "kempsey-65940"
+    },
+    {
+        "id_location": 30569,
+        "id_location_parent": 30560,
+        "name": "Grafton",
+        "seoname": "grafton-65941"
+    },
+    {
+        "id_location": 30570,
+        "id_location_parent": 30560,
+        "name": "Forster",
+        "seoname": "forster-65942"
+    },
+    {
+        "id_location": 30571,
+        "id_location_parent": 30560,
+        "name": "Taree",
+        "seoname": "taree-65943"
+    },
+    {
+        "id_location": 30572,
+        "id_location_parent": 30560,
+        "name": "Coffs Harbour",
+        "seoname": "coffs-harbour-65944"
+    },
+    {
+        "id_location": 30573,
+        "id_location_parent": 1,
+        "name": "Mingenew",
+        "seoname": "mingenew-781101"
+    },
+    {
+        "id_location": 30574,
+        "id_location_parent": 30573,
+        "name": "Holmwood",
+        "seoname": "holmwood-65945"
+    },
+    {
+        "id_location": 30575,
+        "id_location_parent": 30573,
+        "name": "Ikewa",
+        "seoname": "ikewa-65946"
+    },
+    {
+        "id_location": 30576,
+        "id_location_parent": 30573,
+        "name": "Mingenew",
+        "seoname": "mingenew-65947"
+    },
+    {
+        "id_location": 30577,
+        "id_location_parent": 30573,
+        "name": "Mooriary",
+        "seoname": "mooriary-65948"
+    },
+    {
+        "id_location": 30578,
+        "id_location_parent": 30573,
+        "name": "Mount Budd",
+        "seoname": "mount-budd-65949"
+    },
+    {
+        "id_location": 30579,
+        "id_location_parent": 30573,
+        "name": "Nangetty",
+        "seoname": "nangetty-65950"
+    },
+    {
+        "id_location": 30580,
+        "id_location_parent": 30573,
+        "name": "Yarragadee",
+        "seoname": "yarragadee-65951"
+    },
+    {
+        "id_location": 30581,
+        "id_location_parent": 30573,
+        "name": "Yandanooka",
+        "seoname": "yandanooka-65952"
+    },
+    {
+        "id_location": 30582,
+        "id_location_parent": 1,
+        "name": "Moreton Bay",
+        "seoname": "moreton-bay-781102"
+    },
+    {
+        "id_location": 30583,
+        "id_location_parent": 1,
+        "name": "Murray-Murrumbidgee",
+        "seoname": "murray-murrumbidgee-781103"
+    },
+    {
+        "id_location": 30584,
+        "id_location_parent": 30583,
+        "name": "Balranald",
+        "seoname": "balranald-65953"
+    },
+    {
+        "id_location": 30585,
+        "id_location_parent": 30583,
+        "name": "Hume",
+        "seoname": "hume-65954"
+    },
+    {
+        "id_location": 30586,
+        "id_location_parent": 30583,
+        "name": "Murray",
+        "seoname": "murray-65955"
+    },
+    {
+        "id_location": 30587,
+        "id_location_parent": 30583,
+        "name": "Murrumbidgee",
+        "seoname": "murrumbidgee-65956"
+    },
+    {
+        "id_location": 30588,
+        "id_location_parent": 30583,
+        "name": "Temora",
+        "seoname": "temora-65957"
+    },
+    {
+        "id_location": 30589,
+        "id_location_parent": 30583,
+        "name": "Tumbarumba",
+        "seoname": "tumbarumba-65958"
+    },
+    {
+        "id_location": 30590,
+        "id_location_parent": 30583,
+        "name": "Urana",
+        "seoname": "urana-65959"
+    },
+    {
+        "id_location": 30591,
+        "id_location_parent": 30583,
+        "name": "Wakool",
+        "seoname": "wakool-65960"
+    },
+    {
+        "id_location": 30592,
+        "id_location_parent": 30583,
+        "name": "Wentworth",
+        "seoname": "wentworth-65961"
+    },
+    {
+        "id_location": 30593,
+        "id_location_parent": 30583,
+        "name": "Windouran",
+        "seoname": "windouran-65962"
+    },
+    {
+        "id_location": 30594,
+        "id_location_parent": 30583,
+        "name": "Conargo",
+        "seoname": "conargo-65963"
+    },
+    {
+        "id_location": 30595,
+        "id_location_parent": 30583,
+        "name": "Carrathool",
+        "seoname": "carrathool-65964"
+    },
+    {
+        "id_location": 30596,
+        "id_location_parent": 30583,
+        "name": "Hay",
+        "seoname": "hay-65965"
+    },
+    {
+        "id_location": 30597,
+        "id_location_parent": 30583,
+        "name": "Lockhart",
+        "seoname": "lockhart-65966"
+    },
+    {
+        "id_location": 30598,
+        "id_location_parent": 30583,
+        "name": "Jerilderie",
+        "seoname": "jerilderie-65967"
+    },
+    {
+        "id_location": 30599,
+        "id_location_parent": 30583,
+        "name": "Culcairn",
+        "seoname": "culcairn-65968"
+    },
+    {
+        "id_location": 30600,
+        "id_location_parent": 30583,
+        "name": "Berrigan",
+        "seoname": "berrigan-65969"
+    },
+    {
+        "id_location": 30601,
+        "id_location_parent": 30583,
+        "name": "Holbrook",
+        "seoname": "holbrook-65970"
+    },
+    {
+        "id_location": 30602,
+        "id_location_parent": 30583,
+        "name": "Coolamon",
+        "seoname": "coolamon-65971"
+    },
+    {
+        "id_location": 30603,
+        "id_location_parent": 30583,
+        "name": "Gundagai",
+        "seoname": "gundagai-65972"
+    },
+    {
+        "id_location": 30604,
+        "id_location_parent": 30583,
+        "name": "Junee",
+        "seoname": "junee-65973"
+    },
+    {
+        "id_location": 30605,
+        "id_location_parent": 30583,
+        "name": "Narrandera",
+        "seoname": "narrandera-65974"
+    },
+    {
+        "id_location": 30606,
+        "id_location_parent": 30583,
+        "name": "Cootamundra",
+        "seoname": "cootamundra-65975"
+    },
+    {
+        "id_location": 30607,
+        "id_location_parent": 30583,
+        "name": "Corowa",
+        "seoname": "corowa-65976"
+    },
+    {
+        "id_location": 30608,
+        "id_location_parent": 30583,
+        "name": "Tumut",
+        "seoname": "tumut-65977"
+    },
+    {
+        "id_location": 30609,
+        "id_location_parent": 30583,
+        "name": "Leeton",
+        "seoname": "leeton-65978"
+    },
+    {
+        "id_location": 30610,
+        "id_location_parent": 30583,
+        "name": "Deniliquin",
+        "seoname": "deniliquin-65979"
+    },
+    {
+        "id_location": 30611,
+        "id_location_parent": 30583,
+        "name": "Griffith",
+        "seoname": "griffith-65980"
+    },
+    {
+        "id_location": 30612,
+        "id_location_parent": 30583,
+        "name": "Wagga Wagga",
+        "seoname": "wagga-wagga-65981"
+    },
+    {
+        "id_location": 30613,
+        "id_location_parent": 30583,
+        "name": "Albury",
+        "seoname": "albury-65982"
+    },
+    {
+        "id_location": 30614,
+        "id_location_parent": 1,
+        "name": "North and West Moreton",
+        "seoname": "north-and-west-moreton-781104"
+    },
+    {
+        "id_location": 30615,
+        "id_location_parent": 30614,
+        "name": "Boonah",
+        "seoname": "boonah-65983"
+    },
+    {
+        "id_location": 30616,
+        "id_location_parent": 30614,
+        "name": "Caboolture",
+        "seoname": "caboolture-65984"
+    },
+    {
+        "id_location": 30617,
+        "id_location_parent": 30614,
+        "name": "Esk",
+        "seoname": "esk-65985"
+    },
+    {
+        "id_location": 30618,
+        "id_location_parent": 30614,
+        "name": "Ipswich",
+        "seoname": "ipswich-65986"
+    },
+    {
+        "id_location": 30619,
+        "id_location_parent": 30614,
+        "name": "Kilcoy",
+        "seoname": "kilcoy-65987"
+    },
+    {
+        "id_location": 30620,
+        "id_location_parent": 30614,
+        "name": "Laidley",
+        "seoname": "laidley-65988"
+    },
+    {
+        "id_location": 30621,
+        "id_location_parent": 30614,
+        "name": "Maroochy",
+        "seoname": "maroochy-65989"
+    },
+    {
+        "id_location": 30622,
+        "id_location_parent": 30614,
+        "name": "Noosa",
+        "seoname": "noosa-65990"
+    },
+    {
+        "id_location": 30623,
+        "id_location_parent": 30614,
+        "name": "Gatton",
+        "seoname": "gatton-65991"
+    },
+    {
+        "id_location": 30624,
+        "id_location_parent": 30614,
+        "name": "Caloundra",
+        "seoname": "caloundra-65992"
+    },
+    {
+        "id_location": 30625,
+        "id_location_parent": 1,
+        "name": "North West Queensland",
+        "seoname": "north-west-queensland-781105"
+    },
+    {
+        "id_location": 30626,
+        "id_location_parent": 30625,
+        "name": "Burke",
+        "seoname": "burke-65993"
+    },
+    {
+        "id_location": 30627,
+        "id_location_parent": 30625,
+        "name": "Carpentaria",
+        "seoname": "carpentaria-65994"
+    },
+    {
+        "id_location": 30628,
+        "id_location_parent": 30625,
+        "name": "Cloncurry",
+        "seoname": "cloncurry-65995"
+    },
+    {
+        "id_location": 30629,
+        "id_location_parent": 30625,
+        "name": "Flinders",
+        "seoname": "flinders-65996"
+    },
+    {
+        "id_location": 30630,
+        "id_location_parent": 30625,
+        "name": "McKinlay",
+        "seoname": "mckinlay-65997"
+    },
+    {
+        "id_location": 30631,
+        "id_location_parent": 30625,
+        "name": "Richmond",
+        "seoname": "richmond-65998"
+    },
+    {
+        "id_location": 30632,
+        "id_location_parent": 30625,
+        "name": "Mornington",
+        "seoname": "mornington-65999"
+    },
+    {
+        "id_location": 30633,
+        "id_location_parent": 30625,
+        "name": "Mount Isa",
+        "seoname": "mount-isa-66000"
+    },
+    {
+        "id_location": 30634,
+        "id_location_parent": 1,
+        "name": "Northern and Western SA",
+        "seoname": "northern-and-western-sa-781106"
+    },
+    {
+        "id_location": 30635,
+        "id_location_parent": 30634,
+        "name": "Barunga West",
+        "seoname": "barunga-west-66001"
+    },
+    {
+        "id_location": 30636,
+        "id_location_parent": 30634,
+        "name": "Clare and Gilbert Valleys",
+        "seoname": "clare-and-gilbert-valleys-66002"
+    },
+    {
+        "id_location": 30637,
+        "id_location_parent": 30634,
+        "name": "Copper Coast",
+        "seoname": "copper-coast-66003"
+    },
+    {
+        "id_location": 30638,
+        "id_location_parent": 30634,
+        "name": "Flinders Ranges",
+        "seoname": "flinders-ranges-66004"
+    },
+    {
+        "id_location": 30639,
+        "id_location_parent": 30634,
+        "name": "Franklin Harbor",
+        "seoname": "franklin-harbor-66005"
+    },
+    {
+        "id_location": 30640,
+        "id_location_parent": 30634,
+        "name": "Goyder",
+        "seoname": "goyder-66006"
+    },
+    {
+        "id_location": 30641,
+        "id_location_parent": 30634,
+        "name": "Le Hunte",
+        "seoname": "le-hunte-66007"
+    },
+    {
+        "id_location": 30642,
+        "id_location_parent": 30634,
+        "name": "Lower Eyre Peninsula",
+        "seoname": "lower-eyre-peninsula-66008"
+    },
+    {
+        "id_location": 30643,
+        "id_location_parent": 30634,
+        "name": "Mount Remarkable",
+        "seoname": "mount-remarkable-66009"
+    },
+    {
+        "id_location": 30644,
+        "id_location_parent": 30634,
+        "name": "Northern Areas",
+        "seoname": "northern-areas-66010"
+    },
+    {
+        "id_location": 30645,
+        "id_location_parent": 30634,
+        "name": "Orroroo\/Carrieton",
+        "seoname": "orroroocarrieton-66011"
+    },
+    {
+        "id_location": 30646,
+        "id_location_parent": 30634,
+        "name": "Peterborough",
+        "seoname": "peterborough-66012"
+    },
+    {
+        "id_location": 30647,
+        "id_location_parent": 30634,
+        "name": "Yorke Peninsula",
+        "seoname": "yorke-peninsula-66013"
+    },
+    {
+        "id_location": 30648,
+        "id_location_parent": 30634,
+        "name": "Elliston",
+        "seoname": "elliston-66014"
+    },
+    {
+        "id_location": 30649,
+        "id_location_parent": 30634,
+        "name": "Wakefield",
+        "seoname": "wakefield-66015"
+    },
+    {
+        "id_location": 30650,
+        "id_location_parent": 30634,
+        "name": "Kimba",
+        "seoname": "kimba-66016"
+    },
+    {
+        "id_location": 30651,
+        "id_location_parent": 30634,
+        "name": "Cleve",
+        "seoname": "cleve-66017"
+    },
+    {
+        "id_location": 30652,
+        "id_location_parent": 30634,
+        "name": "Streaky Bay",
+        "seoname": "streaky-bay-66018"
+    },
+    {
+        "id_location": 30653,
+        "id_location_parent": 30634,
+        "name": "Ceduna",
+        "seoname": "ceduna-66019"
+    },
+    {
+        "id_location": 30654,
+        "id_location_parent": 30634,
+        "name": "Tumby Bay",
+        "seoname": "tumby-bay-66020"
+    },
+    {
+        "id_location": 30655,
+        "id_location_parent": 30634,
+        "name": "Coober Pedy",
+        "seoname": "coober-pedy-66021"
+    },
+    {
+        "id_location": 30656,
+        "id_location_parent": 30634,
+        "name": "Roxby Downs",
+        "seoname": "roxby-downs-66022"
+    },
+    {
+        "id_location": 30657,
+        "id_location_parent": 30634,
+        "name": "Port Lincoln",
+        "seoname": "port-lincoln-66023"
+    },
+    {
+        "id_location": 30658,
+        "id_location_parent": 30634,
+        "name": "Port Pirie",
+        "seoname": "port-pirie-66024"
+    },
+    {
+        "id_location": 30659,
+        "id_location_parent": 30634,
+        "name": "Port Augusta",
+        "seoname": "port-augusta-66025"
+    },
+    {
+        "id_location": 30660,
+        "id_location_parent": 30634,
+        "name": "Whyalla",
+        "seoname": "whyalla-66026"
+    },
+    {
+        "id_location": 30661,
+        "id_location_parent": 1,
+        "name": "Northern NSW",
+        "seoname": "northern-nsw-781107"
+    },
+    {
+        "id_location": 30662,
+        "id_location_parent": 30661,
+        "name": "Barraba",
+        "seoname": "barraba-66027"
+    },
+    {
+        "id_location": 30663,
+        "id_location_parent": 30661,
+        "name": "Moree Plains",
+        "seoname": "moree-plains-66028"
+    },
+    {
+        "id_location": 30664,
+        "id_location_parent": 30661,
+        "name": "Parry",
+        "seoname": "parry-66029"
+    },
+    {
+        "id_location": 30665,
+        "id_location_parent": 30661,
+        "name": "Severn",
+        "seoname": "severn-66030"
+    },
+    {
+        "id_location": 30666,
+        "id_location_parent": 30661,
+        "name": "Tenterfield",
+        "seoname": "tenterfield-66031"
+    },
+    {
+        "id_location": 30667,
+        "id_location_parent": 30661,
+        "name": "Uralla",
+        "seoname": "uralla-66032"
+    },
+    {
+        "id_location": 30668,
+        "id_location_parent": 30661,
+        "name": "Walcha",
+        "seoname": "walcha-66033"
+    },
+    {
+        "id_location": 30669,
+        "id_location_parent": 30661,
+        "name": "Yallaroi",
+        "seoname": "yallaroi-66034"
+    },
+    {
+        "id_location": 30670,
+        "id_location_parent": 30661,
+        "name": "Nundle",
+        "seoname": "nundle-66035"
+    },
+    {
+        "id_location": 30671,
+        "id_location_parent": 30661,
+        "name": "Bingara",
+        "seoname": "bingara-66036"
+    },
+    {
+        "id_location": 30672,
+        "id_location_parent": 30661,
+        "name": "Guyra",
+        "seoname": "guyra-66037"
+    },
+    {
+        "id_location": 30673,
+        "id_location_parent": 30661,
+        "name": "Manilla",
+        "seoname": "manilla-66038"
+    },
+    {
+        "id_location": 30674,
+        "id_location_parent": 30661,
+        "name": "Quirindi",
+        "seoname": "quirindi-66039"
+    },
+    {
+        "id_location": 30675,
+        "id_location_parent": 30661,
+        "name": "Glen Innes",
+        "seoname": "glen-innes-66040"
+    },
+    {
+        "id_location": 30676,
+        "id_location_parent": 30661,
+        "name": "Narrabri",
+        "seoname": "narrabri-66041"
+    },
+    {
+        "id_location": 30677,
+        "id_location_parent": 30661,
+        "name": "Gunnedah",
+        "seoname": "gunnedah-66042"
+    },
+    {
+        "id_location": 30678,
+        "id_location_parent": 30661,
+        "name": "Inverell",
+        "seoname": "inverell-66043"
+    },
+    {
+        "id_location": 30679,
+        "id_location_parent": 30661,
+        "name": "Armidale",
+        "seoname": "armidale-66044"
+    },
+    {
+        "id_location": 30680,
+        "id_location_parent": 30661,
+        "name": "Tamworth",
+        "seoname": "tamworth-66045"
+    },
+    {
+        "id_location": 30681,
+        "id_location_parent": 1,
+        "name": "Northern Queensland",
+        "seoname": "northern-queensland-781108"
+    },
+    {
+        "id_location": 30682,
+        "id_location_parent": 30681,
+        "name": "Burdekin",
+        "seoname": "burdekin-66046"
+    },
+    {
+        "id_location": 30683,
+        "id_location_parent": 30681,
+        "name": "Dalrymple",
+        "seoname": "dalrymple-66047"
+    },
+    {
+        "id_location": 30684,
+        "id_location_parent": 30681,
+        "name": "Hinchinbrook",
+        "seoname": "hinchinbrook-66048"
+    },
+    {
+        "id_location": 30685,
+        "id_location_parent": 30681,
+        "name": "Thuringowa",
+        "seoname": "thuringowa-66049"
+    },
+    {
+        "id_location": 30686,
+        "id_location_parent": 30681,
+        "name": "Charters Towers",
+        "seoname": "charters-towers-66050"
+    },
+    {
+        "id_location": 30687,
+        "id_location_parent": 30681,
+        "name": "Townsville",
+        "seoname": "townsville-66051"
+    },
+    {
+        "id_location": 30688,
+        "id_location_parent": 1,
+        "name": "Northern Tasmania",
+        "seoname": "northern-tasmania-781109"
+    },
+    {
+        "id_location": 30689,
+        "id_location_parent": 30688,
+        "name": "Dorset",
+        "seoname": "dorset-66053"
+    },
+    {
+        "id_location": 30690,
+        "id_location_parent": 30688,
+        "name": "Flinders",
+        "seoname": "flinders-66054"
+    },
+    {
+        "id_location": 30691,
+        "id_location_parent": 30688,
+        "name": "Meander Valley",
+        "seoname": "meander-valley-66055"
+    },
+    {
+        "id_location": 30692,
+        "id_location_parent": 30688,
+        "name": "Northern Midlands",
+        "seoname": "northern-midlands-66056"
+    },
+    {
+        "id_location": 30693,
+        "id_location_parent": 30688,
+        "name": "West Tamar",
+        "seoname": "west-tamar-66057"
+    },
+    {
+        "id_location": 30694,
+        "id_location_parent": 30688,
+        "name": "George Town",
+        "seoname": "george-town-66058"
+    },
+    {
+        "id_location": 30695,
+        "id_location_parent": 30688,
+        "name": "Launceston",
+        "seoname": "launceston-66059"
+    },
+    {
+        "id_location": 30696,
+        "id_location_parent": 1,
+        "name": "Northern Territory",
+        "seoname": "northern-territory-781110"
+    },
+    {
+        "id_location": 30697,
+        "id_location_parent": 30696,
+        "name": "Bathurst-Melville",
+        "seoname": "bathurst-melville-66060"
+    },
+    {
+        "id_location": 30698,
+        "id_location_parent": 30696,
+        "name": "Coomalie",
+        "seoname": "coomalie-66061"
+    },
+    {
+        "id_location": 30699,
+        "id_location_parent": 30696,
+        "name": "Litchfield",
+        "seoname": "litchfield-66062"
+    },
+    {
+        "id_location": 30700,
+        "id_location_parent": 30696,
+        "name": "Tennant Creek",
+        "seoname": "tennant-creek-66063"
+    },
+    {
+        "id_location": 30701,
+        "id_location_parent": 30696,
+        "name": "Katherine",
+        "seoname": "katherine-66064"
+    },
+    {
+        "id_location": 30702,
+        "id_location_parent": 30696,
+        "name": "Palmerston",
+        "seoname": "palmerston-66065"
+    },
+    {
+        "id_location": 30703,
+        "id_location_parent": 30696,
+        "name": "Alice Springs",
+        "seoname": "alice-springs-66066"
+    },
+    {
+        "id_location": 30704,
+        "id_location_parent": 30696,
+        "name": "Darwin",
+        "seoname": "darwin-66067"
+    },
+    {
+        "id_location": 30705,
+        "id_location_parent": 1,
+        "name": "Perth",
+        "seoname": "perth-781111"
+    },
+    {
+        "id_location": 30706,
+        "id_location_parent": 30705,
+        "name": "Bayswater",
+        "seoname": "bayswater-66068"
+    },
+    {
+        "id_location": 30707,
+        "id_location_parent": 30705,
+        "name": "Belmont",
+        "seoname": "belmont-66069"
+    },
+    {
+        "id_location": 30708,
+        "id_location_parent": 30705,
+        "name": "Canning",
+        "seoname": "canning-66070"
+    },
+    {
+        "id_location": 30709,
+        "id_location_parent": 30705,
+        "name": "Cockburn",
+        "seoname": "cockburn-66071"
+    },
+    {
+        "id_location": 30710,
+        "id_location_parent": 30705,
+        "name": "Kalamunda",
+        "seoname": "kalamunda-66072"
+    },
+    {
+        "id_location": 30711,
+        "id_location_parent": 30705,
+        "name": "Nedlands",
+        "seoname": "nedlands-66073"
+    },
+    {
+        "id_location": 30712,
+        "id_location_parent": 30705,
+        "name": "Serpentine-Jarrahdale",
+        "seoname": "serpentine-jarrahdale-66074"
+    },
+    {
+        "id_location": 30713,
+        "id_location_parent": 30705,
+        "name": "Stirling",
+        "seoname": "stirling-66075"
+    },
+    {
+        "id_location": 30714,
+        "id_location_parent": 30705,
+        "name": "Swan",
+        "seoname": "swan-66076"
+    },
+    {
+        "id_location": 30715,
+        "id_location_parent": 30705,
+        "name": "Victoria Park",
+        "seoname": "victoria-park-66077"
+    },
+    {
+        "id_location": 30716,
+        "id_location_parent": 30705,
+        "name": "Vincent",
+        "seoname": "vincent-66078"
+    },
+    {
+        "id_location": 30717,
+        "id_location_parent": 30705,
+        "name": "Cambridge",
+        "seoname": "cambridge-66079"
+    },
+    {
+        "id_location": 30718,
+        "id_location_parent": 30705,
+        "name": "Peppermint Grove",
+        "seoname": "peppermint-grove-66080"
+    },
+    {
+        "id_location": 30719,
+        "id_location_parent": 30705,
+        "name": "Perth",
+        "seoname": "perth-66081"
+    },
+    {
+        "id_location": 30720,
+        "id_location_parent": 30705,
+        "name": "Mundaring",
+        "seoname": "mundaring-66082"
+    },
+    {
+        "id_location": 30721,
+        "id_location_parent": 30705,
+        "name": "Melville",
+        "seoname": "melville-66083"
+    },
+    {
+        "id_location": 30722,
+        "id_location_parent": 30705,
+        "name": "East Fremantle",
+        "seoname": "east-fremantle-66084"
+    },
+    {
+        "id_location": 30723,
+        "id_location_parent": 30705,
+        "name": "Cottesloe",
+        "seoname": "cottesloe-66085"
+    },
+    {
+        "id_location": 30724,
+        "id_location_parent": 30705,
+        "name": "Fremantle",
+        "seoname": "fremantle-66086"
+    },
+    {
+        "id_location": 30725,
+        "id_location_parent": 30705,
+        "name": "Claremont",
+        "seoname": "claremont-66087"
+    },
+    {
+        "id_location": 30726,
+        "id_location_parent": 30705,
+        "name": "Subiaco",
+        "seoname": "subiaco-66088"
+    },
+    {
+        "id_location": 30727,
+        "id_location_parent": 30705,
+        "name": "Mosman Park",
+        "seoname": "mosman-park-66089"
+    },
+    {
+        "id_location": 30728,
+        "id_location_parent": 30705,
+        "name": "Joondalup",
+        "seoname": "joondalup-66090"
+    },
+    {
+        "id_location": 30729,
+        "id_location_parent": 30705,
+        "name": "Bassendean",
+        "seoname": "bassendean-66091"
+    },
+    {
+        "id_location": 30730,
+        "id_location_parent": 30705,
+        "name": "Wanneroo",
+        "seoname": "wanneroo-66092"
+    },
+    {
+        "id_location": 30731,
+        "id_location_parent": 30705,
+        "name": "South Perth",
+        "seoname": "south-perth-66093"
+    },
+    {
+        "id_location": 30732,
+        "id_location_parent": 30705,
+        "name": "Armadale",
+        "seoname": "armadale-66094"
+    },
+    {
+        "id_location": 30733,
+        "id_location_parent": 30705,
+        "name": "Rockingham",
+        "seoname": "rockingham-66095"
+    },
+    {
+        "id_location": 30734,
+        "id_location_parent": 30705,
+        "name": "Gosnells",
+        "seoname": "gosnells-66096"
+    },
+    {
+        "id_location": 30735,
+        "id_location_parent": 30705,
+        "name": "Kwinana",
+        "seoname": "kwinana-66097"
+    },
+    {
+        "id_location": 30736,
+        "id_location_parent": 1,
+        "name": "Pilbara",
+        "seoname": "pilbara-781112"
+    },
+    {
+        "id_location": 30737,
+        "id_location_parent": 30736,
+        "name": "Ashburton",
+        "seoname": "ashburton-66098"
+    },
+    {
+        "id_location": 30738,
+        "id_location_parent": 30736,
+        "name": "East Pilbara",
+        "seoname": "east-pilbara-66099"
+    },
+    {
+        "id_location": 30739,
+        "id_location_parent": 30736,
+        "name": "Karratha",
+        "seoname": "karratha-66100"
+    },
+    {
+        "id_location": 30740,
+        "id_location_parent": 30736,
+        "name": "Port Hedland",
+        "seoname": "port-hedland-66101"
+    },
+    {
+        "id_location": 30741,
+        "id_location_parent": 30736,
+        "name": "Roebourne",
+        "seoname": "roebourne-66102"
+    },
+    {
+        "id_location": 30742,
+        "id_location_parent": 1,
+        "name": "Richmond-Tweed",
+        "seoname": "richmond-tweed-781113"
+    },
+    {
+        "id_location": 30743,
+        "id_location_parent": 30742,
+        "name": "Byron",
+        "seoname": "byron-66103"
+    },
+    {
+        "id_location": 30744,
+        "id_location_parent": 30742,
+        "name": "Richmond",
+        "seoname": "richmond-66104"
+    },
+    {
+        "id_location": 30745,
+        "id_location_parent": 30742,
+        "name": "Richmond Valley",
+        "seoname": "richmond-valley-66105"
+    },
+    {
+        "id_location": 30746,
+        "id_location_parent": 30742,
+        "name": "Tweed",
+        "seoname": "tweed-66106"
+    },
+    {
+        "id_location": 30747,
+        "id_location_parent": 30742,
+        "name": "Windsor",
+        "seoname": "windsor-66107"
+    },
+    {
+        "id_location": 30748,
+        "id_location_parent": 30742,
+        "name": "Kyogle",
+        "seoname": "kyogle-66108"
+    },
+    {
+        "id_location": 30749,
+        "id_location_parent": 30742,
+        "name": "Ballina",
+        "seoname": "ballina-66109"
+    },
+    {
+        "id_location": 30750,
+        "id_location_parent": 30742,
+        "name": "Lismore",
+        "seoname": "lismore-66110"
+    },
+    {
+        "id_location": 30751,
+        "id_location_parent": 1,
+        "name": "South and East Moreton",
+        "seoname": "south-and-east-moreton-781114"
+    },
+    {
+        "id_location": 30752,
+        "id_location_parent": 30751,
+        "name": "Beaudesert",
+        "seoname": "beaudesert-66111"
+    },
+    {
+        "id_location": 30753,
+        "id_location_parent": 30751,
+        "name": "Gold Coast",
+        "seoname": "gold-coast-66112"
+    },
+    {
+        "id_location": 30754,
+        "id_location_parent": 1,
+        "name": "South Coast",
+        "seoname": "south-coast-781115"
+    },
+    {
+        "id_location": 30755,
+        "id_location_parent": 30754,
+        "name": "Batemans Bay",
+        "seoname": "batemans-bay-66113"
+    },
+    {
+        "id_location": 30756,
+        "id_location_parent": 30754,
+        "name": "Nowra",
+        "seoname": "nowra-66114"
+    },
+    {
+        "id_location": 30757,
+        "id_location_parent": 1,
+        "name": "South East Queensland",
+        "seoname": "south-east-queensland-781116"
+    },
+    {
+        "id_location": 30758,
+        "id_location_parent": 1,
+        "name": "South Eastern NSW",
+        "seoname": "south-eastern-nsw-781117"
+    },
+    {
+        "id_location": 30759,
+        "id_location_parent": 30758,
+        "name": "Cooma-Monaro",
+        "seoname": "cooma-monaro-66115"
+    },
+    {
+        "id_location": 30760,
+        "id_location_parent": 30758,
+        "name": "Eurobodalla",
+        "seoname": "eurobodalla-66116"
+    },
+    {
+        "id_location": 30761,
+        "id_location_parent": 30758,
+        "name": "Goulburn",
+        "seoname": "goulburn-66117"
+    },
+    {
+        "id_location": 30762,
+        "id_location_parent": 30758,
+        "name": "Harden",
+        "seoname": "harden-66118"
+    },
+    {
+        "id_location": 30763,
+        "id_location_parent": 30758,
+        "name": "Mulwaree",
+        "seoname": "mulwaree-66119"
+    },
+    {
+        "id_location": 30764,
+        "id_location_parent": 30758,
+        "name": "Snowy River",
+        "seoname": "snowy-river-66120"
+    },
+    {
+        "id_location": 30765,
+        "id_location_parent": 30758,
+        "name": "Tallaganda",
+        "seoname": "tallaganda-66121"
+    },
+    {
+        "id_location": 30766,
+        "id_location_parent": 30758,
+        "name": "Yarrowlumla",
+        "seoname": "yarrowlumla-66122"
+    },
+    {
+        "id_location": 30767,
+        "id_location_parent": 30758,
+        "name": "Yass",
+        "seoname": "yass-66123"
+    },
+    {
+        "id_location": 30768,
+        "id_location_parent": 30758,
+        "name": "Gunning",
+        "seoname": "gunning-66124"
+    },
+    {
+        "id_location": 30769,
+        "id_location_parent": 30758,
+        "name": "Bombala",
+        "seoname": "bombala-66125"
+    },
+    {
+        "id_location": 30770,
+        "id_location_parent": 30758,
+        "name": "Boorowa",
+        "seoname": "boorowa-66126"
+    },
+    {
+        "id_location": 30771,
+        "id_location_parent": 30758,
+        "name": "Crookwell",
+        "seoname": "crookwell-66127"
+    },
+    {
+        "id_location": 30772,
+        "id_location_parent": 30758,
+        "name": "Young",
+        "seoname": "young-66128"
+    },
+    {
+        "id_location": 30773,
+        "id_location_parent": 30758,
+        "name": "Queanbeyan",
+        "seoname": "queanbeyan-66129"
+    },
+    {
+        "id_location": 30774,
+        "id_location_parent": 1,
+        "name": "South West Queensland",
+        "seoname": "south-west-queensland-781118"
+    },
+    {
+        "id_location": 30775,
+        "id_location_parent": 30774,
+        "name": "Balonne",
+        "seoname": "balonne-66130"
+    },
+    {
+        "id_location": 30776,
+        "id_location_parent": 30774,
+        "name": "Bendemere",
+        "seoname": "bendemere-66131"
+    },
+    {
+        "id_location": 30777,
+        "id_location_parent": 30774,
+        "name": "Booringa",
+        "seoname": "booringa-66132"
+    },
+    {
+        "id_location": 30778,
+        "id_location_parent": 30774,
+        "name": "Bulloo",
+        "seoname": "bulloo-66133"
+    },
+    {
+        "id_location": 30779,
+        "id_location_parent": 30774,
+        "name": "Bungil",
+        "seoname": "bungil-66134"
+    },
+    {
+        "id_location": 30780,
+        "id_location_parent": 30774,
+        "name": "Murweh",
+        "seoname": "murweh-66135"
+    },
+    {
+        "id_location": 30781,
+        "id_location_parent": 30774,
+        "name": "Paroo",
+        "seoname": "paroo-66136"
+    },
+    {
+        "id_location": 30782,
+        "id_location_parent": 30774,
+        "name": "Quilpie",
+        "seoname": "quilpie-66137"
+    },
+    {
+        "id_location": 30783,
+        "id_location_parent": 30774,
+        "name": "Warroo",
+        "seoname": "warroo-66138"
+    },
+    {
+        "id_location": 30784,
+        "id_location_parent": 30774,
+        "name": "Roma",
+        "seoname": "roma-66139"
+    },
+    {
+        "id_location": 30785,
+        "id_location_parent": 1,
+        "name": "Southern and Eastern SA",
+        "seoname": "southern-and-eastern-sa-781119"
+    },
+    {
+        "id_location": 30786,
+        "id_location_parent": 30785,
+        "name": "Adelaide Hills",
+        "seoname": "adelaide-hills-66140"
+    },
+    {
+        "id_location": 30787,
+        "id_location_parent": 30785,
+        "name": "Alexandrina",
+        "seoname": "alexandrina-66141"
+    },
+    {
+        "id_location": 30788,
+        "id_location_parent": 30785,
+        "name": "Barossa",
+        "seoname": "barossa-66142"
+    },
+    {
+        "id_location": 30789,
+        "id_location_parent": 30785,
+        "name": "Berri and Barmera",
+        "seoname": "berri-and-barmera-66143"
+    },
+    {
+        "id_location": 30790,
+        "id_location_parent": 30785,
+        "name": "Grant",
+        "seoname": "grant-66144"
+    },
+    {
+        "id_location": 30791,
+        "id_location_parent": 30785,
+        "name": "Kangaroo Island",
+        "seoname": "kangaroo-island-66145"
+    },
+    {
+        "id_location": 30792,
+        "id_location_parent": 30785,
+        "name": "Karoonda East Murray",
+        "seoname": "karoonda-east-murray-66146"
+    },
+    {
+        "id_location": 30793,
+        "id_location_parent": 30785,
+        "name": "Lacepede",
+        "seoname": "lacepede-66147"
+    },
+    {
+        "id_location": 30794,
+        "id_location_parent": 30785,
+        "name": "Light",
+        "seoname": "light-66148"
+    },
+    {
+        "id_location": 30795,
+        "id_location_parent": 30785,
+        "name": "Loxton Waikerie",
+        "seoname": "loxton-waikerie-66149"
+    },
+    {
+        "id_location": 30796,
+        "id_location_parent": 30785,
+        "name": "Mid Murray",
+        "seoname": "mid-murray-66150"
+    },
+    {
+        "id_location": 30797,
+        "id_location_parent": 30785,
+        "name": "Naracoorte and Lucindale",
+        "seoname": "naracoorte-and-lucindale-66151"
+    },
+    {
+        "id_location": 30798,
+        "id_location_parent": 30785,
+        "name": "Renmark Paringa",
+        "seoname": "renmark-paringa-66152"
+    },
+    {
+        "id_location": 30799,
+        "id_location_parent": 30785,
+        "name": "Southern Mallee",
+        "seoname": "southern-mallee-66153"
+    },
+    {
+        "id_location": 30800,
+        "id_location_parent": 30785,
+        "name": "Tatiara",
+        "seoname": "tatiara-66154"
+    },
+    {
+        "id_location": 30801,
+        "id_location_parent": 30785,
+        "name": "The Coorong",
+        "seoname": "the-coorong-66155"
+    },
+    {
+        "id_location": 30802,
+        "id_location_parent": 30785,
+        "name": "Wattle Range",
+        "seoname": "wattle-range-66156"
+    },
+    {
+        "id_location": 30803,
+        "id_location_parent": 30785,
+        "name": "Yankalilla",
+        "seoname": "yankalilla-66157"
+    },
+    {
+        "id_location": 30804,
+        "id_location_parent": 30785,
+        "name": "Robe",
+        "seoname": "robe-66158"
+    },
+    {
+        "id_location": 30805,
+        "id_location_parent": 30785,
+        "name": "Mallala",
+        "seoname": "mallala-66159"
+    },
+    {
+        "id_location": 30806,
+        "id_location_parent": 30785,
+        "name": "Mount Barker",
+        "seoname": "mount-barker-66160"
+    },
+    {
+        "id_location": 30807,
+        "id_location_parent": 30785,
+        "name": "Victor Harbor",
+        "seoname": "victor-harbor-66161"
+    },
+    {
+        "id_location": 30808,
+        "id_location_parent": 30785,
+        "name": "Murray Bridge",
+        "seoname": "murray-bridge-66162"
+    },
+    {
+        "id_location": 30809,
+        "id_location_parent": 30785,
+        "name": "Mount Gambier",
+        "seoname": "mount-gambier-66163"
+    },
+    {
+        "id_location": 30810,
+        "id_location_parent": 1,
+        "name": "Sunshine Coast",
+        "seoname": "sunshine-coast-781120"
+    },
+    {
+        "id_location": 30811,
+        "id_location_parent": 30810,
+        "name": "Caloundry",
+        "seoname": "caloundry-66164"
+    },
+    {
+        "id_location": 30812,
+        "id_location_parent": 30810,
+        "name": "Maroochy",
+        "seoname": "maroochy-66165"
+    },
+    {
+        "id_location": 30813,
+        "id_location_parent": 30810,
+        "name": "Noosa",
+        "seoname": "noosa-66166"
+    },
+    {
+        "id_location": 30814,
+        "id_location_parent": 30810,
+        "name": "Nambour",
+        "seoname": "nambour-66167"
+    },
+    {
+        "id_location": 30815,
+        "id_location_parent": 1,
+        "name": "Sydney",
+        "seoname": "sydney-781121"
+    },
+    {
+        "id_location": 30816,
+        "id_location_parent": 30815,
+        "name": "Ashfield",
+        "seoname": "ashfield-66168"
+    },
+    {
+        "id_location": 30817,
+        "id_location_parent": 30815,
+        "name": "Auburn",
+        "seoname": "auburn-66169"
+    },
+    {
+        "id_location": 30818,
+        "id_location_parent": 30815,
+        "name": "Bankstown",
+        "seoname": "bankstown-66170"
+    },
+    {
+        "id_location": 30819,
+        "id_location_parent": 30815,
+        "name": "Blue Mountains",
+        "seoname": "blue-mountains-66171"
+    },
+    {
+        "id_location": 30820,
+        "id_location_parent": 30815,
+        "name": "Botany Bay",
+        "seoname": "botany-bay-66172"
+    },
+    {
+        "id_location": 30821,
+        "id_location_parent": 30815,
+        "name": "Burwood",
+        "seoname": "burwood-66173"
+    },
+    {
+        "id_location": 30822,
+        "id_location_parent": 30815,
+        "name": "Camden",
+        "seoname": "camden-66174"
+    },
+    {
+        "id_location": 30823,
+        "id_location_parent": 30815,
+        "name": "Campbelltown",
+        "seoname": "campbelltown-66175"
+    },
+    {
+        "id_location": 30824,
+        "id_location_parent": 30815,
+        "name": "Canada Bay",
+        "seoname": "canada-bay-66176"
+    },
+    {
+        "id_location": 30825,
+        "id_location_parent": 30815,
+        "name": "Canterbury",
+        "seoname": "canterbury-66177"
+    },
+    {
+        "id_location": 30826,
+        "id_location_parent": 30815,
+        "name": "Fairfield",
+        "seoname": "fairfield-66178"
+    },
+    {
+        "id_location": 30827,
+        "id_location_parent": 30815,
+        "name": "Hunters Hill",
+        "seoname": "hunters-hill-66179"
+    },
+    {
+        "id_location": 30828,
+        "id_location_parent": 30815,
+        "name": "Hurstville",
+        "seoname": "hurstville-66180"
+    },
+    {
+        "id_location": 30829,
+        "id_location_parent": 30815,
+        "name": "Ku-ring-gai",
+        "seoname": "ku-ring-gai-66181"
+    },
+    {
+        "id_location": 30830,
+        "id_location_parent": 30815,
+        "name": "Manly",
+        "seoname": "manly-66182"
+    },
+    {
+        "id_location": 30831,
+        "id_location_parent": 30815,
+        "name": "North Sydney",
+        "seoname": "north-sydney-66183"
+    },
+    {
+        "id_location": 30832,
+        "id_location_parent": 30815,
+        "name": "Pittwater",
+        "seoname": "pittwater-66184"
+    },
+    {
+        "id_location": 30833,
+        "id_location_parent": 30815,
+        "name": "Rockdale",
+        "seoname": "rockdale-66185"
+    },
+    {
+        "id_location": 30834,
+        "id_location_parent": 30815,
+        "name": "Ryde",
+        "seoname": "ryde-66186"
+    },
+    {
+        "id_location": 30835,
+        "id_location_parent": 30815,
+        "name": "South Sydney",
+        "seoname": "south-sydney-66187"
+    },
+    {
+        "id_location": 30836,
+        "id_location_parent": 30815,
+        "name": "Strathfield",
+        "seoname": "strathfield-66188"
+    },
+    {
+        "id_location": 30837,
+        "id_location_parent": 30815,
+        "name": "Sutherland Shire",
+        "seoname": "sutherland-shire-66189"
+    },
+    {
+        "id_location": 30838,
+        "id_location_parent": 30815,
+        "name": "The Hills",
+        "seoname": "the-hills-66190"
+    },
+    {
+        "id_location": 30839,
+        "id_location_parent": 30815,
+        "name": "Warringah",
+        "seoname": "warringah-66191"
+    },
+    {
+        "id_location": 30840,
+        "id_location_parent": 30815,
+        "name": "Waverley",
+        "seoname": "waverley-66192"
+    },
+    {
+        "id_location": 30841,
+        "id_location_parent": 30815,
+        "name": "Willoughby",
+        "seoname": "willoughby-66193"
+    },
+    {
+        "id_location": 30842,
+        "id_location_parent": 30815,
+        "name": "Wollondilly",
+        "seoname": "wollondilly-66194"
+    },
+    {
+        "id_location": 30843,
+        "id_location_parent": 30815,
+        "name": "Woollahra",
+        "seoname": "woollahra-66195"
+    },
+    {
+        "id_location": 30844,
+        "id_location_parent": 30815,
+        "name": "Wyong",
+        "seoname": "wyong-66196"
+    },
+    {
+        "id_location": 30845,
+        "id_location_parent": 30815,
+        "name": "Holroyd",
+        "seoname": "holroyd-66197"
+    },
+    {
+        "id_location": 30846,
+        "id_location_parent": 30815,
+        "name": "Kogarah",
+        "seoname": "kogarah-66198"
+    },
+    {
+        "id_location": 30847,
+        "id_location_parent": 30815,
+        "name": "Lane Cove",
+        "seoname": "lane-cove-66199"
+    },
+    {
+        "id_location": 30848,
+        "id_location_parent": 30815,
+        "name": "Gosford",
+        "seoname": "gosford-66200"
+    },
+    {
+        "id_location": 30849,
+        "id_location_parent": 30815,
+        "name": "Penrith",
+        "seoname": "penrith-66201"
+    },
+    {
+        "id_location": 30850,
+        "id_location_parent": 30815,
+        "name": "Leichhardt",
+        "seoname": "leichhardt-66202"
+    },
+    {
+        "id_location": 30851,
+        "id_location_parent": 30815,
+        "name": "Hornsby",
+        "seoname": "hornsby-66203"
+    },
+    {
+        "id_location": 30852,
+        "id_location_parent": 30815,
+        "name": "Liverpool",
+        "seoname": "liverpool-66204"
+    },
+    {
+        "id_location": 30853,
+        "id_location_parent": 30815,
+        "name": "Marrickville",
+        "seoname": "marrickville-66205"
+    },
+    {
+        "id_location": 30854,
+        "id_location_parent": 30815,
+        "name": "Randwick",
+        "seoname": "randwick-66206"
+    },
+    {
+        "id_location": 30855,
+        "id_location_parent": 30815,
+        "name": "Mosman",
+        "seoname": "mosman-66207"
+    },
+    {
+        "id_location": 30856,
+        "id_location_parent": 30815,
+        "name": "Blacktown",
+        "seoname": "blacktown-66208"
+    },
+    {
+        "id_location": 30857,
+        "id_location_parent": 30815,
+        "name": "Parramatta",
+        "seoname": "parramatta-66209"
+    },
+    {
+        "id_location": 30858,
+        "id_location_parent": 30815,
+        "name": "Sydney",
+        "seoname": "sydney-66210"
+    },
+    {
+        "id_location": 30859,
+        "id_location_parent": 1,
+        "name": "Wheatbelt",
+        "seoname": "wheatbelt-781122"
+    },
+    {
+        "id_location": 30860,
+        "id_location_parent": 30859,
+        "name": "Beverley",
+        "seoname": "beverley-66211"
+    },
+    {
+        "id_location": 30861,
+        "id_location_parent": 30859,
+        "name": "Brookton",
+        "seoname": "brookton-66212"
+    },
+    {
+        "id_location": 30862,
+        "id_location_parent": 30859,
+        "name": "Corrigin",
+        "seoname": "corrigin-66213"
+    },
+    {
+        "id_location": 30863,
+        "id_location_parent": 30859,
+        "name": "Cuballing",
+        "seoname": "cuballing-66214"
+    },
+    {
+        "id_location": 30864,
+        "id_location_parent": 30859,
+        "name": "Dumbleyung",
+        "seoname": "dumbleyung-66215"
+    },
+    {
+        "id_location": 30865,
+        "id_location_parent": 30859,
+        "name": "Kondinin",
+        "seoname": "kondinin-66216"
+    },
+    {
+        "id_location": 30866,
+        "id_location_parent": 30859,
+        "name": "Kulin",
+        "seoname": "kulin-66217"
+    },
+    {
+        "id_location": 30867,
+        "id_location_parent": 30859,
+        "name": "Lake Grace",
+        "seoname": "lake-grace-66218"
+    },
+    {
+        "id_location": 30868,
+        "id_location_parent": 30859,
+        "name": "Mount Marshall",
+        "seoname": "mount-marshall-66219"
+    },
+    {
+        "id_location": 30869,
+        "id_location_parent": 30859,
+        "name": "Narrogin Shire",
+        "seoname": "narrogin-shire-66220"
+    },
+    {
+        "id_location": 30870,
+        "id_location_parent": 30859,
+        "name": "Narrogin Town",
+        "seoname": "narrogin-town-66221"
+    },
+    {
+        "id_location": 30871,
+        "id_location_parent": 30859,
+        "name": "Pingelly",
+        "seoname": "pingelly-66222"
+    },
+    {
+        "id_location": 30872,
+        "id_location_parent": 30859,
+        "name": "Victoria Plains",
+        "seoname": "victoria-plains-66223"
+    },
+    {
+        "id_location": 30873,
+        "id_location_parent": 30859,
+        "name": "Wagin",
+        "seoname": "wagin-66224"
+    },
+    {
+        "id_location": 30874,
+        "id_location_parent": 30859,
+        "name": "Wandering",
+        "seoname": "wandering-66225"
+    },
+    {
+        "id_location": 30875,
+        "id_location_parent": 30859,
+        "name": "West Arthur",
+        "seoname": "west-arthur-66226"
+    },
+    {
+        "id_location": 30876,
+        "id_location_parent": 30859,
+        "name": "Wickepin",
+        "seoname": "wickepin-66227"
+    },
+    {
+        "id_location": 30877,
+        "id_location_parent": 30859,
+        "name": "Williams",
+        "seoname": "williams-66228"
+    },
+    {
+        "id_location": 30878,
+        "id_location_parent": 30859,
+        "name": "Wongan-Ballidu",
+        "seoname": "wongan-ballidu-66229"
+    },
+    {
+        "id_location": 30879,
+        "id_location_parent": 30859,
+        "name": "Yilgarn",
+        "seoname": "yilgarn-66230"
+    },
+    {
+        "id_location": 30880,
+        "id_location_parent": 30859,
+        "name": "Trayning",
+        "seoname": "trayning-66231"
+    },
+    {
+        "id_location": 30881,
+        "id_location_parent": 30859,
+        "name": "Nungarin",
+        "seoname": "nungarin-66232"
+    },
+    {
+        "id_location": 30882,
+        "id_location_parent": 30859,
+        "name": "Tammin",
+        "seoname": "tammin-66233"
+    },
+    {
+        "id_location": 30883,
+        "id_location_parent": 30859,
+        "name": "Westonia",
+        "seoname": "westonia-66234"
+    },
+    {
+        "id_location": 30884,
+        "id_location_parent": 30859,
+        "name": "Koorda",
+        "seoname": "koorda-66235"
+    },
+    {
+        "id_location": 30885,
+        "id_location_parent": 30859,
+        "name": "Mukinbudin",
+        "seoname": "mukinbudin-66236"
+    },
+    {
+        "id_location": 30886,
+        "id_location_parent": 30859,
+        "name": "Wyalkatchem",
+        "seoname": "wyalkatchem-66237"
+    },
+    {
+        "id_location": 30887,
+        "id_location_parent": 30859,
+        "name": "Chittering",
+        "seoname": "chittering-66238"
+    },
+    {
+        "id_location": 30888,
+        "id_location_parent": 30859,
+        "name": "Dandaragan",
+        "seoname": "dandaragan-66239"
+    },
+    {
+        "id_location": 30889,
+        "id_location_parent": 30859,
+        "name": "Narembeen",
+        "seoname": "narembeen-66240"
+    },
+    {
+        "id_location": 30890,
+        "id_location_parent": 30859,
+        "name": "Dowerin",
+        "seoname": "dowerin-66241"
+    },
+    {
+        "id_location": 30891,
+        "id_location_parent": 30859,
+        "name": "Goomalling",
+        "seoname": "goomalling-66242"
+    },
+    {
+        "id_location": 30892,
+        "id_location_parent": 30859,
+        "name": "Gingin",
+        "seoname": "gingin-66243"
+    },
+    {
+        "id_location": 30893,
+        "id_location_parent": 30859,
+        "name": "Dalwallinu",
+        "seoname": "dalwallinu-66244"
+    },
+    {
+        "id_location": 30894,
+        "id_location_parent": 30859,
+        "name": "Quairading",
+        "seoname": "quairading-66245"
+    },
+    {
+        "id_location": 30895,
+        "id_location_parent": 30859,
+        "name": "Bruce Rock",
+        "seoname": "bruce-rock-66246"
+    },
+    {
+        "id_location": 30896,
+        "id_location_parent": 30859,
+        "name": "Kellerberrin",
+        "seoname": "kellerberrin-66247"
+    },
+    {
+        "id_location": 30897,
+        "id_location_parent": 30859,
+        "name": "Cunderdin",
+        "seoname": "cunderdin-66248"
+    },
+    {
+        "id_location": 30898,
+        "id_location_parent": 30859,
+        "name": "Toodyay",
+        "seoname": "toodyay-66249"
+    },
+    {
+        "id_location": 30899,
+        "id_location_parent": 30859,
+        "name": "Moora",
+        "seoname": "moora-66250"
+    },
+    {
+        "id_location": 30900,
+        "id_location_parent": 30859,
+        "name": "York",
+        "seoname": "york-66251"
+    },
+    {
+        "id_location": 30901,
+        "id_location_parent": 30859,
+        "name": "Merredin",
+        "seoname": "merredin-66252"
+    },
+    {
+        "id_location": 30902,
+        "id_location_parent": 30859,
+        "name": "Northam",
+        "seoname": "northam-66253"
+    },
+    {
+        "id_location": 30903,
+        "id_location_parent": 1,
+        "name": "Wide Bay-Burnett",
+        "seoname": "wide-bay-burnett-781123"
+    },
+    {
+        "id_location": 30904,
+        "id_location_parent": 30903,
+        "name": "Hervey Bay",
+        "seoname": "hervey-bay-66254"
+    },
+    {
+        "id_location": 30905,
+        "id_location_parent": 30903,
+        "name": "Biggenden",
+        "seoname": "biggenden-66255"
+    },
+    {
+        "id_location": 30906,
+        "id_location_parent": 30903,
+        "name": "Burnett",
+        "seoname": "burnett-66256"
+    },
+    {
+        "id_location": 30907,
+        "id_location_parent": 30903,
+        "name": "Cooloola",
+        "seoname": "cooloola-66257"
+    },
+    {
+        "id_location": 30908,
+        "id_location_parent": 30903,
+        "name": "Eidsvold",
+        "seoname": "eidsvold-66258"
+    },
+    {
+        "id_location": 30909,
+        "id_location_parent": 30903,
+        "name": "Isis",
+        "seoname": "isis-66259"
+    },
+    {
+        "id_location": 30910,
+        "id_location_parent": 30903,
+        "name": "Kilkivan",
+        "seoname": "kilkivan-66260"
+    },
+    {
+        "id_location": 30911,
+        "id_location_parent": 30903,
+        "name": "Kolan",
+        "seoname": "kolan-66261"
+    },
+    {
+        "id_location": 30912,
+        "id_location_parent": 30903,
+        "name": "Miriam Vale",
+        "seoname": "miriam-vale-66262"
+    },
+    {
+        "id_location": 30913,
+        "id_location_parent": 30903,
+        "name": "Monto",
+        "seoname": "monto-66263"
+    },
+    {
+        "id_location": 30914,
+        "id_location_parent": 30903,
+        "name": "Mundubbera",
+        "seoname": "mundubbera-66264"
+    },
+    {
+        "id_location": 30915,
+        "id_location_parent": 30903,
+        "name": "Murgon",
+        "seoname": "murgon-66265"
+    },
+    {
+        "id_location": 30916,
+        "id_location_parent": 30903,
+        "name": "Nanango",
+        "seoname": "nanango-66266"
+    },
+    {
+        "id_location": 30917,
+        "id_location_parent": 30903,
+        "name": "Perry",
+        "seoname": "perry-66267"
+    },
+    {
+        "id_location": 30918,
+        "id_location_parent": 30903,
+        "name": "Woocoo",
+        "seoname": "woocoo-66268"
+    },
+    {
+        "id_location": 30919,
+        "id_location_parent": 30903,
+        "name": "Tiaro",
+        "seoname": "tiaro-66269"
+    },
+    {
+        "id_location": 30920,
+        "id_location_parent": 30903,
+        "name": "Gayndah",
+        "seoname": "gayndah-66270"
+    },
+    {
+        "id_location": 30921,
+        "id_location_parent": 30903,
+        "name": "Wondai",
+        "seoname": "wondai-66271"
+    },
+    {
+        "id_location": 30922,
+        "id_location_parent": 30903,
+        "name": "Kingaroy",
+        "seoname": "kingaroy-66272"
+    },
+    {
+        "id_location": 30923,
+        "id_location_parent": 30903,
+        "name": "Gympie",
+        "seoname": "gympie-66273"
+    },
+    {
+        "id_location": 30924,
+        "id_location_parent": 30903,
+        "name": "Maryborough",
+        "seoname": "maryborough-66274"
+    },
+    {
+        "id_location": 30925,
+        "id_location_parent": 30903,
+        "name": "Bundaberg",
+        "seoname": "bundaberg-66275"
+    }
+]

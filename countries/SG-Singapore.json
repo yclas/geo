@@ -1,0 +1,224 @@
+[
+    {
+        "id_location": 389419,
+        "id_location_parent": 1,
+        "name": "Central",
+        "seoname": "central-781947"
+    },
+    {
+        "id_location": 389420,
+        "id_location_parent": 389419,
+        "name": "District 9",
+        "seoname": "district-9-409491"
+    },
+    {
+        "id_location": 389421,
+        "id_location_parent": 389419,
+        "name": "District 10",
+        "seoname": "district-10-409492"
+    },
+    {
+        "id_location": 389422,
+        "id_location_parent": 1,
+        "name": "Central East",
+        "seoname": "central-east-781948"
+    },
+    {
+        "id_location": 389423,
+        "id_location_parent": 389422,
+        "name": "District 12",
+        "seoname": "district-12-409493"
+    },
+    {
+        "id_location": 389424,
+        "id_location_parent": 389422,
+        "name": "District 13",
+        "seoname": "district-13-409494"
+    },
+    {
+        "id_location": 389425,
+        "id_location_parent": 389422,
+        "name": "District 14",
+        "seoname": "district-14-409495"
+    },
+    {
+        "id_location": 389426,
+        "id_location_parent": 1,
+        "name": "Central North",
+        "seoname": "central-north-781949"
+    },
+    {
+        "id_location": 389427,
+        "id_location_parent": 389426,
+        "name": "District 19",
+        "seoname": "district-19-409496"
+    },
+    {
+        "id_location": 389428,
+        "id_location_parent": 389426,
+        "name": "District 20",
+        "seoname": "district-20-409497"
+    },
+    {
+        "id_location": 389429,
+        "id_location_parent": 1,
+        "name": "Central West",
+        "seoname": "central-west-781950"
+    },
+    {
+        "id_location": 389430,
+        "id_location_parent": 389429,
+        "name": "District 11",
+        "seoname": "district-11-409498"
+    },
+    {
+        "id_location": 389431,
+        "id_location_parent": 389429,
+        "name": "District 21",
+        "seoname": "district-21-409499"
+    },
+    {
+        "id_location": 389432,
+        "id_location_parent": 1,
+        "name": "City Central",
+        "seoname": "city-central-781951"
+    },
+    {
+        "id_location": 389433,
+        "id_location_parent": 389432,
+        "name": "District 1",
+        "seoname": "district-1-409500"
+    },
+    {
+        "id_location": 389434,
+        "id_location_parent": 389432,
+        "name": "District 2",
+        "seoname": "district-2-409501"
+    },
+    {
+        "id_location": 389435,
+        "id_location_parent": 389432,
+        "name": "District 3",
+        "seoname": "district-3-409502"
+    },
+    {
+        "id_location": 389436,
+        "id_location_parent": 389432,
+        "name": "District 4",
+        "seoname": "district-4-409503"
+    },
+    {
+        "id_location": 389437,
+        "id_location_parent": 389432,
+        "name": "District 5",
+        "seoname": "district-5-409504"
+    },
+    {
+        "id_location": 389438,
+        "id_location_parent": 389432,
+        "name": "District 6",
+        "seoname": "district-6-409505"
+    },
+    {
+        "id_location": 389439,
+        "id_location_parent": 389432,
+        "name": "District 7",
+        "seoname": "district-7-409506"
+    },
+    {
+        "id_location": 389440,
+        "id_location_parent": 389432,
+        "name": "District 8",
+        "seoname": "district-8-409507"
+    },
+    {
+        "id_location": 389441,
+        "id_location_parent": 1,
+        "name": "East Coast",
+        "seoname": "east-coast-781952"
+    },
+    {
+        "id_location": 389442,
+        "id_location_parent": 389441,
+        "name": "District 15",
+        "seoname": "district-15-409508"
+    },
+    {
+        "id_location": 389443,
+        "id_location_parent": 389441,
+        "name": "District 16",
+        "seoname": "district-16-409509"
+    },
+    {
+        "id_location": 389444,
+        "id_location_parent": 1,
+        "name": "Far East",
+        "seoname": "far-east-781953"
+    },
+    {
+        "id_location": 389445,
+        "id_location_parent": 389444,
+        "name": "District 17",
+        "seoname": "district-17-409510"
+    },
+    {
+        "id_location": 389446,
+        "id_location_parent": 389444,
+        "name": "District 18",
+        "seoname": "district-18-409511"
+    },
+    {
+        "id_location": 389447,
+        "id_location_parent": 1,
+        "name": "North",
+        "seoname": "north-781954"
+    },
+    {
+        "id_location": 389448,
+        "id_location_parent": 389447,
+        "name": "District 25",
+        "seoname": "district-25-409512"
+    },
+    {
+        "id_location": 389449,
+        "id_location_parent": 389447,
+        "name": "District 26",
+        "seoname": "district-26-409513"
+    },
+    {
+        "id_location": 389450,
+        "id_location_parent": 389447,
+        "name": "District 27",
+        "seoname": "district-27-409514"
+    },
+    {
+        "id_location": 389451,
+        "id_location_parent": 389447,
+        "name": "District 28",
+        "seoname": "district-28-409515"
+    },
+    {
+        "id_location": 389452,
+        "id_location_parent": 1,
+        "name": "West",
+        "seoname": "west-781955"
+    },
+    {
+        "id_location": 389453,
+        "id_location_parent": 389452,
+        "name": "District 22",
+        "seoname": "district-22-409516"
+    },
+    {
+        "id_location": 389454,
+        "id_location_parent": 389452,
+        "name": "District 23",
+        "seoname": "district-23-409517"
+    },
+    {
+        "id_location": 389455,
+        "id_location_parent": 389452,
+        "name": "District 24",
+        "seoname": "district-24-409518"
+    }
+]

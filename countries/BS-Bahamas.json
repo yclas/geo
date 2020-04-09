@@ -1,0 +1,134 @@
+[
+    {
+        "id_location": 68205,
+        "id_location_parent": 1,
+        "name": "Acklins And Crooked Islands",
+        "seoname": "acklins-and-crooked-islands-740090"
+    },
+    {
+        "id_location": 68206,
+        "id_location_parent": 1,
+        "name": "Bimini",
+        "seoname": "bimini-740091"
+    },
+    {
+        "id_location": 68207,
+        "id_location_parent": 1,
+        "name": "Cat Island",
+        "seoname": "cat-island-740092"
+    },
+    {
+        "id_location": 68208,
+        "id_location_parent": 1,
+        "name": "Exuma",
+        "seoname": "exuma-740093"
+    },
+    {
+        "id_location": 68209,
+        "id_location_parent": 1,
+        "name": "Freeport",
+        "seoname": "freeport-740094"
+    },
+    {
+        "id_location": 68210,
+        "id_location_parent": 1,
+        "name": "Fresh Creek",
+        "seoname": "fresh-creek-740095"
+    },
+    {
+        "id_location": 68211,
+        "id_location_parent": 1,
+        "name": "Governor's Harbour",
+        "seoname": "governors-harbour-740096"
+    },
+    {
+        "id_location": 68212,
+        "id_location_parent": 1,
+        "name": "Green Turtle Cay",
+        "seoname": "green-turtle-cay-740097"
+    },
+    {
+        "id_location": 68213,
+        "id_location_parent": 1,
+        "name": "Harbour Island",
+        "seoname": "harbour-island-740098"
+    },
+    {
+        "id_location": 68214,
+        "id_location_parent": 1,
+        "name": "High Rock",
+        "seoname": "high-rock-740099"
+    },
+    {
+        "id_location": 68215,
+        "id_location_parent": 1,
+        "name": "Inagua",
+        "seoname": "inagua-740100"
+    },
+    {
+        "id_location": 68216,
+        "id_location_parent": 1,
+        "name": "Kemps Bay",
+        "seoname": "kemps-bay-740101"
+    },
+    {
+        "id_location": 68217,
+        "id_location_parent": 1,
+        "name": "Long Island",
+        "seoname": "long-island-740102"
+    },
+    {
+        "id_location": 68218,
+        "id_location_parent": 1,
+        "name": "Marsh Harbour",
+        "seoname": "marsh-harbour-740103"
+    },
+    {
+        "id_location": 68219,
+        "id_location_parent": 1,
+        "name": "Mayaguana",
+        "seoname": "mayaguana-740104"
+    },
+    {
+        "id_location": 68220,
+        "id_location_parent": 1,
+        "name": "New Providence",
+        "seoname": "new-providence-740105"
+    },
+    {
+        "id_location": 68221,
+        "id_location_parent": 68220,
+        "name": "Nassau",
+        "seoname": "nassau-34301"
+    },
+    {
+        "id_location": 68222,
+        "id_location_parent": 1,
+        "name": "Nichollstown And Berry Islands",
+        "seoname": "nichollstown-and-berry-islands-740107"
+    },
+    {
+        "id_location": 68223,
+        "id_location_parent": 1,
+        "name": "Ragged Island",
+        "seoname": "ragged-island-740108"
+    },
+    {
+        "id_location": 68224,
+        "id_location_parent": 1,
+        "name": "Rock Sound",
+        "seoname": "rock-sound-740109"
+    },
+    {
+        "id_location": 68225,
+        "id_location_parent": 1,
+        "name": "Sandy Point",
+        "seoname": "sandy-point-740110"
+    },
+    {
+        "id_location": 68226,
+        "id_location_parent": 1,
+        "name": "San Salvador And Rum Cay",
+        "seoname": "san-salvador-and-rum-cay-740111"
+    }
+]

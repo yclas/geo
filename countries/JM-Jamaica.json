@@ -1,0 +1,104 @@
+[
+    {
+        "id_location": 268708,
+        "id_location_parent": 1,
+        "name": "Surrey",
+        "seoname": "surrey-743275"
+    },
+    {
+        "id_location": 268709,
+        "id_location_parent": 268708,
+        "name": "Kingston",
+        "seoname": "kingston-37298"
+    },
+    {
+        "id_location": 268710,
+        "id_location_parent": 268708,
+        "name": "Portland",
+        "seoname": "portland-37299"
+    },
+    {
+        "id_location": 268711,
+        "id_location_parent": 268708,
+        "name": "Saint Andrew",
+        "seoname": "saint-andrew-37300"
+    },
+    {
+        "id_location": 268712,
+        "id_location_parent": 268708,
+        "name": "Saint Thomas",
+        "seoname": "saint-thomas-37301"
+    },
+    {
+        "id_location": 268713,
+        "id_location_parent": 1,
+        "name": "Middlesex",
+        "seoname": "middlesex-743280"
+    },
+    {
+        "id_location": 268714,
+        "id_location_parent": 268713,
+        "name": "Clarendon",
+        "seoname": "clarendon-37302"
+    },
+    {
+        "id_location": 268715,
+        "id_location_parent": 268713,
+        "name": "Manchester",
+        "seoname": "manchester-37303"
+    },
+    {
+        "id_location": 268716,
+        "id_location_parent": 268713,
+        "name": "Saint Ann",
+        "seoname": "saint-ann-37304"
+    },
+    {
+        "id_location": 268717,
+        "id_location_parent": 268713,
+        "name": "Saint Catherine",
+        "seoname": "saint-catherine-37305"
+    },
+    {
+        "id_location": 268718,
+        "id_location_parent": 268713,
+        "name": "Saint Mary",
+        "seoname": "saint-mary-37306"
+    },
+    {
+        "id_location": 268719,
+        "id_location_parent": 1,
+        "name": "Cornwall",
+        "seoname": "cornwall-743286"
+    },
+    {
+        "id_location": 268720,
+        "id_location_parent": 268719,
+        "name": "Hanover",
+        "seoname": "hanover-37307"
+    },
+    {
+        "id_location": 268721,
+        "id_location_parent": 268719,
+        "name": "Saint Elizabeth",
+        "seoname": "saint-elizabeth-37308"
+    },
+    {
+        "id_location": 268722,
+        "id_location_parent": 268719,
+        "name": "Saint James",
+        "seoname": "saint-james-37309"
+    },
+    {
+        "id_location": 268723,
+        "id_location_parent": 268719,
+        "name": "Trelawny",
+        "seoname": "trelawny-37310"
+    },
+    {
+        "id_location": 268724,
+        "id_location_parent": 268719,
+        "name": "Westmoreland",
+        "seoname": "westmoreland-37311"
+    }
+]

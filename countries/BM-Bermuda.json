@@ -1,0 +1,62 @@
+[
+    {
+        "id_location": 41322,
+        "id_location_parent": 1,
+        "name": "Devonshire",
+        "seoname": "devonshire-742271"
+    },
+    {
+        "id_location": 41323,
+        "id_location_parent": 1,
+        "name": "Hamilton",
+        "seoname": "hamilton-742272"
+    },
+    {
+        "id_location": 41324,
+        "id_location_parent": 1,
+        "name": "Paget",
+        "seoname": "paget-742273"
+    },
+    {
+        "id_location": 41325,
+        "id_location_parent": 1,
+        "name": "Pembroke",
+        "seoname": "pembroke-742274"
+    },
+    {
+        "id_location": 41326,
+        "id_location_parent": 1,
+        "name": "Saint",
+        "seoname": "saint-742275"
+    },
+    {
+        "id_location": 41327,
+        "id_location_parent": 1,
+        "name": "Saint George's",
+        "seoname": "saint-georges-742276"
+    },
+    {
+        "id_location": 41328,
+        "id_location_parent": 1,
+        "name": "Sandys",
+        "seoname": "sandys-742277"
+    },
+    {
+        "id_location": 41329,
+        "id_location_parent": 1,
+        "name": "Smith's",
+        "seoname": "smiths-742278"
+    },
+    {
+        "id_location": 41330,
+        "id_location_parent": 1,
+        "name": "Southampton",
+        "seoname": "southampton-742279"
+    },
+    {
+        "id_location": 41331,
+        "id_location_parent": 1,
+        "name": "Warwick",
+        "seoname": "warwick-742280"
+    }
+]

@@ -1,0 +1,266 @@
+[
+    {
+        "id_location": 177180,
+        "id_location_parent": 1,
+        "name": "\u00c5land",
+        "seoname": "aland-742296"
+    },
+    {
+        "id_location": 177181,
+        "id_location_parent": 177180,
+        "name": "Br\u00e4nd\u00f6",
+        "seoname": "brando-36370"
+    },
+    {
+        "id_location": 177182,
+        "id_location_parent": 177180,
+        "name": "Ecker\u00f6",
+        "seoname": "eckero-36371"
+    },
+    {
+        "id_location": 177183,
+        "id_location_parent": 177180,
+        "name": "Finstr\u00f6m",
+        "seoname": "finstrom-36372"
+    },
+    {
+        "id_location": 177184,
+        "id_location_parent": 177180,
+        "name": "F\u00f6gl\u00f6",
+        "seoname": "foglo-36373"
+    },
+    {
+        "id_location": 177185,
+        "id_location_parent": 177180,
+        "name": "Geta",
+        "seoname": "geta-36374"
+    },
+    {
+        "id_location": 177186,
+        "id_location_parent": 177180,
+        "name": "Hammarland",
+        "seoname": "hammarland-36375"
+    },
+    {
+        "id_location": 177187,
+        "id_location_parent": 177180,
+        "name": "Jomala",
+        "seoname": "jomala-36376"
+    },
+    {
+        "id_location": 177188,
+        "id_location_parent": 177180,
+        "name": "Kumlinge",
+        "seoname": "kumlinge-36377"
+    },
+    {
+        "id_location": 177189,
+        "id_location_parent": 177180,
+        "name": "K\u00f6kar",
+        "seoname": "kokar-36378"
+    },
+    {
+        "id_location": 177190,
+        "id_location_parent": 177180,
+        "name": "Lemland",
+        "seoname": "lemland-36379"
+    },
+    {
+        "id_location": 177191,
+        "id_location_parent": 177180,
+        "name": "Lumparland",
+        "seoname": "lumparland-36380"
+    },
+    {
+        "id_location": 177192,
+        "id_location_parent": 177180,
+        "name": "Mariehamn",
+        "seoname": "mariehamn-36381"
+    },
+    {
+        "id_location": 177193,
+        "id_location_parent": 177180,
+        "name": "Saltvik",
+        "seoname": "saltvik-36382"
+    },
+    {
+        "id_location": 177194,
+        "id_location_parent": 177180,
+        "name": "Sottunga",
+        "seoname": "sottunga-36383"
+    },
+    {
+        "id_location": 177195,
+        "id_location_parent": 177180,
+        "name": "Sund",
+        "seoname": "sund-36384"
+    },
+    {
+        "id_location": 177196,
+        "id_location_parent": 177180,
+        "name": "V\u00e5rd\u00f6",
+        "seoname": "vardo-36385"
+    },
+    {
+        "id_location": 177197,
+        "id_location_parent": 1,
+        "name": "Finlandia Meridional",
+        "seoname": "finlandia-meridional-742313"
+    },
+    {
+        "id_location": 177198,
+        "id_location_parent": 177197,
+        "name": "Carelia del Sur",
+        "seoname": "carelia-del-sur-36386"
+    },
+    {
+        "id_location": 177199,
+        "id_location_parent": 177197,
+        "name": "Kymenlaakso",
+        "seoname": "kymenlaakso-36387"
+    },
+    {
+        "id_location": 177200,
+        "id_location_parent": 177197,
+        "name": "P\u00e4ij\u00e4nne Tavastia",
+        "seoname": "paijanne-tavastia-36388"
+    },
+    {
+        "id_location": 177201,
+        "id_location_parent": 177197,
+        "name": "Tavastia Propia",
+        "seoname": "tavastia-propia-36389"
+    },
+    {
+        "id_location": 177202,
+        "id_location_parent": 177197,
+        "name": "Uusimaa",
+        "seoname": "uusimaa-36390"
+    },
+    {
+        "id_location": 177203,
+        "id_location_parent": 177197,
+        "name": "Uusimaa del Este",
+        "seoname": "uusimaa-del-este-36391"
+    },
+    {
+        "id_location": 177204,
+        "id_location_parent": 1,
+        "name": "Finlandia Occidental",
+        "seoname": "finlandia-occidental-742320"
+    },
+    {
+        "id_location": 177205,
+        "id_location_parent": 177204,
+        "name": "Finlandia Central",
+        "seoname": "finlandia-central-36392"
+    },
+    {
+        "id_location": 177206,
+        "id_location_parent": 177204,
+        "name": "Finlandia Propia",
+        "seoname": "finlandia-propia-36393"
+    },
+    {
+        "id_location": 177207,
+        "id_location_parent": 177204,
+        "name": "Ostrobothnia",
+        "seoname": "ostrobothnia-36394"
+    },
+    {
+        "id_location": 177208,
+        "id_location_parent": 177204,
+        "name": "Ostrobothnia Central",
+        "seoname": "ostrobothnia-central-36395"
+    },
+    {
+        "id_location": 177209,
+        "id_location_parent": 177204,
+        "name": "Ostrobothnia del Sur",
+        "seoname": "ostrobothnia-del-sur-36396"
+    },
+    {
+        "id_location": 177210,
+        "id_location_parent": 177204,
+        "name": "Pirkanmaa",
+        "seoname": "pirkanmaa-36397"
+    },
+    {
+        "id_location": 177211,
+        "id_location_parent": 177204,
+        "name": "Satakunta",
+        "seoname": "satakunta-36398"
+    },
+    {
+        "id_location": 177212,
+        "id_location_parent": 1,
+        "name": "Finlandia Oriental",
+        "seoname": "finlandia-oriental-742328"
+    },
+    {
+        "id_location": 177213,
+        "id_location_parent": 177212,
+        "name": "Carelia del Norte",
+        "seoname": "carelia-del-norte-36399"
+    },
+    {
+        "id_location": 177214,
+        "id_location_parent": 177212,
+        "name": "Savonia del Norte",
+        "seoname": "savonia-del-norte-36400"
+    },
+    {
+        "id_location": 177215,
+        "id_location_parent": 177212,
+        "name": "Savonia del Sur",
+        "seoname": "savonia-del-sur-36401"
+    },
+    {
+        "id_location": 177216,
+        "id_location_parent": 1,
+        "name": "Laponia",
+        "seoname": "laponia-742332"
+    },
+    {
+        "id_location": 177217,
+        "id_location_parent": 177216,
+        "name": "Rovaniemi",
+        "seoname": "rovaniemi-36402"
+    },
+    {
+        "id_location": 177218,
+        "id_location_parent": 177216,
+        "name": "Kemi",
+        "seoname": "kemi-36403"
+    },
+    {
+        "id_location": 177219,
+        "id_location_parent": 177216,
+        "name": "Tornio",
+        "seoname": "tornio-36404"
+    },
+    {
+        "id_location": 177220,
+        "id_location_parent": 177216,
+        "name": "Kemij\u00e4rvi",
+        "seoname": "kemijarvi-36405"
+    },
+    {
+        "id_location": 177221,
+        "id_location_parent": 1,
+        "name": "Oulu",
+        "seoname": "oulu-742337"
+    },
+    {
+        "id_location": 177222,
+        "id_location_parent": 177221,
+        "name": "Kainuu",
+        "seoname": "kainuu-36406"
+    },
+    {
+        "id_location": 177223,
+        "id_location_parent": 177221,
+        "name": "Ostrobothnia del Norte",
+        "seoname": "ostrobothnia-del-norte-36407"
+    }
+]

@@ -1,0 +1,482 @@
+[
+    {
+        "id_location": 245133,
+        "id_location_parent": 1,
+        "name": "Norte Israel",
+        "seoname": "norte-israel-780425"
+    },
+    {
+        "id_location": 245134,
+        "id_location_parent": 245133,
+        "name": "Afula",
+        "seoname": "afula-43770"
+    },
+    {
+        "id_location": 245135,
+        "id_location_parent": 245133,
+        "name": "Akko",
+        "seoname": "akko-43771"
+    },
+    {
+        "id_location": 245136,
+        "id_location_parent": 245133,
+        "name": "Bet Shean",
+        "seoname": "bet-shean-43772"
+    },
+    {
+        "id_location": 245137,
+        "id_location_parent": 245133,
+        "name": "Carmiel",
+        "seoname": "carmiel-43773"
+    },
+    {
+        "id_location": 245138,
+        "id_location_parent": 245133,
+        "name": "Maalot-tarshija",
+        "seoname": "maalot-tarshija-43774"
+    },
+    {
+        "id_location": 245139,
+        "id_location_parent": 245133,
+        "name": "Migdal Haemek",
+        "seoname": "migdal-haemek-43775"
+    },
+    {
+        "id_location": 245140,
+        "id_location_parent": 245133,
+        "name": "Naharia",
+        "seoname": "naharia-43776"
+    },
+    {
+        "id_location": 245141,
+        "id_location_parent": 245133,
+        "name": "Nazaret",
+        "seoname": "nazaret-43777"
+    },
+    {
+        "id_location": 245142,
+        "id_location_parent": 245133,
+        "name": "Natzeret Illit",
+        "seoname": "natzeret-illit-43778"
+    },
+    {
+        "id_location": 245143,
+        "id_location_parent": 245133,
+        "name": "Kiriat Shemona",
+        "seoname": "kiriat-shemona-43779"
+    },
+    {
+        "id_location": 245144,
+        "id_location_parent": 245133,
+        "name": "Tzfat",
+        "seoname": "tzfat-43780"
+    },
+    {
+        "id_location": 245145,
+        "id_location_parent": 245133,
+        "name": "Sakhnin",
+        "seoname": "sakhnin-43781"
+    },
+    {
+        "id_location": 245146,
+        "id_location_parent": 245133,
+        "name": "Shagor",
+        "seoname": "shagor-43782"
+    },
+    {
+        "id_location": 245147,
+        "id_location_parent": 245133,
+        "name": "Shefa-amr",
+        "seoname": "shefa-amr-43783"
+    },
+    {
+        "id_location": 245148,
+        "id_location_parent": 245133,
+        "name": "Tamra",
+        "seoname": "tamra-43784"
+    },
+    {
+        "id_location": 245149,
+        "id_location_parent": 245133,
+        "name": "Tiberia",
+        "seoname": "tiberia-43785"
+    },
+    {
+        "id_location": 245150,
+        "id_location_parent": 1,
+        "name": "Haifa",
+        "seoname": "haifa-780442"
+    },
+    {
+        "id_location": 245151,
+        "id_location_parent": 245150,
+        "name": "Baqa-jat",
+        "seoname": "baqa-jat-43786"
+    },
+    {
+        "id_location": 245152,
+        "id_location_parent": 245150,
+        "name": "Ciudad de Carmel",
+        "seoname": "ciudad-de-carmel-43787"
+    },
+    {
+        "id_location": 245153,
+        "id_location_parent": 245150,
+        "name": "Hadera",
+        "seoname": "hadera-43788"
+    },
+    {
+        "id_location": 245154,
+        "id_location_parent": 245150,
+        "name": "Haifa",
+        "seoname": "haifa-43789"
+    },
+    {
+        "id_location": 245155,
+        "id_location_parent": 245150,
+        "name": "Nesher",
+        "seoname": "nesher-43790"
+    },
+    {
+        "id_location": 245156,
+        "id_location_parent": 245150,
+        "name": "Or Akiva",
+        "seoname": "or-akiva-43791"
+    },
+    {
+        "id_location": 245157,
+        "id_location_parent": 245150,
+        "name": "Kiriat Atta",
+        "seoname": "kiriat-atta-43792"
+    },
+    {
+        "id_location": 245158,
+        "id_location_parent": 245150,
+        "name": "Kiriat Bialik",
+        "seoname": "kiriat-bialik-43793"
+    },
+    {
+        "id_location": 245159,
+        "id_location_parent": 245150,
+        "name": "Kiriat Motzkin",
+        "seoname": "kiriat-motzkin-43794"
+    },
+    {
+        "id_location": 245160,
+        "id_location_parent": 245150,
+        "name": "Kiriat Yam",
+        "seoname": "kiriat-yam-43795"
+    },
+    {
+        "id_location": 245161,
+        "id_location_parent": 245150,
+        "name": "Tirat Karmel",
+        "seoname": "tirat-karmel-43796"
+    },
+    {
+        "id_location": 245162,
+        "id_location_parent": 245150,
+        "name": "Umm Al-fahm",
+        "seoname": "umm-al-fahm-43797"
+    },
+    {
+        "id_location": 245163,
+        "id_location_parent": 1,
+        "name": "Centro Israel",
+        "seoname": "centro-israel-780455"
+    },
+    {
+        "id_location": 245164,
+        "id_location_parent": 245163,
+        "name": "Hod Hasharon",
+        "seoname": "hod-hasharon-43798"
+    },
+    {
+        "id_location": 245165,
+        "id_location_parent": 245163,
+        "name": "Kfar Saba",
+        "seoname": "kfar-saba-43799"
+    },
+    {
+        "id_location": 245166,
+        "id_location_parent": 245163,
+        "name": "Lod",
+        "seoname": "lod-43800"
+    },
+    {
+        "id_location": 245167,
+        "id_location_parent": 245163,
+        "name": "Modiin-maccabim-reut",
+        "seoname": "modiin-maccabim-reut-43801"
+    },
+    {
+        "id_location": 245168,
+        "id_location_parent": 245163,
+        "name": "Ness Tziona",
+        "seoname": "ness-tziona-43802"
+    },
+    {
+        "id_location": 245169,
+        "id_location_parent": 245163,
+        "name": "Netania",
+        "seoname": "netania-43803"
+    },
+    {
+        "id_location": 245170,
+        "id_location_parent": 245163,
+        "name": "Petaj Tikva",
+        "seoname": "petaj-tikva-43804"
+    },
+    {
+        "id_location": 245171,
+        "id_location_parent": 245163,
+        "name": "Qalansawe",
+        "seoname": "qalansawe-43805"
+    },
+    {
+        "id_location": 245172,
+        "id_location_parent": 245163,
+        "name": "Raanana",
+        "seoname": "raanana-43806"
+    },
+    {
+        "id_location": 245173,
+        "id_location_parent": 245163,
+        "name": "Ramla",
+        "seoname": "ramla-43807"
+    },
+    {
+        "id_location": 245174,
+        "id_location_parent": 245163,
+        "name": "Rejovot",
+        "seoname": "rejovot-43808"
+    },
+    {
+        "id_location": 245175,
+        "id_location_parent": 245163,
+        "name": "Rishon Letzion",
+        "seoname": "rishon-letzion-43809"
+    },
+    {
+        "id_location": 245176,
+        "id_location_parent": 245163,
+        "name": "Rosh Haayin",
+        "seoname": "rosh-haayin-43810"
+    },
+    {
+        "id_location": 245177,
+        "id_location_parent": 245163,
+        "name": "Tayibe",
+        "seoname": "tayibe-43811"
+    },
+    {
+        "id_location": 245178,
+        "id_location_parent": 245163,
+        "name": "Tira",
+        "seoname": "tira-43812"
+    },
+    {
+        "id_location": 245179,
+        "id_location_parent": 245163,
+        "name": "Yavne",
+        "seoname": "yavne-43813"
+    },
+    {
+        "id_location": 245180,
+        "id_location_parent": 245163,
+        "name": "Yehud-monosson",
+        "seoname": "yehud-monosson-43814"
+    },
+    {
+        "id_location": 245181,
+        "id_location_parent": 1,
+        "name": "Tel Aviv",
+        "seoname": "tel-aviv-780473"
+    },
+    {
+        "id_location": 245182,
+        "id_location_parent": 245181,
+        "name": "Bat Yam",
+        "seoname": "bat-yam-43815"
+    },
+    {
+        "id_location": 245183,
+        "id_location_parent": 245181,
+        "name": "Bnei Brak",
+        "seoname": "bnei-brak-43816"
+    },
+    {
+        "id_location": 245184,
+        "id_location_parent": 245181,
+        "name": "Givatayim",
+        "seoname": "givatayim-43817"
+    },
+    {
+        "id_location": 245185,
+        "id_location_parent": 245181,
+        "name": "Hertzlia",
+        "seoname": "hertzlia-43818"
+    },
+    {
+        "id_location": 245186,
+        "id_location_parent": 245181,
+        "name": "Jol\u00f3n",
+        "seoname": "jolon-43819"
+    },
+    {
+        "id_location": 245187,
+        "id_location_parent": 245181,
+        "name": "Or Yehuda",
+        "seoname": "or-yehuda-43820"
+    },
+    {
+        "id_location": 245188,
+        "id_location_parent": 245181,
+        "name": "Kiriat Ono",
+        "seoname": "kiriat-ono-43821"
+    },
+    {
+        "id_location": 245189,
+        "id_location_parent": 245181,
+        "name": "Ramat Gan",
+        "seoname": "ramat-gan-43822"
+    },
+    {
+        "id_location": 245190,
+        "id_location_parent": 245181,
+        "name": "Ramat Hasharon",
+        "seoname": "ramat-hasharon-43823"
+    },
+    {
+        "id_location": 245191,
+        "id_location_parent": 245181,
+        "name": "Tel Aviv-yafo",
+        "seoname": "tel-aviv-yafo-43824"
+    },
+    {
+        "id_location": 245192,
+        "id_location_parent": 1,
+        "name": "Jerusalem",
+        "seoname": "jerusalem-780484"
+    },
+    {
+        "id_location": 245193,
+        "id_location_parent": 245192,
+        "name": "Bet Shemesh",
+        "seoname": "bet-shemesh-43825"
+    },
+    {
+        "id_location": 245194,
+        "id_location_parent": 245192,
+        "name": "Jerusalem",
+        "seoname": "jerusalem-43826"
+    },
+    {
+        "id_location": 245195,
+        "id_location_parent": 1,
+        "name": "Sur Israel",
+        "seoname": "sur-israel-780487"
+    },
+    {
+        "id_location": 245196,
+        "id_location_parent": 245195,
+        "name": "Arad",
+        "seoname": "arad-43827"
+    },
+    {
+        "id_location": 245197,
+        "id_location_parent": 245195,
+        "name": "Ashdod",
+        "seoname": "ashdod-43828"
+    },
+    {
+        "id_location": 245198,
+        "id_location_parent": 245195,
+        "name": "Ashkelon",
+        "seoname": "ashkelon-43829"
+    },
+    {
+        "id_location": 245199,
+        "id_location_parent": 245195,
+        "name": "Beer Sheva",
+        "seoname": "beer-sheva-43830"
+    },
+    {
+        "id_location": 245200,
+        "id_location_parent": 245195,
+        "name": "Dimona",
+        "seoname": "dimona-43831"
+    },
+    {
+        "id_location": 245201,
+        "id_location_parent": 245195,
+        "name": "Eilat",
+        "seoname": "eilat-43832"
+    },
+    {
+        "id_location": 245202,
+        "id_location_parent": 245195,
+        "name": "Netivot",
+        "seoname": "netivot-43833"
+    },
+    {
+        "id_location": 245203,
+        "id_location_parent": 245195,
+        "name": "Ofakim",
+        "seoname": "ofakim-43834"
+    },
+    {
+        "id_location": 245204,
+        "id_location_parent": 245195,
+        "name": "Kiriat Gat",
+        "seoname": "kiriat-gat-43835"
+    },
+    {
+        "id_location": 245205,
+        "id_location_parent": 245195,
+        "name": "Kiriat Malaji",
+        "seoname": "kiriat-malaji-43836"
+    },
+    {
+        "id_location": 245206,
+        "id_location_parent": 245195,
+        "name": "Rahat",
+        "seoname": "rahat-43837"
+    },
+    {
+        "id_location": 245207,
+        "id_location_parent": 245195,
+        "name": "Sderot",
+        "seoname": "sderot-43838"
+    },
+    {
+        "id_location": 245208,
+        "id_location_parent": 1,
+        "name": "Judea y Samaria",
+        "seoname": "judea-y-samaria-780500"
+    },
+    {
+        "id_location": 245209,
+        "id_location_parent": 245208,
+        "name": "Ariel",
+        "seoname": "ariel-43839"
+    },
+    {
+        "id_location": 245210,
+        "id_location_parent": 245208,
+        "name": "Beitar Illit",
+        "seoname": "beitar-illit-43840"
+    },
+    {
+        "id_location": 245211,
+        "id_location_parent": 245208,
+        "name": "Maal\u00e9 Adumim",
+        "seoname": "maale-adumim-43841"
+    },
+    {
+        "id_location": 245212,
+        "id_location_parent": 245208,
+        "name": "Givat Zeev",
+        "seoname": "givat-zeev-43842"
+    }
+]

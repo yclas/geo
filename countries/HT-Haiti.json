@@ -1,0 +1,320 @@
+[
+    {
+        "id_location": 243304,
+        "id_location_parent": 1,
+        "name": "Artibonito",
+        "seoname": "artibonito-743295"
+    },
+    {
+        "id_location": 243305,
+        "id_location_parent": 243304,
+        "name": "Dessalines",
+        "seoname": "dessalines-37312"
+    },
+    {
+        "id_location": 243306,
+        "id_location_parent": 243304,
+        "name": "Gona\u00efves",
+        "seoname": "gonaives-37313"
+    },
+    {
+        "id_location": 243307,
+        "id_location_parent": 243304,
+        "name": "Gros-Morne",
+        "seoname": "gros-morne-37314"
+    },
+    {
+        "id_location": 243308,
+        "id_location_parent": 243304,
+        "name": "Marmelade",
+        "seoname": "marmelade-37315"
+    },
+    {
+        "id_location": 243309,
+        "id_location_parent": 243304,
+        "name": "Saint-Marc",
+        "seoname": "saint-marc-37316"
+    },
+    {
+        "id_location": 243310,
+        "id_location_parent": 1,
+        "name": "Centro",
+        "seoname": "centro-743301"
+    },
+    {
+        "id_location": 243311,
+        "id_location_parent": 243310,
+        "name": "Cerca la Source",
+        "seoname": "cerca-la-source-37317"
+    },
+    {
+        "id_location": 243312,
+        "id_location_parent": 243310,
+        "name": "Hiche",
+        "seoname": "hiche-37318"
+    },
+    {
+        "id_location": 243313,
+        "id_location_parent": 243310,
+        "name": "Lascahobas",
+        "seoname": "lascahobas-37319"
+    },
+    {
+        "id_location": 243314,
+        "id_location_parent": 243310,
+        "name": "Mirebalais",
+        "seoname": "mirebalais-37320"
+    },
+    {
+        "id_location": 243315,
+        "id_location_parent": 1,
+        "name": "Grand'Anse",
+        "seoname": "grandanse-743306"
+    },
+    {
+        "id_location": 243316,
+        "id_location_parent": 243315,
+        "name": "Anse\u00e0 Veau",
+        "seoname": "ansea-veau-37321"
+    },
+    {
+        "id_location": 243317,
+        "id_location_parent": 243315,
+        "name": "Anse d'Ainault",
+        "seoname": "anse-dainault-37322"
+    },
+    {
+        "id_location": 243318,
+        "id_location_parent": 243315,
+        "name": "Corail",
+        "seoname": "corail-37323"
+    },
+    {
+        "id_location": 243319,
+        "id_location_parent": 243315,
+        "name": "J\u00e9r\u00e9mie",
+        "seoname": "jeremie-37324"
+    },
+    {
+        "id_location": 243320,
+        "id_location_parent": 243315,
+        "name": "Mirago\u00e2ne",
+        "seoname": "miragoane-37325"
+    },
+    {
+        "id_location": 243321,
+        "id_location_parent": 1,
+        "name": "Nippes",
+        "seoname": "nippes-743312"
+    },
+    {
+        "id_location": 243322,
+        "id_location_parent": 243321,
+        "name": "Mirago\u00e2ne",
+        "seoname": "miragoane-37326"
+    },
+    {
+        "id_location": 243323,
+        "id_location_parent": 243321,
+        "name": "Anse-\u00e0-Veau",
+        "seoname": "anse-a-veau-37327"
+    },
+    {
+        "id_location": 243324,
+        "id_location_parent": 243321,
+        "name": "Barrad\u00e8res",
+        "seoname": "barraderes-37328"
+    },
+    {
+        "id_location": 243325,
+        "id_location_parent": 1,
+        "name": "Norte",
+        "seoname": "norte-743316"
+    },
+    {
+        "id_location": 243326,
+        "id_location_parent": 243325,
+        "name": "Acul du Nord",
+        "seoname": "acul-du-nord-37329"
+    },
+    {
+        "id_location": 243327,
+        "id_location_parent": 243325,
+        "name": "Borgne",
+        "seoname": "borgne-37330"
+    },
+    {
+        "id_location": 243328,
+        "id_location_parent": 243325,
+        "name": "Cabo Haitiano",
+        "seoname": "cabo-haitiano-37331"
+    },
+    {
+        "id_location": 243329,
+        "id_location_parent": 243325,
+        "name": "Grande-Rivi\u00e8re",
+        "seoname": "grande-riviere-37332"
+    },
+    {
+        "id_location": 243330,
+        "id_location_parent": 243325,
+        "name": "Limb\u00e9",
+        "seoname": "limbe-37333"
+    },
+    {
+        "id_location": 243331,
+        "id_location_parent": 243325,
+        "name": "Plaisance",
+        "seoname": "plaisance-37334"
+    },
+    {
+        "id_location": 243332,
+        "id_location_parent": 243325,
+        "name": "San Rafael",
+        "seoname": "san-rafael-37335"
+    },
+    {
+        "id_location": 243333,
+        "id_location_parent": 1,
+        "name": "Noreste",
+        "seoname": "noreste-743324"
+    },
+    {
+        "id_location": 243334,
+        "id_location_parent": 243333,
+        "name": "Fort-Libert\u00e9",
+        "seoname": "fort-liberte-37336"
+    },
+    {
+        "id_location": 243335,
+        "id_location_parent": 243333,
+        "name": "Ouanaminthe",
+        "seoname": "ouanaminthe-37337"
+    },
+    {
+        "id_location": 243336,
+        "id_location_parent": 243333,
+        "name": "Au Trou",
+        "seoname": "au-trou-37338"
+    },
+    {
+        "id_location": 243337,
+        "id_location_parent": 1,
+        "name": "Noroeste",
+        "seoname": "noroeste-743328"
+    },
+    {
+        "id_location": 243338,
+        "id_location_parent": 243337,
+        "name": "M\u00f4le-Saint-Nicolas",
+        "seoname": "mole-saint-nicolas-37339"
+    },
+    {
+        "id_location": 243339,
+        "id_location_parent": 243337,
+        "name": "Port-de-Paix",
+        "seoname": "port-de-paix-37340"
+    },
+    {
+        "id_location": 243340,
+        "id_location_parent": 243337,
+        "name": "Saint-Louis-du-Nord",
+        "seoname": "saint-louis-du-nord-37341"
+    },
+    {
+        "id_location": 243341,
+        "id_location_parent": 1,
+        "name": "Oeste",
+        "seoname": "oeste-743332"
+    },
+    {
+        "id_location": 243342,
+        "id_location_parent": 243341,
+        "name": "L'Arcahaie",
+        "seoname": "larcahaie-37342"
+    },
+    {
+        "id_location": 243343,
+        "id_location_parent": 243341,
+        "name": "Croix-des-Bouquets",
+        "seoname": "croix-des-bouquets-37343"
+    },
+    {
+        "id_location": 243344,
+        "id_location_parent": 243341,
+        "name": "La Gon\u00e2ve",
+        "seoname": "la-gonave-37344"
+    },
+    {
+        "id_location": 243345,
+        "id_location_parent": 243341,
+        "name": "L\u00e9ogane",
+        "seoname": "leogane-37345"
+    },
+    {
+        "id_location": 243346,
+        "id_location_parent": 243341,
+        "name": "Puerto Pr\u00edncipe",
+        "seoname": "puerto-principe-37346"
+    },
+    {
+        "id_location": 243347,
+        "id_location_parent": 1,
+        "name": "Sudeste",
+        "seoname": "sudeste-743338"
+    },
+    {
+        "id_location": 243348,
+        "id_location_parent": 243347,
+        "name": "Bainet",
+        "seoname": "bainet-37347"
+    },
+    {
+        "id_location": 243349,
+        "id_location_parent": 243347,
+        "name": "Belle-Anse",
+        "seoname": "belle-anse-37348"
+    },
+    {
+        "id_location": 243350,
+        "id_location_parent": 243347,
+        "name": "Jacme",
+        "seoname": "jacme-37349"
+    },
+    {
+        "id_location": 243351,
+        "id_location_parent": 1,
+        "name": "Sur",
+        "seoname": "sur-743342"
+    },
+    {
+        "id_location": 243352,
+        "id_location_parent": 243351,
+        "name": "Aquin",
+        "seoname": "aquin-37350"
+    },
+    {
+        "id_location": 243353,
+        "id_location_parent": 243351,
+        "name": "Les Cayes",
+        "seoname": "les-cayes-37351"
+    },
+    {
+        "id_location": 243354,
+        "id_location_parent": 243351,
+        "name": "Les Charbonni\u00e8res",
+        "seoname": "les-charbonnieres-37352"
+    },
+    {
+        "id_location": 243355,
+        "id_location_parent": 243351,
+        "name": "Les C\u00f4teaux",
+        "seoname": "les-coteaux-37353"
+    },
+    {
+        "id_location": 243356,
+        "id_location_parent": 243351,
+        "name": "Port-Salut",
+        "seoname": "port-salut-37354"
+    }
+]

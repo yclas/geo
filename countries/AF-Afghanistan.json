@@ -1,0 +1,2366 @@
+[
+    {
+        "id_location": 10060,
+        "id_location_parent": 1,
+        "name": "Badahsan",
+        "seoname": "badahsan-780508"
+    },
+    {
+        "id_location": 10061,
+        "id_location_parent": 10060,
+        "name": "Arghanj Khwa",
+        "seoname": "arghanj-khwa-43843"
+    },
+    {
+        "id_location": 10062,
+        "id_location_parent": 10060,
+        "name": "Argo",
+        "seoname": "argo-43844"
+    },
+    {
+        "id_location": 10063,
+        "id_location_parent": 10060,
+        "name": "Baharak",
+        "seoname": "baharak-43845"
+    },
+    {
+        "id_location": 10064,
+        "id_location_parent": 10060,
+        "name": "Darayim",
+        "seoname": "darayim-43846"
+    },
+    {
+        "id_location": 10065,
+        "id_location_parent": 10060,
+        "name": "Darwaz",
+        "seoname": "darwaz-43847"
+    },
+    {
+        "id_location": 10066,
+        "id_location_parent": 10060,
+        "name": "Darwazi Bala",
+        "seoname": "darwazi-bala-43848"
+    },
+    {
+        "id_location": 10067,
+        "id_location_parent": 10060,
+        "name": "Fayzabad",
+        "seoname": "fayzabad-43849"
+    },
+    {
+        "id_location": 10068,
+        "id_location_parent": 10060,
+        "name": "Ishkashim",
+        "seoname": "ishkashim-43850"
+    },
+    {
+        "id_location": 10069,
+        "id_location_parent": 10060,
+        "name": "Jurm",
+        "seoname": "jurm-43851"
+    },
+    {
+        "id_location": 10070,
+        "id_location_parent": 10060,
+        "name": "Khash",
+        "seoname": "khash-43852"
+    },
+    {
+        "id_location": 10071,
+        "id_location_parent": 10060,
+        "name": "Khwakan",
+        "seoname": "khwakan-43853"
+    },
+    {
+        "id_location": 10072,
+        "id_location_parent": 10060,
+        "name": "Kishim",
+        "seoname": "kishim-43854"
+    },
+    {
+        "id_location": 10073,
+        "id_location_parent": 10060,
+        "name": "Kohistan",
+        "seoname": "kohistan-43855"
+    },
+    {
+        "id_location": 10074,
+        "id_location_parent": 10060,
+        "name": "Kuf ab",
+        "seoname": "kuf-ab-43856"
+    },
+    {
+        "id_location": 10075,
+        "id_location_parent": 10060,
+        "name": "Kuran Wa Munjan",
+        "seoname": "kuran-wa-munjan-43857"
+    },
+    {
+        "id_location": 10076,
+        "id_location_parent": 10060,
+        "name": "Ragh",
+        "seoname": "ragh-43858"
+    },
+    {
+        "id_location": 10077,
+        "id_location_parent": 10060,
+        "name": "Shar-i-buzurg",
+        "seoname": "shar-i-buzurg-43859"
+    },
+    {
+        "id_location": 10078,
+        "id_location_parent": 10060,
+        "name": "Shigman",
+        "seoname": "shigman-43860"
+    },
+    {
+        "id_location": 10079,
+        "id_location_parent": 10060,
+        "name": "Shiki",
+        "seoname": "shiki-43861"
+    },
+    {
+        "id_location": 10080,
+        "id_location_parent": 10060,
+        "name": "Shuhada",
+        "seoname": "shuhada-43862"
+    },
+    {
+        "id_location": 10081,
+        "id_location_parent": 10060,
+        "name": "Tagab",
+        "seoname": "tagab-43863"
+    },
+    {
+        "id_location": 10082,
+        "id_location_parent": 10060,
+        "name": "Tishkan",
+        "seoname": "tishkan-43864"
+    },
+    {
+        "id_location": 10083,
+        "id_location_parent": 10060,
+        "name": "Wakhan",
+        "seoname": "wakhan-43865"
+    },
+    {
+        "id_location": 10084,
+        "id_location_parent": 10060,
+        "name": "Wurduj",
+        "seoname": "wurduj-43866"
+    },
+    {
+        "id_location": 10085,
+        "id_location_parent": 10060,
+        "name": "Yaftali Sufka",
+        "seoname": "yaftali-sufka-43867"
+    },
+    {
+        "id_location": 10086,
+        "id_location_parent": 10060,
+        "name": "Yamgan",
+        "seoname": "yamgan-43868"
+    },
+    {
+        "id_location": 10087,
+        "id_location_parent": 10060,
+        "name": "Yawan",
+        "seoname": "yawan-43869"
+    },
+    {
+        "id_location": 10088,
+        "id_location_parent": 10060,
+        "name": "Zebak",
+        "seoname": "zebak-43870"
+    },
+    {
+        "id_location": 10089,
+        "id_location_parent": 1,
+        "name": "Badgis",
+        "seoname": "badgis-780537"
+    },
+    {
+        "id_location": 10090,
+        "id_location_parent": 10089,
+        "name": "Ab Kamari",
+        "seoname": "ab-kamari-43871"
+    },
+    {
+        "id_location": 10091,
+        "id_location_parent": 10089,
+        "name": "Ghormach",
+        "seoname": "ghormach-43872"
+    },
+    {
+        "id_location": 10092,
+        "id_location_parent": 10089,
+        "name": "Jawand",
+        "seoname": "jawand-43873"
+    },
+    {
+        "id_location": 10093,
+        "id_location_parent": 10089,
+        "name": "Muqur",
+        "seoname": "muqur-43874"
+    },
+    {
+        "id_location": 10094,
+        "id_location_parent": 10089,
+        "name": "Murghab",
+        "seoname": "murghab-43875"
+    },
+    {
+        "id_location": 10095,
+        "id_location_parent": 10089,
+        "name": "Qadis",
+        "seoname": "qadis-43876"
+    },
+    {
+        "id_location": 10096,
+        "id_location_parent": 10089,
+        "name": "Qala-i-naw",
+        "seoname": "qala-i-naw-43877"
+    },
+    {
+        "id_location": 10097,
+        "id_location_parent": 1,
+        "name": "Baglan",
+        "seoname": "baglan-780545"
+    },
+    {
+        "id_location": 10098,
+        "id_location_parent": 10097,
+        "name": "Andarab",
+        "seoname": "andarab-43878"
+    },
+    {
+        "id_location": 10099,
+        "id_location_parent": 10097,
+        "name": "Baghlan",
+        "seoname": "baghlan-43879"
+    },
+    {
+        "id_location": 10100,
+        "id_location_parent": 10097,
+        "name": "Baghlani Jadid",
+        "seoname": "baghlani-jadid-43880"
+    },
+    {
+        "id_location": 10101,
+        "id_location_parent": 10097,
+        "name": "Burka",
+        "seoname": "burka-43881"
+    },
+    {
+        "id_location": 10102,
+        "id_location_parent": 10097,
+        "name": "Dahana-i-ghori",
+        "seoname": "dahana-i-ghori-43882"
+    },
+    {
+        "id_location": 10103,
+        "id_location_parent": 10097,
+        "name": "Dushi",
+        "seoname": "dushi-43883"
+    },
+    {
+        "id_location": 10104,
+        "id_location_parent": 10097,
+        "name": "Kahmard",
+        "seoname": "kahmard-43884"
+    },
+    {
+        "id_location": 10105,
+        "id_location_parent": 10097,
+        "name": "Khinjan",
+        "seoname": "khinjan-43885"
+    },
+    {
+        "id_location": 10106,
+        "id_location_parent": 10097,
+        "name": "Khost Wa Firing",
+        "seoname": "khost-wa-firing-43886"
+    },
+    {
+        "id_location": 10107,
+        "id_location_parent": 10097,
+        "name": "Nahrin",
+        "seoname": "nahrin-43887"
+    },
+    {
+        "id_location": 10108,
+        "id_location_parent": 10097,
+        "name": "Puli Khumri",
+        "seoname": "puli-khumri-43888"
+    },
+    {
+        "id_location": 10109,
+        "id_location_parent": 10097,
+        "name": "Tala Wa Barfak",
+        "seoname": "tala-wa-barfak-43889"
+    },
+    {
+        "id_location": 10110,
+        "id_location_parent": 1,
+        "name": "Balh",
+        "seoname": "balh-780558"
+    },
+    {
+        "id_location": 10111,
+        "id_location_parent": 10110,
+        "name": "Balk",
+        "seoname": "balk-43890"
+    },
+    {
+        "id_location": 10112,
+        "id_location_parent": 10110,
+        "name": "Chahar Bolak",
+        "seoname": "chahar-bolak-43891"
+    },
+    {
+        "id_location": 10113,
+        "id_location_parent": 10110,
+        "name": "Chahar Kint",
+        "seoname": "chahar-kint-43892"
+    },
+    {
+        "id_location": 10114,
+        "id_location_parent": 10110,
+        "name": "Chimtal",
+        "seoname": "chimtal-43893"
+    },
+    {
+        "id_location": 10115,
+        "id_location_parent": 10110,
+        "name": "Dawlatabad",
+        "seoname": "dawlatabad-43894"
+    },
+    {
+        "id_location": 10116,
+        "id_location_parent": 10110,
+        "name": "Dihdadi",
+        "seoname": "dihdadi-43895"
+    },
+    {
+        "id_location": 10117,
+        "id_location_parent": 10110,
+        "name": "Kaldar",
+        "seoname": "kaldar-43896"
+    },
+    {
+        "id_location": 10118,
+        "id_location_parent": 10110,
+        "name": "Khulm",
+        "seoname": "khulm-43897"
+    },
+    {
+        "id_location": 10119,
+        "id_location_parent": 10110,
+        "name": "Kishindih",
+        "seoname": "kishindih-43898"
+    },
+    {
+        "id_location": 10120,
+        "id_location_parent": 10110,
+        "name": "Marmul",
+        "seoname": "marmul-43899"
+    },
+    {
+        "id_location": 10121,
+        "id_location_parent": 10110,
+        "name": "Mazari Sharif",
+        "seoname": "mazari-sharif-43900"
+    },
+    {
+        "id_location": 10122,
+        "id_location_parent": 10110,
+        "name": "Nahri Shahi",
+        "seoname": "nahri-shahi-43901"
+    },
+    {
+        "id_location": 10123,
+        "id_location_parent": 10110,
+        "name": "Sholgara",
+        "seoname": "sholgara-43902"
+    },
+    {
+        "id_location": 10124,
+        "id_location_parent": 10110,
+        "name": "Shortepa",
+        "seoname": "shortepa-43903"
+    },
+    {
+        "id_location": 10125,
+        "id_location_parent": 1,
+        "name": "Bamiyan",
+        "seoname": "bamiyan-780573"
+    },
+    {
+        "id_location": 10126,
+        "id_location_parent": 10125,
+        "name": "Bamiyan",
+        "seoname": "bamiyan-43904"
+    },
+    {
+        "id_location": 10127,
+        "id_location_parent": 10125,
+        "name": "Panjab",
+        "seoname": "panjab-43905"
+    },
+    {
+        "id_location": 10128,
+        "id_location_parent": 10125,
+        "name": "Shibar",
+        "seoname": "shibar-43906"
+    },
+    {
+        "id_location": 10129,
+        "id_location_parent": 10125,
+        "name": "Waras",
+        "seoname": "waras-43907"
+    },
+    {
+        "id_location": 10130,
+        "id_location_parent": 10125,
+        "name": "Yakawlang",
+        "seoname": "yakawlang-43908"
+    },
+    {
+        "id_location": 10131,
+        "id_location_parent": 1,
+        "name": "Daikondi",
+        "seoname": "daikondi-780579"
+    },
+    {
+        "id_location": 10132,
+        "id_location_parent": 10131,
+        "name": "Gizab",
+        "seoname": "gizab-43909"
+    },
+    {
+        "id_location": 10133,
+        "id_location_parent": 10131,
+        "name": "Ishtarlay",
+        "seoname": "ishtarlay-43910"
+    },
+    {
+        "id_location": 10134,
+        "id_location_parent": 10131,
+        "name": "Kajran",
+        "seoname": "kajran-43911"
+    },
+    {
+        "id_location": 10135,
+        "id_location_parent": 10131,
+        "name": "Khadir",
+        "seoname": "khadir-43912"
+    },
+    {
+        "id_location": 10136,
+        "id_location_parent": 10131,
+        "name": "Kiti",
+        "seoname": "kiti-43913"
+    },
+    {
+        "id_location": 10137,
+        "id_location_parent": 10131,
+        "name": "Miramor",
+        "seoname": "miramor-43914"
+    },
+    {
+        "id_location": 10138,
+        "id_location_parent": 10131,
+        "name": "Nili",
+        "seoname": "nili-43915"
+    },
+    {
+        "id_location": 10139,
+        "id_location_parent": 10131,
+        "name": "Sangi Takht",
+        "seoname": "sangi-takht-43916"
+    },
+    {
+        "id_location": 10140,
+        "id_location_parent": 10131,
+        "name": "Shahristan",
+        "seoname": "shahristan-43917"
+    },
+    {
+        "id_location": 10141,
+        "id_location_parent": 1,
+        "name": "Farah",
+        "seoname": "farah-780589"
+    },
+    {
+        "id_location": 10142,
+        "id_location_parent": 10141,
+        "name": "Anar Dara",
+        "seoname": "anar-dara-43918"
+    },
+    {
+        "id_location": 10143,
+        "id_location_parent": 10141,
+        "name": "Bakwa",
+        "seoname": "bakwa-43919"
+    },
+    {
+        "id_location": 10144,
+        "id_location_parent": 10141,
+        "name": "Bala Buluk",
+        "seoname": "bala-buluk-43920"
+    },
+    {
+        "id_location": 10145,
+        "id_location_parent": 10141,
+        "name": "Farah",
+        "seoname": "farah-43921"
+    },
+    {
+        "id_location": 10146,
+        "id_location_parent": 10141,
+        "name": "Gulistan",
+        "seoname": "gulistan-43922"
+    },
+    {
+        "id_location": 10147,
+        "id_location_parent": 10141,
+        "name": "Khaki Safed",
+        "seoname": "khaki-safed-43923"
+    },
+    {
+        "id_location": 10148,
+        "id_location_parent": 10141,
+        "name": "Lash Wa Juwayn",
+        "seoname": "lash-wa-juwayn-43924"
+    },
+    {
+        "id_location": 10149,
+        "id_location_parent": 10141,
+        "name": "Pur Chaman",
+        "seoname": "pur-chaman-43925"
+    },
+    {
+        "id_location": 10150,
+        "id_location_parent": 10141,
+        "name": "Pusht Rod",
+        "seoname": "pusht-rod-43926"
+    },
+    {
+        "id_location": 10151,
+        "id_location_parent": 10141,
+        "name": "Shib Koh",
+        "seoname": "shib-koh-43927"
+    },
+    {
+        "id_location": 10152,
+        "id_location_parent": 1,
+        "name": "Faryab",
+        "seoname": "faryab-780600"
+    },
+    {
+        "id_location": 10153,
+        "id_location_parent": 10152,
+        "name": "Almar",
+        "seoname": "almar-43928"
+    },
+    {
+        "id_location": 10154,
+        "id_location_parent": 10152,
+        "name": "Andkhoy",
+        "seoname": "andkhoy-43929"
+    },
+    {
+        "id_location": 10155,
+        "id_location_parent": 10152,
+        "name": "Bilchiragh",
+        "seoname": "bilchiragh-43930"
+    },
+    {
+        "id_location": 10156,
+        "id_location_parent": 10152,
+        "name": "Dawlatabad",
+        "seoname": "dawlatabad-43931"
+    },
+    {
+        "id_location": 10157,
+        "id_location_parent": 10152,
+        "name": "Khani Chahar Bagh",
+        "seoname": "khani-chahar-bagh-43932"
+    },
+    {
+        "id_location": 10158,
+        "id_location_parent": 10152,
+        "name": "Khwaja Sabz Posh",
+        "seoname": "khwaja-sabz-posh-43933"
+    },
+    {
+        "id_location": 10159,
+        "id_location_parent": 10152,
+        "name": "Kohistan",
+        "seoname": "kohistan-43934"
+    },
+    {
+        "id_location": 10160,
+        "id_location_parent": 10152,
+        "name": "Maymana",
+        "seoname": "maymana-43935"
+    },
+    {
+        "id_location": 10161,
+        "id_location_parent": 10152,
+        "name": "Pashtun Kot",
+        "seoname": "pashtun-kot-43936"
+    },
+    {
+        "id_location": 10162,
+        "id_location_parent": 10152,
+        "name": "Qaramqol",
+        "seoname": "qaramqol-43937"
+    },
+    {
+        "id_location": 10163,
+        "id_location_parent": 10152,
+        "name": "Qaysar",
+        "seoname": "qaysar-43938"
+    },
+    {
+        "id_location": 10164,
+        "id_location_parent": 10152,
+        "name": "Shirin Tagab",
+        "seoname": "shirin-tagab-43939"
+    },
+    {
+        "id_location": 10165,
+        "id_location_parent": 1,
+        "name": "Gawr",
+        "seoname": "gawr-780613"
+    },
+    {
+        "id_location": 10166,
+        "id_location_parent": 10165,
+        "name": "Chaghcharan",
+        "seoname": "chaghcharan-43940"
+    },
+    {
+        "id_location": 10167,
+        "id_location_parent": 10165,
+        "name": "Lal Wa Sarjangal",
+        "seoname": "lal-wa-sarjangal-43941"
+    },
+    {
+        "id_location": 10168,
+        "id_location_parent": 10165,
+        "name": "Pasaband",
+        "seoname": "pasaband-43942"
+    },
+    {
+        "id_location": 10169,
+        "id_location_parent": 10165,
+        "name": "Shahrak",
+        "seoname": "shahrak-43943"
+    },
+    {
+        "id_location": 10170,
+        "id_location_parent": 10165,
+        "name": "Taywara",
+        "seoname": "taywara-43944"
+    },
+    {
+        "id_location": 10171,
+        "id_location_parent": 10165,
+        "name": "Tulak",
+        "seoname": "tulak-43945"
+    },
+    {
+        "id_location": 10172,
+        "id_location_parent": 1,
+        "name": "Gazni",
+        "seoname": "gazni-780620"
+    },
+    {
+        "id_location": 10173,
+        "id_location_parent": 10172,
+        "name": "Ab Band",
+        "seoname": "ab-band-43946"
+    },
+    {
+        "id_location": 10174,
+        "id_location_parent": 10172,
+        "name": "Ajristan",
+        "seoname": "ajristan-43947"
+    },
+    {
+        "id_location": 10175,
+        "id_location_parent": 10172,
+        "name": "Bahrami Shahid",
+        "seoname": "bahrami-shahid-43948"
+    },
+    {
+        "id_location": 10176,
+        "id_location_parent": 10172,
+        "name": "Dih Yak",
+        "seoname": "dih-yak-43949"
+    },
+    {
+        "id_location": 10177,
+        "id_location_parent": 10172,
+        "name": "Gelan",
+        "seoname": "gelan-43950"
+    },
+    {
+        "id_location": 10178,
+        "id_location_parent": 10172,
+        "name": "Ghazni",
+        "seoname": "ghazni-43951"
+    },
+    {
+        "id_location": 10179,
+        "id_location_parent": 10172,
+        "name": "Giro",
+        "seoname": "giro-43952"
+    },
+    {
+        "id_location": 10180,
+        "id_location_parent": 10172,
+        "name": "Jaghatu",
+        "seoname": "jaghatu-43953"
+    },
+    {
+        "id_location": 10181,
+        "id_location_parent": 10172,
+        "name": "Jaghuri",
+        "seoname": "jaghuri-43954"
+    },
+    {
+        "id_location": 10182,
+        "id_location_parent": 10172,
+        "name": "Malistan",
+        "seoname": "malistan-43955"
+    },
+    {
+        "id_location": 10183,
+        "id_location_parent": 10172,
+        "name": "Miri",
+        "seoname": "miri-43956"
+    },
+    {
+        "id_location": 10184,
+        "id_location_parent": 10172,
+        "name": "Muqur",
+        "seoname": "muqur-43957"
+    },
+    {
+        "id_location": 10185,
+        "id_location_parent": 10172,
+        "name": "Nawa",
+        "seoname": "nawa-43958"
+    },
+    {
+        "id_location": 10186,
+        "id_location_parent": 10172,
+        "name": "Nawur",
+        "seoname": "nawur-43959"
+    },
+    {
+        "id_location": 10187,
+        "id_location_parent": 10172,
+        "name": "Qarabagh",
+        "seoname": "qarabagh-43960"
+    },
+    {
+        "id_location": 10188,
+        "id_location_parent": 10172,
+        "name": "Zana Khan",
+        "seoname": "zana-khan-43961"
+    },
+    {
+        "id_location": 10189,
+        "id_location_parent": 1,
+        "name": "Hawst",
+        "seoname": "hawst-780637"
+    },
+    {
+        "id_location": 10190,
+        "id_location_parent": 10189,
+        "name": "Bak",
+        "seoname": "bak-43962"
+    },
+    {
+        "id_location": 10191,
+        "id_location_parent": 10189,
+        "name": "Gurbuz",
+        "seoname": "gurbuz-43963"
+    },
+    {
+        "id_location": 10192,
+        "id_location_parent": 10189,
+        "name": "Jaji Maydan",
+        "seoname": "jaji-maydan-43964"
+    },
+    {
+        "id_location": 10193,
+        "id_location_parent": 10189,
+        "name": "Khost",
+        "seoname": "khost-43965"
+    },
+    {
+        "id_location": 10194,
+        "id_location_parent": 10189,
+        "name": "Mando Zayi",
+        "seoname": "mando-zayi-43966"
+    },
+    {
+        "id_location": 10195,
+        "id_location_parent": 10189,
+        "name": "Musa Khel",
+        "seoname": "musa-khel-43967"
+    },
+    {
+        "id_location": 10196,
+        "id_location_parent": 10189,
+        "name": "Nadir Shah Kot",
+        "seoname": "nadir-shah-kot-43968"
+    },
+    {
+        "id_location": 10197,
+        "id_location_parent": 10189,
+        "name": "Qalandar",
+        "seoname": "qalandar-43969"
+    },
+    {
+        "id_location": 10198,
+        "id_location_parent": 10189,
+        "name": "Sabari",
+        "seoname": "sabari-43970"
+    },
+    {
+        "id_location": 10199,
+        "id_location_parent": 10189,
+        "name": "Spera",
+        "seoname": "spera-43971"
+    },
+    {
+        "id_location": 10200,
+        "id_location_parent": 10189,
+        "name": "Tani",
+        "seoname": "tani-43972"
+    },
+    {
+        "id_location": 10201,
+        "id_location_parent": 10189,
+        "name": "Tere Zayi",
+        "seoname": "tere-zayi-43973"
+    },
+    {
+        "id_location": 10202,
+        "id_location_parent": 1,
+        "name": "Herat",
+        "seoname": "herat-780650"
+    },
+    {
+        "id_location": 10203,
+        "id_location_parent": 10202,
+        "name": "Adraskan",
+        "seoname": "adraskan-43974"
+    },
+    {
+        "id_location": 10204,
+        "id_location_parent": 10202,
+        "name": "Chishti Sharif",
+        "seoname": "chishti-sharif-43975"
+    },
+    {
+        "id_location": 10205,
+        "id_location_parent": 10202,
+        "name": "Farsi",
+        "seoname": "farsi-43976"
+    },
+    {
+        "id_location": 10206,
+        "id_location_parent": 10202,
+        "name": "Ghoryan",
+        "seoname": "ghoryan-43977"
+    },
+    {
+        "id_location": 10207,
+        "id_location_parent": 10202,
+        "name": "Gulran",
+        "seoname": "gulran-43978"
+    },
+    {
+        "id_location": 10208,
+        "id_location_parent": 10202,
+        "name": "Guzara",
+        "seoname": "guzara-43979"
+    },
+    {
+        "id_location": 10209,
+        "id_location_parent": 10202,
+        "name": "Hirat",
+        "seoname": "hirat-43980"
+    },
+    {
+        "id_location": 10210,
+        "id_location_parent": 10202,
+        "name": "Injil",
+        "seoname": "injil-43981"
+    },
+    {
+        "id_location": 10211,
+        "id_location_parent": 10202,
+        "name": "Karukh",
+        "seoname": "karukh-43982"
+    },
+    {
+        "id_location": 10212,
+        "id_location_parent": 10202,
+        "name": "Kohsan",
+        "seoname": "kohsan-43983"
+    },
+    {
+        "id_location": 10213,
+        "id_location_parent": 10202,
+        "name": "Kushk",
+        "seoname": "kushk-43984"
+    },
+    {
+        "id_location": 10214,
+        "id_location_parent": 10202,
+        "name": "Kushki Kuhma",
+        "seoname": "kushki-kuhma-43985"
+    },
+    {
+        "id_location": 10215,
+        "id_location_parent": 10202,
+        "name": "Obe",
+        "seoname": "obe-43986"
+    },
+    {
+        "id_location": 10216,
+        "id_location_parent": 10202,
+        "name": "Pashtun Zarghun",
+        "seoname": "pashtun-zarghun-43987"
+    },
+    {
+        "id_location": 10217,
+        "id_location_parent": 10202,
+        "name": "Shindad",
+        "seoname": "shindad-43988"
+    },
+    {
+        "id_location": 10218,
+        "id_location_parent": 10202,
+        "name": "Zinda Jan",
+        "seoname": "zinda-jan-43989"
+    },
+    {
+        "id_location": 10219,
+        "id_location_parent": 1,
+        "name": "Hilmand",
+        "seoname": "hilmand-780667"
+    },
+    {
+        "id_location": 10220,
+        "id_location_parent": 10219,
+        "name": "Baghran",
+        "seoname": "baghran-43990"
+    },
+    {
+        "id_location": 10221,
+        "id_location_parent": 10219,
+        "name": "Dishu",
+        "seoname": "dishu-43991"
+    },
+    {
+        "id_location": 10222,
+        "id_location_parent": 10219,
+        "name": "Garmser",
+        "seoname": "garmser-43992"
+    },
+    {
+        "id_location": 10223,
+        "id_location_parent": 10219,
+        "name": "Kajaki",
+        "seoname": "kajaki-43993"
+    },
+    {
+        "id_location": 10224,
+        "id_location_parent": 10219,
+        "name": "Lashkar Gah",
+        "seoname": "lashkar-gah-43994"
+    },
+    {
+        "id_location": 10225,
+        "id_location_parent": 10219,
+        "name": "Musa Qala",
+        "seoname": "musa-qala-43995"
+    },
+    {
+        "id_location": 10226,
+        "id_location_parent": 10219,
+        "name": "Nad Ali",
+        "seoname": "nad-ali-43996"
+    },
+    {
+        "id_location": 10227,
+        "id_location_parent": 10219,
+        "name": "Nahri Sarraj",
+        "seoname": "nahri-sarraj-43997"
+    },
+    {
+        "id_location": 10228,
+        "id_location_parent": 10219,
+        "name": "Naw Zad",
+        "seoname": "naw-zad-43998"
+    },
+    {
+        "id_location": 10229,
+        "id_location_parent": 10219,
+        "name": "Nawa-i-barakzayi",
+        "seoname": "nawa-i-barakzayi-43999"
+    },
+    {
+        "id_location": 10230,
+        "id_location_parent": 10219,
+        "name": "Reg",
+        "seoname": "reg-44000"
+    },
+    {
+        "id_location": 10231,
+        "id_location_parent": 10219,
+        "name": "Sangin",
+        "seoname": "sangin-44001"
+    },
+    {
+        "id_location": 10232,
+        "id_location_parent": 10219,
+        "name": "Washer",
+        "seoname": "washer-44002"
+    },
+    {
+        "id_location": 10233,
+        "id_location_parent": 1,
+        "name": "Jawzjan",
+        "seoname": "jawzjan-780681"
+    },
+    {
+        "id_location": 10234,
+        "id_location_parent": 10233,
+        "name": "Aqcha",
+        "seoname": "aqcha-44003"
+    },
+    {
+        "id_location": 10235,
+        "id_location_parent": 10233,
+        "name": "Darzab",
+        "seoname": "darzab-44004"
+    },
+    {
+        "id_location": 10236,
+        "id_location_parent": 10233,
+        "name": "Fayzabad",
+        "seoname": "fayzabad-44005"
+    },
+    {
+        "id_location": 10237,
+        "id_location_parent": 10233,
+        "name": "Khamyab",
+        "seoname": "khamyab-44006"
+    },
+    {
+        "id_location": 10238,
+        "id_location_parent": 10233,
+        "name": "Khwaja Du Koh",
+        "seoname": "khwaja-du-koh-44007"
+    },
+    {
+        "id_location": 10239,
+        "id_location_parent": 10233,
+        "name": "Mardyan",
+        "seoname": "mardyan-44008"
+    },
+    {
+        "id_location": 10240,
+        "id_location_parent": 10233,
+        "name": "Mingajik",
+        "seoname": "mingajik-44009"
+    },
+    {
+        "id_location": 10241,
+        "id_location_parent": 10233,
+        "name": "Qarqin",
+        "seoname": "qarqin-44010"
+    },
+    {
+        "id_location": 10242,
+        "id_location_parent": 10233,
+        "name": "Shibirghan",
+        "seoname": "shibirghan-44011"
+    },
+    {
+        "id_location": 10243,
+        "id_location_parent": 1,
+        "name": "Kabul",
+        "seoname": "kabul-780691"
+    },
+    {
+        "id_location": 10244,
+        "id_location_parent": 10243,
+        "name": "Bagrami",
+        "seoname": "bagrami-44012"
+    },
+    {
+        "id_location": 10245,
+        "id_location_parent": 10243,
+        "name": "Chahar Asyab",
+        "seoname": "chahar-asyab-44013"
+    },
+    {
+        "id_location": 10246,
+        "id_location_parent": 10243,
+        "name": "Dih Sabz",
+        "seoname": "dih-sabz-44014"
+    },
+    {
+        "id_location": 10247,
+        "id_location_parent": 10243,
+        "name": "Guldara",
+        "seoname": "guldara-44015"
+    },
+    {
+        "id_location": 10248,
+        "id_location_parent": 10243,
+        "name": "Istalif",
+        "seoname": "istalif-44016"
+    },
+    {
+        "id_location": 10249,
+        "id_location_parent": 10243,
+        "name": "Kabul",
+        "seoname": "kabul-44017"
+    },
+    {
+        "id_location": 10250,
+        "id_location_parent": 10243,
+        "name": "Kalakan",
+        "seoname": "kalakan-44018"
+    },
+    {
+        "id_location": 10251,
+        "id_location_parent": 10243,
+        "name": "Khaki Jabbar",
+        "seoname": "khaki-jabbar-44019"
+    },
+    {
+        "id_location": 10252,
+        "id_location_parent": 10243,
+        "name": "Mir Bacha Kot",
+        "seoname": "mir-bacha-kot-44020"
+    },
+    {
+        "id_location": 10253,
+        "id_location_parent": 10243,
+        "name": "Musayi",
+        "seoname": "musayi-44021"
+    },
+    {
+        "id_location": 10254,
+        "id_location_parent": 10243,
+        "name": "Paghman",
+        "seoname": "paghman-44022"
+    },
+    {
+        "id_location": 10255,
+        "id_location_parent": 10243,
+        "name": "Qarabagh",
+        "seoname": "qarabagh-44023"
+    },
+    {
+        "id_location": 10256,
+        "id_location_parent": 10243,
+        "name": "Shakardara",
+        "seoname": "shakardara-44024"
+    },
+    {
+        "id_location": 10257,
+        "id_location_parent": 10243,
+        "name": "Surobi",
+        "seoname": "surobi-44025"
+    },
+    {
+        "id_location": 10258,
+        "id_location_parent": 1,
+        "name": "Kapisa",
+        "seoname": "kapisa-780706"
+    },
+    {
+        "id_location": 10259,
+        "id_location_parent": 10258,
+        "name": "Alasay",
+        "seoname": "alasay-44026"
+    },
+    {
+        "id_location": 10260,
+        "id_location_parent": 10258,
+        "name": "Koh Band",
+        "seoname": "koh-band-44027"
+    },
+    {
+        "id_location": 10261,
+        "id_location_parent": 10258,
+        "name": "Kohistan",
+        "seoname": "kohistan-44028"
+    },
+    {
+        "id_location": 10262,
+        "id_location_parent": 10258,
+        "name": "Mahmud Raqi",
+        "seoname": "mahmud-raqi-44029"
+    },
+    {
+        "id_location": 10263,
+        "id_location_parent": 10258,
+        "name": "Nijrab",
+        "seoname": "nijrab-44030"
+    },
+    {
+        "id_location": 10264,
+        "id_location_parent": 10258,
+        "name": "Tagab",
+        "seoname": "tagab-44031"
+    },
+    {
+        "id_location": 10265,
+        "id_location_parent": 1,
+        "name": "Kunar",
+        "seoname": "kunar-780713"
+    },
+    {
+        "id_location": 10266,
+        "id_location_parent": 10265,
+        "name": "Asadabad",
+        "seoname": "asadabad-44032"
+    },
+    {
+        "id_location": 10267,
+        "id_location_parent": 10265,
+        "name": "Marawara",
+        "seoname": "marawara-44033"
+    },
+    {
+        "id_location": 10268,
+        "id_location_parent": 10265,
+        "name": "Bar Kunar",
+        "seoname": "bar-kunar-44034"
+    },
+    {
+        "id_location": 10269,
+        "id_location_parent": 10265,
+        "name": "Dangam",
+        "seoname": "dangam-44035"
+    },
+    {
+        "id_location": 10270,
+        "id_location_parent": 10265,
+        "name": "Nari",
+        "seoname": "nari-44036"
+    },
+    {
+        "id_location": 10271,
+        "id_location_parent": 10265,
+        "name": "Ghaziabad",
+        "seoname": "ghaziabad-44037"
+    },
+    {
+        "id_location": 10272,
+        "id_location_parent": 10265,
+        "name": "Shaygal Wa Shiltan",
+        "seoname": "shaygal-wa-shiltan-44038"
+    },
+    {
+        "id_location": 10273,
+        "id_location_parent": 10265,
+        "name": "Wata Pur",
+        "seoname": "wata-pur-44039"
+    },
+    {
+        "id_location": 10274,
+        "id_location_parent": 10265,
+        "name": "Chapa Dara",
+        "seoname": "chapa-dara-44040"
+    },
+    {
+        "id_location": 10275,
+        "id_location_parent": 10265,
+        "name": "Dara-i-pech",
+        "seoname": "dara-i-pech-44041"
+    },
+    {
+        "id_location": 10276,
+        "id_location_parent": 10265,
+        "name": "Narang",
+        "seoname": "narang-44042"
+    },
+    {
+        "id_location": 10277,
+        "id_location_parent": 10265,
+        "name": "Chawkay",
+        "seoname": "chawkay-44043"
+    },
+    {
+        "id_location": 10278,
+        "id_location_parent": 10265,
+        "name": "Nurgal",
+        "seoname": "nurgal-44044"
+    },
+    {
+        "id_location": 10279,
+        "id_location_parent": 10265,
+        "name": "Khas Kunar",
+        "seoname": "khas-kunar-44045"
+    },
+    {
+        "id_location": 10280,
+        "id_location_parent": 10265,
+        "name": "Sirkanay",
+        "seoname": "sirkanay-44046"
+    },
+    {
+        "id_location": 10281,
+        "id_location_parent": 1,
+        "name": "Lagman",
+        "seoname": "lagman-780729"
+    },
+    {
+        "id_location": 10282,
+        "id_location_parent": 10281,
+        "name": "Alingar",
+        "seoname": "alingar-44047"
+    },
+    {
+        "id_location": 10283,
+        "id_location_parent": 10281,
+        "name": "Alishing",
+        "seoname": "alishing-44048"
+    },
+    {
+        "id_location": 10284,
+        "id_location_parent": 10281,
+        "name": "Dawlat Shah",
+        "seoname": "dawlat-shah-44049"
+    },
+    {
+        "id_location": 10285,
+        "id_location_parent": 10281,
+        "name": "Mihtarlam",
+        "seoname": "mihtarlam-44050"
+    },
+    {
+        "id_location": 10286,
+        "id_location_parent": 10281,
+        "name": "Qarghayi",
+        "seoname": "qarghayi-44051"
+    },
+    {
+        "id_location": 10287,
+        "id_location_parent": 1,
+        "name": "Lawgar",
+        "seoname": "lawgar-780735"
+    },
+    {
+        "id_location": 10288,
+        "id_location_parent": 10287,
+        "name": "Baraki Barak",
+        "seoname": "baraki-barak-44052"
+    },
+    {
+        "id_location": 10289,
+        "id_location_parent": 10287,
+        "name": "Charkh",
+        "seoname": "charkh-44053"
+    },
+    {
+        "id_location": 10290,
+        "id_location_parent": 10287,
+        "name": "Khushi",
+        "seoname": "khushi-44054"
+    },
+    {
+        "id_location": 10291,
+        "id_location_parent": 10287,
+        "name": "Mohamad Agha",
+        "seoname": "mohamad-agha-44055"
+    },
+    {
+        "id_location": 10292,
+        "id_location_parent": 10287,
+        "name": "Kharwar",
+        "seoname": "kharwar-44056"
+    },
+    {
+        "id_location": 10293,
+        "id_location_parent": 10287,
+        "name": "Azra",
+        "seoname": "azra-44057"
+    },
+    {
+        "id_location": 10294,
+        "id_location_parent": 10287,
+        "name": "Pul-i-alam",
+        "seoname": "pul-i-alam-44058"
+    },
+    {
+        "id_location": 10295,
+        "id_location_parent": 1,
+        "name": "Nangarhar",
+        "seoname": "nangarhar-780743"
+    },
+    {
+        "id_location": 10296,
+        "id_location_parent": 10295,
+        "name": "Achin",
+        "seoname": "achin-44059"
+    },
+    {
+        "id_location": 10297,
+        "id_location_parent": 10295,
+        "name": "Bati Kot",
+        "seoname": "bati-kot-44060"
+    },
+    {
+        "id_location": 10298,
+        "id_location_parent": 10295,
+        "name": "Bihsud",
+        "seoname": "bihsud-44061"
+    },
+    {
+        "id_location": 10299,
+        "id_location_parent": 10295,
+        "name": "Chaparhar",
+        "seoname": "chaparhar-44062"
+    },
+    {
+        "id_location": 10300,
+        "id_location_parent": 10295,
+        "name": "Dara-i-nur",
+        "seoname": "dara-i-nur-44063"
+    },
+    {
+        "id_location": 10301,
+        "id_location_parent": 10295,
+        "name": "Dih Bala",
+        "seoname": "dih-bala-44064"
+    },
+    {
+        "id_location": 10302,
+        "id_location_parent": 10295,
+        "name": "Dur Baba",
+        "seoname": "dur-baba-44065"
+    },
+    {
+        "id_location": 10303,
+        "id_location_parent": 10295,
+        "name": "Goshta",
+        "seoname": "goshta-44066"
+    },
+    {
+        "id_location": 10304,
+        "id_location_parent": 10295,
+        "name": "Hisarak",
+        "seoname": "hisarak-44067"
+    },
+    {
+        "id_location": 10305,
+        "id_location_parent": 10295,
+        "name": "Jalalabad",
+        "seoname": "jalalabad-44068"
+    },
+    {
+        "id_location": 10306,
+        "id_location_parent": 10295,
+        "name": "Kama",
+        "seoname": "kama-44069"
+    },
+    {
+        "id_location": 10307,
+        "id_location_parent": 10295,
+        "name": "Khogyani",
+        "seoname": "khogyani-44070"
+    },
+    {
+        "id_location": 10308,
+        "id_location_parent": 10295,
+        "name": "Kot",
+        "seoname": "kot-44071"
+    },
+    {
+        "id_location": 10309,
+        "id_location_parent": 10295,
+        "name": "Kuz Kunar",
+        "seoname": "kuz-kunar-44072"
+    },
+    {
+        "id_location": 10310,
+        "id_location_parent": 10295,
+        "name": "Lal Pur",
+        "seoname": "lal-pur-44073"
+    },
+    {
+        "id_location": 10311,
+        "id_location_parent": 10295,
+        "name": "Muhmand Dara",
+        "seoname": "muhmand-dara-44074"
+    },
+    {
+        "id_location": 10312,
+        "id_location_parent": 10295,
+        "name": "Nazyan",
+        "seoname": "nazyan-44075"
+    },
+    {
+        "id_location": 10313,
+        "id_location_parent": 10295,
+        "name": "Pachir Wa Agam",
+        "seoname": "pachir-wa-agam-44076"
+    },
+    {
+        "id_location": 10314,
+        "id_location_parent": 10295,
+        "name": "Rodat",
+        "seoname": "rodat-44077"
+    },
+    {
+        "id_location": 10315,
+        "id_location_parent": 10295,
+        "name": "Sherzad",
+        "seoname": "sherzad-44078"
+    },
+    {
+        "id_location": 10316,
+        "id_location_parent": 10295,
+        "name": "Shinwar",
+        "seoname": "shinwar-44079"
+    },
+    {
+        "id_location": 10317,
+        "id_location_parent": 10295,
+        "name": "Surkh Rod",
+        "seoname": "surkh-rod-44080"
+    },
+    {
+        "id_location": 10318,
+        "id_location_parent": 1,
+        "name": "Nimruz",
+        "seoname": "nimruz-780766"
+    },
+    {
+        "id_location": 10319,
+        "id_location_parent": 10318,
+        "name": "Chahar Burjak",
+        "seoname": "chahar-burjak-44081"
+    },
+    {
+        "id_location": 10320,
+        "id_location_parent": 10318,
+        "name": "Chakhansur",
+        "seoname": "chakhansur-44082"
+    },
+    {
+        "id_location": 10321,
+        "id_location_parent": 10318,
+        "name": "Kang",
+        "seoname": "kang-44083"
+    },
+    {
+        "id_location": 10322,
+        "id_location_parent": 10318,
+        "name": "Khash Rod",
+        "seoname": "khash-rod-44084"
+    },
+    {
+        "id_location": 10323,
+        "id_location_parent": 10318,
+        "name": "Zaranj",
+        "seoname": "zaranj-44085"
+    },
+    {
+        "id_location": 10324,
+        "id_location_parent": 1,
+        "name": "Nuristan",
+        "seoname": "nuristan-780772"
+    },
+    {
+        "id_location": 10325,
+        "id_location_parent": 10324,
+        "name": "Bargi Matal",
+        "seoname": "bargi-matal-44086"
+    },
+    {
+        "id_location": 10326,
+        "id_location_parent": 10324,
+        "name": "Kamdesh",
+        "seoname": "kamdesh-44087"
+    },
+    {
+        "id_location": 10327,
+        "id_location_parent": 10324,
+        "name": "Mandol",
+        "seoname": "mandol-44088"
+    },
+    {
+        "id_location": 10328,
+        "id_location_parent": 10324,
+        "name": "Nuristan",
+        "seoname": "nuristan-44089"
+    },
+    {
+        "id_location": 10329,
+        "id_location_parent": 10324,
+        "name": "Wama",
+        "seoname": "wama-44090"
+    },
+    {
+        "id_location": 10330,
+        "id_location_parent": 10324,
+        "name": "Waygal",
+        "seoname": "waygal-44091"
+    },
+    {
+        "id_location": 10331,
+        "id_location_parent": 1,
+        "name": "Paktika",
+        "seoname": "paktika-780779"
+    },
+    {
+        "id_location": 10332,
+        "id_location_parent": 10331,
+        "name": "Barmal",
+        "seoname": "barmal-44092"
+    },
+    {
+        "id_location": 10333,
+        "id_location_parent": 10331,
+        "name": "Dila",
+        "seoname": "dila-44093"
+    },
+    {
+        "id_location": 10334,
+        "id_location_parent": 10331,
+        "name": "Gayan",
+        "seoname": "gayan-44094"
+    },
+    {
+        "id_location": 10335,
+        "id_location_parent": 10331,
+        "name": "Gomal",
+        "seoname": "gomal-44095"
+    },
+    {
+        "id_location": 10336,
+        "id_location_parent": 10331,
+        "name": "Mata Khan",
+        "seoname": "mata-khan-44096"
+    },
+    {
+        "id_location": 10337,
+        "id_location_parent": 10331,
+        "name": "Nika (distrito)",
+        "seoname": "nika-distrito-44097"
+    },
+    {
+        "id_location": 10338,
+        "id_location_parent": 10331,
+        "name": "Omna",
+        "seoname": "omna-44098"
+    },
+    {
+        "id_location": 10339,
+        "id_location_parent": 10331,
+        "name": "Sar Hawza",
+        "seoname": "sar-hawza-44099"
+    },
+    {
+        "id_location": 10340,
+        "id_location_parent": 10331,
+        "name": "Sarobi",
+        "seoname": "sarobi-44100"
+    },
+    {
+        "id_location": 10341,
+        "id_location_parent": 10331,
+        "name": "Sharan",
+        "seoname": "sharan-44101"
+    },
+    {
+        "id_location": 10342,
+        "id_location_parent": 10331,
+        "name": "Urgun",
+        "seoname": "urgun-44102"
+    },
+    {
+        "id_location": 10343,
+        "id_location_parent": 10331,
+        "name": "Waza Khwa",
+        "seoname": "waza-khwa-44103"
+    },
+    {
+        "id_location": 10344,
+        "id_location_parent": 10331,
+        "name": "Wor Mamay",
+        "seoname": "wor-mamay-44104"
+    },
+    {
+        "id_location": 10345,
+        "id_location_parent": 10331,
+        "name": "Zarghun Shahr",
+        "seoname": "zarghun-shahr-44105"
+    },
+    {
+        "id_location": 10346,
+        "id_location_parent": 10331,
+        "name": "Ziruk",
+        "seoname": "ziruk-44106"
+    },
+    {
+        "id_location": 10347,
+        "id_location_parent": 1,
+        "name": "Paktiya",
+        "seoname": "paktiya-780795"
+    },
+    {
+        "id_location": 10348,
+        "id_location_parent": 10347,
+        "name": "Azra",
+        "seoname": "azra-44107"
+    },
+    {
+        "id_location": 10349,
+        "id_location_parent": 10347,
+        "name": "Tsamkani",
+        "seoname": "tsamkani-44108"
+    },
+    {
+        "id_location": 10350,
+        "id_location_parent": 10347,
+        "name": "Dand Wa Patan",
+        "seoname": "dand-wa-patan-44109"
+    },
+    {
+        "id_location": 10351,
+        "id_location_parent": 10347,
+        "name": "Gardez",
+        "seoname": "gardez-44110"
+    },
+    {
+        "id_location": 10352,
+        "id_location_parent": 10347,
+        "name": "Zadran",
+        "seoname": "zadran-44111"
+    },
+    {
+        "id_location": 10353,
+        "id_location_parent": 10347,
+        "name": "Zazi",
+        "seoname": "zazi-44112"
+    },
+    {
+        "id_location": 10354,
+        "id_location_parent": 10347,
+        "name": "Jani Khel",
+        "seoname": "jani-khel-44113"
+    },
+    {
+        "id_location": 10355,
+        "id_location_parent": 10347,
+        "name": "Lazha Mangal",
+        "seoname": "lazha-mangal-44114"
+    },
+    {
+        "id_location": 10356,
+        "id_location_parent": 10347,
+        "name": "Sayed Karam",
+        "seoname": "sayed-karam-44115"
+    },
+    {
+        "id_location": 10357,
+        "id_location_parent": 10347,
+        "name": "Shamal",
+        "seoname": "shamal-44116"
+    },
+    {
+        "id_location": 10358,
+        "id_location_parent": 10347,
+        "name": "Shwak",
+        "seoname": "shwak-44117"
+    },
+    {
+        "id_location": 10359,
+        "id_location_parent": 10347,
+        "name": "Zurmat",
+        "seoname": "zurmat-44118"
+    },
+    {
+        "id_location": 10360,
+        "id_location_parent": 10347,
+        "name": "Ahmadzai",
+        "seoname": "ahmadzai-44119"
+    },
+    {
+        "id_location": 10361,
+        "id_location_parent": 1,
+        "name": "Panjshir",
+        "seoname": "panjshir-780809"
+    },
+    {
+        "id_location": 10362,
+        "id_location_parent": 10361,
+        "name": "Salang",
+        "seoname": "salang-44120"
+    },
+    {
+        "id_location": 10363,
+        "id_location_parent": 10361,
+        "name": "Panjsher",
+        "seoname": "panjsher-44121"
+    },
+    {
+        "id_location": 10364,
+        "id_location_parent": 10361,
+        "name": "Hisa-i-duwumi Panjsher",
+        "seoname": "hisa-i-duwumi-panjsher-44122"
+    },
+    {
+        "id_location": 10365,
+        "id_location_parent": 10361,
+        "name": "Hisa-i-awali Panjsher",
+        "seoname": "hisa-i-awali-panjsher-44123"
+    },
+    {
+        "id_location": 10366,
+        "id_location_parent": 1,
+        "name": "Parwan",
+        "seoname": "parwan-780814"
+    },
+    {
+        "id_location": 10367,
+        "id_location_parent": 10366,
+        "name": "Shekj Ali",
+        "seoname": "shekj-ali-44124"
+    },
+    {
+        "id_location": 10368,
+        "id_location_parent": 10366,
+        "name": "Surkhi Parsa",
+        "seoname": "surkhi-parsa-44125"
+    },
+    {
+        "id_location": 10369,
+        "id_location_parent": 10366,
+        "name": "Ghorband",
+        "seoname": "ghorband-44126"
+    },
+    {
+        "id_location": 10370,
+        "id_location_parent": 10366,
+        "name": "Shinwari",
+        "seoname": "shinwari-44127"
+    },
+    {
+        "id_location": 10371,
+        "id_location_parent": 10366,
+        "name": "Kohi Safi",
+        "seoname": "kohi-safi-44128"
+    },
+    {
+        "id_location": 10372,
+        "id_location_parent": 10366,
+        "name": "Bagram",
+        "seoname": "bagram-44129"
+    },
+    {
+        "id_location": 10373,
+        "id_location_parent": 10366,
+        "name": "Chaharikar",
+        "seoname": "chaharikar-44130"
+    },
+    {
+        "id_location": 10374,
+        "id_location_parent": 10366,
+        "name": "Jabalussaraj",
+        "seoname": "jabalussaraj-44131"
+    },
+    {
+        "id_location": 10375,
+        "id_location_parent": 1,
+        "name": "Qandahar",
+        "seoname": "qandahar-780823"
+    },
+    {
+        "id_location": 10376,
+        "id_location_parent": 10375,
+        "name": "Arghandab",
+        "seoname": "arghandab-44132"
+    },
+    {
+        "id_location": 10377,
+        "id_location_parent": 10375,
+        "name": "Arghistan",
+        "seoname": "arghistan-44133"
+    },
+    {
+        "id_location": 10378,
+        "id_location_parent": 10375,
+        "name": "Daman",
+        "seoname": "daman-44134"
+    },
+    {
+        "id_location": 10379,
+        "id_location_parent": 10375,
+        "name": "Ghorak",
+        "seoname": "ghorak-44135"
+    },
+    {
+        "id_location": 10380,
+        "id_location_parent": 10375,
+        "name": "Khakrez",
+        "seoname": "khakrez-44136"
+    },
+    {
+        "id_location": 10381,
+        "id_location_parent": 10375,
+        "name": "Maruf",
+        "seoname": "maruf-44137"
+    },
+    {
+        "id_location": 10382,
+        "id_location_parent": 10375,
+        "name": "Maywand",
+        "seoname": "maywand-44138"
+    },
+    {
+        "id_location": 10383,
+        "id_location_parent": 10375,
+        "name": "Panjwai",
+        "seoname": "panjwai-44139"
+    },
+    {
+        "id_location": 10384,
+        "id_location_parent": 10375,
+        "name": "Raigistan",
+        "seoname": "raigistan-44140"
+    },
+    {
+        "id_location": 10385,
+        "id_location_parent": 10375,
+        "name": "Shah Wali Kot",
+        "seoname": "shah-wali-kot-44141"
+    },
+    {
+        "id_location": 10386,
+        "id_location_parent": 10375,
+        "name": "Shorabak",
+        "seoname": "shorabak-44142"
+    },
+    {
+        "id_location": 10387,
+        "id_location_parent": 10375,
+        "name": "Spin Boldak",
+        "seoname": "spin-boldak-44143"
+    },
+    {
+        "id_location": 10388,
+        "id_location_parent": 10375,
+        "name": "Dand",
+        "seoname": "dand-44144"
+    },
+    {
+        "id_location": 10389,
+        "id_location_parent": 10375,
+        "name": "Miyannasheen",
+        "seoname": "miyannasheen-44145"
+    },
+    {
+        "id_location": 10390,
+        "id_location_parent": 10375,
+        "name": "Takhtapool",
+        "seoname": "takhtapool-44146"
+    },
+    {
+        "id_location": 10391,
+        "id_location_parent": 10375,
+        "name": "Zhari",
+        "seoname": "zhari-44147"
+    },
+    {
+        "id_location": 10392,
+        "id_location_parent": 10375,
+        "name": "Naish",
+        "seoname": "naish-44148"
+    },
+    {
+        "id_location": 10393,
+        "id_location_parent": 1,
+        "name": "Qunduz",
+        "seoname": "qunduz-780841"
+    },
+    {
+        "id_location": 10394,
+        "id_location_parent": 10393,
+        "name": "Ali Abad",
+        "seoname": "ali-abad-44149"
+    },
+    {
+        "id_location": 10395,
+        "id_location_parent": 10393,
+        "name": "Archi",
+        "seoname": "archi-44150"
+    },
+    {
+        "id_location": 10396,
+        "id_location_parent": 10393,
+        "name": "Chahar Dara",
+        "seoname": "chahar-dara-44151"
+    },
+    {
+        "id_location": 10397,
+        "id_location_parent": 10393,
+        "name": "Imam Sahib",
+        "seoname": "imam-sahib-44152"
+    },
+    {
+        "id_location": 10398,
+        "id_location_parent": 10393,
+        "name": "Khan Abad",
+        "seoname": "khan-abad-44153"
+    },
+    {
+        "id_location": 10399,
+        "id_location_parent": 10393,
+        "name": "Qunduz",
+        "seoname": "qunduz-44154"
+    },
+    {
+        "id_location": 10400,
+        "id_location_parent": 10393,
+        "name": "Qalay-i-zal",
+        "seoname": "qalay-i-zal-44155"
+    },
+    {
+        "id_location": 10401,
+        "id_location_parent": 1,
+        "name": "Samangan",
+        "seoname": "samangan-780849"
+    },
+    {
+        "id_location": 10402,
+        "id_location_parent": 10401,
+        "name": "Hazrati Sultan",
+        "seoname": "hazrati-sultan-44156"
+    },
+    {
+        "id_location": 10403,
+        "id_location_parent": 10401,
+        "name": "Aybak",
+        "seoname": "aybak-44157"
+    },
+    {
+        "id_location": 10404,
+        "id_location_parent": 10401,
+        "name": "Khuram Wa Sarbagh",
+        "seoname": "khuram-wa-sarbagh-44158"
+    },
+    {
+        "id_location": 10405,
+        "id_location_parent": 10401,
+        "name": "Ruyi du ab",
+        "seoname": "ruyi-du-ab-44159"
+    },
+    {
+        "id_location": 10406,
+        "id_location_parent": 10401,
+        "name": "Dara-i- Suf",
+        "seoname": "dara-i-suf-44160"
+    },
+    {
+        "id_location": 10407,
+        "id_location_parent": 1,
+        "name": "Sar-e Pul",
+        "seoname": "sar-e-pul-780855"
+    },
+    {
+        "id_location": 10408,
+        "id_location_parent": 10407,
+        "name": "Sayyad",
+        "seoname": "sayyad-44161"
+    },
+    {
+        "id_location": 10409,
+        "id_location_parent": 10407,
+        "name": "Sari Pul",
+        "seoname": "sari-pul-44162"
+    },
+    {
+        "id_location": 10410,
+        "id_location_parent": 10407,
+        "name": "Sazma Qala",
+        "seoname": "sazma-qala-44163"
+    },
+    {
+        "id_location": 10411,
+        "id_location_parent": 10407,
+        "name": "Sangcharak",
+        "seoname": "sangcharak-44164"
+    },
+    {
+        "id_location": 10412,
+        "id_location_parent": 10407,
+        "name": "Kohistanat",
+        "seoname": "kohistanat-44165"
+    },
+    {
+        "id_location": 10413,
+        "id_location_parent": 10407,
+        "name": "Balkhab",
+        "seoname": "balkhab-44166"
+    },
+    {
+        "id_location": 10414,
+        "id_location_parent": 1,
+        "name": "Tahar",
+        "seoname": "tahar-780862"
+    },
+    {
+        "id_location": 10415,
+        "id_location_parent": 10414,
+        "name": "Darqad",
+        "seoname": "darqad-44167"
+    },
+    {
+        "id_location": 10416,
+        "id_location_parent": 10414,
+        "name": "Chah ab",
+        "seoname": "chah-ab-44168"
+    },
+    {
+        "id_location": 10417,
+        "id_location_parent": 10414,
+        "name": "Yangi Qala",
+        "seoname": "yangi-qala-44169"
+    },
+    {
+        "id_location": 10418,
+        "id_location_parent": 10414,
+        "name": "Rustaq",
+        "seoname": "rustaq-44170"
+    },
+    {
+        "id_location": 10419,
+        "id_location_parent": 10414,
+        "name": "Khwaja Ghar",
+        "seoname": "khwaja-ghar-44171"
+    },
+    {
+        "id_location": 10420,
+        "id_location_parent": 10414,
+        "name": "Kalafgan",
+        "seoname": "kalafgan-44172"
+    },
+    {
+        "id_location": 10421,
+        "id_location_parent": 10414,
+        "name": "Taluqan",
+        "seoname": "taluqan-44173"
+    },
+    {
+        "id_location": 10422,
+        "id_location_parent": 10414,
+        "name": "Bangi",
+        "seoname": "bangi-44174"
+    },
+    {
+        "id_location": 10423,
+        "id_location_parent": 10414,
+        "name": "Farkhar",
+        "seoname": "farkhar-44175"
+    },
+    {
+        "id_location": 10424,
+        "id_location_parent": 10414,
+        "name": "Chal",
+        "seoname": "chal-44176"
+    },
+    {
+        "id_location": 10425,
+        "id_location_parent": 10414,
+        "name": "Ishkamish",
+        "seoname": "ishkamish-44177"
+    },
+    {
+        "id_location": 10426,
+        "id_location_parent": 1,
+        "name": "Uruzgan",
+        "seoname": "uruzgan-780874"
+    },
+    {
+        "id_location": 10427,
+        "id_location_parent": 10426,
+        "name": "Chora",
+        "seoname": "chora-44178"
+    },
+    {
+        "id_location": 10428,
+        "id_location_parent": 10426,
+        "name": "Dihrawud",
+        "seoname": "dihrawud-44179"
+    },
+    {
+        "id_location": 10429,
+        "id_location_parent": 10426,
+        "name": "Gizab",
+        "seoname": "gizab-44180"
+    },
+    {
+        "id_location": 10430,
+        "id_location_parent": 10426,
+        "name": "Khas Uruzgan",
+        "seoname": "khas-uruzgan-44181"
+    },
+    {
+        "id_location": 10431,
+        "id_location_parent": 10426,
+        "name": "Nesh",
+        "seoname": "nesh-44182"
+    },
+    {
+        "id_location": 10432,
+        "id_location_parent": 10426,
+        "name": "Shahidi Hassas",
+        "seoname": "shahidi-hassas-44183"
+    },
+    {
+        "id_location": 10433,
+        "id_location_parent": 10426,
+        "name": "Tirin Kot",
+        "seoname": "tirin-kot-44184"
+    },
+    {
+        "id_location": 10434,
+        "id_location_parent": 1,
+        "name": "Vardak",
+        "seoname": "vardak-780882"
+    },
+    {
+        "id_location": 10435,
+        "id_location_parent": 10434,
+        "name": "Maydan Shahr",
+        "seoname": "maydan-shahr-44185"
+    },
+    {
+        "id_location": 10436,
+        "id_location_parent": 10434,
+        "name": "Jalrez",
+        "seoname": "jalrez-44186"
+    },
+    {
+        "id_location": 10437,
+        "id_location_parent": 10434,
+        "name": "Hisa-i- Awali Bihsud",
+        "seoname": "hisa-i-awali-bihsud-44187"
+    },
+    {
+        "id_location": 10438,
+        "id_location_parent": 10434,
+        "name": "Markazi Bihsud",
+        "seoname": "markazi-bihsud-44188"
+    },
+    {
+        "id_location": 10439,
+        "id_location_parent": 10434,
+        "name": "Day Mirdad",
+        "seoname": "day-mirdad-44189"
+    },
+    {
+        "id_location": 10440,
+        "id_location_parent": 10434,
+        "name": "Chaki Wardak",
+        "seoname": "chaki-wardak-44190"
+    },
+    {
+        "id_location": 10441,
+        "id_location_parent": 10434,
+        "name": "Saydabad",
+        "seoname": "saydabad-44191"
+    },
+    {
+        "id_location": 10442,
+        "id_location_parent": 10434,
+        "name": "Nirkh",
+        "seoname": "nirkh-44192"
+    },
+    {
+        "id_location": 10443,
+        "id_location_parent": 10434,
+        "name": "Jaghatu",
+        "seoname": "jaghatu-44193"
+    },
+    {
+        "id_location": 10444,
+        "id_location_parent": 1,
+        "name": "Zabul",
+        "seoname": "zabul-780892"
+    },
+    {
+        "id_location": 10445,
+        "id_location_parent": 10444,
+        "name": "Arghandab",
+        "seoname": "arghandab-44194"
+    },
+    {
+        "id_location": 10446,
+        "id_location_parent": 10444,
+        "name": "Atghar",
+        "seoname": "atghar-44195"
+    },
+    {
+        "id_location": 10447,
+        "id_location_parent": 10444,
+        "name": "Daychopan",
+        "seoname": "daychopan-44196"
+    },
+    {
+        "id_location": 10448,
+        "id_location_parent": 10444,
+        "name": "Mizan",
+        "seoname": "mizan-44197"
+    },
+    {
+        "id_location": 10449,
+        "id_location_parent": 10444,
+        "name": "Qalat-i-ghilzai",
+        "seoname": "qalat-i-ghilzai-44198"
+    },
+    {
+        "id_location": 10450,
+        "id_location_parent": 10444,
+        "name": "Shahjoy",
+        "seoname": "shahjoy-44199"
+    },
+    {
+        "id_location": 10451,
+        "id_location_parent": 10444,
+        "name": "Shamulzayi",
+        "seoname": "shamulzayi-44200"
+    },
+    {
+        "id_location": 10452,
+        "id_location_parent": 10444,
+        "name": "Shinkay",
+        "seoname": "shinkay-44201"
+    },
+    {
+        "id_location": 10453,
+        "id_location_parent": 10444,
+        "name": "Tarnak Wa Jaldak",
+        "seoname": "tarnak-wa-jaldak-44202"
+    }
+]

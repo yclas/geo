@@ -1,0 +1,1412 @@
+[
+    {
+        "id_location": 333059,
+        "id_location_parent": 1,
+        "name": "Azad Kashmir",
+        "seoname": "azad-kashmir-781797"
+    },
+    {
+        "id_location": 333060,
+        "id_location_parent": 333059,
+        "name": "Bhimber",
+        "seoname": "bhimber-356293"
+    },
+    {
+        "id_location": 333061,
+        "id_location_parent": 333059,
+        "name": "Kotli",
+        "seoname": "kotli-356294"
+    },
+    {
+        "id_location": 333062,
+        "id_location_parent": 333059,
+        "name": "Mirpur",
+        "seoname": "mirpur-356295"
+    },
+    {
+        "id_location": 333063,
+        "id_location_parent": 333059,
+        "name": "Muzaffarabad",
+        "seoname": "muzaffarabad-356296"
+    },
+    {
+        "id_location": 333064,
+        "id_location_parent": 333059,
+        "name": "Hattian",
+        "seoname": "hattian-356297"
+    },
+    {
+        "id_location": 333065,
+        "id_location_parent": 333059,
+        "name": "Neelum",
+        "seoname": "neelum-356298"
+    },
+    {
+        "id_location": 333066,
+        "id_location_parent": 333059,
+        "name": "Poonch",
+        "seoname": "poonch-356299"
+    },
+    {
+        "id_location": 333067,
+        "id_location_parent": 333059,
+        "name": "Haveli",
+        "seoname": "haveli-356300"
+    },
+    {
+        "id_location": 333068,
+        "id_location_parent": 333059,
+        "name": "Bagh",
+        "seoname": "bagh-356301"
+    },
+    {
+        "id_location": 333069,
+        "id_location_parent": 333059,
+        "name": "Sudhnati",
+        "seoname": "sudhnati-356302"
+    },
+    {
+        "id_location": 333070,
+        "id_location_parent": 1,
+        "name": "Balochistan",
+        "seoname": "balochistan-781798"
+    },
+    {
+        "id_location": 333071,
+        "id_location_parent": 333070,
+        "name": "Khuzdar",
+        "seoname": "khuzdar-356303"
+    },
+    {
+        "id_location": 333072,
+        "id_location_parent": 333070,
+        "name": "Turbat",
+        "seoname": "turbat-356304"
+    },
+    {
+        "id_location": 333073,
+        "id_location_parent": 333070,
+        "name": "Chaman",
+        "seoname": "chaman-356305"
+    },
+    {
+        "id_location": 333074,
+        "id_location_parent": 333070,
+        "name": "Hub",
+        "seoname": "hub-356306"
+    },
+    {
+        "id_location": 333075,
+        "id_location_parent": 333070,
+        "name": "Sibi",
+        "seoname": "sibi-356307"
+    },
+    {
+        "id_location": 333076,
+        "id_location_parent": 333070,
+        "name": "Zhob",
+        "seoname": "zhob-356308"
+    },
+    {
+        "id_location": 333077,
+        "id_location_parent": 333070,
+        "name": "Gwadar",
+        "seoname": "gwadar-356309"
+    },
+    {
+        "id_location": 333078,
+        "id_location_parent": 333070,
+        "name": "Dera Murad Jamali",
+        "seoname": "dera-murad-jamali-356310"
+    },
+    {
+        "id_location": 333079,
+        "id_location_parent": 333070,
+        "name": "Dera Allah Yar",
+        "seoname": "dera-allah-yar-356311"
+    },
+    {
+        "id_location": 333080,
+        "id_location_parent": 333070,
+        "name": "Usta Mohammad",
+        "seoname": "usta-mohammad-356312"
+    },
+    {
+        "id_location": 333081,
+        "id_location_parent": 333070,
+        "name": "Loralai",
+        "seoname": "loralai-356313"
+    },
+    {
+        "id_location": 333082,
+        "id_location_parent": 333070,
+        "name": "Kharan",
+        "seoname": "kharan-356314"
+    },
+    {
+        "id_location": 333083,
+        "id_location_parent": 333070,
+        "name": "Mastung",
+        "seoname": "mastung-356315"
+    },
+    {
+        "id_location": 333084,
+        "id_location_parent": 333070,
+        "name": "Nushki",
+        "seoname": "nushki-356316"
+    },
+    {
+        "id_location": 333085,
+        "id_location_parent": 333070,
+        "name": "Kalat",
+        "seoname": "kalat-356317"
+    },
+    {
+        "id_location": 333086,
+        "id_location_parent": 333070,
+        "name": "Pasni",
+        "seoname": "pasni-356318"
+    },
+    {
+        "id_location": 333087,
+        "id_location_parent": 333070,
+        "name": "Quetta",
+        "seoname": "quetta-356319"
+    },
+    {
+        "id_location": 333088,
+        "id_location_parent": 1,
+        "name": "Islamabad",
+        "seoname": "islamabad-781799"
+    },
+    {
+        "id_location": 333089,
+        "id_location_parent": 333088,
+        "name": "Islamabad",
+        "seoname": "islamabad-356320"
+    },
+    {
+        "id_location": 333090,
+        "id_location_parent": 1,
+        "name": "Khyber Pakhtunkhwa",
+        "seoname": "khyber-pakhtunkhwa-781800"
+    },
+    {
+        "id_location": 333091,
+        "id_location_parent": 333090,
+        "name": "Abbottabad",
+        "seoname": "abbottabad-356321"
+    },
+    {
+        "id_location": 333092,
+        "id_location_parent": 333090,
+        "name": "Adezai",
+        "seoname": "adezai-356322"
+    },
+    {
+        "id_location": 333093,
+        "id_location_parent": 333090,
+        "name": "Alpuri",
+        "seoname": "alpuri-356323"
+    },
+    {
+        "id_location": 333094,
+        "id_location_parent": 333090,
+        "name": "Ayubia",
+        "seoname": "ayubia-356324"
+    },
+    {
+        "id_location": 333095,
+        "id_location_parent": 333090,
+        "name": "Banda Daud Shah",
+        "seoname": "banda-daud-shah-356325"
+    },
+    {
+        "id_location": 333096,
+        "id_location_parent": 333090,
+        "name": "Bannu",
+        "seoname": "bannu-356326"
+    },
+    {
+        "id_location": 333097,
+        "id_location_parent": 333090,
+        "name": "Batkhela",
+        "seoname": "batkhela-356327"
+    },
+    {
+        "id_location": 333098,
+        "id_location_parent": 333090,
+        "name": "Battagram",
+        "seoname": "battagram-356328"
+    },
+    {
+        "id_location": 333099,
+        "id_location_parent": 333090,
+        "name": "Birote",
+        "seoname": "birote-356329"
+    },
+    {
+        "id_location": 333100,
+        "id_location_parent": 333090,
+        "name": "Chakdara",
+        "seoname": "chakdara-356330"
+    },
+    {
+        "id_location": 333101,
+        "id_location_parent": 333090,
+        "name": "Charsadda",
+        "seoname": "charsadda-356331"
+    },
+    {
+        "id_location": 333102,
+        "id_location_parent": 333090,
+        "name": "Chitral",
+        "seoname": "chitral-356332"
+    },
+    {
+        "id_location": 333103,
+        "id_location_parent": 333090,
+        "name": "Daggar",
+        "seoname": "daggar-356333"
+    },
+    {
+        "id_location": 333104,
+        "id_location_parent": 333090,
+        "name": "Dargai",
+        "seoname": "dargai-356334"
+    },
+    {
+        "id_location": 333105,
+        "id_location_parent": 333090,
+        "name": "Darya Khan",
+        "seoname": "darya-khan-356335"
+    },
+    {
+        "id_location": 333106,
+        "id_location_parent": 333090,
+        "name": "Dera Ismail Khan",
+        "seoname": "dera-ismail-khan-356336"
+    },
+    {
+        "id_location": 333107,
+        "id_location_parent": 333090,
+        "name": "Dir",
+        "seoname": "dir-356337"
+    },
+    {
+        "id_location": 333108,
+        "id_location_parent": 333090,
+        "name": "Drosh",
+        "seoname": "drosh-356338"
+    },
+    {
+        "id_location": 333109,
+        "id_location_parent": 333090,
+        "name": "Hangu",
+        "seoname": "hangu-356339"
+    },
+    {
+        "id_location": 333110,
+        "id_location_parent": 333090,
+        "name": "Haripur",
+        "seoname": "haripur-356340"
+    },
+    {
+        "id_location": 333111,
+        "id_location_parent": 333090,
+        "name": "Karak",
+        "seoname": "karak-356341"
+    },
+    {
+        "id_location": 333112,
+        "id_location_parent": 333090,
+        "name": "Kohat",
+        "seoname": "kohat-356342"
+    },
+    {
+        "id_location": 333113,
+        "id_location_parent": 333090,
+        "name": "Lakki Marwat",
+        "seoname": "lakki-marwat-356343"
+    },
+    {
+        "id_location": 333114,
+        "id_location_parent": 333090,
+        "name": "Latamber",
+        "seoname": "latamber-356344"
+    },
+    {
+        "id_location": 333115,
+        "id_location_parent": 333090,
+        "name": "Madyan",
+        "seoname": "madyan-356345"
+    },
+    {
+        "id_location": 333116,
+        "id_location_parent": 333090,
+        "name": "Mansehra",
+        "seoname": "mansehra-356346"
+    },
+    {
+        "id_location": 333117,
+        "id_location_parent": 333090,
+        "name": "Mardan",
+        "seoname": "mardan-356347"
+    },
+    {
+        "id_location": 333118,
+        "id_location_parent": 333090,
+        "name": "Mastuj",
+        "seoname": "mastuj-356348"
+    },
+    {
+        "id_location": 333119,
+        "id_location_parent": 333090,
+        "name": "Nowshera",
+        "seoname": "nowshera-356349"
+    },
+    {
+        "id_location": 333120,
+        "id_location_parent": 333090,
+        "name": "Paharpur",
+        "seoname": "paharpur-356350"
+    },
+    {
+        "id_location": 333121,
+        "id_location_parent": 333090,
+        "name": "Saidu Sharif",
+        "seoname": "saidu-sharif-356351"
+    },
+    {
+        "id_location": 333122,
+        "id_location_parent": 333090,
+        "name": "Swabi",
+        "seoname": "swabi-356352"
+    },
+    {
+        "id_location": 333123,
+        "id_location_parent": 333090,
+        "name": "Swat",
+        "seoname": "swat-356353"
+    },
+    {
+        "id_location": 333124,
+        "id_location_parent": 333090,
+        "name": "Tangi",
+        "seoname": "tangi-356354"
+    },
+    {
+        "id_location": 333125,
+        "id_location_parent": 333090,
+        "name": "Tank",
+        "seoname": "tank-356355"
+    },
+    {
+        "id_location": 333126,
+        "id_location_parent": 333090,
+        "name": "Thall",
+        "seoname": "thall-356356"
+    },
+    {
+        "id_location": 333127,
+        "id_location_parent": 333090,
+        "name": "Timergara",
+        "seoname": "timergara-356357"
+    },
+    {
+        "id_location": 333128,
+        "id_location_parent": 333090,
+        "name": "Tordher",
+        "seoname": "tordher-356358"
+    },
+    {
+        "id_location": 333129,
+        "id_location_parent": 333090,
+        "name": "Bajaur Agency",
+        "seoname": "bajaur-agency-356359"
+    },
+    {
+        "id_location": 333130,
+        "id_location_parent": 333090,
+        "name": "Mohmand Agency",
+        "seoname": "mohmand-agency-356360"
+    },
+    {
+        "id_location": 333131,
+        "id_location_parent": 333090,
+        "name": "Khyber Agency",
+        "seoname": "khyber-agency-356361"
+    },
+    {
+        "id_location": 333132,
+        "id_location_parent": 333090,
+        "name": "Frontier Region Peshawar",
+        "seoname": "frontier-region-peshawar-356362"
+    },
+    {
+        "id_location": 333133,
+        "id_location_parent": 333090,
+        "name": "Frontier Region Kohat",
+        "seoname": "frontier-region-kohat-356363"
+    },
+    {
+        "id_location": 333134,
+        "id_location_parent": 333090,
+        "name": "Orakzai Agency",
+        "seoname": "orakzai-agency-356364"
+    },
+    {
+        "id_location": 333135,
+        "id_location_parent": 333090,
+        "name": "Kurram Agency",
+        "seoname": "kurram-agency-356365"
+    },
+    {
+        "id_location": 333136,
+        "id_location_parent": 333090,
+        "name": "Frontier Region Bannu",
+        "seoname": "frontier-region-bannu-356366"
+    },
+    {
+        "id_location": 333137,
+        "id_location_parent": 333090,
+        "name": "North Waziristan Agency",
+        "seoname": "north-waziristan-agency-356367"
+    },
+    {
+        "id_location": 333138,
+        "id_location_parent": 333090,
+        "name": "Frontier Region Lakki Marwat",
+        "seoname": "frontier-region-lakki-marwat-356368"
+    },
+    {
+        "id_location": 333139,
+        "id_location_parent": 333090,
+        "name": "Frontier Region Tank",
+        "seoname": "frontier-region-tank-356369"
+    },
+    {
+        "id_location": 333140,
+        "id_location_parent": 333090,
+        "name": "South Waziristan Agency",
+        "seoname": "south-waziristan-agency-356370"
+    },
+    {
+        "id_location": 333141,
+        "id_location_parent": 333090,
+        "name": "Frontier Region Dera Ismail Khan",
+        "seoname": "frontier-region-dera-ismail-khan-356371"
+    },
+    {
+        "id_location": 333142,
+        "id_location_parent": 333090,
+        "name": "Mingora",
+        "seoname": "mingora-356372"
+    },
+    {
+        "id_location": 333143,
+        "id_location_parent": 333090,
+        "name": "Peshawar",
+        "seoname": "peshawar-356373"
+    },
+    {
+        "id_location": 333144,
+        "id_location_parent": 1,
+        "name": "Punjab",
+        "seoname": "punjab-781801"
+    },
+    {
+        "id_location": 333145,
+        "id_location_parent": 333144,
+        "name": "Ahmed Nager Chatha",
+        "seoname": "ahmed-nager-chatha-356374"
+    },
+    {
+        "id_location": 333146,
+        "id_location_parent": 333144,
+        "name": "Alipur",
+        "seoname": "alipur-356375"
+    },
+    {
+        "id_location": 333147,
+        "id_location_parent": 333144,
+        "name": "Arifwala",
+        "seoname": "arifwala-356376"
+    },
+    {
+        "id_location": 333148,
+        "id_location_parent": 333144,
+        "name": "Attock",
+        "seoname": "attock-356377"
+    },
+    {
+        "id_location": 333149,
+        "id_location_parent": 333144,
+        "name": "Bhalwal",
+        "seoname": "bhalwal-356378"
+    },
+    {
+        "id_location": 333150,
+        "id_location_parent": 333144,
+        "name": "Bahawalpur",
+        "seoname": "bahawalpur-356379"
+    },
+    {
+        "id_location": 333151,
+        "id_location_parent": 333144,
+        "name": "Bhakkar",
+        "seoname": "bhakkar-356380"
+    },
+    {
+        "id_location": 333152,
+        "id_location_parent": 333144,
+        "name": "Burewala",
+        "seoname": "burewala-356381"
+    },
+    {
+        "id_location": 333153,
+        "id_location_parent": 333144,
+        "name": "Chillianwala",
+        "seoname": "chillianwala-356382"
+    },
+    {
+        "id_location": 333154,
+        "id_location_parent": 333144,
+        "name": "Chakwal",
+        "seoname": "chakwal-356383"
+    },
+    {
+        "id_location": 333155,
+        "id_location_parent": 333144,
+        "name": "Chiniot",
+        "seoname": "chiniot-356384"
+    },
+    {
+        "id_location": 333156,
+        "id_location_parent": 333144,
+        "name": "Chishtian",
+        "seoname": "chishtian-356385"
+    },
+    {
+        "id_location": 333157,
+        "id_location_parent": 333144,
+        "name": "Daska",
+        "seoname": "daska-356386"
+    },
+    {
+        "id_location": 333158,
+        "id_location_parent": 333144,
+        "name": "Darya Khan",
+        "seoname": "darya-khan-356387"
+    },
+    {
+        "id_location": 333159,
+        "id_location_parent": 333144,
+        "name": "Dera Ghazi Khan",
+        "seoname": "dera-ghazi-khan-356388"
+    },
+    {
+        "id_location": 333160,
+        "id_location_parent": 333144,
+        "name": "Dhaular",
+        "seoname": "dhaular-356389"
+    },
+    {
+        "id_location": 333161,
+        "id_location_parent": 333144,
+        "name": "Dina",
+        "seoname": "dina-356390"
+    },
+    {
+        "id_location": 333162,
+        "id_location_parent": 333144,
+        "name": "Dinga",
+        "seoname": "dinga-356391"
+    },
+    {
+        "id_location": 333163,
+        "id_location_parent": 333144,
+        "name": "Faisalabad",
+        "seoname": "faisalabad-356392"
+    },
+    {
+        "id_location": 333164,
+        "id_location_parent": 333144,
+        "name": "Fateh Jang",
+        "seoname": "fateh-jang-356393"
+    },
+    {
+        "id_location": 333165,
+        "id_location_parent": 333144,
+        "name": "Ghakhar Mandi",
+        "seoname": "ghakhar-mandi-356394"
+    },
+    {
+        "id_location": 333166,
+        "id_location_parent": 333144,
+        "name": "Gojra",
+        "seoname": "gojra-356395"
+    },
+    {
+        "id_location": 333167,
+        "id_location_parent": 333144,
+        "name": "Gujranwala",
+        "seoname": "gujranwala-356396"
+    },
+    {
+        "id_location": 333168,
+        "id_location_parent": 333144,
+        "name": "Gujrat",
+        "seoname": "gujrat-356397"
+    },
+    {
+        "id_location": 333169,
+        "id_location_parent": 333144,
+        "name": "Hafizabad",
+        "seoname": "hafizabad-356398"
+    },
+    {
+        "id_location": 333170,
+        "id_location_parent": 333144,
+        "name": "Haroonabad",
+        "seoname": "haroonabad-356399"
+    },
+    {
+        "id_location": 333171,
+        "id_location_parent": 333144,
+        "name": "Hasilpur",
+        "seoname": "hasilpur-356400"
+    },
+    {
+        "id_location": 333172,
+        "id_location_parent": 333144,
+        "name": "Haveli Lakha",
+        "seoname": "haveli-lakha-356401"
+    },
+    {
+        "id_location": 333173,
+        "id_location_parent": 333144,
+        "name": "Jampur",
+        "seoname": "jampur-356402"
+    },
+    {
+        "id_location": 333174,
+        "id_location_parent": 333144,
+        "name": "Jaranwala",
+        "seoname": "jaranwala-356403"
+    },
+    {
+        "id_location": 333175,
+        "id_location_parent": 333144,
+        "name": "Jhang",
+        "seoname": "jhang-356404"
+    },
+    {
+        "id_location": 333176,
+        "id_location_parent": 333144,
+        "name": "Jhelum",
+        "seoname": "jhelum-356405"
+    },
+    {
+        "id_location": 333177,
+        "id_location_parent": 333144,
+        "name": "Karor Lal Esan",
+        "seoname": "karor-lal-esan-356406"
+    },
+    {
+        "id_location": 333178,
+        "id_location_parent": 333144,
+        "name": "Kasur",
+        "seoname": "kasur-356407"
+    },
+    {
+        "id_location": 333179,
+        "id_location_parent": 333144,
+        "name": "K\u0101moke",
+        "seoname": "kamoke-356408"
+    },
+    {
+        "id_location": 333180,
+        "id_location_parent": 333144,
+        "name": "Khanewal",
+        "seoname": "khanewal-356409"
+    },
+    {
+        "id_location": 333181,
+        "id_location_parent": 333144,
+        "name": "Khanpur",
+        "seoname": "khanpur-356410"
+    },
+    {
+        "id_location": 333182,
+        "id_location_parent": 333144,
+        "name": "Kharian",
+        "seoname": "kharian-356411"
+    },
+    {
+        "id_location": 333183,
+        "id_location_parent": 333144,
+        "name": "Khushab",
+        "seoname": "khushab-356412"
+    },
+    {
+        "id_location": 333184,
+        "id_location_parent": 333144,
+        "name": "Kot Adu",
+        "seoname": "kot-adu-356413"
+    },
+    {
+        "id_location": 333185,
+        "id_location_parent": 333144,
+        "name": "Lahore",
+        "seoname": "lahore-356414"
+    },
+    {
+        "id_location": 333186,
+        "id_location_parent": 333144,
+        "name": "Lalamusa",
+        "seoname": "lalamusa-356415"
+    },
+    {
+        "id_location": 333187,
+        "id_location_parent": 333144,
+        "name": "Layyah",
+        "seoname": "layyah-356416"
+    },
+    {
+        "id_location": 333188,
+        "id_location_parent": 333144,
+        "name": "Liaquat Pur",
+        "seoname": "liaquat-pur-356417"
+    },
+    {
+        "id_location": 333189,
+        "id_location_parent": 333144,
+        "name": "Lodhran",
+        "seoname": "lodhran-356418"
+    },
+    {
+        "id_location": 333190,
+        "id_location_parent": 333144,
+        "name": "Mamoori",
+        "seoname": "mamoori-356419"
+    },
+    {
+        "id_location": 333191,
+        "id_location_parent": 333144,
+        "name": "Mailsi",
+        "seoname": "mailsi-356420"
+    },
+    {
+        "id_location": 333192,
+        "id_location_parent": 333144,
+        "name": "Mandi Bahauddin",
+        "seoname": "mandi-bahauddin-356421"
+    },
+    {
+        "id_location": 333193,
+        "id_location_parent": 333144,
+        "name": "Mianwali",
+        "seoname": "mianwali-356422"
+    },
+    {
+        "id_location": 333194,
+        "id_location_parent": 333144,
+        "name": "Multan",
+        "seoname": "multan-356423"
+    },
+    {
+        "id_location": 333195,
+        "id_location_parent": 333144,
+        "name": "Muridke",
+        "seoname": "muridke-356424"
+    },
+    {
+        "id_location": 333196,
+        "id_location_parent": 333144,
+        "name": "Mianwali Bangla",
+        "seoname": "mianwali-bangla-356425"
+    },
+    {
+        "id_location": 333197,
+        "id_location_parent": 333144,
+        "name": "Muzaffargarh",
+        "seoname": "muzaffargarh-356426"
+    },
+    {
+        "id_location": 333198,
+        "id_location_parent": 333144,
+        "name": "Narowal",
+        "seoname": "narowal-356427"
+    },
+    {
+        "id_location": 333199,
+        "id_location_parent": 333144,
+        "name": "Okara",
+        "seoname": "okara-356428"
+    },
+    {
+        "id_location": 333200,
+        "id_location_parent": 333144,
+        "name": "Pakpattan",
+        "seoname": "pakpattan-356429"
+    },
+    {
+        "id_location": 333201,
+        "id_location_parent": 333144,
+        "name": "Qila Didar Singh",
+        "seoname": "qila-didar-singh-356430"
+    },
+    {
+        "id_location": 333202,
+        "id_location_parent": 333144,
+        "name": "Rabwah",
+        "seoname": "rabwah-356431"
+    },
+    {
+        "id_location": 333203,
+        "id_location_parent": 333144,
+        "name": "Rajanpur",
+        "seoname": "rajanpur-356432"
+    },
+    {
+        "id_location": 333204,
+        "id_location_parent": 333144,
+        "name": "Rahim Yar Khan",
+        "seoname": "rahim-yar-khan-356433"
+    },
+    {
+        "id_location": 333205,
+        "id_location_parent": 333144,
+        "name": "Rawalpindi",
+        "seoname": "rawalpindi-356434"
+    },
+    {
+        "id_location": 333206,
+        "id_location_parent": 333144,
+        "name": "Sadiqabad",
+        "seoname": "sadiqabad-356435"
+    },
+    {
+        "id_location": 333207,
+        "id_location_parent": 333144,
+        "name": "Safdarabad",
+        "seoname": "safdarabad-356436"
+    },
+    {
+        "id_location": 333208,
+        "id_location_parent": 333144,
+        "name": "Sargodha",
+        "seoname": "sargodha-356437"
+    },
+    {
+        "id_location": 333209,
+        "id_location_parent": 333144,
+        "name": "Shakargarh",
+        "seoname": "shakargarh-356438"
+    },
+    {
+        "id_location": 333210,
+        "id_location_parent": 333144,
+        "name": "Sheikhupura",
+        "seoname": "sheikhupura-356439"
+    },
+    {
+        "id_location": 333211,
+        "id_location_parent": 333144,
+        "name": "Sialkot",
+        "seoname": "sialkot-356440"
+    },
+    {
+        "id_location": 333212,
+        "id_location_parent": 333144,
+        "name": "Sohawa",
+        "seoname": "sohawa-356441"
+    },
+    {
+        "id_location": 333213,
+        "id_location_parent": 333144,
+        "name": "Soianwala",
+        "seoname": "soianwala-356442"
+    },
+    {
+        "id_location": 333214,
+        "id_location_parent": 333144,
+        "name": "Siranwali",
+        "seoname": "siranwali-356443"
+    },
+    {
+        "id_location": 333215,
+        "id_location_parent": 333144,
+        "name": "Taxila",
+        "seoname": "taxila-356444"
+    },
+    {
+        "id_location": 333216,
+        "id_location_parent": 333144,
+        "name": "Toba Tek Singh",
+        "seoname": "toba-tek-singh-356445"
+    },
+    {
+        "id_location": 333217,
+        "id_location_parent": 333144,
+        "name": "Vehari",
+        "seoname": "vehari-356446"
+    },
+    {
+        "id_location": 333218,
+        "id_location_parent": 333144,
+        "name": "Wah Cantonment",
+        "seoname": "wah-cantonment-356447"
+    },
+    {
+        "id_location": 333219,
+        "id_location_parent": 333144,
+        "name": "Wazirabad",
+        "seoname": "wazirabad-356448"
+    },
+    {
+        "id_location": 333220,
+        "id_location_parent": 333144,
+        "name": "Kalabagh",
+        "seoname": "kalabagh-356449"
+    },
+    {
+        "id_location": 333221,
+        "id_location_parent": 333144,
+        "name": "Murree",
+        "seoname": "murree-356450"
+    },
+    {
+        "id_location": 333222,
+        "id_location_parent": 333144,
+        "name": "Raiwind",
+        "seoname": "raiwind-356451"
+    },
+    {
+        "id_location": 333223,
+        "id_location_parent": 333144,
+        "name": "Pir Mahal",
+        "seoname": "pir-mahal-356452"
+    },
+    {
+        "id_location": 333224,
+        "id_location_parent": 333144,
+        "name": "Renala Khurd",
+        "seoname": "renala-khurd-356453"
+    },
+    {
+        "id_location": 333225,
+        "id_location_parent": 333144,
+        "name": "Sahiwal",
+        "seoname": "sahiwal-356454"
+    },
+    {
+        "id_location": 333226,
+        "id_location_parent": 333144,
+        "name": "Sarai Alamgir",
+        "seoname": "sarai-alamgir-356455"
+    },
+    {
+        "id_location": 333227,
+        "id_location_parent": 333144,
+        "name": "Talagang",
+        "seoname": "talagang-356456"
+    },
+    {
+        "id_location": 333228,
+        "id_location_parent": 333144,
+        "name": "Jauharabad",
+        "seoname": "jauharabad-356457"
+    },
+    {
+        "id_location": 333229,
+        "id_location_parent": 333144,
+        "name": "Sangla Hill",
+        "seoname": "sangla-hill-356458"
+    },
+    {
+        "id_location": 333230,
+        "id_location_parent": 333144,
+        "name": "Gujar Khan",
+        "seoname": "gujar-khan-356459"
+    },
+    {
+        "id_location": 333231,
+        "id_location_parent": 333144,
+        "name": "Pattoki",
+        "seoname": "pattoki-356460"
+    },
+    {
+        "id_location": 333232,
+        "id_location_parent": 333144,
+        "name": "Dipalpur",
+        "seoname": "dipalpur-356461"
+    },
+    {
+        "id_location": 333233,
+        "id_location_parent": 333144,
+        "name": "Mian Channu",
+        "seoname": "mian-channu-356462"
+    },
+    {
+        "id_location": 333234,
+        "id_location_parent": 333144,
+        "name": "Chichawatni",
+        "seoname": "chichawatni-356463"
+    },
+    {
+        "id_location": 333235,
+        "id_location_parent": 333144,
+        "name": "Jalalpur Jattan",
+        "seoname": "jalalpur-jattan-356464"
+    },
+    {
+        "id_location": 333236,
+        "id_location_parent": 333144,
+        "name": "Kamalia",
+        "seoname": "kamalia-356465"
+    },
+    {
+        "id_location": 333237,
+        "id_location_parent": 333144,
+        "name": "Ahmadpur East",
+        "seoname": "ahmadpur-east-356466"
+    },
+    {
+        "id_location": 333238,
+        "id_location_parent": 333144,
+        "name": "Bahawalnagar",
+        "seoname": "bahawalnagar-356467"
+    },
+    {
+        "id_location": 333239,
+        "id_location_parent": 1,
+        "name": "Sindh",
+        "seoname": "sindh-781802"
+    },
+    {
+        "id_location": 333240,
+        "id_location_parent": 333239,
+        "name": "Badin",
+        "seoname": "badin-356468"
+    },
+    {
+        "id_location": 333241,
+        "id_location_parent": 333239,
+        "name": "Bhirkan",
+        "seoname": "bhirkan-356469"
+    },
+    {
+        "id_location": 333242,
+        "id_location_parent": 333239,
+        "name": "Chak",
+        "seoname": "chak-356470"
+    },
+    {
+        "id_location": 333243,
+        "id_location_parent": 333239,
+        "name": "Dadu",
+        "seoname": "dadu-356471"
+    },
+    {
+        "id_location": 333244,
+        "id_location_parent": 333239,
+        "name": "Dokri",
+        "seoname": "dokri-356472"
+    },
+    {
+        "id_location": 333245,
+        "id_location_parent": 333239,
+        "name": "Ghotki",
+        "seoname": "ghotki-356473"
+    },
+    {
+        "id_location": 333246,
+        "id_location_parent": 333239,
+        "name": "Haala",
+        "seoname": "haala-356474"
+    },
+    {
+        "id_location": 333247,
+        "id_location_parent": 333239,
+        "name": "Hyderabad",
+        "seoname": "hyderabad-356475"
+    },
+    {
+        "id_location": 333248,
+        "id_location_parent": 333239,
+        "name": "Jacobabad",
+        "seoname": "jacobabad-356476"
+    },
+    {
+        "id_location": 333249,
+        "id_location_parent": 333239,
+        "name": "Jamshoro",
+        "seoname": "jamshoro-356477"
+    },
+    {
+        "id_location": 333250,
+        "id_location_parent": 333239,
+        "name": "Jungshahi",
+        "seoname": "jungshahi-356478"
+    },
+    {
+        "id_location": 333251,
+        "id_location_parent": 333239,
+        "name": "Kandhkot",
+        "seoname": "kandhkot-356479"
+    },
+    {
+        "id_location": 333252,
+        "id_location_parent": 333239,
+        "name": "Khairpur",
+        "seoname": "khairpur-356480"
+    },
+    {
+        "id_location": 333253,
+        "id_location_parent": 333239,
+        "name": "Kotri",
+        "seoname": "kotri-356481"
+    },
+    {
+        "id_location": 333254,
+        "id_location_parent": 333239,
+        "name": "Larkana",
+        "seoname": "larkana-356482"
+    },
+    {
+        "id_location": 333255,
+        "id_location_parent": 333239,
+        "name": "Matiari",
+        "seoname": "matiari-356483"
+    },
+    {
+        "id_location": 333256,
+        "id_location_parent": 333239,
+        "name": "Mehar",
+        "seoname": "mehar-356484"
+    },
+    {
+        "id_location": 333257,
+        "id_location_parent": 333239,
+        "name": "Mirpur Khas",
+        "seoname": "mirpur-khas-356485"
+    },
+    {
+        "id_location": 333258,
+        "id_location_parent": 333239,
+        "name": "Mithani",
+        "seoname": "mithani-356486"
+    },
+    {
+        "id_location": 333259,
+        "id_location_parent": 333239,
+        "name": "Mithi",
+        "seoname": "mithi-356487"
+    },
+    {
+        "id_location": 333260,
+        "id_location_parent": 333239,
+        "name": "Mehrabpur",
+        "seoname": "mehrabpur-356488"
+    },
+    {
+        "id_location": 333261,
+        "id_location_parent": 333239,
+        "name": "Nagarparkar",
+        "seoname": "nagarparkar-356489"
+    },
+    {
+        "id_location": 333262,
+        "id_location_parent": 333239,
+        "name": "Naushahro Feroze",
+        "seoname": "naushahro-feroze-356490"
+    },
+    {
+        "id_location": 333263,
+        "id_location_parent": 333239,
+        "name": "Naushara",
+        "seoname": "naushara-356491"
+    },
+    {
+        "id_location": 333264,
+        "id_location_parent": 333239,
+        "name": "Nawabshah",
+        "seoname": "nawabshah-356492"
+    },
+    {
+        "id_location": 333265,
+        "id_location_parent": 333239,
+        "name": "Nazimabad",
+        "seoname": "nazimabad-356493"
+    },
+    {
+        "id_location": 333266,
+        "id_location_parent": 333239,
+        "name": "Ranipur",
+        "seoname": "ranipur-356494"
+    },
+    {
+        "id_location": 333267,
+        "id_location_parent": 333239,
+        "name": "Sanghar",
+        "seoname": "sanghar-356495"
+    },
+    {
+        "id_location": 333268,
+        "id_location_parent": 333239,
+        "name": "Shahbandar",
+        "seoname": "shahbandar-356496"
+    },
+    {
+        "id_location": 333269,
+        "id_location_parent": 333239,
+        "name": "Shahdadkot",
+        "seoname": "shahdadkot-356497"
+    },
+    {
+        "id_location": 333270,
+        "id_location_parent": 333239,
+        "name": "Shikarpaur",
+        "seoname": "shikarpaur-356498"
+    },
+    {
+        "id_location": 333271,
+        "id_location_parent": 333239,
+        "name": "Sukkur",
+        "seoname": "sukkur-356499"
+    },
+    {
+        "id_location": 333272,
+        "id_location_parent": 333239,
+        "name": "Tando Adam Khan",
+        "seoname": "tando-adam-khan-356500"
+    },
+    {
+        "id_location": 333273,
+        "id_location_parent": 333239,
+        "name": "Tando Allahyar",
+        "seoname": "tando-allahyar-356501"
+    },
+    {
+        "id_location": 333274,
+        "id_location_parent": 333239,
+        "name": "Tando Muhammad Khan",
+        "seoname": "tando-muhammad-khan-356502"
+    },
+    {
+        "id_location": 333275,
+        "id_location_parent": 333239,
+        "name": "Thatta",
+        "seoname": "thatta-356503"
+    },
+    {
+        "id_location": 333276,
+        "id_location_parent": 333239,
+        "name": "Qasimabad",
+        "seoname": "qasimabad-356504"
+    },
+    {
+        "id_location": 333277,
+        "id_location_parent": 333239,
+        "name": "Umerkot",
+        "seoname": "umerkot-356505"
+    },
+    {
+        "id_location": 333278,
+        "id_location_parent": 333239,
+        "name": "Warah",
+        "seoname": "warah-356506"
+    },
+    {
+        "id_location": 333279,
+        "id_location_parent": 333239,
+        "name": "Keti Bandar",
+        "seoname": "keti-bandar-356507"
+    },
+    {
+        "id_location": 333280,
+        "id_location_parent": 333239,
+        "name": "Rajo Khanani",
+        "seoname": "rajo-khanani-356508"
+    },
+    {
+        "id_location": 333281,
+        "id_location_parent": 333239,
+        "name": "Diplo",
+        "seoname": "diplo-356509"
+    },
+    {
+        "id_location": 333282,
+        "id_location_parent": 333239,
+        "name": "Islamkot",
+        "seoname": "islamkot-356510"
+    },
+    {
+        "id_location": 333283,
+        "id_location_parent": 333239,
+        "name": "Shahpur Chakar",
+        "seoname": "shahpur-chakar-356511"
+    },
+    {
+        "id_location": 333284,
+        "id_location_parent": 333239,
+        "name": "Kandiaro",
+        "seoname": "kandiaro-356512"
+    },
+    {
+        "id_location": 333285,
+        "id_location_parent": 333239,
+        "name": "Sakrand",
+        "seoname": "sakrand-356513"
+    },
+    {
+        "id_location": 333286,
+        "id_location_parent": 333239,
+        "name": "Digri",
+        "seoname": "digri-356514"
+    },
+    {
+        "id_location": 333287,
+        "id_location_parent": 333239,
+        "name": "Naudero",
+        "seoname": "naudero-356515"
+    },
+    {
+        "id_location": 333288,
+        "id_location_parent": 333239,
+        "name": "Kashmore",
+        "seoname": "kashmore-356516"
+    },
+    {
+        "id_location": 333289,
+        "id_location_parent": 333239,
+        "name": "Ratodero",
+        "seoname": "ratodero-356517"
+    },
+    {
+        "id_location": 333290,
+        "id_location_parent": 333239,
+        "name": "Rohri",
+        "seoname": "rohri-356518"
+    },
+    {
+        "id_location": 333291,
+        "id_location_parent": 333239,
+        "name": "Shahdadpur",
+        "seoname": "shahdadpur-356519"
+    },
+    {
+        "id_location": 333292,
+        "id_location_parent": 333239,
+        "name": "Moro",
+        "seoname": "moro-356520"
+    },
+    {
+        "id_location": 333293,
+        "id_location_parent": 333239,
+        "name": "Karachi",
+        "seoname": "karachi-356521"
+    }
+]

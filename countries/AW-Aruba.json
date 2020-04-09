@@ -1,0 +1,56 @@
+[
+    {
+        "id_location": 30926,
+        "id_location_parent": 1,
+        "name": "Palm Beach",
+        "seoname": "palm-beach-780953"
+    },
+    {
+        "id_location": 30927,
+        "id_location_parent": 1,
+        "name": "Noord",
+        "seoname": "noord-780954"
+    },
+    {
+        "id_location": 30928,
+        "id_location_parent": 1,
+        "name": "Paradera",
+        "seoname": "paradera-780955"
+    },
+    {
+        "id_location": 30929,
+        "id_location_parent": 1,
+        "name": "Oranjestad",
+        "seoname": "oranjestad-780956"
+    },
+    {
+        "id_location": 30930,
+        "id_location_parent": 1,
+        "name": "Santa Cruz",
+        "seoname": "santa-cruz-780957"
+    },
+    {
+        "id_location": 30931,
+        "id_location_parent": 1,
+        "name": "Pos Chiquito",
+        "seoname": "pos-chiquito-780958"
+    },
+    {
+        "id_location": 30932,
+        "id_location_parent": 1,
+        "name": "Savaneta",
+        "seoname": "savaneta-780959"
+    },
+    {
+        "id_location": 30933,
+        "id_location_parent": 1,
+        "name": "San Nicolas",
+        "seoname": "san-nicolas-780960"
+    },
+    {
+        "id_location": 30934,
+        "id_location_parent": 1,
+        "name": "Seroe Colorado",
+        "seoname": "seroe-colorado-780961"
+    }
+]
