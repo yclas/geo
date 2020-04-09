@@ -1,0 +1,3824 @@
+[
+    {
+        "id_location": 270826,
+        "id_location_parent": 1,
+        "name": "Greater Beirut",
+        "seoname": "greater-beirut-782769"
+    },
+    {
+        "id_location": 270827,
+        "id_location_parent": 270826,
+        "name": "Achrafieh",
+        "seoname": "achrafieh-511265"
+    },
+    {
+        "id_location": 270828,
+        "id_location_parent": 270826,
+        "name": "Beirut",
+        "seoname": "beirut-511266"
+    },
+    {
+        "id_location": 270829,
+        "id_location_parent": 1,
+        "name": "Beqaa",
+        "seoname": "beqaa-782770"
+    },
+    {
+        "id_location": 270830,
+        "id_location_parent": 270829,
+        "name": "Baalbek",
+        "seoname": "baalbek-511267"
+    },
+    {
+        "id_location": 270831,
+        "id_location_parent": 270829,
+        "name": "Ain",
+        "seoname": "ain-511268"
+    },
+    {
+        "id_location": 270832,
+        "id_location_parent": 270829,
+        "name": "Ainata",
+        "seoname": "ainata-511269"
+    },
+    {
+        "id_location": 270833,
+        "id_location_parent": 270829,
+        "name": "Barka",
+        "seoname": "barka-511270"
+    },
+    {
+        "id_location": 270834,
+        "id_location_parent": 270829,
+        "name": "Bednayel",
+        "seoname": "bednayel-511271"
+    },
+    {
+        "id_location": 270835,
+        "id_location_parent": 270829,
+        "name": "Bechwat",
+        "seoname": "bechwat-511272"
+    },
+    {
+        "id_location": 270836,
+        "id_location_parent": 270829,
+        "name": "Brital",
+        "seoname": "brital-511273"
+    },
+    {
+        "id_location": 270837,
+        "id_location_parent": 270829,
+        "name": "Btadhi",
+        "seoname": "btadhi-511274"
+    },
+    {
+        "id_location": 270838,
+        "id_location_parent": 270829,
+        "name": "Buday",
+        "seoname": "buday-511275"
+    },
+    {
+        "id_location": 270839,
+        "id_location_parent": 270829,
+        "name": "Chaat",
+        "seoname": "chaat-511276"
+    },
+    {
+        "id_location": 270840,
+        "id_location_parent": 270829,
+        "name": "Chlifa",
+        "seoname": "chlifa-511277"
+    },
+    {
+        "id_location": 270841,
+        "id_location_parent": 270829,
+        "name": "Chmestar - Gharbi Baalbeck",
+        "seoname": "chmestar-gharbi-baalbeck-511278"
+    },
+    {
+        "id_location": 270842,
+        "id_location_parent": 270829,
+        "name": "Deir el Ahmar",
+        "seoname": "deir-el-ahmar-511279"
+    },
+    {
+        "id_location": 270843,
+        "id_location_parent": 270829,
+        "name": "Douriss",
+        "seoname": "douriss-511280"
+    },
+    {
+        "id_location": 270844,
+        "id_location_parent": 270829,
+        "name": "Ersal",
+        "seoname": "ersal-511281"
+    },
+    {
+        "id_location": 270845,
+        "id_location_parent": 270829,
+        "name": "Fakiha\u00a0- Jdeydeh",
+        "seoname": "fakiha-jdeydeh-511282"
+    },
+    {
+        "id_location": 270846,
+        "id_location_parent": 270829,
+        "name": "Fleweh",
+        "seoname": "fleweh-511283"
+    },
+    {
+        "id_location": 270847,
+        "id_location_parent": 270829,
+        "name": "Hadath Baalbek",
+        "seoname": "hadath-baalbek-511284"
+    },
+    {
+        "id_location": 270848,
+        "id_location_parent": 270829,
+        "name": "Halbata",
+        "seoname": "halbata-511285"
+    },
+    {
+        "id_location": 270849,
+        "id_location_parent": 270829,
+        "name": "Hazin",
+        "seoname": "hazin-511286"
+    },
+    {
+        "id_location": 270850,
+        "id_location_parent": 270829,
+        "name": "Hosh Barada",
+        "seoname": "hosh-barada-511287"
+    },
+    {
+        "id_location": 270851,
+        "id_location_parent": 270829,
+        "name": "Hosh el Rafika",
+        "seoname": "hosh-el-rafika-511288"
+    },
+    {
+        "id_location": 270852,
+        "id_location_parent": 270829,
+        "name": "Hosh Snid",
+        "seoname": "hosh-snid-511289"
+    },
+    {
+        "id_location": 270853,
+        "id_location_parent": 270829,
+        "name": "Hosh Tal Safiya",
+        "seoname": "hosh-tal-safiya-511290"
+    },
+    {
+        "id_location": 270854,
+        "id_location_parent": 270829,
+        "name": "Hrebta",
+        "seoname": "hrebta-511291"
+    },
+    {
+        "id_location": 270855,
+        "id_location_parent": 270829,
+        "name": "Jabbouleh",
+        "seoname": "jabbouleh-511292"
+    },
+    {
+        "id_location": 270856,
+        "id_location_parent": 270829,
+        "name": "Janta",
+        "seoname": "janta-511293"
+    },
+    {
+        "id_location": 270857,
+        "id_location_parent": 270829,
+        "name": "Kah",
+        "seoname": "kah-511294"
+    },
+    {
+        "id_location": 270858,
+        "id_location_parent": 270829,
+        "name": "Karha",
+        "seoname": "karha-511295"
+    },
+    {
+        "id_location": 270859,
+        "id_location_parent": 270829,
+        "name": "Khodr",
+        "seoname": "khodr-511296"
+    },
+    {
+        "id_location": 270860,
+        "id_location_parent": 270829,
+        "name": "Khraibeh",
+        "seoname": "khraibeh-511297"
+    },
+    {
+        "id_location": 270861,
+        "id_location_parent": 270829,
+        "name": "Kasarnaba",
+        "seoname": "kasarnaba-511298"
+    },
+    {
+        "id_location": 270862,
+        "id_location_parent": 270829,
+        "name": "Laat",
+        "seoname": "laat-511299"
+    },
+    {
+        "id_location": 270863,
+        "id_location_parent": 270829,
+        "name": "Labweh",
+        "seoname": "labweh-511300"
+    },
+    {
+        "id_location": 270864,
+        "id_location_parent": 270829,
+        "name": "Majdloun",
+        "seoname": "majdloun-511301"
+    },
+    {
+        "id_location": 270865,
+        "id_location_parent": 270829,
+        "name": "Mikna",
+        "seoname": "mikna-511302"
+    },
+    {
+        "id_location": 270866,
+        "id_location_parent": 270829,
+        "name": "Nabi Chit",
+        "seoname": "nabi-chit-511303"
+    },
+    {
+        "id_location": 270867,
+        "id_location_parent": 270829,
+        "name": "Nabi Othman",
+        "seoname": "nabi-othman-511304"
+    },
+    {
+        "id_location": 270868,
+        "id_location_parent": 270829,
+        "name": "Ram - Jbenniyeh",
+        "seoname": "ram-jbenniyeh-511305"
+    },
+    {
+        "id_location": 270869,
+        "id_location_parent": 270829,
+        "name": "Ras Baalbek",
+        "seoname": "ras-baalbek-511306"
+    },
+    {
+        "id_location": 270870,
+        "id_location_parent": 270829,
+        "name": "Ras el Hadis",
+        "seoname": "ras-el-hadis-511307"
+    },
+    {
+        "id_location": 270871,
+        "id_location_parent": 270829,
+        "name": "Saayde",
+        "seoname": "saayde-511308"
+    },
+    {
+        "id_location": 270872,
+        "id_location_parent": 270829,
+        "name": "Seriine el Fawka",
+        "seoname": "seriine-el-fawka-511309"
+    },
+    {
+        "id_location": 270873,
+        "id_location_parent": 270829,
+        "name": "Seriine el Tahta",
+        "seoname": "seriine-el-tahta-511310"
+    },
+    {
+        "id_location": 270874,
+        "id_location_parent": 270829,
+        "name": "Talya",
+        "seoname": "talya-511311"
+    },
+    {
+        "id_location": 270875,
+        "id_location_parent": 270829,
+        "name": "Taraya",
+        "seoname": "taraya-511312"
+    },
+    {
+        "id_location": 270876,
+        "id_location_parent": 270829,
+        "name": "Tayba",
+        "seoname": "tayba-511313"
+    },
+    {
+        "id_location": 270877,
+        "id_location_parent": 270829,
+        "name": "Temnin el Fawka",
+        "seoname": "temnin-el-fawka-511314"
+    },
+    {
+        "id_location": 270878,
+        "id_location_parent": 270829,
+        "name": "Temnin el Tahta",
+        "seoname": "temnin-el-tahta-511315"
+    },
+    {
+        "id_location": 270879,
+        "id_location_parent": 270829,
+        "name": "Wadi Faara",
+        "seoname": "wadi-faara-511316"
+    },
+    {
+        "id_location": 270880,
+        "id_location_parent": 270829,
+        "name": "Yammouneh",
+        "seoname": "yammouneh-511317"
+    },
+    {
+        "id_location": 270881,
+        "id_location_parent": 270829,
+        "name": "Younine",
+        "seoname": "younine-511318"
+    },
+    {
+        "id_location": 270882,
+        "id_location_parent": 270829,
+        "name": "Chawaghir el Fawka",
+        "seoname": "chawaghir-el-fawka-511319"
+    },
+    {
+        "id_location": 270883,
+        "id_location_parent": 270829,
+        "name": "Chawaghir el Tahta",
+        "seoname": "chawaghir-el-tahta-511320"
+    },
+    {
+        "id_location": 270884,
+        "id_location_parent": 270829,
+        "name": "Hermel",
+        "seoname": "hermel-511321"
+    },
+    {
+        "id_location": 270885,
+        "id_location_parent": 270829,
+        "name": "Jouar el Hachich",
+        "seoname": "jouar-el-hachich-511322"
+    },
+    {
+        "id_location": 270886,
+        "id_location_parent": 270829,
+        "name": "Kasser - Fisane",
+        "seoname": "kasser-fisane-511323"
+    },
+    {
+        "id_location": 270887,
+        "id_location_parent": 270829,
+        "name": "Kouakh",
+        "seoname": "kouakh-511324"
+    },
+    {
+        "id_location": 270888,
+        "id_location_parent": 270829,
+        "name": "Ain Arab",
+        "seoname": "ain-arab-511325"
+    },
+    {
+        "id_location": 270889,
+        "id_location_parent": 270829,
+        "name": "Ain Ata",
+        "seoname": "ain-ata-511326"
+    },
+    {
+        "id_location": 270890,
+        "id_location_parent": 270829,
+        "name": "Ain Harcha",
+        "seoname": "ain-harcha-511327"
+    },
+    {
+        "id_location": 270891,
+        "id_location_parent": 270829,
+        "name": "Akabeh",
+        "seoname": "akabeh-511328"
+    },
+    {
+        "id_location": 270892,
+        "id_location_parent": 270829,
+        "name": "Ayha",
+        "seoname": "ayha-511329"
+    },
+    {
+        "id_location": 270893,
+        "id_location_parent": 270829,
+        "name": "Ayta el Fekhar",
+        "seoname": "ayta-el-fekhar-511330"
+    },
+    {
+        "id_location": 270894,
+        "id_location_parent": 270829,
+        "name": "Bakifa",
+        "seoname": "bakifa-511331"
+    },
+    {
+        "id_location": 270895,
+        "id_location_parent": 270829,
+        "name": "Bakka",
+        "seoname": "bakka-511332"
+    },
+    {
+        "id_location": 270896,
+        "id_location_parent": 270829,
+        "name": "Beit Lahia",
+        "seoname": "beit-lahia-511333"
+    },
+    {
+        "id_location": 270897,
+        "id_location_parent": 270829,
+        "name": "Bireh",
+        "seoname": "bireh-511334"
+    },
+    {
+        "id_location": 270898,
+        "id_location_parent": 270829,
+        "name": "Daher el Ahmar",
+        "seoname": "daher-el-ahmar-511335"
+    },
+    {
+        "id_location": 270899,
+        "id_location_parent": 270829,
+        "name": "Deir El Aachayer",
+        "seoname": "deir-el-aachayer-511336"
+    },
+    {
+        "id_location": 270900,
+        "id_location_parent": 270829,
+        "name": "Helwa",
+        "seoname": "helwa-511337"
+    },
+    {
+        "id_location": 270901,
+        "id_location_parent": 270829,
+        "name": "Hoch",
+        "seoname": "hoch-511338"
+    },
+    {
+        "id_location": 270902,
+        "id_location_parent": 270829,
+        "name": "Kaukaba",
+        "seoname": "kaukaba-511339"
+    },
+    {
+        "id_location": 270903,
+        "id_location_parent": 270829,
+        "name": "Kfardaniss",
+        "seoname": "kfardaniss-511340"
+    },
+    {
+        "id_location": 270904,
+        "id_location_parent": 270829,
+        "name": "Kfarfouk",
+        "seoname": "kfarfouk-511341"
+    },
+    {
+        "id_location": 270905,
+        "id_location_parent": 270829,
+        "name": "Kfarmechki",
+        "seoname": "kfarmechki-511342"
+    },
+    {
+        "id_location": 270906,
+        "id_location_parent": 270829,
+        "name": "Kherbet Rouha",
+        "seoname": "kherbet-rouha-511343"
+    },
+    {
+        "id_location": 270907,
+        "id_location_parent": 270829,
+        "name": "Majdel Balhiss",
+        "seoname": "majdel-balhiss-511344"
+    },
+    {
+        "id_location": 270908,
+        "id_location_parent": 270829,
+        "name": "Mdoukha",
+        "seoname": "mdoukha-511345"
+    },
+    {
+        "id_location": 270909,
+        "id_location_parent": 270829,
+        "name": "Mhaydseh",
+        "seoname": "mhaydseh-511346"
+    },
+    {
+        "id_location": 270910,
+        "id_location_parent": 270829,
+        "name": "Rashaya",
+        "seoname": "rashaya-511347"
+    },
+    {
+        "id_location": 270911,
+        "id_location_parent": 270829,
+        "name": "Al-Rafid",
+        "seoname": "al-rafid-511348"
+    },
+    {
+        "id_location": 270912,
+        "id_location_parent": 270829,
+        "name": "Tannoura",
+        "seoname": "tannoura-511349"
+    },
+    {
+        "id_location": 270913,
+        "id_location_parent": 270829,
+        "name": "Yanta",
+        "seoname": "yanta-511350"
+    },
+    {
+        "id_location": 270914,
+        "id_location_parent": 270829,
+        "name": "Ain el Tineh",
+        "seoname": "ain-el-tineh-511351"
+    },
+    {
+        "id_location": 270915,
+        "id_location_parent": 270829,
+        "name": "Ain Zebdeh",
+        "seoname": "ain-zebdeh-511352"
+    },
+    {
+        "id_location": 270916,
+        "id_location_parent": 270829,
+        "name": "Ammik",
+        "seoname": "ammik-511353"
+    },
+    {
+        "id_location": 270917,
+        "id_location_parent": 270829,
+        "name": "Ana",
+        "seoname": "ana-511354"
+    },
+    {
+        "id_location": 270918,
+        "id_location_parent": 270829,
+        "name": "Aitanite",
+        "seoname": "aitanite-511355"
+    },
+    {
+        "id_location": 270919,
+        "id_location_parent": 270829,
+        "name": "Baaloul",
+        "seoname": "baaloul-511356"
+    },
+    {
+        "id_location": 270920,
+        "id_location_parent": 270829,
+        "name": "Bab Mareh",
+        "seoname": "bab-mareh-511357"
+    },
+    {
+        "id_location": 270921,
+        "id_location_parent": 270829,
+        "name": "Ghaza",
+        "seoname": "ghaza-511358"
+    },
+    {
+        "id_location": 270922,
+        "id_location_parent": 270829,
+        "name": "Hoch Harimeh",
+        "seoname": "hoch-harimeh-511359"
+    },
+    {
+        "id_location": 270923,
+        "id_location_parent": 270829,
+        "name": "Jeb Jennine",
+        "seoname": "jeb-jennine-511360"
+    },
+    {
+        "id_location": 270924,
+        "id_location_parent": 270829,
+        "name": "Kamed el Laouz",
+        "seoname": "kamed-el-laouz-511361"
+    },
+    {
+        "id_location": 270925,
+        "id_location_parent": 270829,
+        "name": "Karaoun",
+        "seoname": "karaoun-511362"
+    },
+    {
+        "id_location": 270926,
+        "id_location_parent": 270829,
+        "name": "Kefraya",
+        "seoname": "kefraya-511363"
+    },
+    {
+        "id_location": 270927,
+        "id_location_parent": 270829,
+        "name": "Kelya",
+        "seoname": "kelya-511364"
+    },
+    {
+        "id_location": 270928,
+        "id_location_parent": 270829,
+        "name": "Kherbet Kanafar",
+        "seoname": "kherbet-kanafar-511365"
+    },
+    {
+        "id_location": 270929,
+        "id_location_parent": 270829,
+        "name": "Lala",
+        "seoname": "lala-511366"
+    },
+    {
+        "id_location": 270930,
+        "id_location_parent": 270829,
+        "name": "Lebbaya",
+        "seoname": "lebbaya-511367"
+    },
+    {
+        "id_location": 270931,
+        "id_location_parent": 270829,
+        "name": "Machghara",
+        "seoname": "machghara-511368"
+    },
+    {
+        "id_location": 270932,
+        "id_location_parent": 270829,
+        "name": "Manara",
+        "seoname": "manara-511369"
+    },
+    {
+        "id_location": 270933,
+        "id_location_parent": 270829,
+        "name": "Mansoura",
+        "seoname": "mansoura-511370"
+    },
+    {
+        "id_location": 270934,
+        "id_location_parent": 270829,
+        "name": "Marej",
+        "seoname": "marej-511371"
+    },
+    {
+        "id_location": 270935,
+        "id_location_parent": 270829,
+        "name": "Maydoun",
+        "seoname": "maydoun-511372"
+    },
+    {
+        "id_location": 270936,
+        "id_location_parent": 270829,
+        "name": "Saghbine",
+        "seoname": "saghbine-511373"
+    },
+    {
+        "id_location": 270937,
+        "id_location_parent": 270829,
+        "name": "Sohmor",
+        "seoname": "sohmor-511374"
+    },
+    {
+        "id_location": 270938,
+        "id_location_parent": 270829,
+        "name": "Sawiri",
+        "seoname": "sawiri-511375"
+    },
+    {
+        "id_location": 270939,
+        "id_location_parent": 270829,
+        "name": "Sultan Yaakoub",
+        "seoname": "sultan-yaakoub-511376"
+    },
+    {
+        "id_location": 270940,
+        "id_location_parent": 270829,
+        "name": "Yehmor",
+        "seoname": "yehmor-511377"
+    },
+    {
+        "id_location": 270941,
+        "id_location_parent": 1,
+        "name": "Zahle",
+        "seoname": "zahle-782771"
+    },
+    {
+        "id_location": 270942,
+        "id_location_parent": 270941,
+        "name": "Ablah",
+        "seoname": "ablah-511378"
+    },
+    {
+        "id_location": 270943,
+        "id_location_parent": 270941,
+        "name": "Ain Kfarzabad",
+        "seoname": "ain-kfarzabad-511379"
+    },
+    {
+        "id_location": 270944,
+        "id_location_parent": 270941,
+        "name": "Ali el Nahri",
+        "seoname": "ali-el-nahri-511380"
+    },
+    {
+        "id_location": 270945,
+        "id_location_parent": 270941,
+        "name": "BarElias",
+        "seoname": "barelias-511381"
+    },
+    {
+        "id_location": 270946,
+        "id_location_parent": 270941,
+        "name": "Bouarej",
+        "seoname": "bouarej-511382"
+    },
+    {
+        "id_location": 270947,
+        "id_location_parent": 270941,
+        "name": "Chtaura",
+        "seoname": "chtaura-511383"
+    },
+    {
+        "id_location": 270948,
+        "id_location_parent": 270941,
+        "name": "Deir el Ghazal",
+        "seoname": "deir-el-ghazal-511384"
+    },
+    {
+        "id_location": 270949,
+        "id_location_parent": 270941,
+        "name": "Ferzol",
+        "seoname": "ferzol-511385"
+    },
+    {
+        "id_location": 270950,
+        "id_location_parent": 270941,
+        "name": "Hay el Fikany",
+        "seoname": "hay-el-fikany-511386"
+    },
+    {
+        "id_location": 270951,
+        "id_location_parent": 270941,
+        "name": "Hezerta",
+        "seoname": "hezerta-511387"
+    },
+    {
+        "id_location": 270952,
+        "id_location_parent": 270941,
+        "name": "Hoch Moussa - Anjar",
+        "seoname": "hoch-moussa-anjar-511388"
+    },
+    {
+        "id_location": 270953,
+        "id_location_parent": 270941,
+        "name": "Jdita",
+        "seoname": "jdita-511389"
+    },
+    {
+        "id_location": 270954,
+        "id_location_parent": 270941,
+        "name": "Kaah el Rim",
+        "seoname": "kaah-el-rim-511390"
+    },
+    {
+        "id_location": 270955,
+        "id_location_parent": 270941,
+        "name": "Kab Elias - Wadi el Deloum",
+        "seoname": "kab-elias-wadi-el-deloum-511391"
+    },
+    {
+        "id_location": 270956,
+        "id_location_parent": 270941,
+        "name": "Kfarzabad",
+        "seoname": "kfarzabad-511392"
+    },
+    {
+        "id_location": 270957,
+        "id_location_parent": 270941,
+        "name": "Kousaya",
+        "seoname": "kousaya-511393"
+    },
+    {
+        "id_location": 270958,
+        "id_location_parent": 270941,
+        "name": "Majdel Anjar",
+        "seoname": "majdel-anjar-511394"
+    },
+    {
+        "id_location": 270959,
+        "id_location_parent": 270941,
+        "name": "Massa",
+        "seoname": "massa-511395"
+    },
+    {
+        "id_location": 270960,
+        "id_location_parent": 270941,
+        "name": "Mekssi",
+        "seoname": "mekssi-511396"
+    },
+    {
+        "id_location": 270961,
+        "id_location_parent": 270941,
+        "name": "Mrayjat",
+        "seoname": "mrayjat-511397"
+    },
+    {
+        "id_location": 270962,
+        "id_location_parent": 270941,
+        "name": "Nabi Ayla",
+        "seoname": "nabi-ayla-511398"
+    },
+    {
+        "id_location": 270963,
+        "id_location_parent": 270941,
+        "name": "Niha",
+        "seoname": "niha-511399"
+    },
+    {
+        "id_location": 270964,
+        "id_location_parent": 270941,
+        "name": "Rhit",
+        "seoname": "rhit-511400"
+    },
+    {
+        "id_location": 270965,
+        "id_location_parent": 270941,
+        "name": "Riyak - Hoch Hala",
+        "seoname": "riyak-hoch-hala-511401"
+    },
+    {
+        "id_location": 270966,
+        "id_location_parent": 270941,
+        "name": "Saadnayel",
+        "seoname": "saadnayel-511402"
+    },
+    {
+        "id_location": 270967,
+        "id_location_parent": 270941,
+        "name": "Taalbeya",
+        "seoname": "taalbeya-511403"
+    },
+    {
+        "id_location": 270968,
+        "id_location_parent": 270941,
+        "name": "Taanayel",
+        "seoname": "taanayel-511404"
+    },
+    {
+        "id_location": 270969,
+        "id_location_parent": 270941,
+        "name": "Terbol",
+        "seoname": "terbol-511405"
+    },
+    {
+        "id_location": 270970,
+        "id_location_parent": 270941,
+        "name": "Zahl\u00e9\u00a0- Maalaka",
+        "seoname": "zahle-maalaka-511406"
+    },
+    {
+        "id_location": 270971,
+        "id_location_parent": 1,
+        "name": "North Lebanon",
+        "seoname": "north-lebanon-782772"
+    },
+    {
+        "id_location": 270972,
+        "id_location_parent": 270971,
+        "name": "Arqa",
+        "seoname": "arqa-511407"
+    },
+    {
+        "id_location": 270973,
+        "id_location_parent": 270971,
+        "name": "Bebnin",
+        "seoname": "bebnin-511408"
+    },
+    {
+        "id_location": 270974,
+        "id_location_parent": 270971,
+        "name": "Beino",
+        "seoname": "beino-511409"
+    },
+    {
+        "id_location": 270975,
+        "id_location_parent": 270971,
+        "name": "Cheikh Mohammad",
+        "seoname": "cheikh-mohammad-511410"
+    },
+    {
+        "id_location": 270976,
+        "id_location_parent": 270971,
+        "name": "Halba",
+        "seoname": "halba-511411"
+    },
+    {
+        "id_location": 270977,
+        "id_location_parent": 270971,
+        "name": "Hisah",
+        "seoname": "hisah-511412"
+    },
+    {
+        "id_location": 270978,
+        "id_location_parent": 270971,
+        "name": "Kobayat",
+        "seoname": "kobayat-511413"
+    },
+    {
+        "id_location": 270979,
+        "id_location_parent": 270971,
+        "name": "Massoudieh",
+        "seoname": "massoudieh-511414"
+    },
+    {
+        "id_location": 270980,
+        "id_location_parent": 270971,
+        "name": "Miniara",
+        "seoname": "miniara-511415"
+    },
+    {
+        "id_location": 270981,
+        "id_location_parent": 270971,
+        "name": "Mish Mish",
+        "seoname": "mish-mish-511416"
+    },
+    {
+        "id_location": 270982,
+        "id_location_parent": 270971,
+        "name": "Akkar",
+        "seoname": "akkar-511417"
+    },
+    {
+        "id_location": 270983,
+        "id_location_parent": 270971,
+        "name": "Ajdabra",
+        "seoname": "ajdabra-511418"
+    },
+    {
+        "id_location": 270984,
+        "id_location_parent": 270971,
+        "name": "Assia",
+        "seoname": "assia-511419"
+    },
+    {
+        "id_location": 270985,
+        "id_location_parent": 270971,
+        "name": "Batroun",
+        "seoname": "batroun-511420"
+    },
+    {
+        "id_location": 270986,
+        "id_location_parent": 270971,
+        "name": "Bcheeleh",
+        "seoname": "bcheeleh-511421"
+    },
+    {
+        "id_location": 270987,
+        "id_location_parent": 270971,
+        "name": "Bkesmaya",
+        "seoname": "bkesmaya-511422"
+    },
+    {
+        "id_location": 270988,
+        "id_location_parent": 270971,
+        "name": "Chebtine",
+        "seoname": "chebtine-511423"
+    },
+    {
+        "id_location": 270989,
+        "id_location_parent": 270971,
+        "name": "Chekka",
+        "seoname": "chekka-511424"
+    },
+    {
+        "id_location": 270990,
+        "id_location_parent": 270971,
+        "name": "Douma, Lebanon",
+        "seoname": "douma-lebanon-511425"
+    },
+    {
+        "id_location": 270991,
+        "id_location_parent": 270971,
+        "name": "Eddeh",
+        "seoname": "eddeh-511426"
+    },
+    {
+        "id_location": 270992,
+        "id_location_parent": 270971,
+        "name": "Hery",
+        "seoname": "hery-511427"
+    },
+    {
+        "id_location": 270993,
+        "id_location_parent": 270971,
+        "name": "Hamat",
+        "seoname": "hamat-511428"
+    },
+    {
+        "id_location": 270994,
+        "id_location_parent": 270971,
+        "name": "Hardine - Beit Kassab",
+        "seoname": "hardine-beit-kassab-511429"
+    },
+    {
+        "id_location": 270995,
+        "id_location_parent": 270971,
+        "name": "Ibrine",
+        "seoname": "ibrine-511430"
+    },
+    {
+        "id_location": 270996,
+        "id_location_parent": 270971,
+        "name": "vKfar Abida",
+        "seoname": "vkfar-abida-511431"
+    },
+    {
+        "id_location": 270997,
+        "id_location_parent": 270971,
+        "name": "Kfour el Arabi",
+        "seoname": "kfour-el-arabi-511432"
+    },
+    {
+        "id_location": 270998,
+        "id_location_parent": 270971,
+        "name": "Kobba",
+        "seoname": "kobba-511433"
+    },
+    {
+        "id_location": 270999,
+        "id_location_parent": 270971,
+        "name": "Ram",
+        "seoname": "ram-511434"
+    },
+    {
+        "id_location": 271000,
+        "id_location_parent": 270971,
+        "name": "Ras Nahhache",
+        "seoname": "ras-nahhache-511435"
+    },
+    {
+        "id_location": 271001,
+        "id_location_parent": 270971,
+        "name": "Selaata",
+        "seoname": "selaata-511436"
+    },
+    {
+        "id_location": 271002,
+        "id_location_parent": 270971,
+        "name": "Tannourine",
+        "seoname": "tannourine-511437"
+    },
+    {
+        "id_location": 271003,
+        "id_location_parent": 270971,
+        "name": "Zan",
+        "seoname": "zan-511438"
+    },
+    {
+        "id_location": 271004,
+        "id_location_parent": 270971,
+        "name": "Abdine",
+        "seoname": "abdine-511439"
+    },
+    {
+        "id_location": 271005,
+        "id_location_parent": 270971,
+        "name": "Barhelyoun",
+        "seoname": "barhelyoun-511440"
+    },
+    {
+        "id_location": 271006,
+        "id_location_parent": 270971,
+        "name": "Bazooun",
+        "seoname": "bazooun-511441"
+    },
+    {
+        "id_location": 271007,
+        "id_location_parent": 270971,
+        "name": "Beit Mounzer",
+        "seoname": "beit-mounzer-511442"
+    },
+    {
+        "id_location": 271008,
+        "id_location_parent": 270971,
+        "name": "Bcharre",
+        "seoname": "bcharre-511443"
+    },
+    {
+        "id_location": 271009,
+        "id_location_parent": 270971,
+        "name": "Bkerkacha",
+        "seoname": "bkerkacha-511444"
+    },
+    {
+        "id_location": 271010,
+        "id_location_parent": 270971,
+        "name": "Bkaakafra",
+        "seoname": "bkaakafra-511445"
+    },
+    {
+        "id_location": 271011,
+        "id_location_parent": 270971,
+        "name": "Blawza",
+        "seoname": "blawza-511446"
+    },
+    {
+        "id_location": 271012,
+        "id_location_parent": 270971,
+        "name": "Braissat",
+        "seoname": "braissat-511447"
+    },
+    {
+        "id_location": 271013,
+        "id_location_parent": 270971,
+        "name": "Dimane",
+        "seoname": "dimane-511448"
+    },
+    {
+        "id_location": 271014,
+        "id_location_parent": 270971,
+        "name": "Hadath El Jebbeh",
+        "seoname": "hadath-el-jebbeh-511449"
+    },
+    {
+        "id_location": 271015,
+        "id_location_parent": 270971,
+        "name": "Hadchit",
+        "seoname": "hadchit-511450"
+    },
+    {
+        "id_location": 271016,
+        "id_location_parent": 270971,
+        "name": "Hasroun",
+        "seoname": "hasroun-511451"
+    },
+    {
+        "id_location": 271017,
+        "id_location_parent": 270971,
+        "name": "Kanat",
+        "seoname": "kanat-511452"
+    },
+    {
+        "id_location": 271018,
+        "id_location_parent": 270971,
+        "name": "Tourza",
+        "seoname": "tourza-511453"
+    },
+    {
+        "id_location": 271019,
+        "id_location_parent": 270971,
+        "name": "Aaba",
+        "seoname": "aaba-511454"
+    },
+    {
+        "id_location": 271020,
+        "id_location_parent": 270971,
+        "name": "Afsaddik",
+        "seoname": "afsaddik-511455"
+    },
+    {
+        "id_location": 271021,
+        "id_location_parent": 270971,
+        "name": "Ain Ekrine",
+        "seoname": "ain-ekrine-511456"
+    },
+    {
+        "id_location": 271022,
+        "id_location_parent": 270971,
+        "name": "Ajed Ibrine",
+        "seoname": "ajed-ibrine-511457"
+    },
+    {
+        "id_location": 271023,
+        "id_location_parent": 270971,
+        "name": "Amioun",
+        "seoname": "amioun-511458"
+    },
+    {
+        "id_location": 271024,
+        "id_location_parent": 270971,
+        "name": "Anfeh",
+        "seoname": "anfeh-511459"
+    },
+    {
+        "id_location": 271025,
+        "id_location_parent": 270971,
+        "name": "Barsa",
+        "seoname": "barsa-511460"
+    },
+    {
+        "id_location": 271026,
+        "id_location_parent": 270971,
+        "name": "Batroumine",
+        "seoname": "batroumine-511461"
+    },
+    {
+        "id_location": 271027,
+        "id_location_parent": 270971,
+        "name": "Bdebba",
+        "seoname": "bdebba-511462"
+    },
+    {
+        "id_location": 271028,
+        "id_location_parent": 270971,
+        "name": "Bechmezzine",
+        "seoname": "bechmezzine-511463"
+    },
+    {
+        "id_location": 271029,
+        "id_location_parent": 270971,
+        "name": "Bednayel",
+        "seoname": "bednayel-511464"
+    },
+    {
+        "id_location": 271030,
+        "id_location_parent": 270971,
+        "name": "Bkeftine",
+        "seoname": "bkeftine-511465"
+    },
+    {
+        "id_location": 271031,
+        "id_location_parent": 270971,
+        "name": "Bsarma",
+        "seoname": "bsarma-511466"
+    },
+    {
+        "id_location": 271032,
+        "id_location_parent": 270971,
+        "name": "Bterram",
+        "seoname": "bterram-511467"
+    },
+    {
+        "id_location": 271033,
+        "id_location_parent": 270971,
+        "name": "Btouratij",
+        "seoname": "btouratij-511468"
+    },
+    {
+        "id_location": 271034,
+        "id_location_parent": 270971,
+        "name": "Bziza",
+        "seoname": "bziza-511469"
+    },
+    {
+        "id_location": 271035,
+        "id_location_parent": 270971,
+        "name": "Dar Beechtar",
+        "seoname": "dar-beechtar-511470"
+    },
+    {
+        "id_location": 271036,
+        "id_location_parent": 270971,
+        "name": "Dar Chmezzine",
+        "seoname": "dar-chmezzine-511471"
+    },
+    {
+        "id_location": 271037,
+        "id_location_parent": 270971,
+        "name": "Deddeh",
+        "seoname": "deddeh-511472"
+    },
+    {
+        "id_location": 271038,
+        "id_location_parent": 270971,
+        "name": "Fih",
+        "seoname": "fih-511473"
+    },
+    {
+        "id_location": 271039,
+        "id_location_parent": 270971,
+        "name": "Kaftoun",
+        "seoname": "kaftoun-511474"
+    },
+    {
+        "id_location": 271040,
+        "id_location_parent": 270971,
+        "name": "Kalhat",
+        "seoname": "kalhat-511475"
+    },
+    {
+        "id_location": 271041,
+        "id_location_parent": 270971,
+        "name": "Kefraya",
+        "seoname": "kefraya-511476"
+    },
+    {
+        "id_location": 271042,
+        "id_location_parent": 270971,
+        "name": "Kfarakka",
+        "seoname": "kfarakka-511477"
+    },
+    {
+        "id_location": 271043,
+        "id_location_parent": 270971,
+        "name": "Kfarhata",
+        "seoname": "kfarhata-511478"
+    },
+    {
+        "id_location": 271044,
+        "id_location_parent": 270971,
+        "name": "Kfarhazir",
+        "seoname": "kfarhazir-511479"
+    },
+    {
+        "id_location": 271045,
+        "id_location_parent": 270971,
+        "name": "Kfarkahel",
+        "seoname": "kfarkahel-511480"
+    },
+    {
+        "id_location": 271046,
+        "id_location_parent": 270971,
+        "name": "Kfarsaroun",
+        "seoname": "kfarsaroun-511481"
+    },
+    {
+        "id_location": 271047,
+        "id_location_parent": 270971,
+        "name": "Kosba",
+        "seoname": "kosba-511482"
+    },
+    {
+        "id_location": 271048,
+        "id_location_parent": 270971,
+        "name": "Mejdel - Zakzouk - Wata Fares",
+        "seoname": "mejdel-zakzouk-wata-fares-511483"
+    },
+    {
+        "id_location": 271049,
+        "id_location_parent": 270971,
+        "name": "Metrite",
+        "seoname": "metrite-511484"
+    },
+    {
+        "id_location": 271050,
+        "id_location_parent": 270971,
+        "name": "Nakhleh",
+        "seoname": "nakhleh-511485"
+    },
+    {
+        "id_location": 271051,
+        "id_location_parent": 270971,
+        "name": "Rasmaska",
+        "seoname": "rasmaska-511486"
+    },
+    {
+        "id_location": 271052,
+        "id_location_parent": 270971,
+        "name": "Rechdebbine",
+        "seoname": "rechdebbine-511487"
+    },
+    {
+        "id_location": 271053,
+        "id_location_parent": 270971,
+        "name": "Koura",
+        "seoname": "koura-511488"
+    },
+    {
+        "id_location": 271054,
+        "id_location_parent": 270971,
+        "name": "Asoun",
+        "seoname": "asoun-511489"
+    },
+    {
+        "id_location": 271055,
+        "id_location_parent": 270971,
+        "name": "Bakhoun",
+        "seoname": "bakhoun-511490"
+    },
+    {
+        "id_location": 271056,
+        "id_location_parent": 270971,
+        "name": "Beddawi - Wadi Nahleh",
+        "seoname": "beddawi-wadi-nahleh-511491"
+    },
+    {
+        "id_location": 271057,
+        "id_location_parent": 270971,
+        "name": "Beit el Fokss",
+        "seoname": "beit-el-fokss-511492"
+    },
+    {
+        "id_location": 271058,
+        "id_location_parent": 270971,
+        "name": "Bekaasafrine",
+        "seoname": "bekaasafrine-511493"
+    },
+    {
+        "id_location": 271059,
+        "id_location_parent": 270971,
+        "name": "Bhannine & Artousa",
+        "seoname": "bhannine-artousa-511494"
+    },
+    {
+        "id_location": 271060,
+        "id_location_parent": 270971,
+        "name": "Bkarsouna - Kattine",
+        "seoname": "bkarsouna-kattine-511495"
+    },
+    {
+        "id_location": 271061,
+        "id_location_parent": 270971,
+        "name": "Btermaz",
+        "seoname": "btermaz-511496"
+    },
+    {
+        "id_location": 271062,
+        "id_location_parent": 270971,
+        "name": "Deir Ammar",
+        "seoname": "deir-ammar-511497"
+    },
+    {
+        "id_location": 271063,
+        "id_location_parent": 270971,
+        "name": "Deir Nbouh",
+        "seoname": "deir-nbouh-511498"
+    },
+    {
+        "id_location": 271064,
+        "id_location_parent": 270971,
+        "name": "Haql El Aazime",
+        "seoname": "haql-el-aazime-511499"
+    },
+    {
+        "id_location": 271065,
+        "id_location_parent": 270971,
+        "name": "Karm el Moher",
+        "seoname": "karm-el-moher-511500"
+    },
+    {
+        "id_location": 271066,
+        "id_location_parent": 270971,
+        "name": "Kfarchalane",
+        "seoname": "kfarchalane-511501"
+    },
+    {
+        "id_location": 271067,
+        "id_location_parent": 270971,
+        "name": "Kfarhabou",
+        "seoname": "kfarhabou-511502"
+    },
+    {
+        "id_location": 271068,
+        "id_location_parent": 270971,
+        "name": "Minyeh",
+        "seoname": "minyeh-511503"
+    },
+    {
+        "id_location": 271069,
+        "id_location_parent": 270971,
+        "name": "Mrah Sraj",
+        "seoname": "mrah-sraj-511504"
+    },
+    {
+        "id_location": 271070,
+        "id_location_parent": 270971,
+        "name": "Nemrine & Bkaouza",
+        "seoname": "nemrine-bkaouza-511505"
+    },
+    {
+        "id_location": 271071,
+        "id_location_parent": 270971,
+        "name": "Sfireh",
+        "seoname": "sfireh-511506"
+    },
+    {
+        "id_location": 271072,
+        "id_location_parent": 270971,
+        "name": "Sir",
+        "seoname": "sir-511507"
+    },
+    {
+        "id_location": 271073,
+        "id_location_parent": 270971,
+        "name": "Tarane",
+        "seoname": "tarane-511508"
+    },
+    {
+        "id_location": 271074,
+        "id_location_parent": 270971,
+        "name": "Miniyeh-Danniyeh",
+        "seoname": "miniyeh-danniyeh-511509"
+    },
+    {
+        "id_location": 271075,
+        "id_location_parent": 270971,
+        "name": "Tripoli",
+        "seoname": "tripoli-511510"
+    },
+    {
+        "id_location": 271076,
+        "id_location_parent": 270971,
+        "name": "Al-Qalamoun",
+        "seoname": "al-qalamoun-511511"
+    },
+    {
+        "id_location": 271077,
+        "id_location_parent": 270971,
+        "name": "Mina",
+        "seoname": "mina-511512"
+    },
+    {
+        "id_location": 271078,
+        "id_location_parent": 270971,
+        "name": "Achache",
+        "seoname": "achache-511513"
+    },
+    {
+        "id_location": 271079,
+        "id_location_parent": 270971,
+        "name": "Aintourine",
+        "seoname": "aintourine-511514"
+    },
+    {
+        "id_location": 271080,
+        "id_location_parent": 270971,
+        "name": "Alma",
+        "seoname": "alma-511515"
+    },
+    {
+        "id_location": 271081,
+        "id_location_parent": 270971,
+        "name": "Arbet Kozhaya",
+        "seoname": "arbet-kozhaya-511516"
+    },
+    {
+        "id_location": 271082,
+        "id_location_parent": 270971,
+        "name": "Ardeh",
+        "seoname": "ardeh-511517"
+    },
+    {
+        "id_location": 271083,
+        "id_location_parent": 270971,
+        "name": "Aarjes",
+        "seoname": "aarjes-511518"
+    },
+    {
+        "id_location": 271084,
+        "id_location_parent": 270971,
+        "name": "Aitou",
+        "seoname": "aitou-511519"
+    },
+    {
+        "id_location": 271085,
+        "id_location_parent": 270971,
+        "name": "Basloukit",
+        "seoname": "basloukit-511520"
+    },
+    {
+        "id_location": 271086,
+        "id_location_parent": 270971,
+        "name": "Bhairet Toula",
+        "seoname": "bhairet-toula-511521"
+    },
+    {
+        "id_location": 271087,
+        "id_location_parent": 270971,
+        "name": "Bnachii",
+        "seoname": "bnachii-511522"
+    },
+    {
+        "id_location": 271088,
+        "id_location_parent": 270971,
+        "name": "Daraya\u00a0-\u00a0Bchennine",
+        "seoname": "daraya-bchennine-511523"
+    },
+    {
+        "id_location": 271089,
+        "id_location_parent": 270971,
+        "name": "Ejbeh",
+        "seoname": "ejbeh-511524"
+    },
+    {
+        "id_location": 271090,
+        "id_location_parent": 270971,
+        "name": "Haret Al Fawar",
+        "seoname": "haret-al-fawar-511525"
+    },
+    {
+        "id_location": 271091,
+        "id_location_parent": 270971,
+        "name": "Iaal",
+        "seoname": "iaal-511526"
+    },
+    {
+        "id_location": 271092,
+        "id_location_parent": 270971,
+        "name": "Karmsaddeh",
+        "seoname": "karmsaddeh-511527"
+    },
+    {
+        "id_location": 271093,
+        "id_location_parent": 270971,
+        "name": "Kfardlakos",
+        "seoname": "kfardlakos-511528"
+    },
+    {
+        "id_location": 271094,
+        "id_location_parent": 270971,
+        "name": "Kfarsghab-\u00a0Morh Kfarsghab",
+        "seoname": "kfarsghab-morh-kfarsghab-511529"
+    },
+    {
+        "id_location": 271095,
+        "id_location_parent": 270971,
+        "name": "Kfarshakhna",
+        "seoname": "kfarshakhna-511530"
+    },
+    {
+        "id_location": 271096,
+        "id_location_parent": 270971,
+        "name": "Kfarfou",
+        "seoname": "kfarfou-511531"
+    },
+    {
+        "id_location": 271097,
+        "id_location_parent": 270971,
+        "name": "Kfaryachit\u00a0-\u00a0Besbeel",
+        "seoname": "kfaryachit-besbeel-511532"
+    },
+    {
+        "id_location": 271098,
+        "id_location_parent": 270971,
+        "name": "Kfarzeina",
+        "seoname": "kfarzeina-511533"
+    },
+    {
+        "id_location": 271099,
+        "id_location_parent": 270971,
+        "name": "Karahbache",
+        "seoname": "karahbache-511534"
+    },
+    {
+        "id_location": 271100,
+        "id_location_parent": 270971,
+        "name": "Mazraat Al Toufah",
+        "seoname": "mazraat-al-toufah-511535"
+    },
+    {
+        "id_location": 271101,
+        "id_location_parent": 270971,
+        "name": "Mejdlaya",
+        "seoname": "mejdlaya-511536"
+    },
+    {
+        "id_location": 271102,
+        "id_location_parent": 270971,
+        "name": "Mizyara - Haref - Hmayss - Sakhra",
+        "seoname": "mizyara-haref-hmayss-sakhra-511537"
+    },
+    {
+        "id_location": 271103,
+        "id_location_parent": 270971,
+        "name": "Miriata\u00a0-\u00a0Kadrieh",
+        "seoname": "miriata-kadrieh-511538"
+    },
+    {
+        "id_location": 271104,
+        "id_location_parent": 270971,
+        "name": "Rachiine",
+        "seoname": "rachiine-511539"
+    },
+    {
+        "id_location": 271105,
+        "id_location_parent": 270971,
+        "name": "Raskifa",
+        "seoname": "raskifa-511540"
+    },
+    {
+        "id_location": 271106,
+        "id_location_parent": 270971,
+        "name": "Sebhel",
+        "seoname": "sebhel-511541"
+    },
+    {
+        "id_location": 271107,
+        "id_location_parent": 270971,
+        "name": "Serhel",
+        "seoname": "serhel-511542"
+    },
+    {
+        "id_location": 271108,
+        "id_location_parent": 270971,
+        "name": "Toula\u00a0-\u00a0Aslout",
+        "seoname": "toula-aslout-511543"
+    },
+    {
+        "id_location": 271109,
+        "id_location_parent": 270971,
+        "name": "Zgharta\u00a0-\u00a0Ehden",
+        "seoname": "zgharta-ehden-511544"
+    },
+    {
+        "id_location": 271110,
+        "id_location_parent": 1,
+        "name": "South Lebanon",
+        "seoname": "south-lebanon-782773"
+    },
+    {
+        "id_location": 271111,
+        "id_location_parent": 271110,
+        "name": "Jezzine",
+        "seoname": "jezzine-511545"
+    },
+    {
+        "id_location": 271112,
+        "id_location_parent": 271110,
+        "name": "Kfarhouna",
+        "seoname": "kfarhouna-511546"
+    },
+    {
+        "id_location": 271113,
+        "id_location_parent": 271110,
+        "name": "Aramta",
+        "seoname": "aramta-511547"
+    },
+    {
+        "id_location": 271114,
+        "id_location_parent": 271110,
+        "name": "Mlikh",
+        "seoname": "mlikh-511548"
+    },
+    {
+        "id_location": 271115,
+        "id_location_parent": 271110,
+        "name": "Aitouleh",
+        "seoname": "aitouleh-511549"
+    },
+    {
+        "id_location": 271116,
+        "id_location_parent": 271110,
+        "name": "Al Rihan",
+        "seoname": "al-rihan-511550"
+    },
+    {
+        "id_location": 271117,
+        "id_location_parent": 271110,
+        "name": "Aray",
+        "seoname": "aray-511551"
+    },
+    {
+        "id_location": 271118,
+        "id_location_parent": 271110,
+        "name": "Azour",
+        "seoname": "azour-511552"
+    },
+    {
+        "id_location": 271119,
+        "id_location_parent": 271110,
+        "name": "Benweteh",
+        "seoname": "benweteh-511553"
+    },
+    {
+        "id_location": 271120,
+        "id_location_parent": 271110,
+        "name": "Haytoura",
+        "seoname": "haytoura-511554"
+    },
+    {
+        "id_location": 271121,
+        "id_location_parent": 271110,
+        "name": "Homsiyeh",
+        "seoname": "homsiyeh-511555"
+    },
+    {
+        "id_location": 271122,
+        "id_location_parent": 271110,
+        "name": "Kfarfalous",
+        "seoname": "kfarfalous-511556"
+    },
+    {
+        "id_location": 271123,
+        "id_location_parent": 271110,
+        "name": "Maknounieh",
+        "seoname": "maknounieh-511557"
+    },
+    {
+        "id_location": 271124,
+        "id_location_parent": 271110,
+        "name": "Sfaray",
+        "seoname": "sfaray-511558"
+    },
+    {
+        "id_location": 271125,
+        "id_location_parent": 271110,
+        "name": "Snaya",
+        "seoname": "snaya-511559"
+    },
+    {
+        "id_location": 271126,
+        "id_location_parent": 271110,
+        "name": "Boslaya",
+        "seoname": "boslaya-511560"
+    },
+    {
+        "id_location": 271127,
+        "id_location_parent": 271110,
+        "name": "Kfarjarrah",
+        "seoname": "kfarjarrah-511561"
+    },
+    {
+        "id_location": 271128,
+        "id_location_parent": 271110,
+        "name": "Kattine - Hidab",
+        "seoname": "kattine-hidab-511562"
+    },
+    {
+        "id_location": 271129,
+        "id_location_parent": 271110,
+        "name": "Midane",
+        "seoname": "midane-511563"
+    },
+    {
+        "id_location": 271130,
+        "id_location_parent": 271110,
+        "name": "Mjeydel",
+        "seoname": "mjeydel-511564"
+    },
+    {
+        "id_location": 271131,
+        "id_location_parent": 271110,
+        "name": "Jarmak",
+        "seoname": "jarmak-511565"
+    },
+    {
+        "id_location": 271132,
+        "id_location_parent": 271110,
+        "name": "Rimat - Chkadif",
+        "seoname": "rimat-chkadif-511566"
+    },
+    {
+        "id_location": 271133,
+        "id_location_parent": 271110,
+        "name": "Saydoun",
+        "seoname": "saydoun-511567"
+    },
+    {
+        "id_location": 271134,
+        "id_location_parent": 271110,
+        "name": "Louaizeh",
+        "seoname": "louaizeh-511568"
+    },
+    {
+        "id_location": 271135,
+        "id_location_parent": 271110,
+        "name": "Jernaya",
+        "seoname": "jernaya-511569"
+    },
+    {
+        "id_location": 271136,
+        "id_location_parent": 271110,
+        "name": "Roum",
+        "seoname": "roum-511570"
+    },
+    {
+        "id_location": 271137,
+        "id_location_parent": 271110,
+        "name": "Zhalta",
+        "seoname": "zhalta-511571"
+    },
+    {
+        "id_location": 271138,
+        "id_location_parent": 271110,
+        "name": "Sojod",
+        "seoname": "sojod-511572"
+    },
+    {
+        "id_location": 271139,
+        "id_location_parent": 271110,
+        "name": "Karkha",
+        "seoname": "karkha-511573"
+    },
+    {
+        "id_location": 271140,
+        "id_location_parent": 271110,
+        "name": "Bteddine el Lekech",
+        "seoname": "bteddine-el-lekech-511574"
+    },
+    {
+        "id_location": 271141,
+        "id_location_parent": 271110,
+        "name": "Bkassine",
+        "seoname": "bkassine-511575"
+    },
+    {
+        "id_location": 271142,
+        "id_location_parent": 271110,
+        "name": "Sabbah",
+        "seoname": "sabbah-511576"
+    },
+    {
+        "id_location": 271143,
+        "id_location_parent": 271110,
+        "name": "Aychieh",
+        "seoname": "aychieh-511577"
+    },
+    {
+        "id_location": 271144,
+        "id_location_parent": 271110,
+        "name": "Lebaa",
+        "seoname": "lebaa-511578"
+    },
+    {
+        "id_location": 271145,
+        "id_location_parent": 271110,
+        "name": "Machmouche",
+        "seoname": "machmouche-511579"
+    },
+    {
+        "id_location": 271146,
+        "id_location_parent": 271110,
+        "name": "Wadi Jezzine",
+        "seoname": "wadi-jezzine-511580"
+    },
+    {
+        "id_location": 271147,
+        "id_location_parent": 271110,
+        "name": "Abra",
+        "seoname": "abra-511581"
+    },
+    {
+        "id_location": 271148,
+        "id_location_parent": 271110,
+        "name": "Adloun",
+        "seoname": "adloun-511582"
+    },
+    {
+        "id_location": 271149,
+        "id_location_parent": 271110,
+        "name": "Adousieh",
+        "seoname": "adousieh-511583"
+    },
+    {
+        "id_location": 271150,
+        "id_location_parent": 271110,
+        "name": "Ain el Delb",
+        "seoname": "ain-el-delb-511584"
+    },
+    {
+        "id_location": 271151,
+        "id_location_parent": 271110,
+        "name": "Ankoun",
+        "seoname": "ankoun-511585"
+    },
+    {
+        "id_location": 271152,
+        "id_location_parent": 271110,
+        "name": "Bablieh",
+        "seoname": "bablieh-511586"
+    },
+    {
+        "id_location": 271153,
+        "id_location_parent": 271110,
+        "name": "Barty",
+        "seoname": "barty-511587"
+    },
+    {
+        "id_location": 271154,
+        "id_location_parent": 271110,
+        "name": "Bayssarieh",
+        "seoname": "bayssarieh-511588"
+    },
+    {
+        "id_location": 271155,
+        "id_location_parent": 271110,
+        "name": "Bkosta",
+        "seoname": "bkosta-511589"
+    },
+    {
+        "id_location": 271156,
+        "id_location_parent": 271110,
+        "name": "Bnaafoul",
+        "seoname": "bnaafoul-511590"
+    },
+    {
+        "id_location": 271157,
+        "id_location_parent": 271110,
+        "name": "Bramieh",
+        "seoname": "bramieh-511591"
+    },
+    {
+        "id_location": 271158,
+        "id_location_parent": 271110,
+        "name": "Dareb el Sim",
+        "seoname": "dareb-el-sim-511592"
+    },
+    {
+        "id_location": 271159,
+        "id_location_parent": 271110,
+        "name": "Erkay",
+        "seoname": "erkay-511593"
+    },
+    {
+        "id_location": 271160,
+        "id_location_parent": 271110,
+        "name": "Ghazieh",
+        "seoname": "ghazieh-511594"
+    },
+    {
+        "id_location": 271161,
+        "id_location_parent": 271110,
+        "name": "Ghessanieh",
+        "seoname": "ghessanieh-511595"
+    },
+    {
+        "id_location": 271162,
+        "id_location_parent": 271110,
+        "name": "Haret Saida",
+        "seoname": "haret-saida-511596"
+    },
+    {
+        "id_location": 271163,
+        "id_location_parent": 271110,
+        "name": "Hlalyeh",
+        "seoname": "hlalyeh-511597"
+    },
+    {
+        "id_location": 271164,
+        "id_location_parent": 271110,
+        "name": "Insariat",
+        "seoname": "insariat-511598"
+    },
+    {
+        "id_location": 271165,
+        "id_location_parent": 271110,
+        "name": "Irzay",
+        "seoname": "irzay-511599"
+    },
+    {
+        "id_location": 271166,
+        "id_location_parent": 271110,
+        "name": "Kaakaiyat el Snaoubar",
+        "seoname": "kaakaiyat-el-snaoubar-511600"
+    },
+    {
+        "id_location": 271167,
+        "id_location_parent": 271110,
+        "name": "Kawthariyet el Siyyad",
+        "seoname": "kawthariyet-el-siyyad-511601"
+    },
+    {
+        "id_location": 271168,
+        "id_location_parent": 271110,
+        "name": "Kfarhatta",
+        "seoname": "kfarhatta-511602"
+    },
+    {
+        "id_location": 271169,
+        "id_location_parent": 271110,
+        "name": "Kfarmilke",
+        "seoname": "kfarmilke-511603"
+    },
+    {
+        "id_location": 271170,
+        "id_location_parent": 271110,
+        "name": "Khartoum",
+        "seoname": "khartoum-511604"
+    },
+    {
+        "id_location": 271171,
+        "id_location_parent": 271110,
+        "name": "Khrayeb",
+        "seoname": "khrayeb-511605"
+    },
+    {
+        "id_location": 271172,
+        "id_location_parent": 271110,
+        "name": "Knarite",
+        "seoname": "knarite-511606"
+    },
+    {
+        "id_location": 271173,
+        "id_location_parent": 271110,
+        "name": "Krayeh",
+        "seoname": "krayeh-511607"
+    },
+    {
+        "id_location": 271174,
+        "id_location_parent": 271110,
+        "name": "Loubieh",
+        "seoname": "loubieh-511608"
+    },
+    {
+        "id_location": 271175,
+        "id_location_parent": 271110,
+        "name": "Maghdouche",
+        "seoname": "maghdouche-511609"
+    },
+    {
+        "id_location": 271176,
+        "id_location_parent": 271110,
+        "name": "Majdelyoun",
+        "seoname": "majdelyoun-511610"
+    },
+    {
+        "id_location": 271177,
+        "id_location_parent": 271110,
+        "name": "Meemarieh",
+        "seoname": "meemarieh-511611"
+    },
+    {
+        "id_location": 271178,
+        "id_location_parent": 271110,
+        "name": "Merwanieh",
+        "seoname": "merwanieh-511612"
+    },
+    {
+        "id_location": 271179,
+        "id_location_parent": 271110,
+        "name": "Miye ou Miye",
+        "seoname": "miye-ou-miye-511613"
+    },
+    {
+        "id_location": 271180,
+        "id_location_parent": 271110,
+        "name": "Najjarieh",
+        "seoname": "najjarieh-511614"
+    },
+    {
+        "id_location": 271181,
+        "id_location_parent": 271110,
+        "name": "Sidon",
+        "seoname": "sidon-511615"
+    },
+    {
+        "id_location": 271182,
+        "id_location_parent": 271110,
+        "name": "Saksakieh",
+        "seoname": "saksakieh-511616"
+    },
+    {
+        "id_location": 271183,
+        "id_location_parent": 271110,
+        "name": "Salhieh",
+        "seoname": "salhieh-511617"
+    },
+    {
+        "id_location": 271184,
+        "id_location_parent": 271110,
+        "name": "Sarafand",
+        "seoname": "sarafand-511618"
+    },
+    {
+        "id_location": 271185,
+        "id_location_parent": 271110,
+        "name": "Tafahta",
+        "seoname": "tafahta-511619"
+    },
+    {
+        "id_location": 271186,
+        "id_location_parent": 271110,
+        "name": "Tanbourit",
+        "seoname": "tanbourit-511620"
+    },
+    {
+        "id_location": 271187,
+        "id_location_parent": 271110,
+        "name": "Zeita",
+        "seoname": "zeita-511621"
+    },
+    {
+        "id_location": 271188,
+        "id_location_parent": 271110,
+        "name": "Zrariyeh",
+        "seoname": "zrariyeh-511622"
+    },
+    {
+        "id_location": 271189,
+        "id_location_parent": 271110,
+        "name": "Aaytit",
+        "seoname": "aaytit-511623"
+    },
+    {
+        "id_location": 271190,
+        "id_location_parent": 271110,
+        "name": "Abbassieh",
+        "seoname": "abbassieh-511624"
+    },
+    {
+        "id_location": 271191,
+        "id_location_parent": 271110,
+        "name": "Ain Baal",
+        "seoname": "ain-baal-511625"
+    },
+    {
+        "id_location": 271192,
+        "id_location_parent": 271110,
+        "name": "Alma el Chaab",
+        "seoname": "alma-el-chaab-511626"
+    },
+    {
+        "id_location": 271193,
+        "id_location_parent": 271110,
+        "name": "Arzoun",
+        "seoname": "arzoun-511627"
+    },
+    {
+        "id_location": 271194,
+        "id_location_parent": 271110,
+        "name": "Baflaya",
+        "seoname": "baflaya-511628"
+    },
+    {
+        "id_location": 271195,
+        "id_location_parent": 271110,
+        "name": "Barich",
+        "seoname": "barich-511629"
+    },
+    {
+        "id_location": 271196,
+        "id_location_parent": 271110,
+        "name": "Batoulieh",
+        "seoname": "batoulieh-511630"
+    },
+    {
+        "id_location": 271197,
+        "id_location_parent": 271110,
+        "name": "Bayyad",
+        "seoname": "bayyad-511631"
+    },
+    {
+        "id_location": 271198,
+        "id_location_parent": 271110,
+        "name": "Bazourieh",
+        "seoname": "bazourieh-511632"
+    },
+    {
+        "id_location": 271199,
+        "id_location_parent": 271110,
+        "name": "Bedyass",
+        "seoname": "bedyass-511633"
+    },
+    {
+        "id_location": 271200,
+        "id_location_parent": 271110,
+        "name": "Borj el Chamali",
+        "seoname": "borj-el-chamali-511634"
+    },
+    {
+        "id_location": 271201,
+        "id_location_parent": 271110,
+        "name": "Borj Rahal",
+        "seoname": "borj-rahal-511635"
+    },
+    {
+        "id_location": 271202,
+        "id_location_parent": 271110,
+        "name": "Bourghlieh",
+        "seoname": "bourghlieh-511636"
+    },
+    {
+        "id_location": 271203,
+        "id_location_parent": 271110,
+        "name": "Boustane",
+        "seoname": "boustane-511637"
+    },
+    {
+        "id_location": 271204,
+        "id_location_parent": 271110,
+        "name": "Chameh",
+        "seoname": "chameh-511638"
+    },
+    {
+        "id_location": 271205,
+        "id_location_parent": 271110,
+        "name": "Chehabie",
+        "seoname": "chehabie-511639"
+    },
+    {
+        "id_location": 271206,
+        "id_location_parent": 271110,
+        "name": "Chehour",
+        "seoname": "chehour-511640"
+    },
+    {
+        "id_location": 271207,
+        "id_location_parent": 271110,
+        "name": "Chihine",
+        "seoname": "chihine-511641"
+    },
+    {
+        "id_location": 271208,
+        "id_location_parent": 271110,
+        "name": "Debaal",
+        "seoname": "debaal-511642"
+    },
+    {
+        "id_location": 271209,
+        "id_location_parent": 271110,
+        "name": "Deir Amess",
+        "seoname": "deir-amess-511643"
+    },
+    {
+        "id_location": 271210,
+        "id_location_parent": 271110,
+        "name": "Deir Kanoun - Ras el Ain",
+        "seoname": "deir-kanoun-ras-el-ain-511644"
+    },
+    {
+        "id_location": 271211,
+        "id_location_parent": 271110,
+        "name": "Deir Kanoun Naher",
+        "seoname": "deir-kanoun-naher-511645"
+    },
+    {
+        "id_location": 271212,
+        "id_location_parent": 271110,
+        "name": "Derdghaya",
+        "seoname": "derdghaya-511646"
+    },
+    {
+        "id_location": 271213,
+        "id_location_parent": 271110,
+        "name": "Halloussieh",
+        "seoname": "halloussieh-511647"
+    },
+    {
+        "id_location": 271214,
+        "id_location_parent": 271110,
+        "name": "Hanawey",
+        "seoname": "hanawey-511648"
+    },
+    {
+        "id_location": 271215,
+        "id_location_parent": 271110,
+        "name": "Henniye",
+        "seoname": "henniye-511649"
+    },
+    {
+        "id_location": 271216,
+        "id_location_parent": 271110,
+        "name": "Hmayri",
+        "seoname": "hmayri-511650"
+    },
+    {
+        "id_location": 271217,
+        "id_location_parent": 271110,
+        "name": "Jebal El Botom",
+        "seoname": "jebal-el-botom-511651"
+    },
+    {
+        "id_location": 271218,
+        "id_location_parent": 271110,
+        "name": "Jebbine",
+        "seoname": "jebbine-511652"
+    },
+    {
+        "id_location": 271219,
+        "id_location_parent": 271110,
+        "name": "Jouaya",
+        "seoname": "jouaya-511653"
+    },
+    {
+        "id_location": 271220,
+        "id_location_parent": 271110,
+        "name": "Kana",
+        "seoname": "kana-511654"
+    },
+    {
+        "id_location": 271221,
+        "id_location_parent": 271110,
+        "name": "Kolayleh",
+        "seoname": "kolayleh-511655"
+    },
+    {
+        "id_location": 271222,
+        "id_location_parent": 271110,
+        "name": "Maarake",
+        "seoname": "maarake-511656"
+    },
+    {
+        "id_location": 271223,
+        "id_location_parent": 271110,
+        "name": "Maaroub",
+        "seoname": "maaroub-511657"
+    },
+    {
+        "id_location": 271224,
+        "id_location_parent": 271110,
+        "name": "Mahroune",
+        "seoname": "mahroune-511658"
+    },
+    {
+        "id_location": 271225,
+        "id_location_parent": 271110,
+        "name": "Majadel",
+        "seoname": "majadel-511659"
+    },
+    {
+        "id_location": 271226,
+        "id_location_parent": 271110,
+        "name": "Majdalzoun",
+        "seoname": "majdalzoun-511660"
+    },
+    {
+        "id_location": 271227,
+        "id_location_parent": 271110,
+        "name": "Mansouri",
+        "seoname": "mansouri-511661"
+    },
+    {
+        "id_location": 271228,
+        "id_location_parent": 271110,
+        "name": "Marwahine",
+        "seoname": "marwahine-511662"
+    },
+    {
+        "id_location": 271229,
+        "id_location_parent": 271110,
+        "name": "Mazraat Mechref",
+        "seoname": "mazraat-mechref-511663"
+    },
+    {
+        "id_location": 271230,
+        "id_location_parent": 271110,
+        "name": "Nakoura",
+        "seoname": "nakoura-511664"
+    },
+    {
+        "id_location": 271231,
+        "id_location_parent": 271110,
+        "name": "Ramadiye",
+        "seoname": "ramadiye-511665"
+    },
+    {
+        "id_location": 271232,
+        "id_location_parent": 271110,
+        "name": "Rechknanay",
+        "seoname": "rechknanay-511666"
+    },
+    {
+        "id_location": 271233,
+        "id_location_parent": 271110,
+        "name": "Selha",
+        "seoname": "selha-511667"
+    },
+    {
+        "id_location": 271234,
+        "id_location_parent": 271110,
+        "name": "Siddikine",
+        "seoname": "siddikine-511668"
+    },
+    {
+        "id_location": 271235,
+        "id_location_parent": 271110,
+        "name": "Srifa",
+        "seoname": "srifa-511669"
+    },
+    {
+        "id_location": 271236,
+        "id_location_parent": 271110,
+        "name": "Tayrdebba",
+        "seoname": "tayrdebba-511670"
+    },
+    {
+        "id_location": 271237,
+        "id_location_parent": 271110,
+        "name": "Tayrfelsay",
+        "seoname": "tayrfelsay-511671"
+    },
+    {
+        "id_location": 271238,
+        "id_location_parent": 271110,
+        "name": "Tayrharfa",
+        "seoname": "tayrharfa-511672"
+    },
+    {
+        "id_location": 271239,
+        "id_location_parent": 271110,
+        "name": "Toura",
+        "seoname": "toura-511673"
+    },
+    {
+        "id_location": 271240,
+        "id_location_parent": 271110,
+        "name": "Tyre",
+        "seoname": "tyre-511674"
+    },
+    {
+        "id_location": 271241,
+        "id_location_parent": 271110,
+        "name": "Yanouh",
+        "seoname": "yanouh-511675"
+    },
+    {
+        "id_location": 271242,
+        "id_location_parent": 271110,
+        "name": "Yarine",
+        "seoname": "yarine-511676"
+    },
+    {
+        "id_location": 271243,
+        "id_location_parent": 271110,
+        "name": "Zibkin",
+        "seoname": "zibkin-511677"
+    },
+    {
+        "id_location": 271244,
+        "id_location_parent": 1,
+        "name": "Nabatieh",
+        "seoname": "nabatieh-782774"
+    },
+    {
+        "id_location": 271245,
+        "id_location_parent": 271244,
+        "name": "Ain Ebel",
+        "seoname": "ain-ebel-511678"
+    },
+    {
+        "id_location": 271246,
+        "id_location_parent": 271244,
+        "name": "Aynata",
+        "seoname": "aynata-511679"
+    },
+    {
+        "id_location": 271247,
+        "id_location_parent": 271244,
+        "name": "Ayta el Chaeb",
+        "seoname": "ayta-el-chaeb-511680"
+    },
+    {
+        "id_location": 271248,
+        "id_location_parent": 271244,
+        "name": "Ayta el Jabal",
+        "seoname": "ayta-el-jabal-511681"
+    },
+    {
+        "id_location": 271249,
+        "id_location_parent": 271244,
+        "name": "Aytaroun",
+        "seoname": "aytaroun-511682"
+    },
+    {
+        "id_location": 271250,
+        "id_location_parent": 271244,
+        "name": "Beit Lif",
+        "seoname": "beit-lif-511683"
+    },
+    {
+        "id_location": 271251,
+        "id_location_parent": 271244,
+        "name": "Beit Yahoun",
+        "seoname": "beit-yahoun-511684"
+    },
+    {
+        "id_location": 271252,
+        "id_location_parent": 271244,
+        "name": "Bint Jbeil",
+        "seoname": "bint-jbeil-511685"
+    },
+    {
+        "id_location": 271253,
+        "id_location_parent": 271244,
+        "name": "Borj Kalaway",
+        "seoname": "borj-kalaway-511686"
+    },
+    {
+        "id_location": 271254,
+        "id_location_parent": 271244,
+        "name": "Braachit",
+        "seoname": "braachit-511687"
+    },
+    {
+        "id_location": 271255,
+        "id_location_parent": 271244,
+        "name": "Chakra wa Doubeih",
+        "seoname": "chakra-wa-doubeih-511688"
+    },
+    {
+        "id_location": 271256,
+        "id_location_parent": 271244,
+        "name": "Debel",
+        "seoname": "debel-511689"
+    },
+    {
+        "id_location": 271257,
+        "id_location_parent": 271244,
+        "name": "Deir Antar",
+        "seoname": "deir-antar-511690"
+    },
+    {
+        "id_location": 271258,
+        "id_location_parent": 271244,
+        "name": "Froun",
+        "seoname": "froun-511691"
+    },
+    {
+        "id_location": 271259,
+        "id_location_parent": 271244,
+        "name": "Ghandouriyeh",
+        "seoname": "ghandouriyeh-511692"
+    },
+    {
+        "id_location": 271260,
+        "id_location_parent": 271244,
+        "name": "Hanine",
+        "seoname": "hanine-511693"
+    },
+    {
+        "id_location": 271261,
+        "id_location_parent": 271244,
+        "name": "Hariss",
+        "seoname": "hariss-511694"
+    },
+    {
+        "id_location": 271262,
+        "id_location_parent": 271244,
+        "name": "Hdatha",
+        "seoname": "hdatha-511695"
+    },
+    {
+        "id_location": 271263,
+        "id_location_parent": 271244,
+        "name": "Jmeyjmeh",
+        "seoname": "jmeyjmeh-511696"
+    },
+    {
+        "id_location": 271264,
+        "id_location_parent": 271244,
+        "name": "Kafra",
+        "seoname": "kafra-511697"
+    },
+    {
+        "id_location": 271265,
+        "id_location_parent": 271244,
+        "name": "Kalaway",
+        "seoname": "kalaway-511698"
+    },
+    {
+        "id_location": 271266,
+        "id_location_parent": 271244,
+        "name": "Kawzah",
+        "seoname": "kawzah-511699"
+    },
+    {
+        "id_location": 271267,
+        "id_location_parent": 271244,
+        "name": "Kfardounine",
+        "seoname": "kfardounine-511700"
+    },
+    {
+        "id_location": 271268,
+        "id_location_parent": 271244,
+        "name": "Khirbet Selm",
+        "seoname": "khirbet-selm-511701"
+    },
+    {
+        "id_location": 271269,
+        "id_location_parent": 271244,
+        "name": "Kounine",
+        "seoname": "kounine-511702"
+    },
+    {
+        "id_location": 271270,
+        "id_location_parent": 271244,
+        "name": "Maroun el Ras",
+        "seoname": "maroun-el-ras-511703"
+    },
+    {
+        "id_location": 271271,
+        "id_location_parent": 271244,
+        "name": "Rchaf",
+        "seoname": "rchaf-511704"
+    },
+    {
+        "id_location": 271272,
+        "id_location_parent": 271244,
+        "name": "Rmeich",
+        "seoname": "rmeich-511705"
+    },
+    {
+        "id_location": 271273,
+        "id_location_parent": 271244,
+        "name": "Serbine",
+        "seoname": "serbine-511706"
+    },
+    {
+        "id_location": 271274,
+        "id_location_parent": 271244,
+        "name": "Sultanieh",
+        "seoname": "sultanieh-511707"
+    },
+    {
+        "id_location": 271275,
+        "id_location_parent": 271244,
+        "name": "Tebnine",
+        "seoname": "tebnine-511708"
+    },
+    {
+        "id_location": 271276,
+        "id_location_parent": 271244,
+        "name": "Tiri",
+        "seoname": "tiri-511709"
+    },
+    {
+        "id_location": 271277,
+        "id_location_parent": 271244,
+        "name": "Yater",
+        "seoname": "yater-511710"
+    },
+    {
+        "id_location": 271278,
+        "id_location_parent": 271244,
+        "name": "Ain Kanya",
+        "seoname": "ain-kanya-511711"
+    },
+    {
+        "id_location": 271279,
+        "id_location_parent": 271244,
+        "name": "Shebaa",
+        "seoname": "shebaa-511712"
+    },
+    {
+        "id_location": 271280,
+        "id_location_parent": 271244,
+        "name": "Chwayya",
+        "seoname": "chwayya-511713"
+    },
+    {
+        "id_location": 271281,
+        "id_location_parent": 271244,
+        "name": "Fardiss",
+        "seoname": "fardiss-511714"
+    },
+    {
+        "id_location": 271282,
+        "id_location_parent": 271244,
+        "name": "Hasbaya",
+        "seoname": "hasbaya-511715"
+    },
+    {
+        "id_location": 271283,
+        "id_location_parent": 271244,
+        "name": "Hbariyeh",
+        "seoname": "hbariyeh-511716"
+    },
+    {
+        "id_location": 271284,
+        "id_location_parent": 271244,
+        "name": "Kawkaba",
+        "seoname": "kawkaba-511717"
+    },
+    {
+        "id_location": 271285,
+        "id_location_parent": 271244,
+        "name": "Kfarhamam",
+        "seoname": "kfarhamam-511718"
+    },
+    {
+        "id_location": 271286,
+        "id_location_parent": 271244,
+        "name": "Kfarchouba",
+        "seoname": "kfarchouba-511719"
+    },
+    {
+        "id_location": 271287,
+        "id_location_parent": 271244,
+        "name": "Kfeir",
+        "seoname": "kfeir-511720"
+    },
+    {
+        "id_location": 271288,
+        "id_location_parent": 271244,
+        "name": "Khalwat",
+        "seoname": "khalwat-511721"
+    },
+    {
+        "id_location": 271289,
+        "id_location_parent": 271244,
+        "name": "Marj el Zhour",
+        "seoname": "marj-el-zhour-511722"
+    },
+    {
+        "id_location": 271290,
+        "id_location_parent": 271244,
+        "name": "Mari",
+        "seoname": "mari-511723"
+    },
+    {
+        "id_location": 271291,
+        "id_location_parent": 271244,
+        "name": "Mimass",
+        "seoname": "mimass-511724"
+    },
+    {
+        "id_location": 271292,
+        "id_location_parent": 271244,
+        "name": "Rachaya el Fokhar",
+        "seoname": "rachaya-el-fokhar-511725"
+    },
+    {
+        "id_location": 271293,
+        "id_location_parent": 271244,
+        "name": "Adayseh",
+        "seoname": "adayseh-511726"
+    },
+    {
+        "id_location": 271294,
+        "id_location_parent": 271244,
+        "name": "Adchit",
+        "seoname": "adchit-511727"
+    },
+    {
+        "id_location": 271295,
+        "id_location_parent": 271244,
+        "name": "Bani Hayann",
+        "seoname": "bani-hayann-511728"
+    },
+    {
+        "id_location": 271296,
+        "id_location_parent": 271244,
+        "name": "Blatt",
+        "seoname": "blatt-511729"
+    },
+    {
+        "id_location": 271297,
+        "id_location_parent": 271244,
+        "name": "Blida",
+        "seoname": "blida-511730"
+    },
+    {
+        "id_location": 271298,
+        "id_location_parent": 271244,
+        "name": "Debbine",
+        "seoname": "debbine-511731"
+    },
+    {
+        "id_location": 271299,
+        "id_location_parent": 271244,
+        "name": "Deir Mimass",
+        "seoname": "deir-mimass-511732"
+    },
+    {
+        "id_location": 271300,
+        "id_location_parent": 271244,
+        "name": "Deir Syriane",
+        "seoname": "deir-syriane-511733"
+    },
+    {
+        "id_location": 271301,
+        "id_location_parent": 271244,
+        "name": "Ebel el Saky",
+        "seoname": "ebel-el-saky-511734"
+    },
+    {
+        "id_location": 271302,
+        "id_location_parent": 271244,
+        "name": "Houla",
+        "seoname": "houla-511735"
+    },
+    {
+        "id_location": 271303,
+        "id_location_parent": 271244,
+        "name": "Jdeidet Marjeeyoun",
+        "seoname": "jdeidet-marjeeyoun-511736"
+    },
+    {
+        "id_location": 271304,
+        "id_location_parent": 271244,
+        "name": "Kabrikha",
+        "seoname": "kabrikha-511737"
+    },
+    {
+        "id_location": 271305,
+        "id_location_parent": 271244,
+        "name": "Kantara",
+        "seoname": "kantara-511738"
+    },
+    {
+        "id_location": 271306,
+        "id_location_parent": 271244,
+        "name": "Kfarkila",
+        "seoname": "kfarkila-511739"
+    },
+    {
+        "id_location": 271307,
+        "id_location_parent": 271244,
+        "name": "Khiam",
+        "seoname": "khiam-511740"
+    },
+    {
+        "id_location": 271308,
+        "id_location_parent": 271244,
+        "name": "Klayaa",
+        "seoname": "klayaa-511741"
+    },
+    {
+        "id_location": 271309,
+        "id_location_parent": 271244,
+        "name": "Majdel Selem",
+        "seoname": "majdel-selem-511742"
+    },
+    {
+        "id_location": 271310,
+        "id_location_parent": 271244,
+        "name": "Markaba",
+        "seoname": "markaba-511743"
+    },
+    {
+        "id_location": 271311,
+        "id_location_parent": 271244,
+        "name": "Mays el Jabal",
+        "seoname": "mays-el-jabal-511744"
+    },
+    {
+        "id_location": 271312,
+        "id_location_parent": 271244,
+        "name": "Rab Thalathine",
+        "seoname": "rab-thalathine-511745"
+    },
+    {
+        "id_location": 271313,
+        "id_location_parent": 271244,
+        "name": "Sawaneh",
+        "seoname": "sawaneh-511746"
+    },
+    {
+        "id_location": 271314,
+        "id_location_parent": 271244,
+        "name": "Tallousseh",
+        "seoname": "tallousseh-511747"
+    },
+    {
+        "id_location": 271315,
+        "id_location_parent": 271244,
+        "name": "Taybeh",
+        "seoname": "taybeh-511748"
+    },
+    {
+        "id_location": 271316,
+        "id_location_parent": 271244,
+        "name": "Wazzany",
+        "seoname": "wazzany-511749"
+    },
+    {
+        "id_location": 271317,
+        "id_location_parent": 271244,
+        "name": "Marjeyoun",
+        "seoname": "marjeyoun-511750"
+    },
+    {
+        "id_location": 271318,
+        "id_location_parent": 271244,
+        "name": "Houmin el Tahta",
+        "seoname": "houmin-el-tahta-511751"
+    },
+    {
+        "id_location": 271319,
+        "id_location_parent": 271244,
+        "name": "Ain Qana",
+        "seoname": "ain-qana-511752"
+    },
+    {
+        "id_location": 271320,
+        "id_location_parent": 271244,
+        "name": "Ansar",
+        "seoname": "ansar-511753"
+    },
+    {
+        "id_location": 271321,
+        "id_location_parent": 271244,
+        "name": "Arabsalim",
+        "seoname": "arabsalim-511754"
+    },
+    {
+        "id_location": 271322,
+        "id_location_parent": 271244,
+        "name": "Arnoun",
+        "seoname": "arnoun-511755"
+    },
+    {
+        "id_location": 271323,
+        "id_location_parent": 271244,
+        "name": "Breykaah",
+        "seoname": "breykaah-511756"
+    },
+    {
+        "id_location": 271324,
+        "id_location_parent": 271244,
+        "name": "Charkiyeh",
+        "seoname": "charkiyeh-511757"
+    },
+    {
+        "id_location": 271325,
+        "id_location_parent": 271244,
+        "name": "Choukine",
+        "seoname": "choukine-511758"
+    },
+    {
+        "id_location": 271326,
+        "id_location_parent": 271244,
+        "name": "Deir el Zahrani",
+        "seoname": "deir-el-zahrani-511759"
+    },
+    {
+        "id_location": 271327,
+        "id_location_parent": 271244,
+        "name": "Doueir",
+        "seoname": "doueir-511760"
+    },
+    {
+        "id_location": 271328,
+        "id_location_parent": 271244,
+        "name": "Ebba",
+        "seoname": "ebba-511761"
+    },
+    {
+        "id_location": 271329,
+        "id_location_parent": 271244,
+        "name": "Habbouch",
+        "seoname": "habbouch-511762"
+    },
+    {
+        "id_location": 271330,
+        "id_location_parent": 271244,
+        "name": "Harouf",
+        "seoname": "harouf-511763"
+    },
+    {
+        "id_location": 271331,
+        "id_location_parent": 271244,
+        "name": "Houmin el Fawka",
+        "seoname": "houmin-el-fawka-511764"
+    },
+    {
+        "id_location": 271332,
+        "id_location_parent": 271244,
+        "name": "Jarjouh",
+        "seoname": "jarjouh-511765"
+    },
+    {
+        "id_location": 271333,
+        "id_location_parent": 271244,
+        "name": "Jbaa\u00a0-\u00a0Ain Bouswar",
+        "seoname": "jbaa-ain-bouswar-511766"
+    },
+    {
+        "id_location": 271334,
+        "id_location_parent": 271244,
+        "name": "Jebchit",
+        "seoname": "jebchit-511767"
+    },
+    {
+        "id_location": 271335,
+        "id_location_parent": 271244,
+        "name": "Kaakaiyet el Jisr",
+        "seoname": "kaakaiyet-el-jisr-511768"
+    },
+    {
+        "id_location": 271336,
+        "id_location_parent": 271244,
+        "name": "Kfarfila",
+        "seoname": "kfarfila-511769"
+    },
+    {
+        "id_location": 271337,
+        "id_location_parent": 271244,
+        "name": "Kfarremane",
+        "seoname": "kfarremane-511770"
+    },
+    {
+        "id_location": 271338,
+        "id_location_parent": 271244,
+        "name": "Kfarsir",
+        "seoname": "kfarsir-511771"
+    },
+    {
+        "id_location": 271339,
+        "id_location_parent": 271244,
+        "name": "Kfartebnit",
+        "seoname": "kfartebnit-511772"
+    },
+    {
+        "id_location": 271340,
+        "id_location_parent": 271244,
+        "name": "Kfour",
+        "seoname": "kfour-511773"
+    },
+    {
+        "id_location": 271341,
+        "id_location_parent": 271244,
+        "name": "Kossaybeh",
+        "seoname": "kossaybeh-511774"
+    },
+    {
+        "id_location": 271342,
+        "id_location_parent": 271244,
+        "name": "Mayfadoun",
+        "seoname": "mayfadoun-511775"
+    },
+    {
+        "id_location": 271343,
+        "id_location_parent": 271244,
+        "name": "Nabatieh\u00a0el Fawka",
+        "seoname": "nabatieh-el-fawka-511776"
+    },
+    {
+        "id_location": 271344,
+        "id_location_parent": 271244,
+        "name": "Nabatieh\u00a0el Tahta",
+        "seoname": "nabatieh-el-tahta-511777"
+    },
+    {
+        "id_location": 271345,
+        "id_location_parent": 271244,
+        "name": "Namiriyeh",
+        "seoname": "namiriyeh-511778"
+    },
+    {
+        "id_location": 271346,
+        "id_location_parent": 271244,
+        "name": "Roumine",
+        "seoname": "roumine-511779"
+    },
+    {
+        "id_location": 271347,
+        "id_location_parent": 271244,
+        "name": "Sarba",
+        "seoname": "sarba-511780"
+    },
+    {
+        "id_location": 271348,
+        "id_location_parent": 271244,
+        "name": "Siney",
+        "seoname": "siney-511781"
+    },
+    {
+        "id_location": 271349,
+        "id_location_parent": 271244,
+        "name": "Sir el Gharbiyeh",
+        "seoname": "sir-el-gharbiyeh-511782"
+    },
+    {
+        "id_location": 271350,
+        "id_location_parent": 271244,
+        "name": "Yehmor el Chekif",
+        "seoname": "yehmor-el-chekif-511783"
+    },
+    {
+        "id_location": 271351,
+        "id_location_parent": 271244,
+        "name": "Zawtar el Charkiyeh",
+        "seoname": "zawtar-el-charkiyeh-511784"
+    },
+    {
+        "id_location": 271352,
+        "id_location_parent": 271244,
+        "name": "Zawtar el Gharbiyeh",
+        "seoname": "zawtar-el-gharbiyeh-511785"
+    },
+    {
+        "id_location": 271353,
+        "id_location_parent": 271244,
+        "name": "Zebdine",
+        "seoname": "zebdine-511786"
+    },
+    {
+        "id_location": 271354,
+        "id_location_parent": 271244,
+        "name": "Zefta",
+        "seoname": "zefta-511787"
+    },
+    {
+        "id_location": 271355,
+        "id_location_parent": 1,
+        "name": "Chouf",
+        "seoname": "chouf-782775"
+    },
+    {
+        "id_location": 271356,
+        "id_location_parent": 271355,
+        "name": "Ainbal",
+        "seoname": "ainbal-511788"
+    },
+    {
+        "id_location": 271357,
+        "id_location_parent": 271355,
+        "name": "Ain Kani",
+        "seoname": "ain-kani-511789"
+    },
+    {
+        "id_location": 271358,
+        "id_location_parent": 271355,
+        "name": "Ain Wzein",
+        "seoname": "ain-wzein-511790"
+    },
+    {
+        "id_location": 271359,
+        "id_location_parent": 271355,
+        "name": "Ain Zhalta",
+        "seoname": "ain-zhalta-511791"
+    },
+    {
+        "id_location": 271360,
+        "id_location_parent": 271355,
+        "name": "Amatour",
+        "seoname": "amatour-511792"
+    },
+    {
+        "id_location": 271361,
+        "id_location_parent": 271355,
+        "name": "Ammik",
+        "seoname": "ammik-511793"
+    },
+    {
+        "id_location": 271362,
+        "id_location_parent": 271355,
+        "name": "Anout",
+        "seoname": "anout-511794"
+    },
+    {
+        "id_location": 271363,
+        "id_location_parent": 271355,
+        "name": "Atrine",
+        "seoname": "atrine-511795"
+    },
+    {
+        "id_location": 271364,
+        "id_location_parent": 271355,
+        "name": "Baakline",
+        "seoname": "baakline-511796"
+    },
+    {
+        "id_location": 271365,
+        "id_location_parent": 271355,
+        "name": "Baasir",
+        "seoname": "baasir-511797"
+    },
+    {
+        "id_location": 271366,
+        "id_location_parent": 271355,
+        "name": "Baatharan",
+        "seoname": "baatharan-511798"
+    },
+    {
+        "id_location": 271367,
+        "id_location_parent": 271355,
+        "name": "Barja",
+        "seoname": "barja-511799"
+    },
+    {
+        "id_location": 271368,
+        "id_location_parent": 271355,
+        "name": "Barouk\u00a0- Freydiss",
+        "seoname": "barouk-freydiss-511800"
+    },
+    {
+        "id_location": 271369,
+        "id_location_parent": 271355,
+        "name": "Bater",
+        "seoname": "bater-511801"
+    },
+    {
+        "id_location": 271370,
+        "id_location_parent": 271355,
+        "name": "Batloun",
+        "seoname": "batloun-511802"
+    },
+    {
+        "id_location": 271371,
+        "id_location_parent": 271355,
+        "name": "Bchetfine",
+        "seoname": "bchetfine-511803"
+    },
+    {
+        "id_location": 271372,
+        "id_location_parent": 271355,
+        "name": "Beiteddine",
+        "seoname": "beiteddine-511804"
+    },
+    {
+        "id_location": 271373,
+        "id_location_parent": 271355,
+        "name": "Berjein & Mreyjat",
+        "seoname": "berjein-mreyjat-511805"
+    },
+    {
+        "id_location": 271374,
+        "id_location_parent": 271355,
+        "name": "Bireh",
+        "seoname": "bireh-511806"
+    },
+    {
+        "id_location": 271375,
+        "id_location_parent": 271355,
+        "name": "Botme",
+        "seoname": "botme-511807"
+    },
+    {
+        "id_location": 271376,
+        "id_location_parent": 271355,
+        "name": "Bsaba El Chouf",
+        "seoname": "bsaba-el-chouf-511808"
+    },
+    {
+        "id_location": 271377,
+        "id_location_parent": 271355,
+        "name": "Chehim",
+        "seoname": "chehim-511809"
+    },
+    {
+        "id_location": 271378,
+        "id_location_parent": 271355,
+        "name": "Daher el Mghara",
+        "seoname": "daher-el-mghara-511810"
+    },
+    {
+        "id_location": 271379,
+        "id_location_parent": 271355,
+        "name": "Dalhoun",
+        "seoname": "dalhoun-511811"
+    },
+    {
+        "id_location": 271380,
+        "id_location_parent": 271355,
+        "name": "Damour",
+        "seoname": "damour-511812"
+    },
+    {
+        "id_location": 271381,
+        "id_location_parent": 271355,
+        "name": "Daraya",
+        "seoname": "daraya-511813"
+    },
+    {
+        "id_location": 271382,
+        "id_location_parent": 271355,
+        "name": "Debbieh",
+        "seoname": "debbieh-511814"
+    },
+    {
+        "id_location": 271383,
+        "id_location_parent": 271355,
+        "name": "Deir Dourit",
+        "seoname": "deir-dourit-511815"
+    },
+    {
+        "id_location": 271384,
+        "id_location_parent": 271355,
+        "name": "Deir el Qamar",
+        "seoname": "deir-el-qamar-511816"
+    },
+    {
+        "id_location": 271385,
+        "id_location_parent": 271355,
+        "name": "Deir Kouche",
+        "seoname": "deir-kouche-511817"
+    },
+    {
+        "id_location": 271386,
+        "id_location_parent": 271355,
+        "name": "Dmit",
+        "seoname": "dmit-511818"
+    },
+    {
+        "id_location": 271387,
+        "id_location_parent": 271355,
+        "name": "Fouara",
+        "seoname": "fouara-511819"
+    },
+    {
+        "id_location": 271388,
+        "id_location_parent": 271355,
+        "name": "Gharife",
+        "seoname": "gharife-511820"
+    },
+    {
+        "id_location": 271389,
+        "id_location_parent": 271355,
+        "name": "Haret Jandal",
+        "seoname": "haret-jandal-511821"
+    },
+    {
+        "id_location": 271390,
+        "id_location_parent": 271355,
+        "name": "Hasrout",
+        "seoname": "hasrout-511822"
+    },
+    {
+        "id_location": 271391,
+        "id_location_parent": 271355,
+        "name": "Khraybeh",
+        "seoname": "khraybeh-511823"
+    },
+    {
+        "id_location": 271392,
+        "id_location_parent": 271355,
+        "name": "Jadra",
+        "seoname": "jadra-511824"
+    },
+    {
+        "id_location": 271393,
+        "id_location_parent": 271355,
+        "name": "Jahlieh",
+        "seoname": "jahlieh-511825"
+    },
+    {
+        "id_location": 271394,
+        "id_location_parent": 271355,
+        "name": "Jbeih",
+        "seoname": "jbeih-511826"
+    },
+    {
+        "id_location": 271395,
+        "id_location_parent": 271355,
+        "name": "Jdeidet el Chouf",
+        "seoname": "jdeidet-el-chouf-511827"
+    },
+    {
+        "id_location": 271396,
+        "id_location_parent": 271355,
+        "name": "Jiyeh",
+        "seoname": "jiyeh-511828"
+    },
+    {
+        "id_location": 271397,
+        "id_location_parent": 271355,
+        "name": "Joun",
+        "seoname": "joun-511829"
+    },
+    {
+        "id_location": 271398,
+        "id_location_parent": 271355,
+        "name": "Kahlounie",
+        "seoname": "kahlounie-511830"
+    },
+    {
+        "id_location": 271399,
+        "id_location_parent": 271355,
+        "name": "Ketermaya",
+        "seoname": "ketermaya-511831"
+    },
+    {
+        "id_location": 271400,
+        "id_location_parent": 271355,
+        "name": "Kfarfakoud",
+        "seoname": "kfarfakoud-511832"
+    },
+    {
+        "id_location": 271401,
+        "id_location_parent": 271355,
+        "name": "Kfarhim",
+        "seoname": "kfarhim-511833"
+    },
+    {
+        "id_location": 271402,
+        "id_location_parent": 271355,
+        "name": "Kfarkatra",
+        "seoname": "kfarkatra-511834"
+    },
+    {
+        "id_location": 271403,
+        "id_location_parent": 271355,
+        "name": "Kfarnabrakh",
+        "seoname": "kfarnabrakh-511835"
+    },
+    {
+        "id_location": 271404,
+        "id_location_parent": 271355,
+        "name": "Kfarniss",
+        "seoname": "kfarniss-511836"
+    },
+    {
+        "id_location": 271405,
+        "id_location_parent": 271355,
+        "name": "Knayse",
+        "seoname": "knayse-511837"
+    },
+    {
+        "id_location": 271406,
+        "id_location_parent": 271355,
+        "name": "Maasser Beiteddine",
+        "seoname": "maasser-beiteddine-511838"
+    },
+    {
+        "id_location": 271407,
+        "id_location_parent": 271355,
+        "name": "Maasser el Chouf",
+        "seoname": "maasser-el-chouf-511839"
+    },
+    {
+        "id_location": 271408,
+        "id_location_parent": 271355,
+        "name": "Majdel Meouch",
+        "seoname": "majdel-meouch-511840"
+    },
+    {
+        "id_location": 271409,
+        "id_location_parent": 271355,
+        "name": "Mazboud",
+        "seoname": "mazboud-511841"
+    },
+    {
+        "id_location": 271410,
+        "id_location_parent": 271355,
+        "name": "Mazraat el Chouf",
+        "seoname": "mazraat-el-chouf-511842"
+    },
+    {
+        "id_location": 271411,
+        "id_location_parent": 271355,
+        "name": "Mazraat el Daher",
+        "seoname": "mazraat-el-daher-511843"
+    },
+    {
+        "id_location": 271412,
+        "id_location_parent": 271355,
+        "name": "Mechref",
+        "seoname": "mechref-511844"
+    },
+    {
+        "id_location": 271413,
+        "id_location_parent": 271355,
+        "name": "Mghayrie",
+        "seoname": "mghayrie-511845"
+    },
+    {
+        "id_location": 271414,
+        "id_location_parent": 271355,
+        "name": "Moukhtara",
+        "seoname": "moukhtara-511846"
+    },
+    {
+        "id_location": 271415,
+        "id_location_parent": 271355,
+        "name": "Mristeh",
+        "seoname": "mristeh-511847"
+    },
+    {
+        "id_location": 271416,
+        "id_location_parent": 271355,
+        "name": "Naameh",
+        "seoname": "naameh-511848"
+    },
+    {
+        "id_location": 271417,
+        "id_location_parent": 271355,
+        "name": "Niha",
+        "seoname": "niha-511849"
+    },
+    {
+        "id_location": 271418,
+        "id_location_parent": 271355,
+        "name": "Rmayle",
+        "seoname": "rmayle-511850"
+    },
+    {
+        "id_location": 271419,
+        "id_location_parent": 271355,
+        "name": "Sebline",
+        "seoname": "sebline-511851"
+    },
+    {
+        "id_location": 271420,
+        "id_location_parent": 271355,
+        "name": "Semkanieh",
+        "seoname": "semkanieh-511852"
+    },
+    {
+        "id_location": 271421,
+        "id_location_parent": 271355,
+        "name": "Serjbeil",
+        "seoname": "serjbeil-511853"
+    },
+    {
+        "id_location": 271422,
+        "id_location_parent": 271355,
+        "name": "Wadi Sit",
+        "seoname": "wadi-sit-511854"
+    },
+    {
+        "id_location": 271423,
+        "id_location_parent": 271355,
+        "name": "Warhanieh",
+        "seoname": "warhanieh-511855"
+    },
+    {
+        "id_location": 271424,
+        "id_location_parent": 271355,
+        "name": "Werdanieh",
+        "seoname": "werdanieh-511856"
+    },
+    {
+        "id_location": 271425,
+        "id_location_parent": 271355,
+        "name": "Zaarouriye",
+        "seoname": "zaarouriye-511857"
+    },
+    {
+        "id_location": 271426,
+        "id_location_parent": 1,
+        "name": "Mount Liban",
+        "seoname": "mount-liban-782776"
+    },
+    {
+        "id_location": 271427,
+        "id_location_parent": 271426,
+        "name": "Baabda",
+        "seoname": "baabda-511858"
+    },
+    {
+        "id_location": 271428,
+        "id_location_parent": 271426,
+        "name": "Borj el Brajneh",
+        "seoname": "borj-el-brajneh-511859"
+    },
+    {
+        "id_location": 271429,
+        "id_location_parent": 271426,
+        "name": "Hazmieh",
+        "seoname": "hazmieh-511860"
+    },
+    {
+        "id_location": 271430,
+        "id_location_parent": 271426,
+        "name": "Hadath",
+        "seoname": "hadath-511861"
+    },
+    {
+        "id_location": 271431,
+        "id_location_parent": 271426,
+        "name": "Hammana",
+        "seoname": "hammana-511862"
+    },
+    {
+        "id_location": 271432,
+        "id_location_parent": 271426,
+        "name": "Ras el Matn",
+        "seoname": "ras-el-matn-511863"
+    },
+    {
+        "id_location": 271433,
+        "id_location_parent": 271426,
+        "name": "Chiyah",
+        "seoname": "chiyah-511864"
+    },
+    {
+        "id_location": 271434,
+        "id_location_parent": 271426,
+        "name": "Ghbeireh",
+        "seoname": "ghbeireh-511865"
+    },
+    {
+        "id_location": 271435,
+        "id_location_parent": 271426,
+        "name": "Falougha",
+        "seoname": "falougha-511866"
+    },
+    {
+        "id_location": 271436,
+        "id_location_parent": 271426,
+        "name": "Furn el Chebbak",
+        "seoname": "furn-el-chebbak-511867"
+    },
+    {
+        "id_location": 271437,
+        "id_location_parent": 271426,
+        "name": "Kornayel",
+        "seoname": "kornayel-511868"
+    },
+    {
+        "id_location": 271438,
+        "id_location_parent": 271426,
+        "name": "Kfarchima",
+        "seoname": "kfarchima-511869"
+    },
+    {
+        "id_location": 271439,
+        "id_location_parent": 271426,
+        "name": "Wadi Chahrour",
+        "seoname": "wadi-chahrour-511870"
+    },
+    {
+        "id_location": 271440,
+        "id_location_parent": 271426,
+        "name": "Abadiyeh",
+        "seoname": "abadiyeh-511871"
+    },
+    {
+        "id_location": 271441,
+        "id_location_parent": 271426,
+        "name": "Salima",
+        "seoname": "salima-511872"
+    },
+    {
+        "id_location": 271442,
+        "id_location_parent": 271426,
+        "name": "Jdeideh",
+        "seoname": "jdeideh-511873"
+    },
+    {
+        "id_location": 271443,
+        "id_location_parent": 271426,
+        "name": "Bourj Hammoud",
+        "seoname": "bourj-hammoud-511874"
+    },
+    {
+        "id_location": 271444,
+        "id_location_parent": 271426,
+        "name": "Bauchrieh",
+        "seoname": "bauchrieh-511875"
+    },
+    {
+        "id_location": 271445,
+        "id_location_parent": 271426,
+        "name": "Antelias",
+        "seoname": "antelias-511876"
+    },
+    {
+        "id_location": 271446,
+        "id_location_parent": 271426,
+        "name": "Brummana",
+        "seoname": "brummana-511877"
+    },
+    {
+        "id_location": 271447,
+        "id_location_parent": 271426,
+        "name": "Baabdat",
+        "seoname": "baabdat-511878"
+    },
+    {
+        "id_location": 271448,
+        "id_location_parent": 271426,
+        "name": "Bikfaya",
+        "seoname": "bikfaya-511879"
+    },
+    {
+        "id_location": 271449,
+        "id_location_parent": 271426,
+        "name": "Beit Chabab",
+        "seoname": "beit-chabab-511880"
+    },
+    {
+        "id_location": 271450,
+        "id_location_parent": 271426,
+        "name": "Beit Mery",
+        "seoname": "beit-mery-511881"
+    },
+    {
+        "id_location": 271451,
+        "id_location_parent": 271426,
+        "name": "Chewyeh",
+        "seoname": "chewyeh-511882"
+    },
+    {
+        "id_location": 271452,
+        "id_location_parent": 271426,
+        "name": "Jal el Dib",
+        "seoname": "jal-el-dib-511883"
+    },
+    {
+        "id_location": 271453,
+        "id_location_parent": 271426,
+        "name": "Dekwaneh",
+        "seoname": "dekwaneh-511884"
+    },
+    {
+        "id_location": 271454,
+        "id_location_parent": 271426,
+        "name": "Zalka",
+        "seoname": "zalka-511885"
+    },
+    {
+        "id_location": 271455,
+        "id_location_parent": 271426,
+        "name": "Sin el Fil",
+        "seoname": "sin-el-fil-511886"
+    },
+    {
+        "id_location": 271456,
+        "id_location_parent": 271426,
+        "name": "Dbayeh",
+        "seoname": "dbayeh-511887"
+    },
+    {
+        "id_location": 271457,
+        "id_location_parent": 271426,
+        "name": "Kornet Chehwan",
+        "seoname": "kornet-chehwan-511888"
+    },
+    {
+        "id_location": 271458,
+        "id_location_parent": 271426,
+        "name": "Aintoura",
+        "seoname": "aintoura-511889"
+    },
+    {
+        "id_location": 271459,
+        "id_location_parent": 271426,
+        "name": "Choueir",
+        "seoname": "choueir-511890"
+    },
+    {
+        "id_location": 271460,
+        "id_location_parent": 271426,
+        "name": "Khenchara",
+        "seoname": "khenchara-511891"
+    },
+    {
+        "id_location": 271461,
+        "id_location_parent": 271426,
+        "name": "Bteghrine",
+        "seoname": "bteghrine-511892"
+    },
+    {
+        "id_location": 271462,
+        "id_location_parent": 271426,
+        "name": "Baskinta",
+        "seoname": "baskinta-511893"
+    }
+]

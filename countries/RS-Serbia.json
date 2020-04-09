@@ -1,0 +1,1322 @@
+[
+    {
+        "id_location": 387001,
+        "id_location_parent": 1,
+        "name": "Beograd grad",
+        "seoname": "beograd-grad-782869"
+    },
+    {
+        "id_location": 387002,
+        "id_location_parent": 387001,
+        "name": "Barajevo",
+        "seoname": "barajevo-514540"
+    },
+    {
+        "id_location": 387003,
+        "id_location_parent": 387001,
+        "name": "Beograd centar",
+        "seoname": "beograd-centar-514541"
+    },
+    {
+        "id_location": 387004,
+        "id_location_parent": 387001,
+        "name": "\u010cukarica",
+        "seoname": "cukarica-514542"
+    },
+    {
+        "id_location": 387005,
+        "id_location_parent": 387001,
+        "name": "Grocka",
+        "seoname": "grocka-514543"
+    },
+    {
+        "id_location": 387006,
+        "id_location_parent": 387001,
+        "name": "Lazarevac",
+        "seoname": "lazarevac-514544"
+    },
+    {
+        "id_location": 387007,
+        "id_location_parent": 387001,
+        "name": "Mladenovac",
+        "seoname": "mladenovac-514545"
+    },
+    {
+        "id_location": 387008,
+        "id_location_parent": 387001,
+        "name": "Novi Beograd",
+        "seoname": "novi-beograd-514546"
+    },
+    {
+        "id_location": 387009,
+        "id_location_parent": 387001,
+        "name": "Obrenovac",
+        "seoname": "obrenovac-514547"
+    },
+    {
+        "id_location": 387010,
+        "id_location_parent": 387001,
+        "name": "Palilula",
+        "seoname": "palilula-514548"
+    },
+    {
+        "id_location": 387011,
+        "id_location_parent": 387001,
+        "name": "Rakovica",
+        "seoname": "rakovica-514549"
+    },
+    {
+        "id_location": 387012,
+        "id_location_parent": 387001,
+        "name": "Savski Venac",
+        "seoname": "savski-venac-514550"
+    },
+    {
+        "id_location": 387013,
+        "id_location_parent": 387001,
+        "name": "Sopot",
+        "seoname": "sopot-514551"
+    },
+    {
+        "id_location": 387014,
+        "id_location_parent": 387001,
+        "name": "Stari Grad",
+        "seoname": "stari-grad-514552"
+    },
+    {
+        "id_location": 387015,
+        "id_location_parent": 387001,
+        "name": "Sur\u010din",
+        "seoname": "surcin-514553"
+    },
+    {
+        "id_location": 387016,
+        "id_location_parent": 387001,
+        "name": "Vo\u017edovac",
+        "seoname": "vozdovac-514554"
+    },
+    {
+        "id_location": 387017,
+        "id_location_parent": 387001,
+        "name": "Vra\u010dar",
+        "seoname": "vracar-514555"
+    },
+    {
+        "id_location": 387018,
+        "id_location_parent": 387001,
+        "name": "Zemun",
+        "seoname": "zemun-514556"
+    },
+    {
+        "id_location": 387019,
+        "id_location_parent": 387001,
+        "name": "Zvezdara",
+        "seoname": "zvezdara-514557"
+    },
+    {
+        "id_location": 387020,
+        "id_location_parent": 1,
+        "name": "Borski okrug",
+        "seoname": "borski-okrug-782870"
+    },
+    {
+        "id_location": 387021,
+        "id_location_parent": 387020,
+        "name": "Bor",
+        "seoname": "bor-514558"
+    },
+    {
+        "id_location": 387022,
+        "id_location_parent": 387020,
+        "name": "Kladovo",
+        "seoname": "kladovo-514559"
+    },
+    {
+        "id_location": 387023,
+        "id_location_parent": 387020,
+        "name": "Majdanpek",
+        "seoname": "majdanpek-514560"
+    },
+    {
+        "id_location": 387024,
+        "id_location_parent": 387020,
+        "name": "Negotin",
+        "seoname": "negotin-514561"
+    },
+    {
+        "id_location": 387025,
+        "id_location_parent": 1,
+        "name": "Brani\u010devski okrug",
+        "seoname": "branicevski-okrug-782871"
+    },
+    {
+        "id_location": 387026,
+        "id_location_parent": 387025,
+        "name": "Golubac",
+        "seoname": "golubac-514562"
+    },
+    {
+        "id_location": 387027,
+        "id_location_parent": 387025,
+        "name": "Kostolac",
+        "seoname": "kostolac-514563"
+    },
+    {
+        "id_location": 387028,
+        "id_location_parent": 387025,
+        "name": "Ku\u010devo",
+        "seoname": "kucevo-514564"
+    },
+    {
+        "id_location": 387029,
+        "id_location_parent": 387025,
+        "name": "Malo Crni\u0107e",
+        "seoname": "malo-crnice-514565"
+    },
+    {
+        "id_location": 387030,
+        "id_location_parent": 387025,
+        "name": "Petrovac na Mlavi",
+        "seoname": "petrovac-na-mlavi-514566"
+    },
+    {
+        "id_location": 387031,
+        "id_location_parent": 387025,
+        "name": "Po\u017earevac",
+        "seoname": "pozarevac-514567"
+    },
+    {
+        "id_location": 387032,
+        "id_location_parent": 387025,
+        "name": "Veliko Gradi\u0161te",
+        "seoname": "veliko-gradiste-514568"
+    },
+    {
+        "id_location": 387033,
+        "id_location_parent": 387025,
+        "name": "\u017dabari",
+        "seoname": "zabari-514569"
+    },
+    {
+        "id_location": 387034,
+        "id_location_parent": 387025,
+        "name": "\u017dagubica",
+        "seoname": "zagubica-514570"
+    },
+    {
+        "id_location": 387035,
+        "id_location_parent": 1,
+        "name": "Jab\u010dlani\u010dki okrug",
+        "seoname": "jabclanicki-okrug-782872"
+    },
+    {
+        "id_location": 387036,
+        "id_location_parent": 387035,
+        "name": "Bojnik",
+        "seoname": "bojnik-514571"
+    },
+    {
+        "id_location": 387037,
+        "id_location_parent": 387035,
+        "name": "Crna Trava",
+        "seoname": "crna-trava-514572"
+    },
+    {
+        "id_location": 387038,
+        "id_location_parent": 387035,
+        "name": "Lebane",
+        "seoname": "lebane-514573"
+    },
+    {
+        "id_location": 387039,
+        "id_location_parent": 387035,
+        "name": "Leskovac",
+        "seoname": "leskovac-514574"
+    },
+    {
+        "id_location": 387040,
+        "id_location_parent": 387035,
+        "name": "Medve\u0111a",
+        "seoname": "medveda-514575"
+    },
+    {
+        "id_location": 387041,
+        "id_location_parent": 387035,
+        "name": "Vlasotince",
+        "seoname": "vlasotince-514576"
+    },
+    {
+        "id_location": 387042,
+        "id_location_parent": 1,
+        "name": "Ju\u017enoba\u010dki okrug",
+        "seoname": "juznobacki-okrug-782873"
+    },
+    {
+        "id_location": 387043,
+        "id_location_parent": 387042,
+        "name": "Ba\u010d",
+        "seoname": "bac-514577"
+    },
+    {
+        "id_location": 387044,
+        "id_location_parent": 387042,
+        "name": "Ba\u010dka Palanka",
+        "seoname": "backa-palanka-514578"
+    },
+    {
+        "id_location": 387045,
+        "id_location_parent": 387042,
+        "name": "Ba\u010dki Petrovac",
+        "seoname": "backi-petrovac-514579"
+    },
+    {
+        "id_location": 387046,
+        "id_location_parent": 387042,
+        "name": "Be\u010dej",
+        "seoname": "becej-514580"
+    },
+    {
+        "id_location": 387047,
+        "id_location_parent": 387042,
+        "name": "Beo\u010din",
+        "seoname": "beocin-514581"
+    },
+    {
+        "id_location": 387048,
+        "id_location_parent": 387042,
+        "name": "Novi Sad",
+        "seoname": "novi-sad-514582"
+    },
+    {
+        "id_location": 387049,
+        "id_location_parent": 387042,
+        "name": "Petrovaradin",
+        "seoname": "petrovaradin-514583"
+    },
+    {
+        "id_location": 387050,
+        "id_location_parent": 387042,
+        "name": "Srbobran",
+        "seoname": "srbobran-514584"
+    },
+    {
+        "id_location": 387051,
+        "id_location_parent": 387042,
+        "name": "Sremski Karlovci",
+        "seoname": "sremski-karlovci-514585"
+    },
+    {
+        "id_location": 387052,
+        "id_location_parent": 387042,
+        "name": "Temerin",
+        "seoname": "temerin-514586"
+    },
+    {
+        "id_location": 387053,
+        "id_location_parent": 387042,
+        "name": "Titel",
+        "seoname": "titel-514587"
+    },
+    {
+        "id_location": 387054,
+        "id_location_parent": 387042,
+        "name": "Vrbas",
+        "seoname": "vrbas-514588"
+    },
+    {
+        "id_location": 387055,
+        "id_location_parent": 387042,
+        "name": "\u017dabalj",
+        "seoname": "zabalj-514589"
+    },
+    {
+        "id_location": 387056,
+        "id_location_parent": 1,
+        "name": "Ju\u017enobanatski okrug",
+        "seoname": "juznobanatski-okrug-782874"
+    },
+    {
+        "id_location": 387057,
+        "id_location_parent": 387056,
+        "name": "Alibunar",
+        "seoname": "alibunar-514590"
+    },
+    {
+        "id_location": 387058,
+        "id_location_parent": 387056,
+        "name": "Bela Crkva",
+        "seoname": "bela-crkva-514591"
+    },
+    {
+        "id_location": 387059,
+        "id_location_parent": 387056,
+        "name": "Kova\u010dica",
+        "seoname": "kovacica-514592"
+    },
+    {
+        "id_location": 387060,
+        "id_location_parent": 387056,
+        "name": "Kovin",
+        "seoname": "kovin-514593"
+    },
+    {
+        "id_location": 387061,
+        "id_location_parent": 387056,
+        "name": "Opovo",
+        "seoname": "opovo-514594"
+    },
+    {
+        "id_location": 387062,
+        "id_location_parent": 387056,
+        "name": "Pan\u010devo",
+        "seoname": "pancevo-514595"
+    },
+    {
+        "id_location": 387063,
+        "id_location_parent": 387056,
+        "name": "Plandi\u0161te",
+        "seoname": "plandiste-514596"
+    },
+    {
+        "id_location": 387064,
+        "id_location_parent": 387056,
+        "name": "Vr\u0161ac",
+        "seoname": "vrsac-514597"
+    },
+    {
+        "id_location": 387065,
+        "id_location_parent": 1,
+        "name": "Kolubarski okrug",
+        "seoname": "kolubarski-okrug-782875"
+    },
+    {
+        "id_location": 387066,
+        "id_location_parent": 387065,
+        "name": "Lajkovac",
+        "seoname": "lajkovac-514598"
+    },
+    {
+        "id_location": 387067,
+        "id_location_parent": 387065,
+        "name": "Ljig",
+        "seoname": "ljig-514599"
+    },
+    {
+        "id_location": 387068,
+        "id_location_parent": 387065,
+        "name": "Mionica",
+        "seoname": "mionica-514600"
+    },
+    {
+        "id_location": 387069,
+        "id_location_parent": 387065,
+        "name": "Ose\u010dina",
+        "seoname": "osecina-514601"
+    },
+    {
+        "id_location": 387070,
+        "id_location_parent": 387065,
+        "name": "Ub",
+        "seoname": "ub-514602"
+    },
+    {
+        "id_location": 387071,
+        "id_location_parent": 387065,
+        "name": "Valjevo",
+        "seoname": "valjevo-514603"
+    },
+    {
+        "id_location": 387072,
+        "id_location_parent": 1,
+        "name": "Kosovo i Metohija",
+        "seoname": "kosovo-i-metohija-782876"
+    },
+    {
+        "id_location": 387073,
+        "id_location_parent": 387072,
+        "name": "De\u010dani",
+        "seoname": "decani-514604"
+    },
+    {
+        "id_location": 387074,
+        "id_location_parent": 387072,
+        "name": "Glogovac",
+        "seoname": "glogovac-514605"
+    },
+    {
+        "id_location": 387075,
+        "id_location_parent": 387072,
+        "name": "Gnjilane",
+        "seoname": "gnjilane-514606"
+    },
+    {
+        "id_location": 387076,
+        "id_location_parent": 387072,
+        "name": "Gora",
+        "seoname": "gora-514607"
+    },
+    {
+        "id_location": 387077,
+        "id_location_parent": 387072,
+        "name": "Istok",
+        "seoname": "istok-514608"
+    },
+    {
+        "id_location": 387078,
+        "id_location_parent": 387072,
+        "name": "Ka\u010danik",
+        "seoname": "kacanik-514609"
+    },
+    {
+        "id_location": 387079,
+        "id_location_parent": 387072,
+        "name": "Klina",
+        "seoname": "klina-514610"
+    },
+    {
+        "id_location": 387080,
+        "id_location_parent": 387072,
+        "name": "Kosovo Polje",
+        "seoname": "kosovo-polje-514611"
+    },
+    {
+        "id_location": 387081,
+        "id_location_parent": 387072,
+        "name": "Kosovska Kamenica",
+        "seoname": "kosovska-kamenica-514612"
+    },
+    {
+        "id_location": 387082,
+        "id_location_parent": 387072,
+        "name": "Kosovska Mitrovica",
+        "seoname": "kosovska-mitrovica-514613"
+    },
+    {
+        "id_location": 387083,
+        "id_location_parent": 387072,
+        "name": "Leposavi\u0107",
+        "seoname": "leposavic-514614"
+    },
+    {
+        "id_location": 387084,
+        "id_location_parent": 387072,
+        "name": "Lipljan",
+        "seoname": "lipljan-514615"
+    },
+    {
+        "id_location": 387085,
+        "id_location_parent": 387072,
+        "name": "Novo Brdo",
+        "seoname": "novo-brdo-514616"
+    },
+    {
+        "id_location": 387086,
+        "id_location_parent": 387072,
+        "name": "Obili\u0107",
+        "seoname": "obilic-514617"
+    },
+    {
+        "id_location": 387087,
+        "id_location_parent": 387072,
+        "name": "Orahovac",
+        "seoname": "orahovac-514618"
+    },
+    {
+        "id_location": 387088,
+        "id_location_parent": 387072,
+        "name": "Pe\u0107",
+        "seoname": "pec-514619"
+    },
+    {
+        "id_location": 387089,
+        "id_location_parent": 387072,
+        "name": "Podujevo",
+        "seoname": "podujevo-514620"
+    },
+    {
+        "id_location": 387090,
+        "id_location_parent": 387072,
+        "name": "Pri\u0161tina",
+        "seoname": "pristina-514621"
+    },
+    {
+        "id_location": 387091,
+        "id_location_parent": 387072,
+        "name": "Prizren",
+        "seoname": "prizren-514622"
+    },
+    {
+        "id_location": 387092,
+        "id_location_parent": 387072,
+        "name": "Srbica",
+        "seoname": "srbica-514623"
+    },
+    {
+        "id_location": 387093,
+        "id_location_parent": 387072,
+        "name": "\u0160timlje",
+        "seoname": "stimlje-514624"
+    },
+    {
+        "id_location": 387094,
+        "id_location_parent": 387072,
+        "name": "Strpce",
+        "seoname": "strpce-514625"
+    },
+    {
+        "id_location": 387095,
+        "id_location_parent": 387072,
+        "name": "Suva Reka",
+        "seoname": "suva-reka-514626"
+    },
+    {
+        "id_location": 387096,
+        "id_location_parent": 387072,
+        "name": "Uro\u0161evac",
+        "seoname": "urosevac-514627"
+    },
+    {
+        "id_location": 387097,
+        "id_location_parent": 387072,
+        "name": "Vitina",
+        "seoname": "vitina-514628"
+    },
+    {
+        "id_location": 387098,
+        "id_location_parent": 387072,
+        "name": "Vu\u010ditrn",
+        "seoname": "vucitrn-514629"
+    },
+    {
+        "id_location": 387099,
+        "id_location_parent": 387072,
+        "name": "Zubin Potok",
+        "seoname": "zubin-potok-514630"
+    },
+    {
+        "id_location": 387100,
+        "id_location_parent": 387072,
+        "name": "Zve\u010dan",
+        "seoname": "zvecan-514631"
+    },
+    {
+        "id_location": 387101,
+        "id_location_parent": 387072,
+        "name": "\u0110akovica",
+        "seoname": "dakovica-514632"
+    },
+    {
+        "id_location": 387102,
+        "id_location_parent": 1,
+        "name": "Ma\u010dvanski okrug",
+        "seoname": "macvanski-okrug-782877"
+    },
+    {
+        "id_location": 387103,
+        "id_location_parent": 387102,
+        "name": "Bogati\u0107",
+        "seoname": "bogatic-514633"
+    },
+    {
+        "id_location": 387104,
+        "id_location_parent": 387102,
+        "name": "Koceljeva",
+        "seoname": "koceljeva-514634"
+    },
+    {
+        "id_location": 387105,
+        "id_location_parent": 387102,
+        "name": "Krupanj",
+        "seoname": "krupanj-514635"
+    },
+    {
+        "id_location": 387106,
+        "id_location_parent": 387102,
+        "name": "Ljubovija",
+        "seoname": "ljubovija-514636"
+    },
+    {
+        "id_location": 387107,
+        "id_location_parent": 387102,
+        "name": "Loznica",
+        "seoname": "loznica-514637"
+    },
+    {
+        "id_location": 387108,
+        "id_location_parent": 387102,
+        "name": "Mali Zvornik",
+        "seoname": "mali-zvornik-514638"
+    },
+    {
+        "id_location": 387109,
+        "id_location_parent": 387102,
+        "name": "\u0160abac",
+        "seoname": "sabac-514639"
+    },
+    {
+        "id_location": 387110,
+        "id_location_parent": 387102,
+        "name": "Vladimirci",
+        "seoname": "vladimirci-514640"
+    },
+    {
+        "id_location": 387111,
+        "id_location_parent": 1,
+        "name": "Moravi\u010dki okrug",
+        "seoname": "moravicki-okrug-782878"
+    },
+    {
+        "id_location": 387112,
+        "id_location_parent": 387111,
+        "name": "\u010ca\u010dak",
+        "seoname": "cacak-514641"
+    },
+    {
+        "id_location": 387113,
+        "id_location_parent": 387111,
+        "name": "Gornji Milanovac",
+        "seoname": "gornji-milanovac-514642"
+    },
+    {
+        "id_location": 387114,
+        "id_location_parent": 387111,
+        "name": "Ivanjica",
+        "seoname": "ivanjica-514643"
+    },
+    {
+        "id_location": 387115,
+        "id_location_parent": 387111,
+        "name": "Lu\u010dani",
+        "seoname": "lucani-514644"
+    },
+    {
+        "id_location": 387116,
+        "id_location_parent": 1,
+        "name": "Ni\u0161avski okrug",
+        "seoname": "nisavski-okrug-782879"
+    },
+    {
+        "id_location": 387117,
+        "id_location_parent": 387116,
+        "name": "Aleksinac",
+        "seoname": "aleksinac-514645"
+    },
+    {
+        "id_location": 387118,
+        "id_location_parent": 387116,
+        "name": "Doljevac",
+        "seoname": "doljevac-514646"
+    },
+    {
+        "id_location": 387119,
+        "id_location_parent": 387116,
+        "name": "Gad\u017ein Han",
+        "seoname": "gadzin-han-514647"
+    },
+    {
+        "id_location": 387120,
+        "id_location_parent": 387116,
+        "name": "Mero\u0161ina",
+        "seoname": "merosina-514648"
+    },
+    {
+        "id_location": 387121,
+        "id_location_parent": 387116,
+        "name": "Ni\u0161",
+        "seoname": "nis-514649"
+    },
+    {
+        "id_location": 387122,
+        "id_location_parent": 387116,
+        "name": "Ni\u0161ka Banja",
+        "seoname": "niska-banja-514650"
+    },
+    {
+        "id_location": 387123,
+        "id_location_parent": 387116,
+        "name": "Ra\u017eanj",
+        "seoname": "razanj-514651"
+    },
+    {
+        "id_location": 387124,
+        "id_location_parent": 387116,
+        "name": "Svrljig",
+        "seoname": "svrljig-514652"
+    },
+    {
+        "id_location": 387125,
+        "id_location_parent": 1,
+        "name": "P\u010dinjski okrug",
+        "seoname": "pcinjski-okrug-782880"
+    },
+    {
+        "id_location": 387126,
+        "id_location_parent": 387125,
+        "name": "Bosilegrad",
+        "seoname": "bosilegrad-514653"
+    },
+    {
+        "id_location": 387127,
+        "id_location_parent": 387125,
+        "name": "Bujanovac",
+        "seoname": "bujanovac-514654"
+    },
+    {
+        "id_location": 387128,
+        "id_location_parent": 387125,
+        "name": "Pre\u0161evo",
+        "seoname": "presevo-514655"
+    },
+    {
+        "id_location": 387129,
+        "id_location_parent": 387125,
+        "name": "Trgovi\u0161te",
+        "seoname": "trgoviste-514656"
+    },
+    {
+        "id_location": 387130,
+        "id_location_parent": 387125,
+        "name": "Vladi\u010din Han",
+        "seoname": "vladicin-han-514657"
+    },
+    {
+        "id_location": 387131,
+        "id_location_parent": 387125,
+        "name": "Vranje",
+        "seoname": "vranje-514658"
+    },
+    {
+        "id_location": 387132,
+        "id_location_parent": 387125,
+        "name": "Vranjska Banja",
+        "seoname": "vranjska-banja-514659"
+    },
+    {
+        "id_location": 387133,
+        "id_location_parent": 1,
+        "name": "Pirotski okrug",
+        "seoname": "pirotski-okrug-782881"
+    },
+    {
+        "id_location": 387134,
+        "id_location_parent": 387133,
+        "name": "Babu\u0161nica",
+        "seoname": "babusnica-514660"
+    },
+    {
+        "id_location": 387135,
+        "id_location_parent": 387133,
+        "name": "Bela Palanka",
+        "seoname": "bela-palanka-514661"
+    },
+    {
+        "id_location": 387136,
+        "id_location_parent": 387133,
+        "name": "Dimitrovgrad",
+        "seoname": "dimitrovgrad-514662"
+    },
+    {
+        "id_location": 387137,
+        "id_location_parent": 387133,
+        "name": "Pirot",
+        "seoname": "pirot-514663"
+    },
+    {
+        "id_location": 387138,
+        "id_location_parent": 1,
+        "name": "Podunavski okrug",
+        "seoname": "podunavski-okrug-782882"
+    },
+    {
+        "id_location": 387139,
+        "id_location_parent": 387138,
+        "name": "Smederevo",
+        "seoname": "smederevo-514664"
+    },
+    {
+        "id_location": 387140,
+        "id_location_parent": 387138,
+        "name": "Smederevska Palanka",
+        "seoname": "smederevska-palanka-514665"
+    },
+    {
+        "id_location": 387141,
+        "id_location_parent": 387138,
+        "name": "Velika Plana",
+        "seoname": "velika-plana-514666"
+    },
+    {
+        "id_location": 387142,
+        "id_location_parent": 1,
+        "name": "Pomoravski okrug",
+        "seoname": "pomoravski-okrug-782883"
+    },
+    {
+        "id_location": 387143,
+        "id_location_parent": 387142,
+        "name": "\u0106uprija",
+        "seoname": "cuprija-514667"
+    },
+    {
+        "id_location": 387144,
+        "id_location_parent": 387142,
+        "name": "Despotovac",
+        "seoname": "despotovac-514668"
+    },
+    {
+        "id_location": 387145,
+        "id_location_parent": 387142,
+        "name": "Jagodina",
+        "seoname": "jagodina-514669"
+    },
+    {
+        "id_location": 387146,
+        "id_location_parent": 387142,
+        "name": "Para\u0107in",
+        "seoname": "paracin-514670"
+    },
+    {
+        "id_location": 387147,
+        "id_location_parent": 387142,
+        "name": "Rekovac",
+        "seoname": "rekovac-514671"
+    },
+    {
+        "id_location": 387148,
+        "id_location_parent": 387142,
+        "name": "Svilajnac",
+        "seoname": "svilajnac-514672"
+    },
+    {
+        "id_location": 387149,
+        "id_location_parent": 1,
+        "name": "Rasinski okrug",
+        "seoname": "rasinski-okrug-782884"
+    },
+    {
+        "id_location": 387150,
+        "id_location_parent": 387149,
+        "name": "Aleksandrovac",
+        "seoname": "aleksandrovac-514673"
+    },
+    {
+        "id_location": 387151,
+        "id_location_parent": 387149,
+        "name": "Brus",
+        "seoname": "brus-514674"
+    },
+    {
+        "id_location": 387152,
+        "id_location_parent": 387149,
+        "name": "\u0106i\u0107evac",
+        "seoname": "cicevac-514675"
+    },
+    {
+        "id_location": 387153,
+        "id_location_parent": 387149,
+        "name": "Kru\u0161evac",
+        "seoname": "krusevac-514676"
+    },
+    {
+        "id_location": 387154,
+        "id_location_parent": 387149,
+        "name": "Trstenik",
+        "seoname": "trstenik-514677"
+    },
+    {
+        "id_location": 387155,
+        "id_location_parent": 387149,
+        "name": "Varvarin",
+        "seoname": "varvarin-514678"
+    },
+    {
+        "id_location": 387156,
+        "id_location_parent": 1,
+        "name": "Ra\u0161ki okrug",
+        "seoname": "raski-okrug-782885"
+    },
+    {
+        "id_location": 387157,
+        "id_location_parent": 387156,
+        "name": "Kraljevo",
+        "seoname": "kraljevo-514679"
+    },
+    {
+        "id_location": 387158,
+        "id_location_parent": 387156,
+        "name": "Novi Pazar",
+        "seoname": "novi-pazar-514680"
+    },
+    {
+        "id_location": 387159,
+        "id_location_parent": 387156,
+        "name": "Ra\u0161ka",
+        "seoname": "raska-514681"
+    },
+    {
+        "id_location": 387160,
+        "id_location_parent": 387156,
+        "name": "Tutin",
+        "seoname": "tutin-514682"
+    },
+    {
+        "id_location": 387161,
+        "id_location_parent": 387156,
+        "name": "Vrnja\u010dka Banja",
+        "seoname": "vrnjacka-banja-514683"
+    },
+    {
+        "id_location": 387162,
+        "id_location_parent": 1,
+        "name": "Severnoba\u010dki okrug",
+        "seoname": "severnobacki-okrug-782886"
+    },
+    {
+        "id_location": 387163,
+        "id_location_parent": 387162,
+        "name": "Ba\u010dka Topola",
+        "seoname": "backa-topola-514684"
+    },
+    {
+        "id_location": 387164,
+        "id_location_parent": 387162,
+        "name": "Mali I\u0111o\u0161",
+        "seoname": "mali-idos-514685"
+    },
+    {
+        "id_location": 387165,
+        "id_location_parent": 387162,
+        "name": "Subotica",
+        "seoname": "subotica-514686"
+    },
+    {
+        "id_location": 387166,
+        "id_location_parent": 1,
+        "name": "Severnobanatski okrug",
+        "seoname": "severnobanatski-okrug-782887"
+    },
+    {
+        "id_location": 387167,
+        "id_location_parent": 387166,
+        "name": "Ada",
+        "seoname": "ada-514687"
+    },
+    {
+        "id_location": 387168,
+        "id_location_parent": 387166,
+        "name": "\u010coka",
+        "seoname": "coka-514688"
+    },
+    {
+        "id_location": 387169,
+        "id_location_parent": 387166,
+        "name": "Kanji\u017ea",
+        "seoname": "kanjiza-514689"
+    },
+    {
+        "id_location": 387170,
+        "id_location_parent": 387166,
+        "name": "Kikinda",
+        "seoname": "kikinda-514690"
+    },
+    {
+        "id_location": 387171,
+        "id_location_parent": 387166,
+        "name": "Novi Kne\u017eevac",
+        "seoname": "novi-knezevac-514691"
+    },
+    {
+        "id_location": 387172,
+        "id_location_parent": 387166,
+        "name": "Senta",
+        "seoname": "senta-514692"
+    },
+    {
+        "id_location": 387173,
+        "id_location_parent": 1,
+        "name": "Srednjebanatski okrug",
+        "seoname": "srednjebanatski-okrug-782888"
+    },
+    {
+        "id_location": 387174,
+        "id_location_parent": 387173,
+        "name": "Nova Crnja",
+        "seoname": "nova-crnja-514693"
+    },
+    {
+        "id_location": 387175,
+        "id_location_parent": 387173,
+        "name": "Novi Be\u010dej",
+        "seoname": "novi-becej-514694"
+    },
+    {
+        "id_location": 387176,
+        "id_location_parent": 387173,
+        "name": "Se\u010danj",
+        "seoname": "secanj-514695"
+    },
+    {
+        "id_location": 387177,
+        "id_location_parent": 387173,
+        "name": "\u017diti\u0161te",
+        "seoname": "zitiste-514696"
+    },
+    {
+        "id_location": 387178,
+        "id_location_parent": 387173,
+        "name": "Zrenjanin",
+        "seoname": "zrenjanin-514697"
+    },
+    {
+        "id_location": 387179,
+        "id_location_parent": 1,
+        "name": "Sremski okrug",
+        "seoname": "sremski-okrug-782889"
+    },
+    {
+        "id_location": 387180,
+        "id_location_parent": 387179,
+        "name": "In\u0111ija ",
+        "seoname": "indija-514698"
+    },
+    {
+        "id_location": 387181,
+        "id_location_parent": 387179,
+        "name": "Irig",
+        "seoname": "irig-514699"
+    },
+    {
+        "id_location": 387182,
+        "id_location_parent": 387179,
+        "name": "Pe\u0107inci",
+        "seoname": "pecinci-514700"
+    },
+    {
+        "id_location": 387183,
+        "id_location_parent": 387179,
+        "name": "Ruma",
+        "seoname": "ruma-514701"
+    },
+    {
+        "id_location": 387184,
+        "id_location_parent": 387179,
+        "name": "\u0160id",
+        "seoname": "sid-514702"
+    },
+    {
+        "id_location": 387185,
+        "id_location_parent": 387179,
+        "name": "Sremska Mitrovica",
+        "seoname": "sremska-mitrovica-514703"
+    },
+    {
+        "id_location": 387186,
+        "id_location_parent": 387179,
+        "name": "Stara Pazova",
+        "seoname": "stara-pazova-514704"
+    },
+    {
+        "id_location": 387187,
+        "id_location_parent": 1,
+        "name": "\u0160umadijski okrug",
+        "seoname": "sumadijski-okrug-782890"
+    },
+    {
+        "id_location": 387188,
+        "id_location_parent": 387187,
+        "name": "Aran\u0111elovac",
+        "seoname": "arandelovac-514705"
+    },
+    {
+        "id_location": 387189,
+        "id_location_parent": 387187,
+        "name": "Bato\u010dina",
+        "seoname": "batocina-514706"
+    },
+    {
+        "id_location": 387190,
+        "id_location_parent": 387187,
+        "name": "Kni\u0107",
+        "seoname": "knic-514707"
+    },
+    {
+        "id_location": 387191,
+        "id_location_parent": 387187,
+        "name": "Kragujevac",
+        "seoname": "kragujevac-514708"
+    },
+    {
+        "id_location": 387192,
+        "id_location_parent": 387187,
+        "name": "Lapovo",
+        "seoname": "lapovo-514709"
+    },
+    {
+        "id_location": 387193,
+        "id_location_parent": 387187,
+        "name": "Ra\u010da",
+        "seoname": "raca-514710"
+    },
+    {
+        "id_location": 387194,
+        "id_location_parent": 387187,
+        "name": "Topola",
+        "seoname": "topola-514711"
+    },
+    {
+        "id_location": 387195,
+        "id_location_parent": 1,
+        "name": "Topli\u010dki okrug",
+        "seoname": "toplicki-okrug-782891"
+    },
+    {
+        "id_location": 387196,
+        "id_location_parent": 387195,
+        "name": "Blace",
+        "seoname": "blace-514712"
+    },
+    {
+        "id_location": 387197,
+        "id_location_parent": 387195,
+        "name": "Kur\u0161umlija",
+        "seoname": "kursumlija-514713"
+    },
+    {
+        "id_location": 387198,
+        "id_location_parent": 387195,
+        "name": "Prokuplje",
+        "seoname": "prokuplje-514714"
+    },
+    {
+        "id_location": 387199,
+        "id_location_parent": 387195,
+        "name": "\u017ditora\u0111a",
+        "seoname": "zitorada-514715"
+    },
+    {
+        "id_location": 387200,
+        "id_location_parent": 1,
+        "name": "Zaje\u010darski okrug",
+        "seoname": "zajecarski-okrug-782892"
+    },
+    {
+        "id_location": 387201,
+        "id_location_parent": 387200,
+        "name": "Boljevac",
+        "seoname": "boljevac-514716"
+    },
+    {
+        "id_location": 387202,
+        "id_location_parent": 387200,
+        "name": "Knja\u017eevac",
+        "seoname": "knjazevac-514717"
+    },
+    {
+        "id_location": 387203,
+        "id_location_parent": 387200,
+        "name": "Sokobanja",
+        "seoname": "sokobanja-514718"
+    },
+    {
+        "id_location": 387204,
+        "id_location_parent": 387200,
+        "name": "Zaje\u010dar",
+        "seoname": "zajecar-514719"
+    },
+    {
+        "id_location": 387205,
+        "id_location_parent": 1,
+        "name": "Zapadnoba\u010dki okrug",
+        "seoname": "zapadnobacki-okrug-782893"
+    },
+    {
+        "id_location": 387206,
+        "id_location_parent": 387205,
+        "name": "Apatin",
+        "seoname": "apatin-514720"
+    },
+    {
+        "id_location": 387207,
+        "id_location_parent": 387205,
+        "name": "Kula",
+        "seoname": "kula-514721"
+    },
+    {
+        "id_location": 387208,
+        "id_location_parent": 387205,
+        "name": "Od\u017eaci",
+        "seoname": "odzaci-514722"
+    },
+    {
+        "id_location": 387209,
+        "id_location_parent": 387205,
+        "name": "Sombor",
+        "seoname": "sombor-514723"
+    },
+    {
+        "id_location": 387210,
+        "id_location_parent": 1,
+        "name": "Zlatiborski okrug",
+        "seoname": "zlatiborski-okrug-782894"
+    },
+    {
+        "id_location": 387211,
+        "id_location_parent": 387210,
+        "name": "Arilje",
+        "seoname": "arilje-514724"
+    },
+    {
+        "id_location": 387212,
+        "id_location_parent": 387210,
+        "name": "Bajina Ba\u0161ta",
+        "seoname": "bajina-basta-514725"
+    },
+    {
+        "id_location": 387213,
+        "id_location_parent": 387210,
+        "name": "\u010cajetina",
+        "seoname": "cajetina-514726"
+    },
+    {
+        "id_location": 387214,
+        "id_location_parent": 387210,
+        "name": "Kosjeri\u0107",
+        "seoname": "kosjeric-514727"
+    },
+    {
+        "id_location": 387215,
+        "id_location_parent": 387210,
+        "name": "Nova Varo\u0161",
+        "seoname": "nova-varos-514728"
+    },
+    {
+        "id_location": 387216,
+        "id_location_parent": 387210,
+        "name": "Po\u017eega",
+        "seoname": "pozega-514729"
+    },
+    {
+        "id_location": 387217,
+        "id_location_parent": 387210,
+        "name": "Priboj",
+        "seoname": "priboj-514730"
+    },
+    {
+        "id_location": 387218,
+        "id_location_parent": 387210,
+        "name": "Prijepolje",
+        "seoname": "prijepolje-514731"
+    },
+    {
+        "id_location": 387219,
+        "id_location_parent": 387210,
+        "name": "Sjenica",
+        "seoname": "sjenica-514732"
+    },
+    {
+        "id_location": 387220,
+        "id_location_parent": 387210,
+        "name": "U\u017eice",
+        "seoname": "uzice-514733"
+    }
+]

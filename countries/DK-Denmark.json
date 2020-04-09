@@ -1,0 +1,620 @@
+[
+    {
+        "id_location": 149191,
+        "id_location_parent": 1,
+        "name": "Hovedstaden",
+        "seoname": "hovedstaden-737827"
+    },
+    {
+        "id_location": 149192,
+        "id_location_parent": 149191,
+        "name": "Albertslund",
+        "seoname": "albertslund-32118"
+    },
+    {
+        "id_location": 149193,
+        "id_location_parent": 149191,
+        "name": "Aller\u00f8d",
+        "seoname": "allerod-32119"
+    },
+    {
+        "id_location": 149194,
+        "id_location_parent": 149191,
+        "name": "Ballerup",
+        "seoname": "ballerup-32120"
+    },
+    {
+        "id_location": 149195,
+        "id_location_parent": 149191,
+        "name": "Bornholm",
+        "seoname": "bornholm-32121"
+    },
+    {
+        "id_location": 149196,
+        "id_location_parent": 149191,
+        "name": "Br\u00f8ndby",
+        "seoname": "brondby-32122"
+    },
+    {
+        "id_location": 149197,
+        "id_location_parent": 149191,
+        "name": "Copenhague",
+        "seoname": "copenhague-32123"
+    },
+    {
+        "id_location": 149198,
+        "id_location_parent": 149191,
+        "name": "Drag\u00f8r",
+        "seoname": "dragor-32124"
+    },
+    {
+        "id_location": 149199,
+        "id_location_parent": 149191,
+        "name": "Egedal",
+        "seoname": "egedal-32125"
+    },
+    {
+        "id_location": 149200,
+        "id_location_parent": 149191,
+        "name": "Fredensborg",
+        "seoname": "fredensborg-32126"
+    },
+    {
+        "id_location": 149201,
+        "id_location_parent": 149191,
+        "name": "Frederiksberg",
+        "seoname": "frederiksberg-32127"
+    },
+    {
+        "id_location": 149202,
+        "id_location_parent": 149191,
+        "name": "Frederikssund",
+        "seoname": "frederikssund-32128"
+    },
+    {
+        "id_location": 149203,
+        "id_location_parent": 149191,
+        "name": "Frederiksv\u00e6rk-Hundested",
+        "seoname": "frederiksvaerk-hundested-32129"
+    },
+    {
+        "id_location": 149204,
+        "id_location_parent": 149191,
+        "name": "Fures\u00f8",
+        "seoname": "fureso-32130"
+    },
+    {
+        "id_location": 149205,
+        "id_location_parent": 149191,
+        "name": "Gentofte",
+        "seoname": "gentofte-32131"
+    },
+    {
+        "id_location": 149206,
+        "id_location_parent": 149191,
+        "name": "Gladsaxe",
+        "seoname": "gladsaxe-32132"
+    },
+    {
+        "id_location": 149207,
+        "id_location_parent": 149191,
+        "name": "Glostrup",
+        "seoname": "glostrup-32133"
+    },
+    {
+        "id_location": 149208,
+        "id_location_parent": 149191,
+        "name": "Gribskov",
+        "seoname": "gribskov-32134"
+    },
+    {
+        "id_location": 149209,
+        "id_location_parent": 149191,
+        "name": "Helsing\u00f8r",
+        "seoname": "helsingor-32135"
+    },
+    {
+        "id_location": 149210,
+        "id_location_parent": 149191,
+        "name": "Herlev",
+        "seoname": "herlev-32136"
+    },
+    {
+        "id_location": 149211,
+        "id_location_parent": 149191,
+        "name": "Hiller\u00f8d",
+        "seoname": "hillerod-32137"
+    },
+    {
+        "id_location": 149212,
+        "id_location_parent": 149191,
+        "name": "Hvidovre",
+        "seoname": "hvidovre-32138"
+    },
+    {
+        "id_location": 149213,
+        "id_location_parent": 149191,
+        "name": "H\u00f8je-Taastrup",
+        "seoname": "hoje-taastrup-32139"
+    },
+    {
+        "id_location": 149214,
+        "id_location_parent": 149191,
+        "name": "H\u00f8rsholm",
+        "seoname": "horsholm-32140"
+    },
+    {
+        "id_location": 149215,
+        "id_location_parent": 149191,
+        "name": "Ish\u00f8j",
+        "seoname": "ishoj-32141"
+    },
+    {
+        "id_location": 149216,
+        "id_location_parent": 149191,
+        "name": "Lyngby-Taarb\u00e6k",
+        "seoname": "lyngby-taarbaek-32142"
+    },
+    {
+        "id_location": 149217,
+        "id_location_parent": 149191,
+        "name": "Rudersdal",
+        "seoname": "rudersdal-32143"
+    },
+    {
+        "id_location": 149218,
+        "id_location_parent": 149191,
+        "name": "R\u00f8dovre",
+        "seoname": "rodovre-32144"
+    },
+    {
+        "id_location": 149219,
+        "id_location_parent": 149191,
+        "name": "T\u00e5rnby",
+        "seoname": "tarnby-32145"
+    },
+    {
+        "id_location": 149220,
+        "id_location_parent": 149191,
+        "name": "Vallensb\u00e6k",
+        "seoname": "vallensbaek-32146"
+    },
+    {
+        "id_location": 149221,
+        "id_location_parent": 1,
+        "name": "Midtjylland",
+        "seoname": "midtjylland-737857"
+    },
+    {
+        "id_location": 149222,
+        "id_location_parent": 149221,
+        "name": "\u00c5rhus",
+        "seoname": "arhus-32147"
+    },
+    {
+        "id_location": 149223,
+        "id_location_parent": 149221,
+        "name": "Favrskov",
+        "seoname": "favrskov-32148"
+    },
+    {
+        "id_location": 149224,
+        "id_location_parent": 149221,
+        "name": "Hedensted",
+        "seoname": "hedensted-32149"
+    },
+    {
+        "id_location": 149225,
+        "id_location_parent": 149221,
+        "name": "Herning",
+        "seoname": "herning-32150"
+    },
+    {
+        "id_location": 149226,
+        "id_location_parent": 149221,
+        "name": "Holstebro",
+        "seoname": "holstebro-32151"
+    },
+    {
+        "id_location": 149227,
+        "id_location_parent": 149221,
+        "name": "Horsens",
+        "seoname": "horsens-32152"
+    },
+    {
+        "id_location": 149228,
+        "id_location_parent": 149221,
+        "name": "Ikast-Brande",
+        "seoname": "ikast-brande-32153"
+    },
+    {
+        "id_location": 149229,
+        "id_location_parent": 149221,
+        "name": "Lemvig",
+        "seoname": "lemvig-32154"
+    },
+    {
+        "id_location": 149230,
+        "id_location_parent": 149221,
+        "name": "Norddjurs",
+        "seoname": "norddjurs-32155"
+    },
+    {
+        "id_location": 149231,
+        "id_location_parent": 149221,
+        "name": "Odder",
+        "seoname": "odder-32156"
+    },
+    {
+        "id_location": 149232,
+        "id_location_parent": 149221,
+        "name": "Randers",
+        "seoname": "randers-32157"
+    },
+    {
+        "id_location": 149233,
+        "id_location_parent": 149221,
+        "name": "Ringk\u00f8bing-Skjern",
+        "seoname": "ringkobing-skjern-32158"
+    },
+    {
+        "id_location": 149234,
+        "id_location_parent": 149221,
+        "name": "Sams\u00f8",
+        "seoname": "samso-32159"
+    },
+    {
+        "id_location": 149235,
+        "id_location_parent": 149221,
+        "name": "Silkeborg",
+        "seoname": "silkeborg-32160"
+    },
+    {
+        "id_location": 149236,
+        "id_location_parent": 149221,
+        "name": "Skanderborg",
+        "seoname": "skanderborg-32161"
+    },
+    {
+        "id_location": 149237,
+        "id_location_parent": 149221,
+        "name": "Skive",
+        "seoname": "skive-32162"
+    },
+    {
+        "id_location": 149238,
+        "id_location_parent": 149221,
+        "name": "Struer",
+        "seoname": "struer-32163"
+    },
+    {
+        "id_location": 149239,
+        "id_location_parent": 149221,
+        "name": "Syddjurs",
+        "seoname": "syddjurs-32164"
+    },
+    {
+        "id_location": 149240,
+        "id_location_parent": 149221,
+        "name": "Viborg",
+        "seoname": "viborg-32165"
+    },
+    {
+        "id_location": 149241,
+        "id_location_parent": 1,
+        "name": "Nordjylland",
+        "seoname": "nordjylland-737877"
+    },
+    {
+        "id_location": 149242,
+        "id_location_parent": 149241,
+        "name": "\u00c5lborg",
+        "seoname": "alborg-32166"
+    },
+    {
+        "id_location": 149243,
+        "id_location_parent": 149241,
+        "name": "Br\u00f8nderslev",
+        "seoname": "bronderslev-32167"
+    },
+    {
+        "id_location": 149244,
+        "id_location_parent": 149241,
+        "name": "Frederikshavn",
+        "seoname": "frederikshavn-32168"
+    },
+    {
+        "id_location": 149245,
+        "id_location_parent": 149241,
+        "name": "Hj\u00f8rring",
+        "seoname": "hjorring-32169"
+    },
+    {
+        "id_location": 149246,
+        "id_location_parent": 149241,
+        "name": "Jammerbugt",
+        "seoname": "jammerbugt-32170"
+    },
+    {
+        "id_location": 149247,
+        "id_location_parent": 149241,
+        "name": "L\u00e6s\u00f8",
+        "seoname": "laeso-32171"
+    },
+    {
+        "id_location": 149248,
+        "id_location_parent": 149241,
+        "name": "Mariagerfjord",
+        "seoname": "mariagerfjord-32172"
+    },
+    {
+        "id_location": 149249,
+        "id_location_parent": 149241,
+        "name": "Mors\u00f8",
+        "seoname": "morso-32173"
+    },
+    {
+        "id_location": 149250,
+        "id_location_parent": 149241,
+        "name": "Rebild",
+        "seoname": "rebild-32174"
+    },
+    {
+        "id_location": 149251,
+        "id_location_parent": 149241,
+        "name": "Thisted",
+        "seoname": "thisted-32175"
+    },
+    {
+        "id_location": 149252,
+        "id_location_parent": 149241,
+        "name": "Vesthimmerland",
+        "seoname": "vesthimmerland-32176"
+    },
+    {
+        "id_location": 149253,
+        "id_location_parent": 1,
+        "name": "Sj\u00e6lland",
+        "seoname": "sjaelland-737889"
+    },
+    {
+        "id_location": 149254,
+        "id_location_parent": 149253,
+        "name": "Faxe",
+        "seoname": "faxe-32177"
+    },
+    {
+        "id_location": 149255,
+        "id_location_parent": 149253,
+        "name": "Greve",
+        "seoname": "greve-32178"
+    },
+    {
+        "id_location": 149256,
+        "id_location_parent": 149253,
+        "name": "Guldborgsund",
+        "seoname": "guldborgsund-32179"
+    },
+    {
+        "id_location": 149257,
+        "id_location_parent": 149253,
+        "name": "Holb\u00e6k",
+        "seoname": "holbaek-32180"
+    },
+    {
+        "id_location": 149258,
+        "id_location_parent": 149253,
+        "name": "Kalundborg",
+        "seoname": "kalundborg-32181"
+    },
+    {
+        "id_location": 149259,
+        "id_location_parent": 149253,
+        "name": "K\u00f8ge",
+        "seoname": "koge-32182"
+    },
+    {
+        "id_location": 149260,
+        "id_location_parent": 149253,
+        "name": "Lejre",
+        "seoname": "lejre-32183"
+    },
+    {
+        "id_location": 149261,
+        "id_location_parent": 149253,
+        "name": "Lolland",
+        "seoname": "lolland-32184"
+    },
+    {
+        "id_location": 149262,
+        "id_location_parent": 149253,
+        "name": "N\u00e6stved",
+        "seoname": "naestved-32185"
+    },
+    {
+        "id_location": 149263,
+        "id_location_parent": 149253,
+        "name": "Odsherred",
+        "seoname": "odsherred-32186"
+    },
+    {
+        "id_location": 149264,
+        "id_location_parent": 149253,
+        "name": "Ringsted",
+        "seoname": "ringsted-32187"
+    },
+    {
+        "id_location": 149265,
+        "id_location_parent": 149253,
+        "name": "Roskilde",
+        "seoname": "roskilde-32188"
+    },
+    {
+        "id_location": 149266,
+        "id_location_parent": 149253,
+        "name": "Slagelse",
+        "seoname": "slagelse-32189"
+    },
+    {
+        "id_location": 149267,
+        "id_location_parent": 149253,
+        "name": "Solr\u00f8d",
+        "seoname": "solrod-32190"
+    },
+    {
+        "id_location": 149268,
+        "id_location_parent": 149253,
+        "name": "Sor\u00f8",
+        "seoname": "soro-32191"
+    },
+    {
+        "id_location": 149269,
+        "id_location_parent": 149253,
+        "name": "Stevns",
+        "seoname": "stevns-32192"
+    },
+    {
+        "id_location": 149270,
+        "id_location_parent": 149253,
+        "name": "Vordingborg",
+        "seoname": "vordingborg-32193"
+    },
+    {
+        "id_location": 149271,
+        "id_location_parent": 1,
+        "name": "Syddanmark",
+        "seoname": "syddanmark-737907"
+    },
+    {
+        "id_location": 149272,
+        "id_location_parent": 149271,
+        "name": "Aabenraa",
+        "seoname": "aabenraa-32194"
+    },
+    {
+        "id_location": 149273,
+        "id_location_parent": 149271,
+        "name": "Assens",
+        "seoname": "assens-32195"
+    },
+    {
+        "id_location": 149274,
+        "id_location_parent": 149271,
+        "name": "Billund",
+        "seoname": "billund-32196"
+    },
+    {
+        "id_location": 149275,
+        "id_location_parent": 149271,
+        "name": "Esbjerg",
+        "seoname": "esbjerg-32197"
+    },
+    {
+        "id_location": 149276,
+        "id_location_parent": 149271,
+        "name": "Faaborg-Midtfyn",
+        "seoname": "faaborg-midtfyn-32198"
+    },
+    {
+        "id_location": 149277,
+        "id_location_parent": 149271,
+        "name": "Fan\u00f8",
+        "seoname": "fano-32199"
+    },
+    {
+        "id_location": 149278,
+        "id_location_parent": 149271,
+        "name": "Fredericia",
+        "seoname": "fredericia-32200"
+    },
+    {
+        "id_location": 149279,
+        "id_location_parent": 149271,
+        "name": "Haderslev",
+        "seoname": "haderslev-32201"
+    },
+    {
+        "id_location": 149280,
+        "id_location_parent": 149271,
+        "name": "Kerteminde",
+        "seoname": "kerteminde-32202"
+    },
+    {
+        "id_location": 149281,
+        "id_location_parent": 149271,
+        "name": "Kolding",
+        "seoname": "kolding-32203"
+    },
+    {
+        "id_location": 149282,
+        "id_location_parent": 149271,
+        "name": "Langeland",
+        "seoname": "langeland-32204"
+    },
+    {
+        "id_location": 149283,
+        "id_location_parent": 149271,
+        "name": "Middelfart",
+        "seoname": "middelfart-32205"
+    },
+    {
+        "id_location": 149284,
+        "id_location_parent": 149271,
+        "name": "Nordfyn",
+        "seoname": "nordfyn-32206"
+    },
+    {
+        "id_location": 149285,
+        "id_location_parent": 149271,
+        "name": "Nyborg",
+        "seoname": "nyborg-32207"
+    },
+    {
+        "id_location": 149286,
+        "id_location_parent": 149271,
+        "name": "Odense",
+        "seoname": "odense-32208"
+    },
+    {
+        "id_location": 149287,
+        "id_location_parent": 149271,
+        "name": "Svendborg",
+        "seoname": "svendborg-32209"
+    },
+    {
+        "id_location": 149288,
+        "id_location_parent": 149271,
+        "name": "S\u00f8nderborg",
+        "seoname": "sonderborg-32210"
+    },
+    {
+        "id_location": 149289,
+        "id_location_parent": 149271,
+        "name": "T\u00f8nder",
+        "seoname": "tonder-32211"
+    },
+    {
+        "id_location": 149290,
+        "id_location_parent": 149271,
+        "name": "Varde",
+        "seoname": "varde-32212"
+    },
+    {
+        "id_location": 149291,
+        "id_location_parent": 149271,
+        "name": "Vejen",
+        "seoname": "vejen-32213"
+    },
+    {
+        "id_location": 149292,
+        "id_location_parent": 149271,
+        "name": "Vejle",
+        "seoname": "vejle-32214"
+    },
+    {
+        "id_location": 149293,
+        "id_location_parent": 149271,
+        "name": "\u00c6r\u00f8",
+        "seoname": "aero-32215"
+    }
+]

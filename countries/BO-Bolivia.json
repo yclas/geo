@@ -1,0 +1,746 @@
+[
+    {
+        "id_location": 41332,
+        "id_location_parent": 1,
+        "name": "Sucre",
+        "seoname": "sucre-303"
+    },
+    {
+        "id_location": 41333,
+        "id_location_parent": 1,
+        "name": "Santa Cruz de la Sierra",
+        "seoname": "santa-cruz-de-la-sierra-304"
+    },
+    {
+        "id_location": 41334,
+        "id_location_parent": 41333,
+        "name": "Santa Cruz de la Sierra",
+        "seoname": "santa-cruz-de-la-sierra-10400"
+    },
+    {
+        "id_location": 41335,
+        "id_location_parent": 41333,
+        "name": "Montero",
+        "seoname": "montero-10401"
+    },
+    {
+        "id_location": 41336,
+        "id_location_parent": 41333,
+        "name": "San Juli\u00e1n",
+        "seoname": "san-julian-10402"
+    },
+    {
+        "id_location": 41337,
+        "id_location_parent": 41333,
+        "name": "Mineros",
+        "seoname": "mineros-10403"
+    },
+    {
+        "id_location": 41338,
+        "id_location_parent": 41333,
+        "name": "La Guardia",
+        "seoname": "la-guardia-10404"
+    },
+    {
+        "id_location": 41339,
+        "id_location_parent": 41333,
+        "name": "Warnes",
+        "seoname": "warnes-10405"
+    },
+    {
+        "id_location": 41340,
+        "id_location_parent": 41333,
+        "name": "El Torno",
+        "seoname": "el-torno-10406"
+    },
+    {
+        "id_location": 41341,
+        "id_location_parent": 41333,
+        "name": "San Ignacio",
+        "seoname": "san-ignacio-10407"
+    },
+    {
+        "id_location": 41342,
+        "id_location_parent": 41333,
+        "name": "Cotoca",
+        "seoname": "cotoca-10408"
+    },
+    {
+        "id_location": 41343,
+        "id_location_parent": 41333,
+        "name": "Yapacan\u00ed",
+        "seoname": "yapacani-10409"
+    },
+    {
+        "id_location": 41344,
+        "id_location_parent": 41333,
+        "name": "Pail\u00f3n",
+        "seoname": "pailon-10410"
+    },
+    {
+        "id_location": 41345,
+        "id_location_parent": 41333,
+        "name": "Camiri",
+        "seoname": "camiri-10411"
+    },
+    {
+        "id_location": 41346,
+        "id_location_parent": 41333,
+        "name": "San Carlos",
+        "seoname": "san-carlos-10412"
+    },
+    {
+        "id_location": 41347,
+        "id_location_parent": 41333,
+        "name": "Charagua",
+        "seoname": "charagua-10413"
+    },
+    {
+        "id_location": 41348,
+        "id_location_parent": 41333,
+        "name": "Cabezas",
+        "seoname": "cabezas-10414"
+    },
+    {
+        "id_location": 41349,
+        "id_location_parent": 41333,
+        "name": "Portachuelo",
+        "seoname": "portachuelo-10415"
+    },
+    {
+        "id_location": 41350,
+        "id_location_parent": 41333,
+        "name": "Puerto Su\u00e1rez",
+        "seoname": "puerto-suarez-10416"
+    },
+    {
+        "id_location": 41351,
+        "id_location_parent": 1,
+        "name": "Cochabamba",
+        "seoname": "cochabamba-305"
+    },
+    {
+        "id_location": 41352,
+        "id_location_parent": 41351,
+        "name": "Arani",
+        "seoname": "arani-10327"
+    },
+    {
+        "id_location": 41353,
+        "id_location_parent": 41351,
+        "name": "Esteban Arce",
+        "seoname": "esteban-arce-10328"
+    },
+    {
+        "id_location": 41354,
+        "id_location_parent": 41351,
+        "name": "Arque",
+        "seoname": "arque-10329"
+    },
+    {
+        "id_location": 41355,
+        "id_location_parent": 41351,
+        "name": "Ayopaya",
+        "seoname": "ayopaya-10330"
+    },
+    {
+        "id_location": 41356,
+        "id_location_parent": 41351,
+        "name": "Campero",
+        "seoname": "campero-10331"
+    },
+    {
+        "id_location": 41357,
+        "id_location_parent": 41351,
+        "name": "Capinota",
+        "seoname": "capinota-10332"
+    },
+    {
+        "id_location": 41358,
+        "id_location_parent": 41351,
+        "name": "Cercado",
+        "seoname": "cercado-10333"
+    },
+    {
+        "id_location": 41359,
+        "id_location_parent": 41351,
+        "name": "Carrasco",
+        "seoname": "carrasco-10334"
+    },
+    {
+        "id_location": 41360,
+        "id_location_parent": 41351,
+        "name": "Chapare",
+        "seoname": "chapare-10335"
+    },
+    {
+        "id_location": 41361,
+        "id_location_parent": 41351,
+        "name": "Germ\u00e1n Jord\u00e1n",
+        "seoname": "german-jordan-10336"
+    },
+    {
+        "id_location": 41362,
+        "id_location_parent": 41351,
+        "name": "Mizque",
+        "seoname": "mizque-10337"
+    },
+    {
+        "id_location": 41363,
+        "id_location_parent": 41351,
+        "name": "Punata",
+        "seoname": "punata-10338"
+    },
+    {
+        "id_location": 41364,
+        "id_location_parent": 41351,
+        "name": "Quillacollo",
+        "seoname": "quillacollo-10339"
+    },
+    {
+        "id_location": 41365,
+        "id_location_parent": 41351,
+        "name": "Tapacar\u00ed",
+        "seoname": "tapacari-10340"
+    },
+    {
+        "id_location": 41366,
+        "id_location_parent": 41351,
+        "name": "Bol\u00edvar",
+        "seoname": "bolivar-10341"
+    },
+    {
+        "id_location": 41367,
+        "id_location_parent": 41351,
+        "name": "Tiraque",
+        "seoname": "tiraque-10342"
+    },
+    {
+        "id_location": 41368,
+        "id_location_parent": 1,
+        "name": "La Paz",
+        "seoname": "la-paz-306"
+    },
+    {
+        "id_location": 41369,
+        "id_location_parent": 41368,
+        "name": "Aroma",
+        "seoname": "aroma-10343"
+    },
+    {
+        "id_location": 41370,
+        "id_location_parent": 41368,
+        "name": "Bautista Saavedra",
+        "seoname": "bautista-saavedra-10344"
+    },
+    {
+        "id_location": 41371,
+        "id_location_parent": 41368,
+        "name": "Abel Iturralde",
+        "seoname": "abel-iturralde-10345"
+    },
+    {
+        "id_location": 41372,
+        "id_location_parent": 41368,
+        "name": "Caranavi",
+        "seoname": "caranavi-10346"
+    },
+    {
+        "id_location": 41373,
+        "id_location_parent": 41368,
+        "name": "Eliodoro Camacho",
+        "seoname": "eliodoro-camacho-10347"
+    },
+    {
+        "id_location": 41374,
+        "id_location_parent": 41368,
+        "name": "Franz Tamayo",
+        "seoname": "franz-tamayo-10348"
+    },
+    {
+        "id_location": 41375,
+        "id_location_parent": 41368,
+        "name": "Gualberto Villaroel",
+        "seoname": "gualberto-villaroel-10349"
+    },
+    {
+        "id_location": 41376,
+        "id_location_parent": 41368,
+        "name": "Ingavi",
+        "seoname": "ingavi-10350"
+    },
+    {
+        "id_location": 41377,
+        "id_location_parent": 41368,
+        "name": "Inquisivi",
+        "seoname": "inquisivi-10351"
+    },
+    {
+        "id_location": 41378,
+        "id_location_parent": 41368,
+        "name": "Jos\u00e9 Manuel Pando",
+        "seoname": "jose-manuel-pando-10352"
+    },
+    {
+        "id_location": 41379,
+        "id_location_parent": 41368,
+        "name": "Larecaja",
+        "seoname": "larecaja-10353"
+    },
+    {
+        "id_location": 41380,
+        "id_location_parent": 41368,
+        "name": "Jos\u00e9 Ram\u00f3n Loayza",
+        "seoname": "jose-ramon-loayza-10354"
+    },
+    {
+        "id_location": 41381,
+        "id_location_parent": 41368,
+        "name": "Los Andes",
+        "seoname": "los-andes-10355"
+    },
+    {
+        "id_location": 41382,
+        "id_location_parent": 41368,
+        "name": "Manco Kapac",
+        "seoname": "manco-kapac-10356"
+    },
+    {
+        "id_location": 41383,
+        "id_location_parent": 41368,
+        "name": "Mu\u00f1ecas",
+        "seoname": "munecas-10357"
+    },
+    {
+        "id_location": 41384,
+        "id_location_parent": 41368,
+        "name": "Nor Yungas",
+        "seoname": "nor-yungas-10358"
+    },
+    {
+        "id_location": 41385,
+        "id_location_parent": 41368,
+        "name": "Omasuyos",
+        "seoname": "omasuyos-10359"
+    },
+    {
+        "id_location": 41386,
+        "id_location_parent": 41368,
+        "name": "Pacajes",
+        "seoname": "pacajes-10360"
+    },
+    {
+        "id_location": 41387,
+        "id_location_parent": 41368,
+        "name": "Pedro Domingo Murillo",
+        "seoname": "pedro-domingo-murillo-10361"
+    },
+    {
+        "id_location": 41388,
+        "id_location_parent": 41368,
+        "name": "Sud Yungas",
+        "seoname": "sud-yungas-10362"
+    },
+    {
+        "id_location": 41389,
+        "id_location_parent": 1,
+        "name": "Beni",
+        "seoname": "beni-706511"
+    },
+    {
+        "id_location": 41390,
+        "id_location_parent": 41389,
+        "name": "Cercado",
+        "seoname": "cercado-10309"
+    },
+    {
+        "id_location": 41391,
+        "id_location_parent": 41389,
+        "name": "Antonio Vaca D\u00edez",
+        "seoname": "antonio-vaca-diez-10310"
+    },
+    {
+        "id_location": 41392,
+        "id_location_parent": 41389,
+        "name": "General Jos\u00e9 Ballivi\u00e1n Segurola",
+        "seoname": "general-jose-ballivian-segurola-10311"
+    },
+    {
+        "id_location": 41393,
+        "id_location_parent": 41389,
+        "name": "Yacuma",
+        "seoname": "yacuma-10312"
+    },
+    {
+        "id_location": 41394,
+        "id_location_parent": 41389,
+        "name": "Moxos",
+        "seoname": "moxos-10313"
+    },
+    {
+        "id_location": 41395,
+        "id_location_parent": 41389,
+        "name": "Marb\u00e1n",
+        "seoname": "marban-10314"
+    },
+    {
+        "id_location": 41396,
+        "id_location_parent": 41389,
+        "name": "Mamor\u00e9",
+        "seoname": "mamore-10315"
+    },
+    {
+        "id_location": 41397,
+        "id_location_parent": 41389,
+        "name": "It\u00e9nez",
+        "seoname": "itenez-10316"
+    },
+    {
+        "id_location": 41398,
+        "id_location_parent": 1,
+        "name": "Chuquisaca",
+        "seoname": "chuquisaca-706512"
+    },
+    {
+        "id_location": 41399,
+        "id_location_parent": 41398,
+        "name": "Oropeza",
+        "seoname": "oropeza-10317"
+    },
+    {
+        "id_location": 41400,
+        "id_location_parent": 41398,
+        "name": "Azurduy",
+        "seoname": "azurduy-10318"
+    },
+    {
+        "id_location": 41401,
+        "id_location_parent": 41398,
+        "name": "Zuda\u00f1ez",
+        "seoname": "zudanez-10319"
+    },
+    {
+        "id_location": 41402,
+        "id_location_parent": 41398,
+        "name": "Tomina",
+        "seoname": "tomina-10320"
+    },
+    {
+        "id_location": 41403,
+        "id_location_parent": 41398,
+        "name": "Hernando Siles",
+        "seoname": "hernando-siles-10321"
+    },
+    {
+        "id_location": 41404,
+        "id_location_parent": 41398,
+        "name": "Yamparaez",
+        "seoname": "yamparaez-10322"
+    },
+    {
+        "id_location": 41405,
+        "id_location_parent": 41398,
+        "name": "Nor Cinti",
+        "seoname": "nor-cinti-10323"
+    },
+    {
+        "id_location": 41406,
+        "id_location_parent": 41398,
+        "name": "Sur Cinti",
+        "seoname": "sur-cinti-10324"
+    },
+    {
+        "id_location": 41407,
+        "id_location_parent": 41398,
+        "name": "Belisario Boeto",
+        "seoname": "belisario-boeto-10325"
+    },
+    {
+        "id_location": 41408,
+        "id_location_parent": 41398,
+        "name": "Luis Calvo",
+        "seoname": "luis-calvo-10326"
+    },
+    {
+        "id_location": 41409,
+        "id_location_parent": 1,
+        "name": "Oruro",
+        "seoname": "oruro-706515"
+    },
+    {
+        "id_location": 41410,
+        "id_location_parent": 41409,
+        "name": "Atahuallpa",
+        "seoname": "atahuallpa-10363"
+    },
+    {
+        "id_location": 41411,
+        "id_location_parent": 41409,
+        "name": "Carangas",
+        "seoname": "carangas-10364"
+    },
+    {
+        "id_location": 41412,
+        "id_location_parent": 41409,
+        "name": "Cercado",
+        "seoname": "cercado-10365"
+    },
+    {
+        "id_location": 41413,
+        "id_location_parent": 41409,
+        "name": "Eduardo Avaroa",
+        "seoname": "eduardo-avaroa-10366"
+    },
+    {
+        "id_location": 41414,
+        "id_location_parent": 41409,
+        "name": "Ladislao Cabrera",
+        "seoname": "ladislao-cabrera-10367"
+    },
+    {
+        "id_location": 41415,
+        "id_location_parent": 41409,
+        "name": "Litoral",
+        "seoname": "litoral-10368"
+    },
+    {
+        "id_location": 41416,
+        "id_location_parent": 41409,
+        "name": "Puerto de Mejillones",
+        "seoname": "puerto-de-mejillones-10369"
+    },
+    {
+        "id_location": 41417,
+        "id_location_parent": 41409,
+        "name": "Nor Carangas",
+        "seoname": "nor-carangas-10370"
+    },
+    {
+        "id_location": 41418,
+        "id_location_parent": 41409,
+        "name": "Pantale\u00f3n Dalence",
+        "seoname": "pantaleon-dalence-10371"
+    },
+    {
+        "id_location": 41419,
+        "id_location_parent": 41409,
+        "name": "Poop\u00f3",
+        "seoname": "poopo-10372"
+    },
+    {
+        "id_location": 41420,
+        "id_location_parent": 41409,
+        "name": "Sajama",
+        "seoname": "sajama-10373"
+    },
+    {
+        "id_location": 41421,
+        "id_location_parent": 41409,
+        "name": "San Pedro de Totora",
+        "seoname": "san-pedro-de-totora-10374"
+    },
+    {
+        "id_location": 41422,
+        "id_location_parent": 41409,
+        "name": "Saucar\u00ed",
+        "seoname": "saucari-10375"
+    },
+    {
+        "id_location": 41423,
+        "id_location_parent": 41409,
+        "name": "Sebastian Pagador",
+        "seoname": "sebastian-pagador-10376"
+    },
+    {
+        "id_location": 41424,
+        "id_location_parent": 41409,
+        "name": "Sud Carangas",
+        "seoname": "sud-carangas-10377"
+    },
+    {
+        "id_location": 41425,
+        "id_location_parent": 41409,
+        "name": "Tomas Barr\u00f3n",
+        "seoname": "tomas-barron-10378"
+    },
+    {
+        "id_location": 41426,
+        "id_location_parent": 1,
+        "name": "Pando",
+        "seoname": "pando-706516"
+    },
+    {
+        "id_location": 41427,
+        "id_location_parent": 41426,
+        "name": "Abun\u00e1",
+        "seoname": "abuna-10379"
+    },
+    {
+        "id_location": 41428,
+        "id_location_parent": 41426,
+        "name": "Federico Rom\u00e1n",
+        "seoname": "federico-roman-10380"
+    },
+    {
+        "id_location": 41429,
+        "id_location_parent": 41426,
+        "name": "Madre de Dios",
+        "seoname": "madre-de-dios-10381"
+    },
+    {
+        "id_location": 41430,
+        "id_location_parent": 41426,
+        "name": "Manuripi",
+        "seoname": "manuripi-10382"
+    },
+    {
+        "id_location": 41431,
+        "id_location_parent": 41426,
+        "name": "Nicol\u00e1s Su\u00e1rez",
+        "seoname": "nicolas-suarez-10383"
+    },
+    {
+        "id_location": 41432,
+        "id_location_parent": 1,
+        "name": "Potos\u00ed",
+        "seoname": "potosi-706517"
+    },
+    {
+        "id_location": 41433,
+        "id_location_parent": 41432,
+        "name": "Alonzo de Ib\u00e1\u00f1ez",
+        "seoname": "alonzo-de-ibanez-10384"
+    },
+    {
+        "id_location": 41434,
+        "id_location_parent": 41432,
+        "name": "Antonio Quijarro",
+        "seoname": "antonio-quijarro-10385"
+    },
+    {
+        "id_location": 41435,
+        "id_location_parent": 41432,
+        "name": "Bernardino Bilbao",
+        "seoname": "bernardino-bilbao-10386"
+    },
+    {
+        "id_location": 41436,
+        "id_location_parent": 41432,
+        "name": "Charcas",
+        "seoname": "charcas-10387"
+    },
+    {
+        "id_location": 41437,
+        "id_location_parent": 41432,
+        "name": "Chayanta",
+        "seoname": "chayanta-10388"
+    },
+    {
+        "id_location": 41438,
+        "id_location_parent": 41432,
+        "name": "Cornelio Saavedra",
+        "seoname": "cornelio-saavedra-10389"
+    },
+    {
+        "id_location": 41439,
+        "id_location_parent": 41432,
+        "name": "Daniel Campos",
+        "seoname": "daniel-campos-10390"
+    },
+    {
+        "id_location": 41440,
+        "id_location_parent": 41432,
+        "name": "Enrique Baldivieso",
+        "seoname": "enrique-baldivieso-10391"
+    },
+    {
+        "id_location": 41441,
+        "id_location_parent": 41432,
+        "name": "Jos\u00e9 Mar\u00eda Linares",
+        "seoname": "jose-maria-linares-10392"
+    },
+    {
+        "id_location": 41442,
+        "id_location_parent": 41432,
+        "name": "Modesto Omiste",
+        "seoname": "modesto-omiste-10393"
+    },
+    {
+        "id_location": 41443,
+        "id_location_parent": 41432,
+        "name": "Nor Chichas",
+        "seoname": "nor-chichas-10394"
+    },
+    {
+        "id_location": 41444,
+        "id_location_parent": 41432,
+        "name": "Nor L\u00edpez",
+        "seoname": "nor-lipez-10395"
+    },
+    {
+        "id_location": 41445,
+        "id_location_parent": 41432,
+        "name": "Rafael Bustillo",
+        "seoname": "rafael-bustillo-10396"
+    },
+    {
+        "id_location": 41446,
+        "id_location_parent": 41432,
+        "name": "Sud Chichas",
+        "seoname": "sud-chichas-10397"
+    },
+    {
+        "id_location": 41447,
+        "id_location_parent": 41432,
+        "name": "Sud Lipez",
+        "seoname": "sud-lipez-10398"
+    },
+    {
+        "id_location": 41448,
+        "id_location_parent": 41432,
+        "name": "Tom\u00e1s Fr\u00edas",
+        "seoname": "tomas-frias-10399"
+    },
+    {
+        "id_location": 41449,
+        "id_location_parent": 1,
+        "name": "Tarija",
+        "seoname": "tarija-706519"
+    },
+    {
+        "id_location": 41450,
+        "id_location_parent": 41449,
+        "name": "Aniceto Arce",
+        "seoname": "aniceto-arce-10417"
+    },
+    {
+        "id_location": 41451,
+        "id_location_parent": 41449,
+        "name": "Burdet O'Connor",
+        "seoname": "burdet-oconnor-10418"
+    },
+    {
+        "id_location": 41452,
+        "id_location_parent": 41449,
+        "name": "Cercado",
+        "seoname": "cercado-10419"
+    },
+    {
+        "id_location": 41453,
+        "id_location_parent": 41449,
+        "name": "Eustaquio M\u00e9ndez",
+        "seoname": "eustaquio-mendez-10420"
+    },
+    {
+        "id_location": 41454,
+        "id_location_parent": 41449,
+        "name": "Gran Chaco",
+        "seoname": "gran-chaco-10421"
+    },
+    {
+        "id_location": 41455,
+        "id_location_parent": 41449,
+        "name": "Jos\u00e9 Mar\u00eda Avil\u00e9s",
+        "seoname": "jose-maria-aviles-10422"
+    }
+]

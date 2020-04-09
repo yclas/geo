@@ -1,0 +1,1676 @@
+[
+    {
+        "id_location": 232269,
+        "id_location_parent": 1,
+        "name": "Greater Accra",
+        "seoname": "greater-accra-782859"
+    },
+    {
+        "id_location": 232270,
+        "id_location_parent": 232269,
+        "name": "Abeka La Paz",
+        "seoname": "abeka-la-paz-514270"
+    },
+    {
+        "id_location": 232271,
+        "id_location_parent": 232269,
+        "name": "Abelemkpe",
+        "seoname": "abelemkpe-514271"
+    },
+    {
+        "id_location": 232272,
+        "id_location_parent": 232269,
+        "name": "Ablorh Adjei",
+        "seoname": "ablorh-adjei-514272"
+    },
+    {
+        "id_location": 232273,
+        "id_location_parent": 232269,
+        "name": "Abokobi",
+        "seoname": "abokobi-514273"
+    },
+    {
+        "id_location": 232274,
+        "id_location_parent": 232269,
+        "name": "Aborfu",
+        "seoname": "aborfu-514274"
+    },
+    {
+        "id_location": 232275,
+        "id_location_parent": 232269,
+        "name": "Abossey Okai",
+        "seoname": "abossey-okai-514275"
+    },
+    {
+        "id_location": 232276,
+        "id_location_parent": 232269,
+        "name": "Accra Central",
+        "seoname": "accra-central-514276"
+    },
+    {
+        "id_location": 232277,
+        "id_location_parent": 232269,
+        "name": "Accra new Town",
+        "seoname": "accra-new-town-514277"
+    },
+    {
+        "id_location": 232278,
+        "id_location_parent": 232269,
+        "name": "Achimota",
+        "seoname": "achimota-514278"
+    },
+    {
+        "id_location": 232279,
+        "id_location_parent": 232269,
+        "name": "Adabraka",
+        "seoname": "adabraka-514279"
+    },
+    {
+        "id_location": 232280,
+        "id_location_parent": 232269,
+        "name": "Adenta",
+        "seoname": "adenta-514280"
+    },
+    {
+        "id_location": 232281,
+        "id_location_parent": 232269,
+        "name": "Adjiriganor",
+        "seoname": "adjiriganor-514281"
+    },
+    {
+        "id_location": 232282,
+        "id_location_parent": 232269,
+        "name": "Agbogba",
+        "seoname": "agbogba-514282"
+    },
+    {
+        "id_location": 232283,
+        "id_location_parent": 232269,
+        "name": "Agbogbloshie",
+        "seoname": "agbogbloshie-514283"
+    },
+    {
+        "id_location": 232284,
+        "id_location_parent": 232269,
+        "name": "Airport",
+        "seoname": "airport-514284"
+    },
+    {
+        "id_location": 232285,
+        "id_location_parent": 232269,
+        "name": "Akweteman",
+        "seoname": "akweteman-514285"
+    },
+    {
+        "id_location": 232286,
+        "id_location_parent": 232269,
+        "name": "Alajo",
+        "seoname": "alajo-514286"
+    },
+    {
+        "id_location": 232287,
+        "id_location_parent": 232269,
+        "name": "Apenkwa",
+        "seoname": "apenkwa-514287"
+    },
+    {
+        "id_location": 232288,
+        "id_location_parent": 232269,
+        "name": "Ashaley Botwe",
+        "seoname": "ashaley-botwe-514288"
+    },
+    {
+        "id_location": 232289,
+        "id_location_parent": 232269,
+        "name": "Ashongman Estates",
+        "seoname": "ashongman-estates-514289"
+    },
+    {
+        "id_location": 232290,
+        "id_location_parent": 232269,
+        "name": "Asylum Down",
+        "seoname": "asylum-down-514290"
+    },
+    {
+        "id_location": 232291,
+        "id_location_parent": 232269,
+        "name": "Avenor",
+        "seoname": "avenor-514291"
+    },
+    {
+        "id_location": 232292,
+        "id_location_parent": 232269,
+        "name": "Awoshie",
+        "seoname": "awoshie-514292"
+    },
+    {
+        "id_location": 232293,
+        "id_location_parent": 232269,
+        "name": "Banana Inn",
+        "seoname": "banana-inn-514293"
+    },
+    {
+        "id_location": 232294,
+        "id_location_parent": 232269,
+        "name": "Bubuashie",
+        "seoname": "bubuashie-514294"
+    },
+    {
+        "id_location": 232295,
+        "id_location_parent": 232269,
+        "name": "Bukom",
+        "seoname": "bukom-514295"
+    },
+    {
+        "id_location": 232296,
+        "id_location_parent": 232269,
+        "name": "Burma Camp",
+        "seoname": "burma-camp-514296"
+    },
+    {
+        "id_location": 232297,
+        "id_location_parent": 232269,
+        "name": "Cantonments",
+        "seoname": "cantonments-514297"
+    },
+    {
+        "id_location": 232298,
+        "id_location_parent": 232269,
+        "name": "Carprice",
+        "seoname": "carprice-514298"
+    },
+    {
+        "id_location": 232299,
+        "id_location_parent": 232269,
+        "name": "Chantang",
+        "seoname": "chantang-514299"
+    },
+    {
+        "id_location": 232300,
+        "id_location_parent": 232269,
+        "name": "Chorkor",
+        "seoname": "chorkor-514300"
+    },
+    {
+        "id_location": 232301,
+        "id_location_parent": 232269,
+        "name": "Circle",
+        "seoname": "circle-514301"
+    },
+    {
+        "id_location": 232302,
+        "id_location_parent": 232269,
+        "name": "Dansoman",
+        "seoname": "dansoman-514302"
+    },
+    {
+        "id_location": 232303,
+        "id_location_parent": 232269,
+        "name": "Darkuman",
+        "seoname": "darkuman-514303"
+    },
+    {
+        "id_location": 232304,
+        "id_location_parent": 232269,
+        "name": "Dome",
+        "seoname": "dome-514304"
+    },
+    {
+        "id_location": 232305,
+        "id_location_parent": 232269,
+        "name": "Dzorwulu",
+        "seoname": "dzorwulu-514305"
+    },
+    {
+        "id_location": 232306,
+        "id_location_parent": 232269,
+        "name": "East Legon",
+        "seoname": "east-legon-514306"
+    },
+    {
+        "id_location": 232307,
+        "id_location_parent": 232269,
+        "name": "East Legon (Okponglo)",
+        "seoname": "east-legon-okponglo-514307"
+    },
+    {
+        "id_location": 232308,
+        "id_location_parent": 232269,
+        "name": "Gbawe",
+        "seoname": "gbawe-514308"
+    },
+    {
+        "id_location": 232309,
+        "id_location_parent": 232269,
+        "name": "Haatso",
+        "seoname": "haatso-514309"
+    },
+    {
+        "id_location": 232310,
+        "id_location_parent": 232269,
+        "name": "Kanda Estate",
+        "seoname": "kanda-estate-514310"
+    },
+    {
+        "id_location": 232311,
+        "id_location_parent": 232269,
+        "name": "Kaneshie",
+        "seoname": "kaneshie-514311"
+    },
+    {
+        "id_location": 232312,
+        "id_location_parent": 232269,
+        "name": "Kantamanto",
+        "seoname": "kantamanto-514312"
+    },
+    {
+        "id_location": 232313,
+        "id_location_parent": 232269,
+        "name": "Kasoa",
+        "seoname": "kasoa-514313"
+    },
+    {
+        "id_location": 232314,
+        "id_location_parent": 232269,
+        "name": "Kokomlemle",
+        "seoname": "kokomlemle-514314"
+    },
+    {
+        "id_location": 232315,
+        "id_location_parent": 232269,
+        "name": "Korle Gonno",
+        "seoname": "korle-gonno-514315"
+    },
+    {
+        "id_location": 232316,
+        "id_location_parent": 232269,
+        "name": "Korle-Bu",
+        "seoname": "korle-bu-514316"
+    },
+    {
+        "id_location": 232317,
+        "id_location_parent": 232269,
+        "name": "Kotobabi",
+        "seoname": "kotobabi-514317"
+    },
+    {
+        "id_location": 232318,
+        "id_location_parent": 232269,
+        "name": "Kwabenya",
+        "seoname": "kwabenya-514318"
+    },
+    {
+        "id_location": 232319,
+        "id_location_parent": 232269,
+        "name": "Kwashieman",
+        "seoname": "kwashieman-514319"
+    },
+    {
+        "id_location": 232320,
+        "id_location_parent": 232269,
+        "name": "La-Aborm",
+        "seoname": "la-aborm-514320"
+    },
+    {
+        "id_location": 232321,
+        "id_location_parent": 232269,
+        "name": "Labone",
+        "seoname": "labone-514321"
+    },
+    {
+        "id_location": 232322,
+        "id_location_parent": 232269,
+        "name": "Lartebiokorshie",
+        "seoname": "lartebiokorshie-514322"
+    },
+    {
+        "id_location": 232323,
+        "id_location_parent": 232269,
+        "name": "Lashibi",
+        "seoname": "lashibi-514323"
+    },
+    {
+        "id_location": 232324,
+        "id_location_parent": 232269,
+        "name": "Legon",
+        "seoname": "legon-514324"
+    },
+    {
+        "id_location": 232325,
+        "id_location_parent": 232269,
+        "name": "Madina",
+        "seoname": "madina-514325"
+    },
+    {
+        "id_location": 232326,
+        "id_location_parent": 232269,
+        "name": "Mallam",
+        "seoname": "mallam-514326"
+    },
+    {
+        "id_location": 232327,
+        "id_location_parent": 232269,
+        "name": "Mallam Atta",
+        "seoname": "mallam-atta-514327"
+    },
+    {
+        "id_location": 232328,
+        "id_location_parent": 232269,
+        "name": "Mamobi",
+        "seoname": "mamobi-514328"
+    },
+    {
+        "id_location": 232329,
+        "id_location_parent": 232269,
+        "name": "Mamprobi",
+        "seoname": "mamprobi-514329"
+    },
+    {
+        "id_location": 232330,
+        "id_location_parent": 232269,
+        "name": "Mataheko",
+        "seoname": "mataheko-514330"
+    },
+    {
+        "id_location": 232331,
+        "id_location_parent": 232269,
+        "name": "McCarthy Hill",
+        "seoname": "mccarthy-hill-514331"
+    },
+    {
+        "id_location": 232332,
+        "id_location_parent": 232269,
+        "name": "New Achimota",
+        "seoname": "new-achimota-514332"
+    },
+    {
+        "id_location": 232333,
+        "id_location_parent": 232269,
+        "name": "New Aplaku Mandela",
+        "seoname": "new-aplaku-mandela-514333"
+    },
+    {
+        "id_location": 232334,
+        "id_location_parent": 232269,
+        "name": "New Ashongman",
+        "seoname": "new-ashongman-514334"
+    },
+    {
+        "id_location": 232335,
+        "id_location_parent": 232269,
+        "name": "New Fadama",
+        "seoname": "new-fadama-514335"
+    },
+    {
+        "id_location": 232336,
+        "id_location_parent": 232269,
+        "name": "New Mamprobi",
+        "seoname": "new-mamprobi-514336"
+    },
+    {
+        "id_location": 232337,
+        "id_location_parent": 232269,
+        "name": "New Weija",
+        "seoname": "new-weija-514337"
+    },
+    {
+        "id_location": 232338,
+        "id_location_parent": 232269,
+        "name": "Nii Boi Town",
+        "seoname": "nii-boi-town-514338"
+    },
+    {
+        "id_location": 232339,
+        "id_location_parent": 232269,
+        "name": "Nima",
+        "seoname": "nima-514339"
+    },
+    {
+        "id_location": 232340,
+        "id_location_parent": 232269,
+        "name": "North Kaneshie",
+        "seoname": "north-kaneshie-514340"
+    },
+    {
+        "id_location": 232341,
+        "id_location_parent": 232269,
+        "name": "North Legon",
+        "seoname": "north-legon-514341"
+    },
+    {
+        "id_location": 232342,
+        "id_location_parent": 232269,
+        "name": "North Ridge",
+        "seoname": "north-ridge-514342"
+    },
+    {
+        "id_location": 232343,
+        "id_location_parent": 232269,
+        "name": "Nungua",
+        "seoname": "nungua-514343"
+    },
+    {
+        "id_location": 232344,
+        "id_location_parent": 232269,
+        "name": "Nungua East",
+        "seoname": "nungua-east-514344"
+    },
+    {
+        "id_location": 232345,
+        "id_location_parent": 232269,
+        "name": "Nungua Old Town",
+        "seoname": "nungua-old-town-514345"
+    },
+    {
+        "id_location": 232346,
+        "id_location_parent": 232269,
+        "name": "Nungua-Zongo",
+        "seoname": "nungua-zongo-514346"
+    },
+    {
+        "id_location": 232347,
+        "id_location_parent": 232269,
+        "name": "Odorkor",
+        "seoname": "odorkor-514347"
+    },
+    {
+        "id_location": 232348,
+        "id_location_parent": 232269,
+        "name": "Osu",
+        "seoname": "osu-514348"
+    },
+    {
+        "id_location": 232349,
+        "id_location_parent": 232269,
+        "name": "Osu Ako-Adjei",
+        "seoname": "osu-ako-adjei-514349"
+    },
+    {
+        "id_location": 232350,
+        "id_location_parent": 232269,
+        "name": "Oyarifa",
+        "seoname": "oyarifa-514350"
+    },
+    {
+        "id_location": 232351,
+        "id_location_parent": 232269,
+        "name": "Pokuase",
+        "seoname": "pokuase-514351"
+    },
+    {
+        "id_location": 232352,
+        "id_location_parent": 232269,
+        "name": "Ridge",
+        "seoname": "ridge-514352"
+    },
+    {
+        "id_location": 232353,
+        "id_location_parent": 232269,
+        "name": "Ringway Estate",
+        "seoname": "ringway-estate-514353"
+    },
+    {
+        "id_location": 232354,
+        "id_location_parent": 232269,
+        "name": "Roman Ridge",
+        "seoname": "roman-ridge-514354"
+    },
+    {
+        "id_location": 232355,
+        "id_location_parent": 232269,
+        "name": "Sakaman",
+        "seoname": "sakaman-514355"
+    },
+    {
+        "id_location": 232356,
+        "id_location_parent": 232269,
+        "name": "Shiashie",
+        "seoname": "shiashie-514356"
+    },
+    {
+        "id_location": 232357,
+        "id_location_parent": 232269,
+        "name": "South La",
+        "seoname": "south-la-514357"
+    },
+    {
+        "id_location": 232358,
+        "id_location_parent": 232269,
+        "name": "South Odorkor",
+        "seoname": "south-odorkor-514358"
+    },
+    {
+        "id_location": 232359,
+        "id_location_parent": 232269,
+        "name": "Spintex",
+        "seoname": "spintex-514359"
+    },
+    {
+        "id_location": 232360,
+        "id_location_parent": 232269,
+        "name": "Sukura",
+        "seoname": "sukura-514360"
+    },
+    {
+        "id_location": 232361,
+        "id_location_parent": 232269,
+        "name": "T\/Junction",
+        "seoname": "tjunction-514361"
+    },
+    {
+        "id_location": 232362,
+        "id_location_parent": 232269,
+        "name": "Taifa",
+        "seoname": "taifa-514362"
+    },
+    {
+        "id_location": 232363,
+        "id_location_parent": 232269,
+        "name": "Tantra Hill",
+        "seoname": "tantra-hill-514363"
+    },
+    {
+        "id_location": 232364,
+        "id_location_parent": 232269,
+        "name": "Tesano",
+        "seoname": "tesano-514364"
+    },
+    {
+        "id_location": 232365,
+        "id_location_parent": 232269,
+        "name": "Teshie New Town",
+        "seoname": "teshie-new-town-514365"
+    },
+    {
+        "id_location": 232366,
+        "id_location_parent": 232269,
+        "name": "Teshie Old Town",
+        "seoname": "teshie-old-town-514366"
+    },
+    {
+        "id_location": 232367,
+        "id_location_parent": 232269,
+        "name": "Teshie-Nungua Estates",
+        "seoname": "teshie-nungua-estates-514367"
+    },
+    {
+        "id_location": 232368,
+        "id_location_parent": 232269,
+        "name": "Trassacco Valley Estates",
+        "seoname": "trassacco-valley-estates-514368"
+    },
+    {
+        "id_location": 232369,
+        "id_location_parent": 232269,
+        "name": "West Legon",
+        "seoname": "west-legon-514369"
+    },
+    {
+        "id_location": 232370,
+        "id_location_parent": 232269,
+        "name": "Tema",
+        "seoname": "tema-514370"
+    },
+    {
+        "id_location": 232371,
+        "id_location_parent": 1,
+        "name": "Western region",
+        "seoname": "western-region-782860"
+    },
+    {
+        "id_location": 232372,
+        "id_location_parent": 232371,
+        "name": "Tarkwa Nsuaem Municipal",
+        "seoname": "tarkwa-nsuaem-municipal-514371"
+    },
+    {
+        "id_location": 232373,
+        "id_location_parent": 232371,
+        "name": "Sekondi Takoradi Metropolitan",
+        "seoname": "sekondi-takoradi-metropolitan-514372"
+    },
+    {
+        "id_location": 232374,
+        "id_location_parent": 232371,
+        "name": "Ahanta West",
+        "seoname": "ahanta-west-514373"
+    },
+    {
+        "id_location": 232375,
+        "id_location_parent": 232371,
+        "name": "Ellembele",
+        "seoname": "ellembele-514374"
+    },
+    {
+        "id_location": 232376,
+        "id_location_parent": 232371,
+        "name": "Prestea-Huni Valley",
+        "seoname": "prestea-huni-valley-514375"
+    },
+    {
+        "id_location": 232377,
+        "id_location_parent": 232371,
+        "name": "Aowin\/ Suaman",
+        "seoname": "aowin-suaman-514376"
+    },
+    {
+        "id_location": 232378,
+        "id_location_parent": 232371,
+        "name": "Bia",
+        "seoname": "bia-514377"
+    },
+    {
+        "id_location": 232379,
+        "id_location_parent": 232371,
+        "name": "Bibiani\/ Anhwiaso\/ Bekwai",
+        "seoname": "bibiani-anhwiaso-bekwai-514378"
+    },
+    {
+        "id_location": 232380,
+        "id_location_parent": 232371,
+        "name": "Jomoro",
+        "seoname": "jomoro-514379"
+    },
+    {
+        "id_location": 232381,
+        "id_location_parent": 232371,
+        "name": "Juaboso",
+        "seoname": "juaboso-514380"
+    },
+    {
+        "id_location": 232382,
+        "id_location_parent": 232371,
+        "name": "Mpohor\/ Wassa East",
+        "seoname": "mpohor-wassa-east-514381"
+    },
+    {
+        "id_location": 232383,
+        "id_location_parent": 232371,
+        "name": "Nzema East Municipal",
+        "seoname": "nzema-east-municipal-514382"
+    },
+    {
+        "id_location": 232384,
+        "id_location_parent": 232371,
+        "name": "Sefwi-Wiawso",
+        "seoname": "sefwi-wiawso-514383"
+    },
+    {
+        "id_location": 232385,
+        "id_location_parent": 232371,
+        "name": "Shama",
+        "seoname": "shama-514384"
+    },
+    {
+        "id_location": 232386,
+        "id_location_parent": 232371,
+        "name": "Wasa Amenfi East",
+        "seoname": "wasa-amenfi-east-514385"
+    },
+    {
+        "id_location": 232387,
+        "id_location_parent": 232371,
+        "name": "Wasa Amenfi West",
+        "seoname": "wasa-amenfi-west-514386"
+    },
+    {
+        "id_location": 232388,
+        "id_location_parent": 232371,
+        "name": "Wassa Amenfi Central",
+        "seoname": "wassa-amenfi-central-514387"
+    },
+    {
+        "id_location": 232389,
+        "id_location_parent": 1,
+        "name": "Volta",
+        "seoname": "volta-782861"
+    },
+    {
+        "id_location": 232390,
+        "id_location_parent": 232389,
+        "name": "Ho Municipal",
+        "seoname": "ho-municipal-514388"
+    },
+    {
+        "id_location": 232391,
+        "id_location_parent": 232389,
+        "name": "Hohoe Municipal",
+        "seoname": "hohoe-municipal-514389"
+    },
+    {
+        "id_location": 232392,
+        "id_location_parent": 232389,
+        "name": "Keta Municipal",
+        "seoname": "keta-municipal-514390"
+    },
+    {
+        "id_location": 232393,
+        "id_location_parent": 232389,
+        "name": "Denu",
+        "seoname": "denu-514391"
+    },
+    {
+        "id_location": 232394,
+        "id_location_parent": 232389,
+        "name": "Ho West",
+        "seoname": "ho-west-514392"
+    },
+    {
+        "id_location": 232395,
+        "id_location_parent": 232389,
+        "name": "Akatsi North",
+        "seoname": "akatsi-north-514393"
+    },
+    {
+        "id_location": 232396,
+        "id_location_parent": 232389,
+        "name": "Akatsi South",
+        "seoname": "akatsi-south-514394"
+    },
+    {
+        "id_location": 232397,
+        "id_location_parent": 232389,
+        "name": "Central Tongu",
+        "seoname": "central-tongu-514395"
+    },
+    {
+        "id_location": 232398,
+        "id_location_parent": 232389,
+        "name": "Jasikan",
+        "seoname": "jasikan-514396"
+    },
+    {
+        "id_location": 232399,
+        "id_location_parent": 232389,
+        "name": "Kadjebi",
+        "seoname": "kadjebi-514397"
+    },
+    {
+        "id_location": 232400,
+        "id_location_parent": 232389,
+        "name": "Ketu North",
+        "seoname": "ketu-north-514398"
+    },
+    {
+        "id_location": 232401,
+        "id_location_parent": 232389,
+        "name": "Ketu South Municipal",
+        "seoname": "ketu-south-municipal-514399"
+    },
+    {
+        "id_location": 232402,
+        "id_location_parent": 232389,
+        "name": "Kpando Municipal",
+        "seoname": "kpando-municipal-514400"
+    },
+    {
+        "id_location": 232403,
+        "id_location_parent": 232389,
+        "name": "Krachi East",
+        "seoname": "krachi-east-514401"
+    },
+    {
+        "id_location": 232404,
+        "id_location_parent": 232389,
+        "name": "Krachi West",
+        "seoname": "krachi-west-514402"
+    },
+    {
+        "id_location": 232405,
+        "id_location_parent": 232389,
+        "name": "Nkwanta South",
+        "seoname": "nkwanta-south-514403"
+    },
+    {
+        "id_location": 232406,
+        "id_location_parent": 232389,
+        "name": "North Dayi",
+        "seoname": "north-dayi-514404"
+    },
+    {
+        "id_location": 232407,
+        "id_location_parent": 232389,
+        "name": "North Tongu",
+        "seoname": "north-tongu-514405"
+    },
+    {
+        "id_location": 232408,
+        "id_location_parent": 232389,
+        "name": "South Dayi",
+        "seoname": "south-dayi-514406"
+    },
+    {
+        "id_location": 232409,
+        "id_location_parent": 232389,
+        "name": "South Tongu",
+        "seoname": "south-tongu-514407"
+    },
+    {
+        "id_location": 232410,
+        "id_location_parent": 1,
+        "name": "Northern region",
+        "seoname": "northern-region-782862"
+    },
+    {
+        "id_location": 232411,
+        "id_location_parent": 232410,
+        "name": "Tamale Metropolitan",
+        "seoname": "tamale-metropolitan-514408"
+    },
+    {
+        "id_location": 232412,
+        "id_location_parent": 232410,
+        "name": "Sagnarigu",
+        "seoname": "sagnarigu-514409"
+    },
+    {
+        "id_location": 232413,
+        "id_location_parent": 232410,
+        "name": "Bole",
+        "seoname": "bole-514410"
+    },
+    {
+        "id_location": 232414,
+        "id_location_parent": 232410,
+        "name": "East Gonja",
+        "seoname": "east-gonja-514411"
+    },
+    {
+        "id_location": 232415,
+        "id_location_parent": 232410,
+        "name": "East Mamprusi",
+        "seoname": "east-mamprusi-514412"
+    },
+    {
+        "id_location": 232416,
+        "id_location_parent": 232410,
+        "name": "Central Gonja",
+        "seoname": "central-gonja-514413"
+    },
+    {
+        "id_location": 232417,
+        "id_location_parent": 232410,
+        "name": "Gushiegu",
+        "seoname": "gushiegu-514414"
+    },
+    {
+        "id_location": 232418,
+        "id_location_parent": 232410,
+        "name": "Kpandai",
+        "seoname": "kpandai-514415"
+    },
+    {
+        "id_location": 232419,
+        "id_location_parent": 232410,
+        "name": "Kumbungu",
+        "seoname": "kumbungu-514416"
+    },
+    {
+        "id_location": 232420,
+        "id_location_parent": 232410,
+        "name": "Savelugu\/ Nanton",
+        "seoname": "savelugu-nanton-514417"
+    },
+    {
+        "id_location": 232421,
+        "id_location_parent": 232410,
+        "name": "Sawla-Tuna-Kalba",
+        "seoname": "sawla-tuna-kalba-514418"
+    },
+    {
+        "id_location": 232422,
+        "id_location_parent": 232410,
+        "name": "Tolon",
+        "seoname": "tolon-514419"
+    },
+    {
+        "id_location": 232423,
+        "id_location_parent": 232410,
+        "name": "West Gonja",
+        "seoname": "west-gonja-514420"
+    },
+    {
+        "id_location": 232424,
+        "id_location_parent": 232410,
+        "name": "Yendi Municipal",
+        "seoname": "yendi-municipal-514421"
+    },
+    {
+        "id_location": 232425,
+        "id_location_parent": 232410,
+        "name": "Zabzugu",
+        "seoname": "zabzugu-514422"
+    },
+    {
+        "id_location": 232426,
+        "id_location_parent": 1,
+        "name": "Upper East region",
+        "seoname": "upper-east-region-782863"
+    },
+    {
+        "id_location": 232427,
+        "id_location_parent": 232426,
+        "name": "Bolgatanga Municipal",
+        "seoname": "bolgatanga-municipal-514423"
+    },
+    {
+        "id_location": 232428,
+        "id_location_parent": 232426,
+        "name": "Kassena Nankana East",
+        "seoname": "kassena-nankana-east-514424"
+    },
+    {
+        "id_location": 232429,
+        "id_location_parent": 232426,
+        "name": "Bawku Municipal",
+        "seoname": "bawku-municipal-514425"
+    },
+    {
+        "id_location": 232430,
+        "id_location_parent": 232426,
+        "name": "Bawku West",
+        "seoname": "bawku-west-514426"
+    },
+    {
+        "id_location": 232431,
+        "id_location_parent": 232426,
+        "name": "Kassena Nankana West",
+        "seoname": "kassena-nankana-west-514427"
+    },
+    {
+        "id_location": 232432,
+        "id_location_parent": 232426,
+        "name": "Bongo",
+        "seoname": "bongo-514428"
+    },
+    {
+        "id_location": 232433,
+        "id_location_parent": 232426,
+        "name": "Builsa",
+        "seoname": "builsa-514429"
+    },
+    {
+        "id_location": 232434,
+        "id_location_parent": 232426,
+        "name": "Talensi",
+        "seoname": "talensi-514430"
+    },
+    {
+        "id_location": 232435,
+        "id_location_parent": 232426,
+        "name": "Nabdam",
+        "seoname": "nabdam-514431"
+    },
+    {
+        "id_location": 232436,
+        "id_location_parent": 232426,
+        "name": "Builsa South",
+        "seoname": "builsa-south-514433"
+    },
+    {
+        "id_location": 232437,
+        "id_location_parent": 232426,
+        "name": "Binduri District",
+        "seoname": "binduri-district-514434"
+    },
+    {
+        "id_location": 232438,
+        "id_location_parent": 232426,
+        "name": "Pusiga District",
+        "seoname": "pusiga-district-514435"
+    },
+    {
+        "id_location": 232439,
+        "id_location_parent": 232426,
+        "name": "Garu Tempane",
+        "seoname": "garu-tempane-514436"
+    },
+    {
+        "id_location": 232440,
+        "id_location_parent": 1,
+        "name": "Upper West region",
+        "seoname": "upper-west-region-782864"
+    },
+    {
+        "id_location": 232441,
+        "id_location_parent": 232440,
+        "name": "Wa Municipal",
+        "seoname": "wa-municipal-514437"
+    },
+    {
+        "id_location": 232442,
+        "id_location_parent": 232440,
+        "name": "Sissala East",
+        "seoname": "sissala-east-514438"
+    },
+    {
+        "id_location": 232443,
+        "id_location_parent": 232440,
+        "name": "Lambussie Karni",
+        "seoname": "lambussie-karni-514439"
+    },
+    {
+        "id_location": 232444,
+        "id_location_parent": 232440,
+        "name": "Lawra",
+        "seoname": "lawra-514440"
+    },
+    {
+        "id_location": 232445,
+        "id_location_parent": 232440,
+        "name": "Nadowli",
+        "seoname": "nadowli-514441"
+    },
+    {
+        "id_location": 232446,
+        "id_location_parent": 232440,
+        "name": "Gwollu",
+        "seoname": "gwollu-514442"
+    },
+    {
+        "id_location": 232447,
+        "id_location_parent": 232440,
+        "name": "Wa East",
+        "seoname": "wa-east-514443"
+    },
+    {
+        "id_location": 232448,
+        "id_location_parent": 232440,
+        "name": "Wechiau",
+        "seoname": "wechiau-514444"
+    },
+    {
+        "id_location": 232449,
+        "id_location_parent": 232440,
+        "name": "Nandom",
+        "seoname": "nandom-514445"
+    },
+    {
+        "id_location": 232450,
+        "id_location_parent": 232440,
+        "name": "Issa",
+        "seoname": "issa-514446"
+    },
+    {
+        "id_location": 232451,
+        "id_location_parent": 232440,
+        "name": "Jirapa",
+        "seoname": "jirapa-514447"
+    },
+    {
+        "id_location": 232452,
+        "id_location_parent": 1,
+        "name": "Eastern region",
+        "seoname": "eastern-region-782865"
+    },
+    {
+        "id_location": 232453,
+        "id_location_parent": 232452,
+        "name": "Koforidua",
+        "seoname": "koforidua-514448"
+    },
+    {
+        "id_location": 232454,
+        "id_location_parent": 232452,
+        "name": "New-Juaben Municipal",
+        "seoname": "new-juaben-municipal-514449"
+    },
+    {
+        "id_location": 232455,
+        "id_location_parent": 232452,
+        "name": "Akuapim South",
+        "seoname": "akuapim-south-514450"
+    },
+    {
+        "id_location": 232456,
+        "id_location_parent": 232452,
+        "name": "Asuogyaman",
+        "seoname": "asuogyaman-514451"
+    },
+    {
+        "id_location": 232457,
+        "id_location_parent": 232452,
+        "name": "Kwahu West Municipal",
+        "seoname": "kwahu-west-municipal-514452"
+    },
+    {
+        "id_location": 232458,
+        "id_location_parent": 232452,
+        "name": "Afram Plains South",
+        "seoname": "afram-plains-south-514453"
+    },
+    {
+        "id_location": 232459,
+        "id_location_parent": 232452,
+        "name": "Akropong",
+        "seoname": "akropong-514454"
+    },
+    {
+        "id_location": 232460,
+        "id_location_parent": 232452,
+        "name": "Akuapim North",
+        "seoname": "akuapim-north-514455"
+    },
+    {
+        "id_location": 232461,
+        "id_location_parent": 232452,
+        "name": "Akuapim South Municipal",
+        "seoname": "akuapim-south-municipal-514456"
+    },
+    {
+        "id_location": 232462,
+        "id_location_parent": 232452,
+        "name": "Akyemansa",
+        "seoname": "akyemansa-514457"
+    },
+    {
+        "id_location": 232463,
+        "id_location_parent": 232452,
+        "name": "Atiwa",
+        "seoname": "atiwa-514458"
+    },
+    {
+        "id_location": 232464,
+        "id_location_parent": 232452,
+        "name": "Birim Central Municipal",
+        "seoname": "birim-central-municipal-514459"
+    },
+    {
+        "id_location": 232465,
+        "id_location_parent": 232452,
+        "name": "Birim North",
+        "seoname": "birim-north-514460"
+    },
+    {
+        "id_location": 232466,
+        "id_location_parent": 232452,
+        "name": "Birim South",
+        "seoname": "birim-south-514461"
+    },
+    {
+        "id_location": 232467,
+        "id_location_parent": 232452,
+        "name": "Denkyembour",
+        "seoname": "denkyembour-514462"
+    },
+    {
+        "id_location": 232468,
+        "id_location_parent": 232452,
+        "name": "East Akim Municipal",
+        "seoname": "east-akim-municipal-514463"
+    },
+    {
+        "id_location": 232469,
+        "id_location_parent": 232452,
+        "name": "Fanteakwa",
+        "seoname": "fanteakwa-514464"
+    },
+    {
+        "id_location": 232470,
+        "id_location_parent": 232452,
+        "name": "Kwaebibirem",
+        "seoname": "kwaebibirem-514465"
+    },
+    {
+        "id_location": 232471,
+        "id_location_parent": 232452,
+        "name": "Kwahu East",
+        "seoname": "kwahu-east-514466"
+    },
+    {
+        "id_location": 232472,
+        "id_location_parent": 232452,
+        "name": "Kwahu North",
+        "seoname": "kwahu-north-514467"
+    },
+    {
+        "id_location": 232473,
+        "id_location_parent": 1,
+        "name": "Central region",
+        "seoname": "central-region-782866"
+    },
+    {
+        "id_location": 232474,
+        "id_location_parent": 232473,
+        "name": "Cape Coast Metropolitan",
+        "seoname": "cape-coast-metropolitan-514468"
+    },
+    {
+        "id_location": 232475,
+        "id_location_parent": 232473,
+        "name": "Awutu-Senya",
+        "seoname": "awutu-senya-514469"
+    },
+    {
+        "id_location": 232476,
+        "id_location_parent": 232473,
+        "name": "Agona West Municipal",
+        "seoname": "agona-west-municipal-514470"
+    },
+    {
+        "id_location": 232477,
+        "id_location_parent": 232473,
+        "name": "Effutu Municipal",
+        "seoname": "effutu-municipal-514471"
+    },
+    {
+        "id_location": 232478,
+        "id_location_parent": 232473,
+        "name": "Awutu-Senya-East",
+        "seoname": "awutu-senya-east-514472"
+    },
+    {
+        "id_location": 232479,
+        "id_location_parent": 232473,
+        "name": "Abura\/ Asebu\/ Kwamankese",
+        "seoname": "abura-asebu-kwamankese-514473"
+    },
+    {
+        "id_location": 232480,
+        "id_location_parent": 232473,
+        "name": "Agona East",
+        "seoname": "agona-east-514474"
+    },
+    {
+        "id_location": 232481,
+        "id_location_parent": 232473,
+        "name": "Ajumako\/ Enyan\/ Essiam",
+        "seoname": "ajumako-enyan-essiam-514475"
+    },
+    {
+        "id_location": 232482,
+        "id_location_parent": 232473,
+        "name": "Asikuma\/ Odoben\/ Brakwa",
+        "seoname": "asikuma-odoben-brakwa-514476"
+    },
+    {
+        "id_location": 232483,
+        "id_location_parent": 232473,
+        "name": "Assin North Municipal",
+        "seoname": "assin-north-municipal-514477"
+    },
+    {
+        "id_location": 232484,
+        "id_location_parent": 232473,
+        "name": "Assin South",
+        "seoname": "assin-south-514478"
+    },
+    {
+        "id_location": 232485,
+        "id_location_parent": 232473,
+        "name": "Ekumfi",
+        "seoname": "ekumfi-514479"
+    },
+    {
+        "id_location": 232486,
+        "id_location_parent": 232473,
+        "name": "Gomoa East",
+        "seoname": "gomoa-east-514480"
+    },
+    {
+        "id_location": 232487,
+        "id_location_parent": 232473,
+        "name": "Gomoa West",
+        "seoname": "gomoa-west-514481"
+    },
+    {
+        "id_location": 232488,
+        "id_location_parent": 232473,
+        "name": "Komenda\/ Edina\/ Eguafo\/ Abirem Municipal",
+        "seoname": "komenda-edina-eguafo-abirem-municipal-514482"
+    },
+    {
+        "id_location": 232489,
+        "id_location_parent": 232473,
+        "name": "Mfantseman Municipal",
+        "seoname": "mfantseman-municipal-514483"
+    },
+    {
+        "id_location": 232490,
+        "id_location_parent": 232473,
+        "name": "Twifo-Ati Mokwa",
+        "seoname": "twifo-ati-mokwa-514484"
+    },
+    {
+        "id_location": 232491,
+        "id_location_parent": 232473,
+        "name": "Twifo\/ Heman\/ Lower Denkyira",
+        "seoname": "twifo-heman-lower-denkyira-514485"
+    },
+    {
+        "id_location": 232492,
+        "id_location_parent": 232473,
+        "name": "Upper Denkyira East Municipal",
+        "seoname": "upper-denkyira-east-municipal-514486"
+    },
+    {
+        "id_location": 232493,
+        "id_location_parent": 232473,
+        "name": "Upper Denkyira West",
+        "seoname": "upper-denkyira-west-514487"
+    },
+    {
+        "id_location": 232494,
+        "id_location_parent": 1,
+        "name": "Brong Ahafo",
+        "seoname": "brong-ahafo-782867"
+    },
+    {
+        "id_location": 232495,
+        "id_location_parent": 232494,
+        "name": "Sunyani Municipal",
+        "seoname": "sunyani-municipal-514488"
+    },
+    {
+        "id_location": 232496,
+        "id_location_parent": 232494,
+        "name": "Techiman Municipal",
+        "seoname": "techiman-municipal-514489"
+    },
+    {
+        "id_location": 232497,
+        "id_location_parent": 232494,
+        "name": "Berekum Municipal",
+        "seoname": "berekum-municipal-514490"
+    },
+    {
+        "id_location": 232498,
+        "id_location_parent": 232494,
+        "name": "Wenchi Municipal",
+        "seoname": "wenchi-municipal-514491"
+    },
+    {
+        "id_location": 232499,
+        "id_location_parent": 232494,
+        "name": "Sunyani West",
+        "seoname": "sunyani-west-514492"
+    },
+    {
+        "id_location": 232500,
+        "id_location_parent": 232494,
+        "name": "Asunafo North Municipal",
+        "seoname": "asunafo-north-municipal-514493"
+    },
+    {
+        "id_location": 232501,
+        "id_location_parent": 232494,
+        "name": "Asutifi",
+        "seoname": "asutifi-514494"
+    },
+    {
+        "id_location": 232502,
+        "id_location_parent": 232494,
+        "name": "Asutifi South",
+        "seoname": "asutifi-south-514495"
+    },
+    {
+        "id_location": 232503,
+        "id_location_parent": 232494,
+        "name": "Atebubu-Amantin Municipal",
+        "seoname": "atebubu-amantin-municipal-514496"
+    },
+    {
+        "id_location": 232504,
+        "id_location_parent": 232494,
+        "name": "Dormaa East",
+        "seoname": "dormaa-east-514497"
+    },
+    {
+        "id_location": 232505,
+        "id_location_parent": 232494,
+        "name": "Dormaa Municipal",
+        "seoname": "dormaa-municipal-514498"
+    },
+    {
+        "id_location": 232506,
+        "id_location_parent": 232494,
+        "name": "Dormaa West",
+        "seoname": "dormaa-west-514499"
+    },
+    {
+        "id_location": 232507,
+        "id_location_parent": 232494,
+        "name": "Jaman North",
+        "seoname": "jaman-north-514500"
+    },
+    {
+        "id_location": 232508,
+        "id_location_parent": 232494,
+        "name": "Jaman South",
+        "seoname": "jaman-south-514501"
+    },
+    {
+        "id_location": 232509,
+        "id_location_parent": 232494,
+        "name": "Kintampo North Municipal",
+        "seoname": "kintampo-north-municipal-514502"
+    },
+    {
+        "id_location": 232510,
+        "id_location_parent": 232494,
+        "name": "Kintampo South",
+        "seoname": "kintampo-south-514503"
+    },
+    {
+        "id_location": 232511,
+        "id_location_parent": 232494,
+        "name": "Nkoranza North",
+        "seoname": "nkoranza-north-514504"
+    },
+    {
+        "id_location": 232512,
+        "id_location_parent": 232494,
+        "name": "Nkoranza South",
+        "seoname": "nkoranza-south-514505"
+    },
+    {
+        "id_location": 232513,
+        "id_location_parent": 232494,
+        "name": "Pru",
+        "seoname": "pru-514506"
+    },
+    {
+        "id_location": 232514,
+        "id_location_parent": 232494,
+        "name": "Sene",
+        "seoname": "sene-514507"
+    },
+    {
+        "id_location": 232515,
+        "id_location_parent": 232494,
+        "name": "Sene West",
+        "seoname": "sene-west-514508"
+    },
+    {
+        "id_location": 232516,
+        "id_location_parent": 232494,
+        "name": "Tain",
+        "seoname": "tain-514509"
+    },
+    {
+        "id_location": 232517,
+        "id_location_parent": 232494,
+        "name": "Tano North",
+        "seoname": "tano-north-514510"
+    },
+    {
+        "id_location": 232518,
+        "id_location_parent": 232494,
+        "name": "Tano South",
+        "seoname": "tano-south-514511"
+    },
+    {
+        "id_location": 232519,
+        "id_location_parent": 232494,
+        "name": "Techiman North",
+        "seoname": "techiman-north-514512"
+    },
+    {
+        "id_location": 232520,
+        "id_location_parent": 1,
+        "name": "Ashanti",
+        "seoname": "ashanti-782868"
+    },
+    {
+        "id_location": 232521,
+        "id_location_parent": 232520,
+        "name": "Obuasi Municipal",
+        "seoname": "obuasi-municipal-514513"
+    },
+    {
+        "id_location": 232522,
+        "id_location_parent": 232520,
+        "name": "Ejisu-Juaben Municipal",
+        "seoname": "ejisu-juaben-municipal-514514"
+    },
+    {
+        "id_location": 232523,
+        "id_location_parent": 232520,
+        "name": "Mampong Municipal",
+        "seoname": "mampong-municipal-514515"
+    },
+    {
+        "id_location": 232524,
+        "id_location_parent": 232520,
+        "name": "Atwima Nwabiagya",
+        "seoname": "atwima-nwabiagya-514516"
+    },
+    {
+        "id_location": 232525,
+        "id_location_parent": 232520,
+        "name": "Asante Akim North",
+        "seoname": "asante-akim-north-514517"
+    },
+    {
+        "id_location": 232526,
+        "id_location_parent": 232520,
+        "name": "Adansi North",
+        "seoname": "adansi-north-514518"
+    },
+    {
+        "id_location": 232527,
+        "id_location_parent": 232520,
+        "name": "Adansi South",
+        "seoname": "adansi-south-514519"
+    },
+    {
+        "id_location": 232528,
+        "id_location_parent": 232520,
+        "name": "Afigya-Kwabre",
+        "seoname": "afigya-kwabre-514520"
+    },
+    {
+        "id_location": 232529,
+        "id_location_parent": 232520,
+        "name": "Ahafo Ano North",
+        "seoname": "ahafo-ano-north-514521"
+    },
+    {
+        "id_location": 232530,
+        "id_location_parent": 232520,
+        "name": "Amansie Central",
+        "seoname": "amansie-central-514522"
+    },
+    {
+        "id_location": 232531,
+        "id_location_parent": 232520,
+        "name": "Amansie West",
+        "seoname": "amansie-west-514523"
+    },
+    {
+        "id_location": 232532,
+        "id_location_parent": 232520,
+        "name": "Asante Akim Central Municipal",
+        "seoname": "asante-akim-central-municipal-514524"
+    },
+    {
+        "id_location": 232533,
+        "id_location_parent": 232520,
+        "name": "Asante Akim South",
+        "seoname": "asante-akim-south-514525"
+    },
+    {
+        "id_location": 232534,
+        "id_location_parent": 232520,
+        "name": "Asokore Mampong Municipal",
+        "seoname": "asokore-mampong-municipal-514526"
+    },
+    {
+        "id_location": 232535,
+        "id_location_parent": 232520,
+        "name": "Atwima Kwanwoma",
+        "seoname": "atwima-kwanwoma-514527"
+    },
+    {
+        "id_location": 232536,
+        "id_location_parent": 232520,
+        "name": "Atwima Mponua",
+        "seoname": "atwima-mponua-514528"
+    },
+    {
+        "id_location": 232537,
+        "id_location_parent": 232520,
+        "name": "Bekwai Municipal",
+        "seoname": "bekwai-municipal-514529"
+    },
+    {
+        "id_location": 232538,
+        "id_location_parent": 232520,
+        "name": "Bosome Freho1",
+        "seoname": "bosome-freho1-514530"
+    },
+    {
+        "id_location": 232539,
+        "id_location_parent": 232520,
+        "name": "Bosomtwe",
+        "seoname": "bosomtwe-514531"
+    },
+    {
+        "id_location": 232540,
+        "id_location_parent": 232520,
+        "name": "Ejura\/ Sekyedumase5",
+        "seoname": "ejura-sekyedumase5-514532"
+    },
+    {
+        "id_location": 232541,
+        "id_location_parent": 232520,
+        "name": "Kumawu",
+        "seoname": "kumawu-514533"
+    },
+    {
+        "id_location": 232542,
+        "id_location_parent": 232520,
+        "name": "Kwabre East",
+        "seoname": "kwabre-east-514534"
+    },
+    {
+        "id_location": 232543,
+        "id_location_parent": 232520,
+        "name": "Offinso North",
+        "seoname": "offinso-north-514535"
+    },
+    {
+        "id_location": 232544,
+        "id_location_parent": 232520,
+        "name": "Offinso South Municipal",
+        "seoname": "offinso-south-municipal-514536"
+    },
+    {
+        "id_location": 232545,
+        "id_location_parent": 232520,
+        "name": "Sekyere Central",
+        "seoname": "sekyere-central-514537"
+    },
+    {
+        "id_location": 232546,
+        "id_location_parent": 232520,
+        "name": "Sekyere East Sekyere South",
+        "seoname": "sekyere-east-sekyere-south-514538"
+    },
+    {
+        "id_location": 232547,
+        "id_location_parent": 232520,
+        "name": "Sekyere South",
+        "seoname": "sekyere-south-514539"
+    }
+]

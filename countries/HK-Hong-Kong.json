@@ -1,0 +1,128 @@
+[
+    {
+        "id_location": 234199,
+        "id_location_parent": 1,
+        "name": "Hong Kong Island",
+        "seoname": "hong-kong-island-781428"
+    },
+    {
+        "id_location": 234200,
+        "id_location_parent": 234199,
+        "name": "Eastern District",
+        "seoname": "eastern-district-274147"
+    },
+    {
+        "id_location": 234201,
+        "id_location_parent": 234199,
+        "name": "Wan Chai District",
+        "seoname": "wan-chai-district-274148"
+    },
+    {
+        "id_location": 234202,
+        "id_location_parent": 234199,
+        "name": "Southern District",
+        "seoname": "southern-district-274149"
+    },
+    {
+        "id_location": 234203,
+        "id_location_parent": 234199,
+        "name": "Central and Western District",
+        "seoname": "central-and-western-district-274150"
+    },
+    {
+        "id_location": 234204,
+        "id_location_parent": 1,
+        "name": "Kowloon",
+        "seoname": "kowloon-781429"
+    },
+    {
+        "id_location": 234205,
+        "id_location_parent": 234204,
+        "name": "Kowloon City District",
+        "seoname": "kowloon-city-district-274151"
+    },
+    {
+        "id_location": 234206,
+        "id_location_parent": 234204,
+        "name": "Kwun Tong District",
+        "seoname": "kwun-tong-district-274152"
+    },
+    {
+        "id_location": 234207,
+        "id_location_parent": 234204,
+        "name": "Sham Shui Po District",
+        "seoname": "sham-shui-po-district-274153"
+    },
+    {
+        "id_location": 234208,
+        "id_location_parent": 234204,
+        "name": "Wong Tai Sin District",
+        "seoname": "wong-tai-sin-district-274154"
+    },
+    {
+        "id_location": 234209,
+        "id_location_parent": 234204,
+        "name": "Yau Tsim Mong District",
+        "seoname": "yau-tsim-mong-district-274155"
+    },
+    {
+        "id_location": 234210,
+        "id_location_parent": 1,
+        "name": "New Territories",
+        "seoname": "new-territories-781430"
+    },
+    {
+        "id_location": 234211,
+        "id_location_parent": 234210,
+        "name": "Kwai Tsing District",
+        "seoname": "kwai-tsing-district-274156"
+    },
+    {
+        "id_location": 234212,
+        "id_location_parent": 234210,
+        "name": "North District",
+        "seoname": "north-district-274157"
+    },
+    {
+        "id_location": 234213,
+        "id_location_parent": 234210,
+        "name": "Sha Tin District",
+        "seoname": "sha-tin-district-274158"
+    },
+    {
+        "id_location": 234214,
+        "id_location_parent": 234210,
+        "name": "Tuen Mun District",
+        "seoname": "tuen-mun-district-274159"
+    },
+    {
+        "id_location": 234215,
+        "id_location_parent": 234210,
+        "name": "Islands District",
+        "seoname": "islands-district-274160"
+    },
+    {
+        "id_location": 234216,
+        "id_location_parent": 234210,
+        "name": "Tsuen Wan District",
+        "seoname": "tsuen-wan-district-274161"
+    },
+    {
+        "id_location": 234217,
+        "id_location_parent": 234210,
+        "name": "Tai Po District",
+        "seoname": "tai-po-district-274162"
+    },
+    {
+        "id_location": 234218,
+        "id_location_parent": 234210,
+        "name": "Sai Kung District",
+        "seoname": "sai-kung-district-274163"
+    },
+    {
+        "id_location": 234219,
+        "id_location_parent": 234210,
+        "name": "Yuen Long District",
+        "seoname": "yuen-long-district-274164"
+    }
+]

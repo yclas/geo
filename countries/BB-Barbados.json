@@ -1,0 +1,68 @@
+[
+    {
+        "id_location": 30935,
+        "id_location_parent": 1,
+        "name": "Christ Church",
+        "seoname": "christ-church-742283"
+    },
+    {
+        "id_location": 30936,
+        "id_location_parent": 1,
+        "name": "Saint Andrew",
+        "seoname": "saint-andrew-742284"
+    },
+    {
+        "id_location": 30937,
+        "id_location_parent": 1,
+        "name": "Saint George",
+        "seoname": "saint-george-742285"
+    },
+    {
+        "id_location": 30938,
+        "id_location_parent": 1,
+        "name": "Saint James",
+        "seoname": "saint-james-742286"
+    },
+    {
+        "id_location": 30939,
+        "id_location_parent": 1,
+        "name": "Saint John",
+        "seoname": "saint-john-742287"
+    },
+    {
+        "id_location": 30940,
+        "id_location_parent": 1,
+        "name": "Saint Joseph",
+        "seoname": "saint-joseph-742288"
+    },
+    {
+        "id_location": 30941,
+        "id_location_parent": 1,
+        "name": "Saint Lucy",
+        "seoname": "saint-lucy-742289"
+    },
+    {
+        "id_location": 30942,
+        "id_location_parent": 1,
+        "name": "Saint Michael",
+        "seoname": "saint-michael-742290"
+    },
+    {
+        "id_location": 30943,
+        "id_location_parent": 1,
+        "name": "Saint Peter",
+        "seoname": "saint-peter-742291"
+    },
+    {
+        "id_location": 30944,
+        "id_location_parent": 1,
+        "name": "Saint Philip",
+        "seoname": "saint-philip-742292"
+    },
+    {
+        "id_location": 30945,
+        "id_location_parent": 1,
+        "name": "Saint Thomas",
+        "seoname": "saint-thomas-742293"
+    }
+]

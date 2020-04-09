@@ -1,0 +1,290 @@
+[
+    {
+        "id_location": 10579,
+        "id_location_parent": 1,
+        "name": "Berat",
+        "seoname": "berat-780902"
+    },
+    {
+        "id_location": 10580,
+        "id_location_parent": 10579,
+        "name": "Berat",
+        "seoname": "berat-44203"
+    },
+    {
+        "id_location": 10581,
+        "id_location_parent": 10579,
+        "name": "Ku\u00e7ov\u00eb",
+        "seoname": "kucove-44204"
+    },
+    {
+        "id_location": 10582,
+        "id_location_parent": 10579,
+        "name": "Skrapar",
+        "seoname": "skrapar-44205"
+    },
+    {
+        "id_location": 10583,
+        "id_location_parent": 1,
+        "name": "Dib\u00ebr",
+        "seoname": "diber-780906"
+    },
+    {
+        "id_location": 10584,
+        "id_location_parent": 10583,
+        "name": "Bulqiz\u00eb",
+        "seoname": "bulqize-44206"
+    },
+    {
+        "id_location": 10585,
+        "id_location_parent": 10583,
+        "name": "Dib\u00ebr",
+        "seoname": "diber-44207"
+    },
+    {
+        "id_location": 10586,
+        "id_location_parent": 10583,
+        "name": "Mat",
+        "seoname": "mat-44208"
+    },
+    {
+        "id_location": 10587,
+        "id_location_parent": 1,
+        "name": "Durr\u00ebs",
+        "seoname": "durres-780910"
+    },
+    {
+        "id_location": 10588,
+        "id_location_parent": 10587,
+        "name": "Durr\u00ebs",
+        "seoname": "durres-44209"
+    },
+    {
+        "id_location": 10589,
+        "id_location_parent": 10587,
+        "name": "Kruj\u00eb",
+        "seoname": "kruje-44210"
+    },
+    {
+        "id_location": 10590,
+        "id_location_parent": 1,
+        "name": "Elbasan",
+        "seoname": "elbasan-780913"
+    },
+    {
+        "id_location": 10591,
+        "id_location_parent": 10590,
+        "name": "Elbasan",
+        "seoname": "elbasan-44211"
+    },
+    {
+        "id_location": 10592,
+        "id_location_parent": 10590,
+        "name": "Gramsh",
+        "seoname": "gramsh-44212"
+    },
+    {
+        "id_location": 10593,
+        "id_location_parent": 10590,
+        "name": "Librazhd",
+        "seoname": "librazhd-44213"
+    },
+    {
+        "id_location": 10594,
+        "id_location_parent": 10590,
+        "name": "Peqin",
+        "seoname": "peqin-44214"
+    },
+    {
+        "id_location": 10595,
+        "id_location_parent": 1,
+        "name": "Fier",
+        "seoname": "fier-780918"
+    },
+    {
+        "id_location": 10596,
+        "id_location_parent": 10595,
+        "name": "Fier",
+        "seoname": "fier-44215"
+    },
+    {
+        "id_location": 10597,
+        "id_location_parent": 10595,
+        "name": "Lushnj\u00eb",
+        "seoname": "lushnje-44216"
+    },
+    {
+        "id_location": 10598,
+        "id_location_parent": 10595,
+        "name": "Mallakast\u00ebr",
+        "seoname": "mallakaster-44217"
+    },
+    {
+        "id_location": 10599,
+        "id_location_parent": 1,
+        "name": "Gjirokast\u00ebr",
+        "seoname": "gjirokaster-780922"
+    },
+    {
+        "id_location": 10600,
+        "id_location_parent": 10599,
+        "name": "Gjirokast\u00ebr",
+        "seoname": "gjirokaster-44218"
+    },
+    {
+        "id_location": 10601,
+        "id_location_parent": 10599,
+        "name": "P\u00ebrmet",
+        "seoname": "permet-44219"
+    },
+    {
+        "id_location": 10602,
+        "id_location_parent": 10599,
+        "name": "Tepelen\u00eb",
+        "seoname": "tepelene-44220"
+    },
+    {
+        "id_location": 10603,
+        "id_location_parent": 1,
+        "name": "Kor\u00e7\u00eb",
+        "seoname": "korce-780926"
+    },
+    {
+        "id_location": 10604,
+        "id_location_parent": 10603,
+        "name": "Devoll",
+        "seoname": "devoll-44221"
+    },
+    {
+        "id_location": 10605,
+        "id_location_parent": 10603,
+        "name": "Kolonj\u00eb",
+        "seoname": "kolonje-44222"
+    },
+    {
+        "id_location": 10606,
+        "id_location_parent": 10603,
+        "name": "Kor\u00e7\u00eb",
+        "seoname": "korce-44223"
+    },
+    {
+        "id_location": 10607,
+        "id_location_parent": 10603,
+        "name": "Pogradec",
+        "seoname": "pogradec-44224"
+    },
+    {
+        "id_location": 10608,
+        "id_location_parent": 1,
+        "name": "Kuk\u00ebs",
+        "seoname": "kukes-780931"
+    },
+    {
+        "id_location": 10609,
+        "id_location_parent": 10608,
+        "name": "Has",
+        "seoname": "has-44225"
+    },
+    {
+        "id_location": 10610,
+        "id_location_parent": 10608,
+        "name": "Kuk\u00ebs",
+        "seoname": "kukes-44226"
+    },
+    {
+        "id_location": 10611,
+        "id_location_parent": 10608,
+        "name": "Tropoj\u00eb",
+        "seoname": "tropoje-44227"
+    },
+    {
+        "id_location": 10612,
+        "id_location_parent": 1,
+        "name": "Lezh\u00eb",
+        "seoname": "lezhe-780935"
+    },
+    {
+        "id_location": 10613,
+        "id_location_parent": 10612,
+        "name": "Kurbin",
+        "seoname": "kurbin-44228"
+    },
+    {
+        "id_location": 10614,
+        "id_location_parent": 10612,
+        "name": "Lezh\u00eb",
+        "seoname": "lezhe-44229"
+    },
+    {
+        "id_location": 10615,
+        "id_location_parent": 10612,
+        "name": "Mirdit\u00eb",
+        "seoname": "mirdite-44230"
+    },
+    {
+        "id_location": 10616,
+        "id_location_parent": 1,
+        "name": "Shkod\u00ebr",
+        "seoname": "shkoder-780939"
+    },
+    {
+        "id_location": 10617,
+        "id_location_parent": 10616,
+        "name": "Mal\u00ebsi E Madhe",
+        "seoname": "malesi-e-madhe-44231"
+    },
+    {
+        "id_location": 10618,
+        "id_location_parent": 10616,
+        "name": "Puk\u00eb",
+        "seoname": "puke-44232"
+    },
+    {
+        "id_location": 10619,
+        "id_location_parent": 10616,
+        "name": "Shkod\u00ebr",
+        "seoname": "shkoder-44233"
+    },
+    {
+        "id_location": 10620,
+        "id_location_parent": 1,
+        "name": "Tiran\u00eb",
+        "seoname": "tirane-780943"
+    },
+    {
+        "id_location": 10621,
+        "id_location_parent": 10620,
+        "name": "Kavaj\u00eb",
+        "seoname": "kavaje-44234"
+    },
+    {
+        "id_location": 10622,
+        "id_location_parent": 10620,
+        "name": "Tiran\u00eb",
+        "seoname": "tirane-44235"
+    },
+    {
+        "id_location": 10623,
+        "id_location_parent": 1,
+        "name": "Vlor\u00eb",
+        "seoname": "vlore-780946"
+    },
+    {
+        "id_location": 10624,
+        "id_location_parent": 10623,
+        "name": "Delvin\u00eb",
+        "seoname": "delvine-44236"
+    },
+    {
+        "id_location": 10625,
+        "id_location_parent": 10623,
+        "name": "Sarand\u00eb",
+        "seoname": "sarande-44237"
+    },
+    {
+        "id_location": 10626,
+        "id_location_parent": 10623,
+        "name": "Vlor\u00eb",
+        "seoname": "vlore-44238"
+    }
+]

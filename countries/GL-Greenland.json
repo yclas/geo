@@ -1,0 +1,128 @@
+[
+    {
+        "id_location": 232548,
+        "id_location_parent": 1,
+        "name": "Avannaa",
+        "seoname": "avannaa-743350"
+    },
+    {
+        "id_location": 232549,
+        "id_location_parent": 232548,
+        "name": "Qaanaaq",
+        "seoname": "qaanaaq-37355"
+    },
+    {
+        "id_location": 232550,
+        "id_location_parent": 1,
+        "name": "Kitaa",
+        "seoname": "kitaa-743352"
+    },
+    {
+        "id_location": 232551,
+        "id_location_parent": 232550,
+        "name": "Nanortalik",
+        "seoname": "nanortalik-37356"
+    },
+    {
+        "id_location": 232552,
+        "id_location_parent": 232550,
+        "name": "Qaqortoq",
+        "seoname": "qaqortoq-37357"
+    },
+    {
+        "id_location": 232553,
+        "id_location_parent": 232550,
+        "name": "Narsaq",
+        "seoname": "narsaq-37358"
+    },
+    {
+        "id_location": 232554,
+        "id_location_parent": 232550,
+        "name": "Ivittuut",
+        "seoname": "ivittuut-37359"
+    },
+    {
+        "id_location": 232555,
+        "id_location_parent": 232550,
+        "name": "Paamiut",
+        "seoname": "paamiut-37360"
+    },
+    {
+        "id_location": 232556,
+        "id_location_parent": 232550,
+        "name": "Nuuk",
+        "seoname": "nuuk-37361"
+    },
+    {
+        "id_location": 232557,
+        "id_location_parent": 232550,
+        "name": "Maniitsoq",
+        "seoname": "maniitsoq-37362"
+    },
+    {
+        "id_location": 232558,
+        "id_location_parent": 232550,
+        "name": "Sisimiut",
+        "seoname": "sisimiut-37363"
+    },
+    {
+        "id_location": 232559,
+        "id_location_parent": 232550,
+        "name": "Kangaatsiaq",
+        "seoname": "kangaatsiaq-37364"
+    },
+    {
+        "id_location": 232560,
+        "id_location_parent": 232550,
+        "name": "Aasiaat",
+        "seoname": "aasiaat-37365"
+    },
+    {
+        "id_location": 232561,
+        "id_location_parent": 232550,
+        "name": "Qasigiannguit",
+        "seoname": "qasigiannguit-37366"
+    },
+    {
+        "id_location": 232562,
+        "id_location_parent": 232550,
+        "name": "Ilulissat",
+        "seoname": "ilulissat-37367"
+    },
+    {
+        "id_location": 232563,
+        "id_location_parent": 232550,
+        "name": "Qeqertarsuaq",
+        "seoname": "qeqertarsuaq-37368"
+    },
+    {
+        "id_location": 232564,
+        "id_location_parent": 232550,
+        "name": "Uummannaq",
+        "seoname": "uummannaq-37369"
+    },
+    {
+        "id_location": 232565,
+        "id_location_parent": 232550,
+        "name": "Upernavik",
+        "seoname": "upernavik-37370"
+    },
+    {
+        "id_location": 232566,
+        "id_location_parent": 1,
+        "name": "Tunu",
+        "seoname": "tunu-743368"
+    },
+    {
+        "id_location": 232567,
+        "id_location_parent": 232566,
+        "name": "Ammassalik.",
+        "seoname": "ammassalik-37371"
+    },
+    {
+        "id_location": 232568,
+        "id_location_parent": 232566,
+        "name": "Ittoqqortoormiit",
+        "seoname": "ittoqqortoormiit-37372"
+    }
+]

@@ -1,0 +1,2996 @@
+[
+    {
+        "id_location": 243357,
+        "id_location_parent": 1,
+        "name": "Aceh",
+        "seoname": "aceh-781431"
+    },
+    {
+        "id_location": 243358,
+        "id_location_parent": 243357,
+        "name": "Aceh Besar",
+        "seoname": "aceh-besar-274165"
+    },
+    {
+        "id_location": 243359,
+        "id_location_parent": 243357,
+        "name": "Aceh Jaya",
+        "seoname": "aceh-jaya-274166"
+    },
+    {
+        "id_location": 243360,
+        "id_location_parent": 243357,
+        "name": "Aceh Singkil",
+        "seoname": "aceh-singkil-274167"
+    },
+    {
+        "id_location": 243361,
+        "id_location_parent": 243357,
+        "name": "Aceh Tamiang",
+        "seoname": "aceh-tamiang-274168"
+    },
+    {
+        "id_location": 243362,
+        "id_location_parent": 243357,
+        "name": "Bener Meriah",
+        "seoname": "bener-meriah-274169"
+    },
+    {
+        "id_location": 243363,
+        "id_location_parent": 243357,
+        "name": "Bireu\u00ebn",
+        "seoname": "bireuen-274170"
+    },
+    {
+        "id_location": 243364,
+        "id_location_parent": 243357,
+        "name": "Central Aceh",
+        "seoname": "central-aceh-274171"
+    },
+    {
+        "id_location": 243365,
+        "id_location_parent": 243357,
+        "name": "East Aceh",
+        "seoname": "east-aceh-274172"
+    },
+    {
+        "id_location": 243366,
+        "id_location_parent": 243357,
+        "name": "Gayo Lues",
+        "seoname": "gayo-lues-274173"
+    },
+    {
+        "id_location": 243367,
+        "id_location_parent": 243357,
+        "name": "Nagan Raya",
+        "seoname": "nagan-raya-274174"
+    },
+    {
+        "id_location": 243368,
+        "id_location_parent": 243357,
+        "name": "North Aceh",
+        "seoname": "north-aceh-274175"
+    },
+    {
+        "id_location": 243369,
+        "id_location_parent": 243357,
+        "name": "Pidie",
+        "seoname": "pidie-274176"
+    },
+    {
+        "id_location": 243370,
+        "id_location_parent": 243357,
+        "name": "Pidie Jaya",
+        "seoname": "pidie-jaya-274177"
+    },
+    {
+        "id_location": 243371,
+        "id_location_parent": 243357,
+        "name": "Simeulue",
+        "seoname": "simeulue-274178"
+    },
+    {
+        "id_location": 243372,
+        "id_location_parent": 243357,
+        "name": "South Aceh",
+        "seoname": "south-aceh-274179"
+    },
+    {
+        "id_location": 243373,
+        "id_location_parent": 243357,
+        "name": "Southeast Aceh",
+        "seoname": "southeast-aceh-274180"
+    },
+    {
+        "id_location": 243374,
+        "id_location_parent": 243357,
+        "name": "Southwest Aceh",
+        "seoname": "southwest-aceh-274181"
+    },
+    {
+        "id_location": 243375,
+        "id_location_parent": 243357,
+        "name": "West Aceh",
+        "seoname": "west-aceh-274182"
+    },
+    {
+        "id_location": 243376,
+        "id_location_parent": 243357,
+        "name": "Banda Aceh",
+        "seoname": "banda-aceh-274183"
+    },
+    {
+        "id_location": 243377,
+        "id_location_parent": 243357,
+        "name": "Langsa",
+        "seoname": "langsa-274184"
+    },
+    {
+        "id_location": 243378,
+        "id_location_parent": 243357,
+        "name": "Lhokseumawe",
+        "seoname": "lhokseumawe-274185"
+    },
+    {
+        "id_location": 243379,
+        "id_location_parent": 243357,
+        "name": "Sabang",
+        "seoname": "sabang-274186"
+    },
+    {
+        "id_location": 243380,
+        "id_location_parent": 243357,
+        "name": "Subulussalam",
+        "seoname": "subulussalam-274187"
+    },
+    {
+        "id_location": 243381,
+        "id_location_parent": 1,
+        "name": "Bali",
+        "seoname": "bali-781432"
+    },
+    {
+        "id_location": 243382,
+        "id_location_parent": 243381,
+        "name": "Badung",
+        "seoname": "badung-274188"
+    },
+    {
+        "id_location": 243383,
+        "id_location_parent": 243381,
+        "name": "Bangli",
+        "seoname": "bangli-274189"
+    },
+    {
+        "id_location": 243384,
+        "id_location_parent": 243381,
+        "name": "Buleleng",
+        "seoname": "buleleng-274190"
+    },
+    {
+        "id_location": 243385,
+        "id_location_parent": 243381,
+        "name": "Gianyar",
+        "seoname": "gianyar-274191"
+    },
+    {
+        "id_location": 243386,
+        "id_location_parent": 243381,
+        "name": "Jembrana",
+        "seoname": "jembrana-274192"
+    },
+    {
+        "id_location": 243387,
+        "id_location_parent": 243381,
+        "name": "Karangasem",
+        "seoname": "karangasem-274193"
+    },
+    {
+        "id_location": 243388,
+        "id_location_parent": 243381,
+        "name": "Klungkung",
+        "seoname": "klungkung-274194"
+    },
+    {
+        "id_location": 243389,
+        "id_location_parent": 243381,
+        "name": "Tabanan",
+        "seoname": "tabanan-274195"
+    },
+    {
+        "id_location": 243390,
+        "id_location_parent": 243381,
+        "name": "Denpasar",
+        "seoname": "denpasar-274196"
+    },
+    {
+        "id_location": 243391,
+        "id_location_parent": 1,
+        "name": "Bangka Belitung Islands",
+        "seoname": "bangka-belitung-islands-781433"
+    },
+    {
+        "id_location": 243392,
+        "id_location_parent": 243391,
+        "name": "Bangka",
+        "seoname": "bangka-274197"
+    },
+    {
+        "id_location": 243393,
+        "id_location_parent": 243391,
+        "name": "Belitung",
+        "seoname": "belitung-274198"
+    },
+    {
+        "id_location": 243394,
+        "id_location_parent": 243391,
+        "name": "Central Bangka",
+        "seoname": "central-bangka-274199"
+    },
+    {
+        "id_location": 243395,
+        "id_location_parent": 243391,
+        "name": "East Belitung",
+        "seoname": "east-belitung-274200"
+    },
+    {
+        "id_location": 243396,
+        "id_location_parent": 243391,
+        "name": "South Bangka",
+        "seoname": "south-bangka-274201"
+    },
+    {
+        "id_location": 243397,
+        "id_location_parent": 243391,
+        "name": "West Bangka",
+        "seoname": "west-bangka-274202"
+    },
+    {
+        "id_location": 243398,
+        "id_location_parent": 243391,
+        "name": "Pangkal Pinang",
+        "seoname": "pangkal-pinang-274203"
+    },
+    {
+        "id_location": 243399,
+        "id_location_parent": 1,
+        "name": "Banten",
+        "seoname": "banten-781434"
+    },
+    {
+        "id_location": 243400,
+        "id_location_parent": 243399,
+        "name": "Lebak",
+        "seoname": "lebak-274204"
+    },
+    {
+        "id_location": 243401,
+        "id_location_parent": 243399,
+        "name": "Pandeglang",
+        "seoname": "pandeglang-274205"
+    },
+    {
+        "id_location": 243402,
+        "id_location_parent": 243399,
+        "name": "Serang",
+        "seoname": "serang-274206"
+    },
+    {
+        "id_location": 243403,
+        "id_location_parent": 243399,
+        "name": "Cilegon",
+        "seoname": "cilegon-274207"
+    },
+    {
+        "id_location": 243404,
+        "id_location_parent": 243399,
+        "name": "South Tangerang",
+        "seoname": "south-tangerang-274208"
+    },
+    {
+        "id_location": 243405,
+        "id_location_parent": 243399,
+        "name": "Tangerang",
+        "seoname": "tangerang-274209"
+    },
+    {
+        "id_location": 243406,
+        "id_location_parent": 1,
+        "name": "Bengkulu",
+        "seoname": "bengkulu-781435"
+    },
+    {
+        "id_location": 243407,
+        "id_location_parent": 243406,
+        "name": "Central Bengkulu",
+        "seoname": "central-bengkulu-274210"
+    },
+    {
+        "id_location": 243408,
+        "id_location_parent": 243406,
+        "name": "Kaur",
+        "seoname": "kaur-274211"
+    },
+    {
+        "id_location": 243409,
+        "id_location_parent": 243406,
+        "name": "Kepahiang",
+        "seoname": "kepahiang-274212"
+    },
+    {
+        "id_location": 243410,
+        "id_location_parent": 243406,
+        "name": "Lebong",
+        "seoname": "lebong-274213"
+    },
+    {
+        "id_location": 243411,
+        "id_location_parent": 243406,
+        "name": "Muko-Muko",
+        "seoname": "muko-muko-274214"
+    },
+    {
+        "id_location": 243412,
+        "id_location_parent": 243406,
+        "name": "North Bengkulu",
+        "seoname": "north-bengkulu-274215"
+    },
+    {
+        "id_location": 243413,
+        "id_location_parent": 243406,
+        "name": "Rejang Lebong",
+        "seoname": "rejang-lebong-274216"
+    },
+    {
+        "id_location": 243414,
+        "id_location_parent": 243406,
+        "name": "Seluma",
+        "seoname": "seluma-274217"
+    },
+    {
+        "id_location": 243415,
+        "id_location_parent": 243406,
+        "name": "South Bengkulu",
+        "seoname": "south-bengkulu-274218"
+    },
+    {
+        "id_location": 243416,
+        "id_location_parent": 243406,
+        "name": "Bengkulu",
+        "seoname": "bengkulu-274219"
+    },
+    {
+        "id_location": 243417,
+        "id_location_parent": 1,
+        "name": "Central Java",
+        "seoname": "central-java-781436"
+    },
+    {
+        "id_location": 243418,
+        "id_location_parent": 243417,
+        "name": "Banjarnegara",
+        "seoname": "banjarnegara-274220"
+    },
+    {
+        "id_location": 243419,
+        "id_location_parent": 243417,
+        "name": "Banyumas",
+        "seoname": "banyumas-274221"
+    },
+    {
+        "id_location": 243420,
+        "id_location_parent": 243417,
+        "name": "Batang",
+        "seoname": "batang-274222"
+    },
+    {
+        "id_location": 243421,
+        "id_location_parent": 243417,
+        "name": "Blora Regency",
+        "seoname": "blora-regency-274223"
+    },
+    {
+        "id_location": 243422,
+        "id_location_parent": 243417,
+        "name": "Boyolali",
+        "seoname": "boyolali-274224"
+    },
+    {
+        "id_location": 243423,
+        "id_location_parent": 243417,
+        "name": "Brebes",
+        "seoname": "brebes-274225"
+    },
+    {
+        "id_location": 243424,
+        "id_location_parent": 243417,
+        "name": "Cilacap",
+        "seoname": "cilacap-274226"
+    },
+    {
+        "id_location": 243425,
+        "id_location_parent": 243417,
+        "name": "Demak",
+        "seoname": "demak-274227"
+    },
+    {
+        "id_location": 243426,
+        "id_location_parent": 243417,
+        "name": "Grobogan",
+        "seoname": "grobogan-274228"
+    },
+    {
+        "id_location": 243427,
+        "id_location_parent": 243417,
+        "name": "Jepara",
+        "seoname": "jepara-274229"
+    },
+    {
+        "id_location": 243428,
+        "id_location_parent": 243417,
+        "name": "Karanganyar",
+        "seoname": "karanganyar-274230"
+    },
+    {
+        "id_location": 243429,
+        "id_location_parent": 243417,
+        "name": "Kebumen",
+        "seoname": "kebumen-274231"
+    },
+    {
+        "id_location": 243430,
+        "id_location_parent": 243417,
+        "name": "Kendal",
+        "seoname": "kendal-274232"
+    },
+    {
+        "id_location": 243431,
+        "id_location_parent": 243417,
+        "name": "Klaten",
+        "seoname": "klaten-274233"
+    },
+    {
+        "id_location": 243432,
+        "id_location_parent": 243417,
+        "name": "Magelang",
+        "seoname": "magelang-274234"
+    },
+    {
+        "id_location": 243433,
+        "id_location_parent": 243417,
+        "name": "Pati",
+        "seoname": "pati-274235"
+    },
+    {
+        "id_location": 243434,
+        "id_location_parent": 243417,
+        "name": "Pekalongan",
+        "seoname": "pekalongan-274236"
+    },
+    {
+        "id_location": 243435,
+        "id_location_parent": 243417,
+        "name": "Pemalang",
+        "seoname": "pemalang-274237"
+    },
+    {
+        "id_location": 243436,
+        "id_location_parent": 243417,
+        "name": "Purbalingga",
+        "seoname": "purbalingga-274238"
+    },
+    {
+        "id_location": 243437,
+        "id_location_parent": 243417,
+        "name": "Purworejo",
+        "seoname": "purworejo-274239"
+    },
+    {
+        "id_location": 243438,
+        "id_location_parent": 243417,
+        "name": "Rembang",
+        "seoname": "rembang-274240"
+    },
+    {
+        "id_location": 243439,
+        "id_location_parent": 243417,
+        "name": "Semarang",
+        "seoname": "semarang-274241"
+    },
+    {
+        "id_location": 243440,
+        "id_location_parent": 243417,
+        "name": "Sragen",
+        "seoname": "sragen-274242"
+    },
+    {
+        "id_location": 243441,
+        "id_location_parent": 243417,
+        "name": "Sukoharjo",
+        "seoname": "sukoharjo-274243"
+    },
+    {
+        "id_location": 243442,
+        "id_location_parent": 243417,
+        "name": "Tegal",
+        "seoname": "tegal-274244"
+    },
+    {
+        "id_location": 243443,
+        "id_location_parent": 243417,
+        "name": "Temanggung",
+        "seoname": "temanggung-274245"
+    },
+    {
+        "id_location": 243444,
+        "id_location_parent": 243417,
+        "name": "Wonogiri",
+        "seoname": "wonogiri-274246"
+    },
+    {
+        "id_location": 243445,
+        "id_location_parent": 243417,
+        "name": "Wonosobo",
+        "seoname": "wonosobo-274247"
+    },
+    {
+        "id_location": 243446,
+        "id_location_parent": 243417,
+        "name": "Surakarta",
+        "seoname": "surakarta-274248"
+    },
+    {
+        "id_location": 243447,
+        "id_location_parent": 243417,
+        "name": "Salatiga",
+        "seoname": "salatiga-274249"
+    },
+    {
+        "id_location": 243448,
+        "id_location_parent": 243417,
+        "name": "Kudus",
+        "seoname": "kudus-274250"
+    },
+    {
+        "id_location": 243449,
+        "id_location_parent": 1,
+        "name": "Central Kalimantan",
+        "seoname": "central-kalimantan-781437"
+    },
+    {
+        "id_location": 243450,
+        "id_location_parent": 243449,
+        "name": "East Barito",
+        "seoname": "east-barito-274251"
+    },
+    {
+        "id_location": 243451,
+        "id_location_parent": 243449,
+        "name": "East Kotawaringin",
+        "seoname": "east-kotawaringin-274252"
+    },
+    {
+        "id_location": 243452,
+        "id_location_parent": 243449,
+        "name": "Gunung Mas",
+        "seoname": "gunung-mas-274253"
+    },
+    {
+        "id_location": 243453,
+        "id_location_parent": 243449,
+        "name": "Kapuas",
+        "seoname": "kapuas-274254"
+    },
+    {
+        "id_location": 243454,
+        "id_location_parent": 243449,
+        "name": "Katingan",
+        "seoname": "katingan-274255"
+    },
+    {
+        "id_location": 243455,
+        "id_location_parent": 243449,
+        "name": "Lamandau",
+        "seoname": "lamandau-274256"
+    },
+    {
+        "id_location": 243456,
+        "id_location_parent": 243449,
+        "name": "Murung Raya",
+        "seoname": "murung-raya-274257"
+    },
+    {
+        "id_location": 243457,
+        "id_location_parent": 243449,
+        "name": "North Barito",
+        "seoname": "north-barito-274258"
+    },
+    {
+        "id_location": 243458,
+        "id_location_parent": 243449,
+        "name": "Pulang Pisang",
+        "seoname": "pulang-pisang-274259"
+    },
+    {
+        "id_location": 243459,
+        "id_location_parent": 243449,
+        "name": "Sukamara",
+        "seoname": "sukamara-274260"
+    },
+    {
+        "id_location": 243460,
+        "id_location_parent": 243449,
+        "name": "Seruyan",
+        "seoname": "seruyan-274261"
+    },
+    {
+        "id_location": 243461,
+        "id_location_parent": 243449,
+        "name": "South Barito",
+        "seoname": "south-barito-274262"
+    },
+    {
+        "id_location": 243462,
+        "id_location_parent": 243449,
+        "name": "West Kotawaringin",
+        "seoname": "west-kotawaringin-274263"
+    },
+    {
+        "id_location": 243463,
+        "id_location_parent": 243449,
+        "name": "Palangkaraya",
+        "seoname": "palangkaraya-274264"
+    },
+    {
+        "id_location": 243464,
+        "id_location_parent": 1,
+        "name": "Central Sulawesi",
+        "seoname": "central-sulawesi-781438"
+    },
+    {
+        "id_location": 243465,
+        "id_location_parent": 243464,
+        "name": "Banggai",
+        "seoname": "banggai-274265"
+    },
+    {
+        "id_location": 243466,
+        "id_location_parent": 243464,
+        "name": "Banggai Islands",
+        "seoname": "banggai-islands-274266"
+    },
+    {
+        "id_location": 243467,
+        "id_location_parent": 243464,
+        "name": "Buol",
+        "seoname": "buol-274267"
+    },
+    {
+        "id_location": 243468,
+        "id_location_parent": 243464,
+        "name": "Donggala",
+        "seoname": "donggala-274268"
+    },
+    {
+        "id_location": 243469,
+        "id_location_parent": 243464,
+        "name": "Morowali",
+        "seoname": "morowali-274269"
+    },
+    {
+        "id_location": 243470,
+        "id_location_parent": 243464,
+        "name": "Parigi Moutong",
+        "seoname": "parigi-moutong-274270"
+    },
+    {
+        "id_location": 243471,
+        "id_location_parent": 243464,
+        "name": "Poso",
+        "seoname": "poso-274271"
+    },
+    {
+        "id_location": 243472,
+        "id_location_parent": 243464,
+        "name": "Sigi",
+        "seoname": "sigi-274272"
+    },
+    {
+        "id_location": 243473,
+        "id_location_parent": 243464,
+        "name": "Tojo Una-Una",
+        "seoname": "tojo-una-una-274273"
+    },
+    {
+        "id_location": 243474,
+        "id_location_parent": 243464,
+        "name": "Toli-Toli",
+        "seoname": "toli-toli-274274"
+    },
+    {
+        "id_location": 243475,
+        "id_location_parent": 243464,
+        "name": "Palu",
+        "seoname": "palu-274275"
+    },
+    {
+        "id_location": 243476,
+        "id_location_parent": 1,
+        "name": "East Java",
+        "seoname": "east-java-781439"
+    },
+    {
+        "id_location": 243477,
+        "id_location_parent": 243476,
+        "name": "Bangkalan Regency",
+        "seoname": "bangkalan-regency-274276"
+    },
+    {
+        "id_location": 243478,
+        "id_location_parent": 243476,
+        "name": "Banyuwangi",
+        "seoname": "banyuwangi-274277"
+    },
+    {
+        "id_location": 243479,
+        "id_location_parent": 243476,
+        "name": "Blitar",
+        "seoname": "blitar-274278"
+    },
+    {
+        "id_location": 243480,
+        "id_location_parent": 243476,
+        "name": "Bojonegoro",
+        "seoname": "bojonegoro-274279"
+    },
+    {
+        "id_location": 243481,
+        "id_location_parent": 243476,
+        "name": "Bondowoso",
+        "seoname": "bondowoso-274280"
+    },
+    {
+        "id_location": 243482,
+        "id_location_parent": 243476,
+        "name": "Gresik",
+        "seoname": "gresik-274281"
+    },
+    {
+        "id_location": 243483,
+        "id_location_parent": 243476,
+        "name": "Jember",
+        "seoname": "jember-274282"
+    },
+    {
+        "id_location": 243484,
+        "id_location_parent": 243476,
+        "name": "Jombang",
+        "seoname": "jombang-274283"
+    },
+    {
+        "id_location": 243485,
+        "id_location_parent": 243476,
+        "name": "Kediri",
+        "seoname": "kediri-274284"
+    },
+    {
+        "id_location": 243486,
+        "id_location_parent": 243476,
+        "name": "Lamongan",
+        "seoname": "lamongan-274285"
+    },
+    {
+        "id_location": 243487,
+        "id_location_parent": 243476,
+        "name": "Lumajang",
+        "seoname": "lumajang-274286"
+    },
+    {
+        "id_location": 243488,
+        "id_location_parent": 243476,
+        "name": "Madiun",
+        "seoname": "madiun-274287"
+    },
+    {
+        "id_location": 243489,
+        "id_location_parent": 243476,
+        "name": "Magetan",
+        "seoname": "magetan-274288"
+    },
+    {
+        "id_location": 243490,
+        "id_location_parent": 243476,
+        "name": "Malang",
+        "seoname": "malang-274289"
+    },
+    {
+        "id_location": 243491,
+        "id_location_parent": 243476,
+        "name": "Mojokerto",
+        "seoname": "mojokerto-274290"
+    },
+    {
+        "id_location": 243492,
+        "id_location_parent": 243476,
+        "name": "Ngawi Regency",
+        "seoname": "ngawi-regency-274291"
+    },
+    {
+        "id_location": 243493,
+        "id_location_parent": 243476,
+        "name": "Pacitan",
+        "seoname": "pacitan-274292"
+    },
+    {
+        "id_location": 243494,
+        "id_location_parent": 243476,
+        "name": "Pasuruan",
+        "seoname": "pasuruan-274293"
+    },
+    {
+        "id_location": 243495,
+        "id_location_parent": 243476,
+        "name": "Ponorogo",
+        "seoname": "ponorogo-274294"
+    },
+    {
+        "id_location": 243496,
+        "id_location_parent": 243476,
+        "name": "Probolinggo",
+        "seoname": "probolinggo-274295"
+    },
+    {
+        "id_location": 243497,
+        "id_location_parent": 243476,
+        "name": "Sampang",
+        "seoname": "sampang-274296"
+    },
+    {
+        "id_location": 243498,
+        "id_location_parent": 243476,
+        "name": "Sidoarjo",
+        "seoname": "sidoarjo-274297"
+    },
+    {
+        "id_location": 243499,
+        "id_location_parent": 243476,
+        "name": "Situbondo",
+        "seoname": "situbondo-274298"
+    },
+    {
+        "id_location": 243500,
+        "id_location_parent": 243476,
+        "name": "Sumenep",
+        "seoname": "sumenep-274299"
+    },
+    {
+        "id_location": 243501,
+        "id_location_parent": 243476,
+        "name": "Trenggalek",
+        "seoname": "trenggalek-274300"
+    },
+    {
+        "id_location": 243502,
+        "id_location_parent": 243476,
+        "name": "Tuban",
+        "seoname": "tuban-274301"
+    },
+    {
+        "id_location": 243503,
+        "id_location_parent": 243476,
+        "name": "Tulungagung",
+        "seoname": "tulungagung-274302"
+    },
+    {
+        "id_location": 243504,
+        "id_location_parent": 243476,
+        "name": "Batu",
+        "seoname": "batu-274303"
+    },
+    {
+        "id_location": 243505,
+        "id_location_parent": 243476,
+        "name": "Surabaya",
+        "seoname": "surabaya-274304"
+    },
+    {
+        "id_location": 243506,
+        "id_location_parent": 243476,
+        "name": "Nganjuk",
+        "seoname": "nganjuk-274305"
+    },
+    {
+        "id_location": 243507,
+        "id_location_parent": 243476,
+        "name": "Pamekasan",
+        "seoname": "pamekasan-274306"
+    },
+    {
+        "id_location": 243508,
+        "id_location_parent": 1,
+        "name": "East Kalimantan",
+        "seoname": "east-kalimantan-781440"
+    },
+    {
+        "id_location": 243509,
+        "id_location_parent": 243508,
+        "name": "Berau",
+        "seoname": "berau-274307"
+    },
+    {
+        "id_location": 243510,
+        "id_location_parent": 243508,
+        "name": "Bulungan",
+        "seoname": "bulungan-274308"
+    },
+    {
+        "id_location": 243511,
+        "id_location_parent": 243508,
+        "name": "East Kutai",
+        "seoname": "east-kutai-274309"
+    },
+    {
+        "id_location": 243512,
+        "id_location_parent": 243508,
+        "name": "Kutai Kartanegara",
+        "seoname": "kutai-kartanegara-274310"
+    },
+    {
+        "id_location": 243513,
+        "id_location_parent": 243508,
+        "name": "Malinau",
+        "seoname": "malinau-274311"
+    },
+    {
+        "id_location": 243514,
+        "id_location_parent": 243508,
+        "name": "North Penajam Paser",
+        "seoname": "north-penajam-paser-274312"
+    },
+    {
+        "id_location": 243515,
+        "id_location_parent": 243508,
+        "name": "Nunukan",
+        "seoname": "nunukan-274313"
+    },
+    {
+        "id_location": 243516,
+        "id_location_parent": 243508,
+        "name": "Paser",
+        "seoname": "paser-274314"
+    },
+    {
+        "id_location": 243517,
+        "id_location_parent": 243508,
+        "name": "Tana Tidung",
+        "seoname": "tana-tidung-274315"
+    },
+    {
+        "id_location": 243518,
+        "id_location_parent": 243508,
+        "name": "West Kutai",
+        "seoname": "west-kutai-274316"
+    },
+    {
+        "id_location": 243519,
+        "id_location_parent": 243508,
+        "name": "Tarakan",
+        "seoname": "tarakan-274317"
+    },
+    {
+        "id_location": 243520,
+        "id_location_parent": 243508,
+        "name": "Bontang",
+        "seoname": "bontang-274318"
+    },
+    {
+        "id_location": 243521,
+        "id_location_parent": 243508,
+        "name": "Samarinda",
+        "seoname": "samarinda-274319"
+    },
+    {
+        "id_location": 243522,
+        "id_location_parent": 243508,
+        "name": "Balikpapan",
+        "seoname": "balikpapan-274320"
+    },
+    {
+        "id_location": 243523,
+        "id_location_parent": 1,
+        "name": "East Nusa Tenggara",
+        "seoname": "east-nusa-tenggara-781441"
+    },
+    {
+        "id_location": 243524,
+        "id_location_parent": 243523,
+        "name": "Alor",
+        "seoname": "alor-274321"
+    },
+    {
+        "id_location": 243525,
+        "id_location_parent": 243523,
+        "name": "Belu",
+        "seoname": "belu-274322"
+    },
+    {
+        "id_location": 243526,
+        "id_location_parent": 243523,
+        "name": "Central Sumba",
+        "seoname": "central-sumba-274323"
+    },
+    {
+        "id_location": 243527,
+        "id_location_parent": 243523,
+        "name": "East Flores",
+        "seoname": "east-flores-274324"
+    },
+    {
+        "id_location": 243528,
+        "id_location_parent": 243523,
+        "name": "East Manggarai",
+        "seoname": "east-manggarai-274325"
+    },
+    {
+        "id_location": 243529,
+        "id_location_parent": 243523,
+        "name": "East Sumba",
+        "seoname": "east-sumba-274326"
+    },
+    {
+        "id_location": 243530,
+        "id_location_parent": 243523,
+        "name": "Ende",
+        "seoname": "ende-274327"
+    },
+    {
+        "id_location": 243531,
+        "id_location_parent": 243523,
+        "name": "Kupang",
+        "seoname": "kupang-274328"
+    },
+    {
+        "id_location": 243532,
+        "id_location_parent": 243523,
+        "name": "Lembata",
+        "seoname": "lembata-274329"
+    },
+    {
+        "id_location": 243533,
+        "id_location_parent": 243523,
+        "name": "Manggarai",
+        "seoname": "manggarai-274330"
+    },
+    {
+        "id_location": 243534,
+        "id_location_parent": 243523,
+        "name": "Nagekeo",
+        "seoname": "nagekeo-274331"
+    },
+    {
+        "id_location": 243535,
+        "id_location_parent": 243523,
+        "name": "Ngada",
+        "seoname": "ngada-274332"
+    },
+    {
+        "id_location": 243536,
+        "id_location_parent": 243523,
+        "name": "North Central Timor",
+        "seoname": "north-central-timor-274333"
+    },
+    {
+        "id_location": 243537,
+        "id_location_parent": 243523,
+        "name": "Rote Ndao",
+        "seoname": "rote-ndao-274334"
+    },
+    {
+        "id_location": 243538,
+        "id_location_parent": 243523,
+        "name": "Sabu Raijua",
+        "seoname": "sabu-raijua-274335"
+    },
+    {
+        "id_location": 243539,
+        "id_location_parent": 243523,
+        "name": "Sikka",
+        "seoname": "sikka-274336"
+    },
+    {
+        "id_location": 243540,
+        "id_location_parent": 243523,
+        "name": "South Central Timor",
+        "seoname": "south-central-timor-274337"
+    },
+    {
+        "id_location": 243541,
+        "id_location_parent": 243523,
+        "name": "Southwest Sumba",
+        "seoname": "southwest-sumba-274338"
+    },
+    {
+        "id_location": 243542,
+        "id_location_parent": 243523,
+        "name": "West Manggarai",
+        "seoname": "west-manggarai-274339"
+    },
+    {
+        "id_location": 243543,
+        "id_location_parent": 243523,
+        "name": "West Sumba",
+        "seoname": "west-sumba-274340"
+    },
+    {
+        "id_location": 243544,
+        "id_location_parent": 1,
+        "name": "Gorontalo",
+        "seoname": "gorontalo-781442"
+    },
+    {
+        "id_location": 243545,
+        "id_location_parent": 243544,
+        "name": "Boalemo",
+        "seoname": "boalemo-274341"
+    },
+    {
+        "id_location": 243546,
+        "id_location_parent": 243544,
+        "name": "Bone Bolango",
+        "seoname": "bone-bolango-274342"
+    },
+    {
+        "id_location": 243547,
+        "id_location_parent": 243544,
+        "name": "Gorontalo",
+        "seoname": "gorontalo-274343"
+    },
+    {
+        "id_location": 243548,
+        "id_location_parent": 243544,
+        "name": "North Gorontalo",
+        "seoname": "north-gorontalo-274344"
+    },
+    {
+        "id_location": 243549,
+        "id_location_parent": 243544,
+        "name": "Pahuwato",
+        "seoname": "pahuwato-274345"
+    },
+    {
+        "id_location": 243550,
+        "id_location_parent": 1,
+        "name": "Jakarta",
+        "seoname": "jakarta-781443"
+    },
+    {
+        "id_location": 243551,
+        "id_location_parent": 243550,
+        "name": "Seribu Islands",
+        "seoname": "seribu-islands-274346"
+    },
+    {
+        "id_location": 243552,
+        "id_location_parent": 243550,
+        "name": "Jakarta",
+        "seoname": "jakarta-274347"
+    },
+    {
+        "id_location": 243553,
+        "id_location_parent": 1,
+        "name": "Jambi",
+        "seoname": "jambi-781444"
+    },
+    {
+        "id_location": 243554,
+        "id_location_parent": 243553,
+        "name": "Batang Hari",
+        "seoname": "batang-hari-274348"
+    },
+    {
+        "id_location": 243555,
+        "id_location_parent": 243553,
+        "name": "Bungo",
+        "seoname": "bungo-274349"
+    },
+    {
+        "id_location": 243556,
+        "id_location_parent": 243553,
+        "name": "Kerinci",
+        "seoname": "kerinci-274350"
+    },
+    {
+        "id_location": 243557,
+        "id_location_parent": 243553,
+        "name": "Merangin",
+        "seoname": "merangin-274351"
+    },
+    {
+        "id_location": 243558,
+        "id_location_parent": 243553,
+        "name": "Muaro Jambi",
+        "seoname": "muaro-jambi-274352"
+    },
+    {
+        "id_location": 243559,
+        "id_location_parent": 243553,
+        "name": "Sarolangun",
+        "seoname": "sarolangun-274353"
+    },
+    {
+        "id_location": 243560,
+        "id_location_parent": 243553,
+        "name": "East Tanjung Jabung",
+        "seoname": "east-tanjung-jabung-274354"
+    },
+    {
+        "id_location": 243561,
+        "id_location_parent": 243553,
+        "name": "West Tanjung Jabung",
+        "seoname": "west-tanjung-jabung-274355"
+    },
+    {
+        "id_location": 243562,
+        "id_location_parent": 243553,
+        "name": "Tebo",
+        "seoname": "tebo-274356"
+    },
+    {
+        "id_location": 243563,
+        "id_location_parent": 243553,
+        "name": "Jambi",
+        "seoname": "jambi-274357"
+    },
+    {
+        "id_location": 243564,
+        "id_location_parent": 243553,
+        "name": "Sungai Penuh",
+        "seoname": "sungai-penuh-274358"
+    },
+    {
+        "id_location": 243565,
+        "id_location_parent": 1,
+        "name": "Lampung",
+        "seoname": "lampung-781445"
+    },
+    {
+        "id_location": 243566,
+        "id_location_parent": 243565,
+        "name": "Central Lampung",
+        "seoname": "central-lampung-274359"
+    },
+    {
+        "id_location": 243567,
+        "id_location_parent": 243565,
+        "name": "East Lampung",
+        "seoname": "east-lampung-274360"
+    },
+    {
+        "id_location": 243568,
+        "id_location_parent": 243565,
+        "name": "Mesuji",
+        "seoname": "mesuji-274361"
+    },
+    {
+        "id_location": 243569,
+        "id_location_parent": 243565,
+        "name": "North Lampung",
+        "seoname": "north-lampung-274362"
+    },
+    {
+        "id_location": 243570,
+        "id_location_parent": 243565,
+        "name": "Pesawaran",
+        "seoname": "pesawaran-274363"
+    },
+    {
+        "id_location": 243571,
+        "id_location_parent": 243565,
+        "name": "Pringsewu",
+        "seoname": "pringsewu-274364"
+    },
+    {
+        "id_location": 243572,
+        "id_location_parent": 243565,
+        "name": "South Lampung",
+        "seoname": "south-lampung-274365"
+    },
+    {
+        "id_location": 243573,
+        "id_location_parent": 243565,
+        "name": "Tanggamus",
+        "seoname": "tanggamus-274366"
+    },
+    {
+        "id_location": 243574,
+        "id_location_parent": 243565,
+        "name": "Tulang Bawang",
+        "seoname": "tulang-bawang-274367"
+    },
+    {
+        "id_location": 243575,
+        "id_location_parent": 243565,
+        "name": "Way Kanan",
+        "seoname": "way-kanan-274368"
+    },
+    {
+        "id_location": 243576,
+        "id_location_parent": 243565,
+        "name": "West Lampung",
+        "seoname": "west-lampung-274369"
+    },
+    {
+        "id_location": 243577,
+        "id_location_parent": 243565,
+        "name": "West Tulang Bawang",
+        "seoname": "west-tulang-bawang-274370"
+    },
+    {
+        "id_location": 243578,
+        "id_location_parent": 243565,
+        "name": "Metro",
+        "seoname": "metro-274371"
+    },
+    {
+        "id_location": 243579,
+        "id_location_parent": 243565,
+        "name": "Bandar Lampung",
+        "seoname": "bandar-lampung-274372"
+    },
+    {
+        "id_location": 243580,
+        "id_location_parent": 1,
+        "name": "Maluku",
+        "seoname": "maluku-781446"
+    },
+    {
+        "id_location": 243581,
+        "id_location_parent": 243580,
+        "name": "Aru Islands",
+        "seoname": "aru-islands-274373"
+    },
+    {
+        "id_location": 243582,
+        "id_location_parent": 243580,
+        "name": "Buru",
+        "seoname": "buru-274374"
+    },
+    {
+        "id_location": 243583,
+        "id_location_parent": 243580,
+        "name": "Central Maluku",
+        "seoname": "central-maluku-274375"
+    },
+    {
+        "id_location": 243584,
+        "id_location_parent": 243580,
+        "name": "Eastern Seram",
+        "seoname": "eastern-seram-274376"
+    },
+    {
+        "id_location": 243585,
+        "id_location_parent": 243580,
+        "name": "South Buru",
+        "seoname": "south-buru-274377"
+    },
+    {
+        "id_location": 243586,
+        "id_location_parent": 243580,
+        "name": "Southeast Maluku",
+        "seoname": "southeast-maluku-274378"
+    },
+    {
+        "id_location": 243587,
+        "id_location_parent": 243580,
+        "name": "Southwest Maluku",
+        "seoname": "southwest-maluku-274379"
+    },
+    {
+        "id_location": 243588,
+        "id_location_parent": 243580,
+        "name": "Western Seram",
+        "seoname": "western-seram-274380"
+    },
+    {
+        "id_location": 243589,
+        "id_location_parent": 243580,
+        "name": "Western Southeast Maluku",
+        "seoname": "western-southeast-maluku-274381"
+    },
+    {
+        "id_location": 243590,
+        "id_location_parent": 243580,
+        "name": "Ambon",
+        "seoname": "ambon-274382"
+    },
+    {
+        "id_location": 243591,
+        "id_location_parent": 243580,
+        "name": "Tual",
+        "seoname": "tual-274383"
+    },
+    {
+        "id_location": 243592,
+        "id_location_parent": 1,
+        "name": "North Maluku",
+        "seoname": "north-maluku-781447"
+    },
+    {
+        "id_location": 243593,
+        "id_location_parent": 243592,
+        "name": "Central Halmahera",
+        "seoname": "central-halmahera-274384"
+    },
+    {
+        "id_location": 243594,
+        "id_location_parent": 243592,
+        "name": "East Halmahera",
+        "seoname": "east-halmahera-274385"
+    },
+    {
+        "id_location": 243595,
+        "id_location_parent": 243592,
+        "name": "Morotai Islands",
+        "seoname": "morotai-islands-274386"
+    },
+    {
+        "id_location": 243596,
+        "id_location_parent": 243592,
+        "name": "North Halmahera",
+        "seoname": "north-halmahera-274387"
+    },
+    {
+        "id_location": 243597,
+        "id_location_parent": 243592,
+        "name": "South Halmahera",
+        "seoname": "south-halmahera-274388"
+    },
+    {
+        "id_location": 243598,
+        "id_location_parent": 243592,
+        "name": "Sula Islands",
+        "seoname": "sula-islands-274389"
+    },
+    {
+        "id_location": 243599,
+        "id_location_parent": 243592,
+        "name": "West Halmahera",
+        "seoname": "west-halmahera-274390"
+    },
+    {
+        "id_location": 243600,
+        "id_location_parent": 243592,
+        "name": "Ternate",
+        "seoname": "ternate-274391"
+    },
+    {
+        "id_location": 243601,
+        "id_location_parent": 243592,
+        "name": "Tidore Islands",
+        "seoname": "tidore-islands-274392"
+    },
+    {
+        "id_location": 243602,
+        "id_location_parent": 1,
+        "name": "North Sulawesi",
+        "seoname": "north-sulawesi-781448"
+    },
+    {
+        "id_location": 243603,
+        "id_location_parent": 243602,
+        "name": "Bolaang Mongondow Regency",
+        "seoname": "bolaang-mongondow-regency-274393"
+    },
+    {
+        "id_location": 243604,
+        "id_location_parent": 243602,
+        "name": "East Bolaang Mongondow Regency",
+        "seoname": "east-bolaang-mongondow-regency-274394"
+    },
+    {
+        "id_location": 243605,
+        "id_location_parent": 243602,
+        "name": "Minahasa Regency",
+        "seoname": "minahasa-regency-274395"
+    },
+    {
+        "id_location": 243606,
+        "id_location_parent": 243602,
+        "name": "North Bolaang Mongondow Regency",
+        "seoname": "north-bolaang-mongondow-regency-274396"
+    },
+    {
+        "id_location": 243607,
+        "id_location_parent": 243602,
+        "name": "North Minahasa Regency",
+        "seoname": "north-minahasa-regency-274397"
+    },
+    {
+        "id_location": 243608,
+        "id_location_parent": 243602,
+        "name": "Sangihe Islands Regency",
+        "seoname": "sangihe-islands-regency-274398"
+    },
+    {
+        "id_location": 243609,
+        "id_location_parent": 243602,
+        "name": "Sitaro Islands Regency",
+        "seoname": "sitaro-islands-regency-274399"
+    },
+    {
+        "id_location": 243610,
+        "id_location_parent": 243602,
+        "name": "South Bolaang Mongondow Regency",
+        "seoname": "south-bolaang-mongondow-regency-274400"
+    },
+    {
+        "id_location": 243611,
+        "id_location_parent": 243602,
+        "name": "South Minahasa Regency",
+        "seoname": "south-minahasa-regency-274401"
+    },
+    {
+        "id_location": 243612,
+        "id_location_parent": 243602,
+        "name": "Southeast Minahasa Regency",
+        "seoname": "southeast-minahasa-regency-274402"
+    },
+    {
+        "id_location": 243613,
+        "id_location_parent": 243602,
+        "name": "Talaud Islands Regency",
+        "seoname": "talaud-islands-regency-274403"
+    },
+    {
+        "id_location": 243614,
+        "id_location_parent": 243602,
+        "name": "Bitung",
+        "seoname": "bitung-274404"
+    },
+    {
+        "id_location": 243615,
+        "id_location_parent": 243602,
+        "name": "Kotamobagu",
+        "seoname": "kotamobagu-274405"
+    },
+    {
+        "id_location": 243616,
+        "id_location_parent": 243602,
+        "name": "Tomohon",
+        "seoname": "tomohon-274406"
+    },
+    {
+        "id_location": 243617,
+        "id_location_parent": 243602,
+        "name": "Manado",
+        "seoname": "manado-274407"
+    },
+    {
+        "id_location": 243618,
+        "id_location_parent": 1,
+        "name": "North Sumatra",
+        "seoname": "north-sumatra-781449"
+    },
+    {
+        "id_location": 243619,
+        "id_location_parent": 243618,
+        "name": "Asahan",
+        "seoname": "asahan-274408"
+    },
+    {
+        "id_location": 243620,
+        "id_location_parent": 243618,
+        "name": "Batubara",
+        "seoname": "batubara-274409"
+    },
+    {
+        "id_location": 243621,
+        "id_location_parent": 243618,
+        "name": "Central Tapanuli",
+        "seoname": "central-tapanuli-274410"
+    },
+    {
+        "id_location": 243622,
+        "id_location_parent": 243618,
+        "name": "Dairi",
+        "seoname": "dairi-274411"
+    },
+    {
+        "id_location": 243623,
+        "id_location_parent": 243618,
+        "name": "Humbang Hasundutan",
+        "seoname": "humbang-hasundutan-274412"
+    },
+    {
+        "id_location": 243624,
+        "id_location_parent": 243618,
+        "name": "Karo",
+        "seoname": "karo-274413"
+    },
+    {
+        "id_location": 243625,
+        "id_location_parent": 243618,
+        "name": "Labuhan Batu",
+        "seoname": "labuhan-batu-274414"
+    },
+    {
+        "id_location": 243626,
+        "id_location_parent": 243618,
+        "name": "Langkat",
+        "seoname": "langkat-274415"
+    },
+    {
+        "id_location": 243627,
+        "id_location_parent": 243618,
+        "name": "Mandailing Natal",
+        "seoname": "mandailing-natal-274416"
+    },
+    {
+        "id_location": 243628,
+        "id_location_parent": 243618,
+        "name": "Nias",
+        "seoname": "nias-274417"
+    },
+    {
+        "id_location": 243629,
+        "id_location_parent": 243618,
+        "name": "North Labuhan Batu",
+        "seoname": "north-labuhan-batu-274418"
+    },
+    {
+        "id_location": 243630,
+        "id_location_parent": 243618,
+        "name": "North Nias",
+        "seoname": "north-nias-274419"
+    },
+    {
+        "id_location": 243631,
+        "id_location_parent": 243618,
+        "name": "North Padang Lawas",
+        "seoname": "north-padang-lawas-274420"
+    },
+    {
+        "id_location": 243632,
+        "id_location_parent": 243618,
+        "name": "North Tapanuli",
+        "seoname": "north-tapanuli-274421"
+    },
+    {
+        "id_location": 243633,
+        "id_location_parent": 243618,
+        "name": "Padang Lawas",
+        "seoname": "padang-lawas-274422"
+    },
+    {
+        "id_location": 243634,
+        "id_location_parent": 243618,
+        "name": "Pakpak Bharat",
+        "seoname": "pakpak-bharat-274423"
+    },
+    {
+        "id_location": 243635,
+        "id_location_parent": 243618,
+        "name": "Samosir",
+        "seoname": "samosir-274424"
+    },
+    {
+        "id_location": 243636,
+        "id_location_parent": 243618,
+        "name": "Serdang Bedagai",
+        "seoname": "serdang-bedagai-274425"
+    },
+    {
+        "id_location": 243637,
+        "id_location_parent": 243618,
+        "name": "Simalungun",
+        "seoname": "simalungun-274426"
+    },
+    {
+        "id_location": 243638,
+        "id_location_parent": 243618,
+        "name": "South Labuhan Batu",
+        "seoname": "south-labuhan-batu-274427"
+    },
+    {
+        "id_location": 243639,
+        "id_location_parent": 243618,
+        "name": "South Nias",
+        "seoname": "south-nias-274428"
+    },
+    {
+        "id_location": 243640,
+        "id_location_parent": 243618,
+        "name": "South Tapanuli",
+        "seoname": "south-tapanuli-274429"
+    },
+    {
+        "id_location": 243641,
+        "id_location_parent": 243618,
+        "name": "Toba Samosir",
+        "seoname": "toba-samosir-274430"
+    },
+    {
+        "id_location": 243642,
+        "id_location_parent": 243618,
+        "name": "West Nias",
+        "seoname": "west-nias-274431"
+    },
+    {
+        "id_location": 243643,
+        "id_location_parent": 243618,
+        "name": "Binjai",
+        "seoname": "binjai-274432"
+    },
+    {
+        "id_location": 243644,
+        "id_location_parent": 243618,
+        "name": "Gunungsitoli",
+        "seoname": "gunungsitoli-274433"
+    },
+    {
+        "id_location": 243645,
+        "id_location_parent": 243618,
+        "name": "Medan",
+        "seoname": "medan-274434"
+    },
+    {
+        "id_location": 243646,
+        "id_location_parent": 243618,
+        "name": "Padang Sidempuan",
+        "seoname": "padang-sidempuan-274435"
+    },
+    {
+        "id_location": 243647,
+        "id_location_parent": 243618,
+        "name": "Sibolga",
+        "seoname": "sibolga-274436"
+    },
+    {
+        "id_location": 243648,
+        "id_location_parent": 243618,
+        "name": "Tanjung Balai",
+        "seoname": "tanjung-balai-274437"
+    },
+    {
+        "id_location": 243649,
+        "id_location_parent": 243618,
+        "name": "Tebing Tinggi",
+        "seoname": "tebing-tinggi-274438"
+    },
+    {
+        "id_location": 243650,
+        "id_location_parent": 243618,
+        "name": "Pematangsiantar",
+        "seoname": "pematangsiantar-274439"
+    },
+    {
+        "id_location": 243651,
+        "id_location_parent": 243618,
+        "name": "Deli Serdang",
+        "seoname": "deli-serdang-274440"
+    },
+    {
+        "id_location": 243652,
+        "id_location_parent": 1,
+        "name": "Papua",
+        "seoname": "papua-781450"
+    },
+    {
+        "id_location": 243653,
+        "id_location_parent": 243652,
+        "name": "Asmat",
+        "seoname": "asmat-274441"
+    },
+    {
+        "id_location": 243654,
+        "id_location_parent": 243652,
+        "name": "Biak Numfor",
+        "seoname": "biak-numfor-274442"
+    },
+    {
+        "id_location": 243655,
+        "id_location_parent": 243652,
+        "name": "Boven Digoel",
+        "seoname": "boven-digoel-274443"
+    },
+    {
+        "id_location": 243656,
+        "id_location_parent": 243652,
+        "name": "Central Mamberamo",
+        "seoname": "central-mamberamo-274444"
+    },
+    {
+        "id_location": 243657,
+        "id_location_parent": 243652,
+        "name": "Deiyai",
+        "seoname": "deiyai-274445"
+    },
+    {
+        "id_location": 243658,
+        "id_location_parent": 243652,
+        "name": "Dogiyai",
+        "seoname": "dogiyai-274446"
+    },
+    {
+        "id_location": 243659,
+        "id_location_parent": 243652,
+        "name": "Intan Jaya",
+        "seoname": "intan-jaya-274447"
+    },
+    {
+        "id_location": 243660,
+        "id_location_parent": 243652,
+        "name": "Jayawijaya",
+        "seoname": "jayawijaya-274448"
+    },
+    {
+        "id_location": 243661,
+        "id_location_parent": 243652,
+        "name": "Keerom",
+        "seoname": "keerom-274449"
+    },
+    {
+        "id_location": 243662,
+        "id_location_parent": 243652,
+        "name": "Lanny Jaya",
+        "seoname": "lanny-jaya-274450"
+    },
+    {
+        "id_location": 243663,
+        "id_location_parent": 243652,
+        "name": "Mamberamo Jaya",
+        "seoname": "mamberamo-jaya-274451"
+    },
+    {
+        "id_location": 243664,
+        "id_location_parent": 243652,
+        "name": "Mappi",
+        "seoname": "mappi-274452"
+    },
+    {
+        "id_location": 243665,
+        "id_location_parent": 243652,
+        "name": "Merauke",
+        "seoname": "merauke-274453"
+    },
+    {
+        "id_location": 243666,
+        "id_location_parent": 243652,
+        "name": "Mimika",
+        "seoname": "mimika-274454"
+    },
+    {
+        "id_location": 243667,
+        "id_location_parent": 243652,
+        "name": "Nabire",
+        "seoname": "nabire-274455"
+    },
+    {
+        "id_location": 243668,
+        "id_location_parent": 243652,
+        "name": "Nduga",
+        "seoname": "nduga-274456"
+    },
+    {
+        "id_location": 243669,
+        "id_location_parent": 243652,
+        "name": "Paniai",
+        "seoname": "paniai-274457"
+    },
+    {
+        "id_location": 243670,
+        "id_location_parent": 243652,
+        "name": "Bintang Mountains",
+        "seoname": "bintang-mountains-274458"
+    },
+    {
+        "id_location": 243671,
+        "id_location_parent": 243652,
+        "name": "Puncak",
+        "seoname": "puncak-274459"
+    },
+    {
+        "id_location": 243672,
+        "id_location_parent": 243652,
+        "name": "Puncak Jaya",
+        "seoname": "puncak-jaya-274460"
+    },
+    {
+        "id_location": 243673,
+        "id_location_parent": 243652,
+        "name": "Sarmi",
+        "seoname": "sarmi-274461"
+    },
+    {
+        "id_location": 243674,
+        "id_location_parent": 243652,
+        "name": "Supiori",
+        "seoname": "supiori-274462"
+    },
+    {
+        "id_location": 243675,
+        "id_location_parent": 243652,
+        "name": "Tolikara",
+        "seoname": "tolikara-274463"
+    },
+    {
+        "id_location": 243676,
+        "id_location_parent": 243652,
+        "name": "Waropen",
+        "seoname": "waropen-274464"
+    },
+    {
+        "id_location": 243677,
+        "id_location_parent": 243652,
+        "name": "Yahukimo",
+        "seoname": "yahukimo-274465"
+    },
+    {
+        "id_location": 243678,
+        "id_location_parent": 243652,
+        "name": "Yalimo",
+        "seoname": "yalimo-274466"
+    },
+    {
+        "id_location": 243679,
+        "id_location_parent": 243652,
+        "name": "Yapen Islands",
+        "seoname": "yapen-islands-274467"
+    },
+    {
+        "id_location": 243680,
+        "id_location_parent": 243652,
+        "name": "Jayapura",
+        "seoname": "jayapura-274468"
+    },
+    {
+        "id_location": 243681,
+        "id_location_parent": 1,
+        "name": "Riau",
+        "seoname": "riau-781451"
+    },
+    {
+        "id_location": 243682,
+        "id_location_parent": 243681,
+        "name": "Bengkalis Regency",
+        "seoname": "bengkalis-regency-274469"
+    },
+    {
+        "id_location": 243683,
+        "id_location_parent": 243681,
+        "name": "Indragiri Hilir",
+        "seoname": "indragiri-hilir-274470"
+    },
+    {
+        "id_location": 243684,
+        "id_location_parent": 243681,
+        "name": "Indragiri Hulu Regency",
+        "seoname": "indragiri-hulu-regency-274471"
+    },
+    {
+        "id_location": 243685,
+        "id_location_parent": 243681,
+        "name": "Kampar Regency",
+        "seoname": "kampar-regency-274472"
+    },
+    {
+        "id_location": 243686,
+        "id_location_parent": 243681,
+        "name": "Kuantan Singingi",
+        "seoname": "kuantan-singingi-274473"
+    },
+    {
+        "id_location": 243687,
+        "id_location_parent": 243681,
+        "name": "Meranti Islands",
+        "seoname": "meranti-islands-274474"
+    },
+    {
+        "id_location": 243688,
+        "id_location_parent": 243681,
+        "name": "Pelalawan",
+        "seoname": "pelalawan-274475"
+    },
+    {
+        "id_location": 243689,
+        "id_location_parent": 243681,
+        "name": "Rokan Hulu",
+        "seoname": "rokan-hulu-274476"
+    },
+    {
+        "id_location": 243690,
+        "id_location_parent": 243681,
+        "name": "Rokan Hilir",
+        "seoname": "rokan-hilir-274477"
+    },
+    {
+        "id_location": 243691,
+        "id_location_parent": 243681,
+        "name": "Siak Regency",
+        "seoname": "siak-regency-274478"
+    },
+    {
+        "id_location": 243692,
+        "id_location_parent": 243681,
+        "name": "Dumai",
+        "seoname": "dumai-274479"
+    },
+    {
+        "id_location": 243693,
+        "id_location_parent": 243681,
+        "name": "Pekanbaru",
+        "seoname": "pekanbaru-274480"
+    },
+    {
+        "id_location": 243694,
+        "id_location_parent": 1,
+        "name": "Riau Islands",
+        "seoname": "riau-islands-781452"
+    },
+    {
+        "id_location": 243695,
+        "id_location_parent": 243694,
+        "name": "Anambas Islands",
+        "seoname": "anambas-islands-274481"
+    },
+    {
+        "id_location": 243696,
+        "id_location_parent": 243694,
+        "name": "Bintan",
+        "seoname": "bintan-274482"
+    },
+    {
+        "id_location": 243697,
+        "id_location_parent": 243694,
+        "name": "Karimun",
+        "seoname": "karimun-274483"
+    },
+    {
+        "id_location": 243698,
+        "id_location_parent": 243694,
+        "name": "Lingga",
+        "seoname": "lingga-274484"
+    },
+    {
+        "id_location": 243699,
+        "id_location_parent": 243694,
+        "name": "Natuna",
+        "seoname": "natuna-274485"
+    },
+    {
+        "id_location": 243700,
+        "id_location_parent": 243694,
+        "name": "Batam",
+        "seoname": "batam-274486"
+    },
+    {
+        "id_location": 243701,
+        "id_location_parent": 243694,
+        "name": "Tanjung Pinang",
+        "seoname": "tanjung-pinang-274487"
+    },
+    {
+        "id_location": 243702,
+        "id_location_parent": 1,
+        "name": "South East Sulawesi",
+        "seoname": "south-east-sulawesi-781453"
+    },
+    {
+        "id_location": 243703,
+        "id_location_parent": 243702,
+        "name": "Bombana",
+        "seoname": "bombana-274488"
+    },
+    {
+        "id_location": 243704,
+        "id_location_parent": 243702,
+        "name": "Buton",
+        "seoname": "buton-274489"
+    },
+    {
+        "id_location": 243705,
+        "id_location_parent": 243702,
+        "name": "Kolaka",
+        "seoname": "kolaka-274490"
+    },
+    {
+        "id_location": 243706,
+        "id_location_parent": 243702,
+        "name": "Konawe",
+        "seoname": "konawe-274491"
+    },
+    {
+        "id_location": 243707,
+        "id_location_parent": 243702,
+        "name": "Muna",
+        "seoname": "muna-274492"
+    },
+    {
+        "id_location": 243708,
+        "id_location_parent": 243702,
+        "name": "North Buton",
+        "seoname": "north-buton-274493"
+    },
+    {
+        "id_location": 243709,
+        "id_location_parent": 243702,
+        "name": "North Kolaka",
+        "seoname": "north-kolaka-274494"
+    },
+    {
+        "id_location": 243710,
+        "id_location_parent": 243702,
+        "name": "North Konawe",
+        "seoname": "north-konawe-274495"
+    },
+    {
+        "id_location": 243711,
+        "id_location_parent": 243702,
+        "name": "South Konawe",
+        "seoname": "south-konawe-274496"
+    },
+    {
+        "id_location": 243712,
+        "id_location_parent": 243702,
+        "name": "Wakatobi",
+        "seoname": "wakatobi-274497"
+    },
+    {
+        "id_location": 243713,
+        "id_location_parent": 243702,
+        "name": "Bau-Bau",
+        "seoname": "bau-bau-274498"
+    },
+    {
+        "id_location": 243714,
+        "id_location_parent": 243702,
+        "name": "Kendari",
+        "seoname": "kendari-274499"
+    },
+    {
+        "id_location": 243715,
+        "id_location_parent": 1,
+        "name": "South Kalimantan",
+        "seoname": "south-kalimantan-781454"
+    },
+    {
+        "id_location": 243716,
+        "id_location_parent": 243715,
+        "name": "Balangan",
+        "seoname": "balangan-274500"
+    },
+    {
+        "id_location": 243717,
+        "id_location_parent": 243715,
+        "name": "Banjar",
+        "seoname": "banjar-274501"
+    },
+    {
+        "id_location": 243718,
+        "id_location_parent": 243715,
+        "name": "Barito Kuala",
+        "seoname": "barito-kuala-274502"
+    },
+    {
+        "id_location": 243719,
+        "id_location_parent": 243715,
+        "name": "Central Hulu Sungai",
+        "seoname": "central-hulu-sungai-274503"
+    },
+    {
+        "id_location": 243720,
+        "id_location_parent": 243715,
+        "name": "Kotabaru",
+        "seoname": "kotabaru-274504"
+    },
+    {
+        "id_location": 243721,
+        "id_location_parent": 243715,
+        "name": "North Hulu Sungai",
+        "seoname": "north-hulu-sungai-274505"
+    },
+    {
+        "id_location": 243722,
+        "id_location_parent": 243715,
+        "name": "South Hulu Sungai",
+        "seoname": "south-hulu-sungai-274506"
+    },
+    {
+        "id_location": 243723,
+        "id_location_parent": 243715,
+        "name": "Tabalong",
+        "seoname": "tabalong-274507"
+    },
+    {
+        "id_location": 243724,
+        "id_location_parent": 243715,
+        "name": "Tanah Laut",
+        "seoname": "tanah-laut-274508"
+    },
+    {
+        "id_location": 243725,
+        "id_location_parent": 243715,
+        "name": "Tanah Bumbu",
+        "seoname": "tanah-bumbu-274509"
+    },
+    {
+        "id_location": 243726,
+        "id_location_parent": 243715,
+        "name": "Tapin",
+        "seoname": "tapin-274510"
+    },
+    {
+        "id_location": 243727,
+        "id_location_parent": 243715,
+        "name": "Banjarbaru",
+        "seoname": "banjarbaru-274511"
+    },
+    {
+        "id_location": 243728,
+        "id_location_parent": 243715,
+        "name": "Banjarmasin",
+        "seoname": "banjarmasin-274512"
+    },
+    {
+        "id_location": 243729,
+        "id_location_parent": 1,
+        "name": "South Sulawesi",
+        "seoname": "south-sulawesi-781455"
+    },
+    {
+        "id_location": 243730,
+        "id_location_parent": 243729,
+        "name": "Bantaeng",
+        "seoname": "bantaeng-274513"
+    },
+    {
+        "id_location": 243731,
+        "id_location_parent": 243729,
+        "name": "Barru",
+        "seoname": "barru-274514"
+    },
+    {
+        "id_location": 243732,
+        "id_location_parent": 243729,
+        "name": "Bone",
+        "seoname": "bone-274515"
+    },
+    {
+        "id_location": 243733,
+        "id_location_parent": 243729,
+        "name": "Bulukumba",
+        "seoname": "bulukumba-274516"
+    },
+    {
+        "id_location": 243734,
+        "id_location_parent": 243729,
+        "name": "East Luwu",
+        "seoname": "east-luwu-274517"
+    },
+    {
+        "id_location": 243735,
+        "id_location_parent": 243729,
+        "name": "Enrekang",
+        "seoname": "enrekang-274518"
+    },
+    {
+        "id_location": 243736,
+        "id_location_parent": 243729,
+        "name": "Gowa",
+        "seoname": "gowa-274519"
+    },
+    {
+        "id_location": 243737,
+        "id_location_parent": 243729,
+        "name": "Jeneponto",
+        "seoname": "jeneponto-274520"
+    },
+    {
+        "id_location": 243738,
+        "id_location_parent": 243729,
+        "name": "Luwu",
+        "seoname": "luwu-274521"
+    },
+    {
+        "id_location": 243739,
+        "id_location_parent": 243729,
+        "name": "North Luwu",
+        "seoname": "north-luwu-274522"
+    },
+    {
+        "id_location": 243740,
+        "id_location_parent": 243729,
+        "name": "Maros",
+        "seoname": "maros-274523"
+    },
+    {
+        "id_location": 243741,
+        "id_location_parent": 243729,
+        "name": "Pangkajene Islands",
+        "seoname": "pangkajene-islands-274524"
+    },
+    {
+        "id_location": 243742,
+        "id_location_parent": 243729,
+        "name": "Pinrang",
+        "seoname": "pinrang-274525"
+    },
+    {
+        "id_location": 243743,
+        "id_location_parent": 243729,
+        "name": "Selayar Islands",
+        "seoname": "selayar-islands-274526"
+    },
+    {
+        "id_location": 243744,
+        "id_location_parent": 243729,
+        "name": "Sidenreng Rappang",
+        "seoname": "sidenreng-rappang-274527"
+    },
+    {
+        "id_location": 243745,
+        "id_location_parent": 243729,
+        "name": "Soppeng",
+        "seoname": "soppeng-274528"
+    },
+    {
+        "id_location": 243746,
+        "id_location_parent": 243729,
+        "name": "Takalar",
+        "seoname": "takalar-274529"
+    },
+    {
+        "id_location": 243747,
+        "id_location_parent": 243729,
+        "name": "Tana Toraja",
+        "seoname": "tana-toraja-274530"
+    },
+    {
+        "id_location": 243748,
+        "id_location_parent": 243729,
+        "name": "Wajo",
+        "seoname": "wajo-274531"
+    },
+    {
+        "id_location": 243749,
+        "id_location_parent": 243729,
+        "name": "Palopo",
+        "seoname": "palopo-274532"
+    },
+    {
+        "id_location": 243750,
+        "id_location_parent": 243729,
+        "name": "Pare-Pare",
+        "seoname": "pare-pare-274533"
+    },
+    {
+        "id_location": 243751,
+        "id_location_parent": 243729,
+        "name": "Sinjai",
+        "seoname": "sinjai-274534"
+    },
+    {
+        "id_location": 243752,
+        "id_location_parent": 243729,
+        "name": "Makassar",
+        "seoname": "makassar-274535"
+    },
+    {
+        "id_location": 243753,
+        "id_location_parent": 1,
+        "name": "South Sumatra",
+        "seoname": "south-sumatra-781456"
+    },
+    {
+        "id_location": 243754,
+        "id_location_parent": 243753,
+        "name": "Banyuasin",
+        "seoname": "banyuasin-274536"
+    },
+    {
+        "id_location": 243755,
+        "id_location_parent": 243753,
+        "name": "East Ogan Komering Ulu",
+        "seoname": "east-ogan-komering-ulu-274537"
+    },
+    {
+        "id_location": 243756,
+        "id_location_parent": 243753,
+        "name": "Empat Lawang",
+        "seoname": "empat-lawang-274538"
+    },
+    {
+        "id_location": 243757,
+        "id_location_parent": 243753,
+        "name": "Muarama Enim",
+        "seoname": "muarama-enim-274539"
+    },
+    {
+        "id_location": 243758,
+        "id_location_parent": 243753,
+        "name": "Musi Banyuasin",
+        "seoname": "musi-banyuasin-274540"
+    },
+    {
+        "id_location": 243759,
+        "id_location_parent": 243753,
+        "name": "Musi Rawas",
+        "seoname": "musi-rawas-274541"
+    },
+    {
+        "id_location": 243760,
+        "id_location_parent": 243753,
+        "name": "Ogan Ilir",
+        "seoname": "ogan-ilir-274542"
+    },
+    {
+        "id_location": 243761,
+        "id_location_parent": 243753,
+        "name": "Ogan Komering Ilir",
+        "seoname": "ogan-komering-ilir-274543"
+    },
+    {
+        "id_location": 243762,
+        "id_location_parent": 243753,
+        "name": "Ogan Komering Ulu",
+        "seoname": "ogan-komering-ulu-274544"
+    },
+    {
+        "id_location": 243763,
+        "id_location_parent": 243753,
+        "name": "South Ogan Komering Ulu",
+        "seoname": "south-ogan-komering-ulu-274545"
+    },
+    {
+        "id_location": 243764,
+        "id_location_parent": 243753,
+        "name": "Pagar Alam",
+        "seoname": "pagar-alam-274546"
+    },
+    {
+        "id_location": 243765,
+        "id_location_parent": 243753,
+        "name": "Palembang",
+        "seoname": "palembang-274547"
+    },
+    {
+        "id_location": 243766,
+        "id_location_parent": 243753,
+        "name": "Lahat",
+        "seoname": "lahat-274548"
+    },
+    {
+        "id_location": 243767,
+        "id_location_parent": 243753,
+        "name": "Prabumulih",
+        "seoname": "prabumulih-274549"
+    },
+    {
+        "id_location": 243768,
+        "id_location_parent": 243753,
+        "name": "Lubuklinggau",
+        "seoname": "lubuklinggau-274550"
+    },
+    {
+        "id_location": 243769,
+        "id_location_parent": 1,
+        "name": "West Java",
+        "seoname": "west-java-781457"
+    },
+    {
+        "id_location": 243770,
+        "id_location_parent": 243769,
+        "name": "Bandung",
+        "seoname": "bandung-274551"
+    },
+    {
+        "id_location": 243771,
+        "id_location_parent": 243769,
+        "name": "Bekasi",
+        "seoname": "bekasi-274552"
+    },
+    {
+        "id_location": 243772,
+        "id_location_parent": 243769,
+        "name": "Bogor",
+        "seoname": "bogor-274553"
+    },
+    {
+        "id_location": 243773,
+        "id_location_parent": 243769,
+        "name": "Ciamis",
+        "seoname": "ciamis-274554"
+    },
+    {
+        "id_location": 243774,
+        "id_location_parent": 243769,
+        "name": "Cianjur",
+        "seoname": "cianjur-274555"
+    },
+    {
+        "id_location": 243775,
+        "id_location_parent": 243769,
+        "name": "Cirebon",
+        "seoname": "cirebon-274556"
+    },
+    {
+        "id_location": 243776,
+        "id_location_parent": 243769,
+        "name": "Garut",
+        "seoname": "garut-274557"
+    },
+    {
+        "id_location": 243777,
+        "id_location_parent": 243769,
+        "name": "Karawang",
+        "seoname": "karawang-274558"
+    },
+    {
+        "id_location": 243778,
+        "id_location_parent": 243769,
+        "name": "Kuningan",
+        "seoname": "kuningan-274559"
+    },
+    {
+        "id_location": 243779,
+        "id_location_parent": 243769,
+        "name": "Subang",
+        "seoname": "subang-274560"
+    },
+    {
+        "id_location": 243780,
+        "id_location_parent": 243769,
+        "name": "Sukabumi",
+        "seoname": "sukabumi-274561"
+    },
+    {
+        "id_location": 243781,
+        "id_location_parent": 243769,
+        "name": "Sumedang",
+        "seoname": "sumedang-274562"
+    },
+    {
+        "id_location": 243782,
+        "id_location_parent": 243769,
+        "name": "West Bandung",
+        "seoname": "west-bandung-274563"
+    },
+    {
+        "id_location": 243783,
+        "id_location_parent": 243769,
+        "name": "Banjar",
+        "seoname": "banjar-274564"
+    },
+    {
+        "id_location": 243784,
+        "id_location_parent": 243769,
+        "name": "Cimahi",
+        "seoname": "cimahi-274565"
+    },
+    {
+        "id_location": 243785,
+        "id_location_parent": 243769,
+        "name": "Depok",
+        "seoname": "depok-274566"
+    },
+    {
+        "id_location": 243786,
+        "id_location_parent": 243769,
+        "name": "Majalengka",
+        "seoname": "majalengka-274567"
+    },
+    {
+        "id_location": 243787,
+        "id_location_parent": 243769,
+        "name": "Indramayu",
+        "seoname": "indramayu-274568"
+    },
+    {
+        "id_location": 243788,
+        "id_location_parent": 243769,
+        "name": "Purwakarta",
+        "seoname": "purwakarta-274569"
+    },
+    {
+        "id_location": 243789,
+        "id_location_parent": 243769,
+        "name": "Tasikmalaya",
+        "seoname": "tasikmalaya-274570"
+    },
+    {
+        "id_location": 243790,
+        "id_location_parent": 1,
+        "name": "West Kalimantan",
+        "seoname": "west-kalimantan-781458"
+    },
+    {
+        "id_location": 243791,
+        "id_location_parent": 243790,
+        "name": "Bengkayang Regency",
+        "seoname": "bengkayang-regency-274571"
+    },
+    {
+        "id_location": 243792,
+        "id_location_parent": 243790,
+        "name": "Kapuas Hulu Regency",
+        "seoname": "kapuas-hulu-regency-274572"
+    },
+    {
+        "id_location": 243793,
+        "id_location_parent": 243790,
+        "name": "North Kayong Regency",
+        "seoname": "north-kayong-regency-274573"
+    },
+    {
+        "id_location": 243794,
+        "id_location_parent": 243790,
+        "name": "Ketapang Regency",
+        "seoname": "ketapang-regency-274574"
+    },
+    {
+        "id_location": 243795,
+        "id_location_parent": 243790,
+        "name": "Kubu Raya Regency",
+        "seoname": "kubu-raya-regency-274575"
+    },
+    {
+        "id_location": 243796,
+        "id_location_parent": 243790,
+        "name": "Landak Regency",
+        "seoname": "landak-regency-274576"
+    },
+    {
+        "id_location": 243797,
+        "id_location_parent": 243790,
+        "name": "Melawi Regency",
+        "seoname": "melawi-regency-274577"
+    },
+    {
+        "id_location": 243798,
+        "id_location_parent": 243790,
+        "name": "Sambas Regency",
+        "seoname": "sambas-regency-274578"
+    },
+    {
+        "id_location": 243799,
+        "id_location_parent": 243790,
+        "name": "Sanggau Regency",
+        "seoname": "sanggau-regency-274579"
+    },
+    {
+        "id_location": 243800,
+        "id_location_parent": 243790,
+        "name": "Sekadau Regency",
+        "seoname": "sekadau-regency-274580"
+    },
+    {
+        "id_location": 243801,
+        "id_location_parent": 243790,
+        "name": "Sintang Regency",
+        "seoname": "sintang-regency-274581"
+    },
+    {
+        "id_location": 243802,
+        "id_location_parent": 243790,
+        "name": "Singkawang",
+        "seoname": "singkawang-274582"
+    },
+    {
+        "id_location": 243803,
+        "id_location_parent": 243790,
+        "name": "Pontianak",
+        "seoname": "pontianak-274583"
+    },
+    {
+        "id_location": 243804,
+        "id_location_parent": 1,
+        "name": "West Nusa Tenggara",
+        "seoname": "west-nusa-tenggara-781459"
+    },
+    {
+        "id_location": 243805,
+        "id_location_parent": 243804,
+        "name": "Bima",
+        "seoname": "bima-274584"
+    },
+    {
+        "id_location": 243806,
+        "id_location_parent": 243804,
+        "name": "Central Lombok",
+        "seoname": "central-lombok-274585"
+    },
+    {
+        "id_location": 243807,
+        "id_location_parent": 243804,
+        "name": "Dompu",
+        "seoname": "dompu-274586"
+    },
+    {
+        "id_location": 243808,
+        "id_location_parent": 243804,
+        "name": "East Lombok",
+        "seoname": "east-lombok-274587"
+    },
+    {
+        "id_location": 243809,
+        "id_location_parent": 243804,
+        "name": "North Lombok",
+        "seoname": "north-lombok-274588"
+    },
+    {
+        "id_location": 243810,
+        "id_location_parent": 243804,
+        "name": "Sumbawa",
+        "seoname": "sumbawa-274589"
+    },
+    {
+        "id_location": 243811,
+        "id_location_parent": 243804,
+        "name": "West Lombok",
+        "seoname": "west-lombok-274590"
+    },
+    {
+        "id_location": 243812,
+        "id_location_parent": 243804,
+        "name": "West Sumbawa",
+        "seoname": "west-sumbawa-274591"
+    },
+    {
+        "id_location": 243813,
+        "id_location_parent": 243804,
+        "name": "Mataram",
+        "seoname": "mataram-274592"
+    },
+    {
+        "id_location": 243814,
+        "id_location_parent": 1,
+        "name": "West Papua",
+        "seoname": "west-papua-781460"
+    },
+    {
+        "id_location": 243815,
+        "id_location_parent": 243814,
+        "name": "Fak-Fak",
+        "seoname": "fak-fak-274593"
+    },
+    {
+        "id_location": 243816,
+        "id_location_parent": 243814,
+        "name": "Kaimana",
+        "seoname": "kaimana-274594"
+    },
+    {
+        "id_location": 243817,
+        "id_location_parent": 243814,
+        "name": "Maybrat",
+        "seoname": "maybrat-274595"
+    },
+    {
+        "id_location": 243818,
+        "id_location_parent": 243814,
+        "name": "Raja Ampat",
+        "seoname": "raja-ampat-274596"
+    },
+    {
+        "id_location": 243819,
+        "id_location_parent": 243814,
+        "name": "Sorong",
+        "seoname": "sorong-274597"
+    },
+    {
+        "id_location": 243820,
+        "id_location_parent": 243814,
+        "name": "South Sorong",
+        "seoname": "south-sorong-274598"
+    },
+    {
+        "id_location": 243821,
+        "id_location_parent": 243814,
+        "name": "Tambrauw",
+        "seoname": "tambrauw-274599"
+    },
+    {
+        "id_location": 243822,
+        "id_location_parent": 243814,
+        "name": "Teluk Bintuni",
+        "seoname": "teluk-bintuni-274600"
+    },
+    {
+        "id_location": 243823,
+        "id_location_parent": 243814,
+        "name": "Teluk Wondama",
+        "seoname": "teluk-wondama-274601"
+    },
+    {
+        "id_location": 243824,
+        "id_location_parent": 243814,
+        "name": "Manokwari",
+        "seoname": "manokwari-274602"
+    },
+    {
+        "id_location": 243825,
+        "id_location_parent": 1,
+        "name": "West Sulawesi",
+        "seoname": "west-sulawesi-781461"
+    },
+    {
+        "id_location": 243826,
+        "id_location_parent": 243825,
+        "name": "Majene",
+        "seoname": "majene-274603"
+    },
+    {
+        "id_location": 243827,
+        "id_location_parent": 243825,
+        "name": "Mamasa",
+        "seoname": "mamasa-274604"
+    },
+    {
+        "id_location": 243828,
+        "id_location_parent": 243825,
+        "name": "Mamuju",
+        "seoname": "mamuju-274605"
+    },
+    {
+        "id_location": 243829,
+        "id_location_parent": 243825,
+        "name": "North Mamuju",
+        "seoname": "north-mamuju-274606"
+    },
+    {
+        "id_location": 243830,
+        "id_location_parent": 243825,
+        "name": "Polewali Mandar",
+        "seoname": "polewali-mandar-274607"
+    },
+    {
+        "id_location": 243831,
+        "id_location_parent": 1,
+        "name": "West Sumatra",
+        "seoname": "west-sumatra-781462"
+    },
+    {
+        "id_location": 243832,
+        "id_location_parent": 243831,
+        "name": "Agam",
+        "seoname": "agam-274608"
+    },
+    {
+        "id_location": 243833,
+        "id_location_parent": 243831,
+        "name": "Dharmasraya",
+        "seoname": "dharmasraya-274609"
+    },
+    {
+        "id_location": 243834,
+        "id_location_parent": 243831,
+        "name": "Lima Puluh Kota",
+        "seoname": "lima-puluh-kota-274610"
+    },
+    {
+        "id_location": 243835,
+        "id_location_parent": 243831,
+        "name": "Mentawai Islands",
+        "seoname": "mentawai-islands-274611"
+    },
+    {
+        "id_location": 243836,
+        "id_location_parent": 243831,
+        "name": "Padang Pariaman",
+        "seoname": "padang-pariaman-274612"
+    },
+    {
+        "id_location": 243837,
+        "id_location_parent": 243831,
+        "name": "Pasaman",
+        "seoname": "pasaman-274613"
+    },
+    {
+        "id_location": 243838,
+        "id_location_parent": 243831,
+        "name": "Sawahlunto Sijunjung",
+        "seoname": "sawahlunto-sijunjung-274614"
+    },
+    {
+        "id_location": 243839,
+        "id_location_parent": 243831,
+        "name": "Solok",
+        "seoname": "solok-274615"
+    },
+    {
+        "id_location": 243840,
+        "id_location_parent": 243831,
+        "name": "South Pesisir",
+        "seoname": "south-pesisir-274616"
+    },
+    {
+        "id_location": 243841,
+        "id_location_parent": 243831,
+        "name": "South Solok",
+        "seoname": "south-solok-274617"
+    },
+    {
+        "id_location": 243842,
+        "id_location_parent": 243831,
+        "name": "Tanah Datar",
+        "seoname": "tanah-datar-274618"
+    },
+    {
+        "id_location": 243843,
+        "id_location_parent": 243831,
+        "name": "West Pasaman",
+        "seoname": "west-pasaman-274619"
+    },
+    {
+        "id_location": 243844,
+        "id_location_parent": 243831,
+        "name": "Bukittinggi",
+        "seoname": "bukittinggi-274620"
+    },
+    {
+        "id_location": 243845,
+        "id_location_parent": 243831,
+        "name": "Padang",
+        "seoname": "padang-274621"
+    },
+    {
+        "id_location": 243846,
+        "id_location_parent": 243831,
+        "name": "Padang Panjang",
+        "seoname": "padang-panjang-274622"
+    },
+    {
+        "id_location": 243847,
+        "id_location_parent": 243831,
+        "name": "Pariaman",
+        "seoname": "pariaman-274623"
+    },
+    {
+        "id_location": 243848,
+        "id_location_parent": 243831,
+        "name": "Payakumbuh",
+        "seoname": "payakumbuh-274624"
+    },
+    {
+        "id_location": 243849,
+        "id_location_parent": 243831,
+        "name": "Sawahlunto",
+        "seoname": "sawahlunto-274625"
+    },
+    {
+        "id_location": 243850,
+        "id_location_parent": 1,
+        "name": "Yogyakarta",
+        "seoname": "yogyakarta-781463"
+    },
+    {
+        "id_location": 243851,
+        "id_location_parent": 243850,
+        "name": "Bantul",
+        "seoname": "bantul-274626"
+    },
+    {
+        "id_location": 243852,
+        "id_location_parent": 243850,
+        "name": "Gunung Kidul",
+        "seoname": "gunung-kidul-274627"
+    },
+    {
+        "id_location": 243853,
+        "id_location_parent": 243850,
+        "name": "Kulon Progo",
+        "seoname": "kulon-progo-274628"
+    },
+    {
+        "id_location": 243854,
+        "id_location_parent": 243850,
+        "name": "Sleman",
+        "seoname": "sleman-274629"
+    },
+    {
+        "id_location": 243855,
+        "id_location_parent": 243850,
+        "name": "Yogyakarta",
+        "seoname": "yogyakarta-274630"
+    }
+]

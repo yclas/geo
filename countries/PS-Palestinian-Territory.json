@@ -1,0 +1,1952 @@
+[
+    {
+        "id_location": 368853,
+        "id_location_parent": 1,
+        "name": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0642\u062f\u0633",
+        "seoname": "mhafth-alkds-782965"
+    },
+    {
+        "id_location": 368854,
+        "id_location_parent": 368853,
+        "name": "\u0627\u0628\u0648 \u062f\u0650\u064a\u0633",
+        "seoname": "abo-dys-515242"
+    },
+    {
+        "id_location": 368855,
+        "id_location_parent": 368853,
+        "name": "\u0627\u0644\u062c\u064f\u062f\u064e\u064a\u0652\u0631\u064e\u0629",
+        "seoname": "algdyr-515243"
+    },
+    {
+        "id_location": 368856,
+        "id_location_parent": 368853,
+        "name": "\u0627\u0644\u062c\u0650\u064a\u0652\u0628",
+        "seoname": "algyb-515244"
+    },
+    {
+        "id_location": 368857,
+        "id_location_parent": 368853,
+        "name": "\u0627\u0644\u0631\u064e\u0627\u0645 \u0648\u0636\u064e\u0627\u062d\u0650\u064a\u064e\u0629 \u0627\u0644\u0628\u064e\u0631\u064a\u062f",
+        "seoname": "alram-odahy-albryd-515245"
+    },
+    {
+        "id_location": 368858,
+        "id_location_parent": 368853,
+        "name": "\u0627\u0644\u0632\u0652\u0639\u064e\u064a\u0651\u0650\u0645\u0652",
+        "seoname": "alzaaym-515246"
+    },
+    {
+        "id_location": 368859,
+        "id_location_parent": 368853,
+        "name": "\u0627\u0644\u0633\u064e\u0648\u0627\u062d\u0650\u0631\u064e\u0629 \u0627\u0644\u0634\u064e\u0631\u0652\u0642\u0650\u064a\u0651\u064e\u0629",
+        "seoname": "alsoahr-alshrky-515247"
+    },
+    {
+        "id_location": 368860,
+        "id_location_parent": 368853,
+        "name": "\u0627\u0644\u0634\u064e\u064a\u0652\u062e \u0633\u064e\u0639\u0652\u062f",
+        "seoname": "alshykh-saad-515248"
+    },
+    {
+        "id_location": 368861,
+        "id_location_parent": 368853,
+        "name": "\u0627\u0644\u0639\u0650\u064a\u0652\u0632\u064e\u0631\u0650\u064a\u0651\u064e\u0629",
+        "seoname": "alaayzry-515249"
+    },
+    {
+        "id_location": 368862,
+        "id_location_parent": 368853,
+        "name": "\u0627\u0644\u0642\u064f\u0628\u064e\u064a\u0652\u0628\u064e\u0629",
+        "seoname": "alkbyb-515250"
+    },
+    {
+        "id_location": 368863,
+        "id_location_parent": 368853,
+        "name": "\u0627\u0644\u0646\u064e\u0628\u0650\u064a \u0635\u064e\u0645\u064f\u0648\u0626\u064a\u0644",
+        "seoname": "alnby-smoyyl-515251"
+    },
+    {
+        "id_location": 368864,
+        "id_location_parent": 368853,
+        "name": "\u0628\u0650\u062f\u0651\u064f\u0648",
+        "seoname": "bdo-515252"
+    },
+    {
+        "id_location": 368865,
+        "id_location_parent": 368853,
+        "name": "\u0628\u0650\u064a\u062a \u0625\u062c\u0652\u0632\u064e\u0627",
+        "seoname": "byt-agza-515253"
+    },
+    {
+        "id_location": 368866,
+        "id_location_parent": 368853,
+        "name": "\u0628\u0650\u064a\u062a \u0625\u0643\u0652\u0633\u064e\u0627",
+        "seoname": "byt-aksa-515254"
+    },
+    {
+        "id_location": 368867,
+        "id_location_parent": 368853,
+        "name": "\u0628\u0650\u064a\u062a \u062d\u064e\u0646\u0650\u064a\u0646\u064e\u0627 \u0627\u0644\u0628\u064e\u0644\u064e\u062f",
+        "seoname": "byt-hnyna-albld-515255"
+    },
+    {
+        "id_location": 368868,
+        "id_location_parent": 368853,
+        "name": "\u0628\u0650\u064a\u062a \u062f\u064f\u0642\u0651\u064f\u0648",
+        "seoname": "byt-dko-515256"
+    },
+    {
+        "id_location": 368869,
+        "id_location_parent": 368853,
+        "name": "\u0628\u0650\u064a\u062a \u0633\u064f\u0648\u0631\u0650\u064a\u0643",
+        "seoname": "byt-soryk-515257"
+    },
+    {
+        "id_location": 368870,
+        "id_location_parent": 368853,
+        "name": "\u0628\u0650\u064a\u062a \u0639\u064e\u0646\u064e\u0627\u0646",
+        "seoname": "byt-aanan-515258"
+    },
+    {
+        "id_location": 368871,
+        "id_location_parent": 368853,
+        "name": "\u0628\u0650\u064a\u0631 \u0646\u064e\u0628\u064e\u0627\u0644\u0627",
+        "seoname": "byr-nbala-515259"
+    },
+    {
+        "id_location": 368872,
+        "id_location_parent": 368853,
+        "name": "\u062c\u064e\u0628\u064e\u0639\u0652",
+        "seoname": "gbaa-515260"
+    },
+    {
+        "id_location": 368873,
+        "id_location_parent": 368853,
+        "name": "\u062d\u0650\u0632\u0652\u0645\u0627",
+        "seoname": "hzma-515261"
+    },
+    {
+        "id_location": 368874,
+        "id_location_parent": 368853,
+        "name": "\u062e\u064e\u0631\u0627\u0626\u0650\u0628 \u0623\u0645\u0651\u064f \u0627\u0644\u0644\u064e\u062d\u0652\u0645\u0652",
+        "seoname": "khrayb-am-allhm-515262"
+    },
+    {
+        "id_location": 368875,
+        "id_location_parent": 368853,
+        "name": "\u0631\u064e\u0627\u0641\u064e\u0627\u062a",
+        "seoname": "rafat-515263"
+    },
+    {
+        "id_location": 368876,
+        "id_location_parent": 368853,
+        "name": "\u0639\u0631\u0628 \u0627\u0644\u062c\u064e\u0647\u064e\u0627\u0644\u064a\u0646 (\u0633\u0644\u0627\u0645\u0627\u062a)",
+        "seoname": "aarb-alghalyn-slamat-515264"
+    },
+    {
+        "id_location": 368877,
+        "id_location_parent": 368853,
+        "name": "\u0639\u064e\u0646\u0627\u062a\u064e\u0627",
+        "seoname": "aanata-515265"
+    },
+    {
+        "id_location": 368878,
+        "id_location_parent": 368853,
+        "name": "\u0642\u064e\u0637\u064e\u0646\u0651\u064e\u0629",
+        "seoname": "ktn-515266"
+    },
+    {
+        "id_location": 368879,
+        "id_location_parent": 368853,
+        "name": "\u0642\u064e\u0644\u064e\u0646\u0652\u062f\u0650\u064a\u064e\u0627",
+        "seoname": "klndya-515267"
+    },
+    {
+        "id_location": 368880,
+        "id_location_parent": 368853,
+        "name": "\u0643\u064e\u0641\u0652\u0631 \u0639\u064e\u0642\u064e\u0628",
+        "seoname": "kfr-aakb-515268"
+    },
+    {
+        "id_location": 368881,
+        "id_location_parent": 368853,
+        "name": "\u0645\u0650\u062e\u0652\u0645\u064e\u0627\u0633",
+        "seoname": "mkhmas-515269"
+    },
+    {
+        "id_location": 368882,
+        "id_location_parent": 1,
+        "name": "\u0645\u062d\u0627\u0641\u0638\u0629 \u062c\u0646\u064a\u0646",
+        "seoname": "mhafth-gnyn-782966"
+    },
+    {
+        "id_location": 368883,
+        "id_location_parent": 368882,
+        "name": "\u0627\u0644\u062c\u064f\u062f\u064e\u064a\u0651\u0650\u062f\u064e\u0629",
+        "seoname": "algdyd-515270"
+    },
+    {
+        "id_location": 368884,
+        "id_location_parent": 368882,
+        "name": "\u0627\u0644\u062c\u064e\u0644\u064e\u0645\u064e\u0629",
+        "seoname": "alglm-515271"
+    },
+    {
+        "id_location": 368885,
+        "id_location_parent": 368882,
+        "name": "\u0627\u0644\u0631\u0627\u0645\u064e\u0629",
+        "seoname": "alram-515272"
+    },
+    {
+        "id_location": 368886,
+        "id_location_parent": 368882,
+        "name": "\u0627\u0644\u0631\u064a\u0627\u0646",
+        "seoname": "alryan-515273"
+    },
+    {
+        "id_location": 368887,
+        "id_location_parent": 368882,
+        "name": "\u0627\u0644\u0632\u0627\u0648\u0650\u064a\u064e\u0629",
+        "seoname": "alzaoy-515274"
+    },
+    {
+        "id_location": 368888,
+        "id_location_parent": 368882,
+        "name": "\u0627\u0644\u0632\u064e\u0628\u0627\u0628\u0650\u062f\u064e\u0629",
+        "seoname": "alzbabd-515275"
+    },
+    {
+        "id_location": 368889,
+        "id_location_parent": 368882,
+        "name": "\u0627\u0644\u0634\u064f\u0647\u064e\u062f\u0627\u0621 (\u0645\u062b\u0644\u062b \u0627\u0644\u0634\u064f\u0647\u064e\u062f\u0627\u0621)",
+        "seoname": "alshhdaaa-mthlth-alshhdaaa-515276"
+    },
+    {
+        "id_location": 368890,
+        "id_location_parent": 368882,
+        "name": "\u0627\u0644\u0637\u064e\u064a\u0652\u0628\u064e\u0629",
+        "seoname": "altyb-515277"
+    },
+    {
+        "id_location": 368891,
+        "id_location_parent": 368882,
+        "name": "\u0627\u0644\u0639\u064e\u0631\u064e\u0642\u064e\u0629",
+        "seoname": "alaark-515278"
+    },
+    {
+        "id_location": 368892,
+        "id_location_parent": 368882,
+        "name": "\u0627\u0644\u0639\u064e\u0635\u0627\u0639\u0652\u0635\u064e\u0629",
+        "seoname": "alaasaaas-515279"
+    },
+    {
+        "id_location": 368893,
+        "id_location_parent": 368882,
+        "name": "\u0627\u0644\u0639\u0637\u0651\u064e\u0627\u0631\u064e\u0629",
+        "seoname": "alaatar-515280"
+    },
+    {
+        "id_location": 368894,
+        "id_location_parent": 368882,
+        "name": "\u0627\u0644\u0641\u064e\u0646\u0652\u062f\u064e\u0642\u064f\u0648\u0645\u0650\u064a\u0651\u064e\u0629",
+        "seoname": "alfndkomy-515281"
+    },
+    {
+        "id_location": 368895,
+        "id_location_parent": 368882,
+        "name": "\u0627\u0644\u0643\u064f\u0641\u064e\u064a\u0652\u0631",
+        "seoname": "alkfyr-515282"
+    },
+    {
+        "id_location": 368896,
+        "id_location_parent": 368882,
+        "name": "\u0627\u0644\u0645\u064f\u063a\u064a\u0651\u0650\u0631",
+        "seoname": "almghyr-515283"
+    },
+    {
+        "id_location": 368897,
+        "id_location_parent": 368882,
+        "name": "\u0627\u0644\u0647\u0627\u0634\u0650\u0645\u0650\u064a\u0651\u064e\u0629",
+        "seoname": "alhashmy-515284"
+    },
+    {
+        "id_location": 368898,
+        "id_location_parent": 368882,
+        "name": "\u0627\u0644\u064a\u064e\u0627\u0645\u064f\u0648\u0646",
+        "seoname": "alyamon-515285"
+    },
+    {
+        "id_location": 368899,
+        "id_location_parent": 368882,
+        "name": "\u0623\u0645\u0651\u064f \u0627\u0644\u062a\u0648\u062a",
+        "seoname": "am-altot-515286"
+    },
+    {
+        "id_location": 368900,
+        "id_location_parent": 368882,
+        "name": "\u0623\u064f\u0645\u0651\u064f \u0627\u0644\u0631\u0650\u064a\u062d\u064e\u0627\u0646",
+        "seoname": "am-alryhan-515287"
+    },
+    {
+        "id_location": 368901,
+        "id_location_parent": 368882,
+        "name": "\u0628\u064e\u0631\u0652\u0637\u064e\u0639\u064e\u0629 \u0627\u0644\u0634\u064e\u0631\u0652\u0642\u0650\u064a\u0651\u064e\u0629",
+        "seoname": "brtaa-alshrky-515288"
+    },
+    {
+        "id_location": 368902,
+        "id_location_parent": 368882,
+        "name": "\u0628\u0650\u0631\u0652\u0642\u064a\u0646",
+        "seoname": "brkyn-515289"
+    },
+    {
+        "id_location": 368903,
+        "id_location_parent": 368882,
+        "name": "\u0628\u0650\u064a\u062a \u0642\u0627\u062f (\u0627\u0644\u062c\u064e\u0646\u064f\u0648\u0628\u064a)",
+        "seoname": "byt-kad-algnoby-515290"
+    },
+    {
+        "id_location": 368904,
+        "id_location_parent": 368882,
+        "name": "\u0628\u0650\u064a\u0631 \u0627\u0644\u0628\u064e\u0627\u0634\u064e\u0627",
+        "seoname": "byr-albasha-515291"
+    },
+    {
+        "id_location": 368905,
+        "id_location_parent": 368882,
+        "name": "\u062a\u0650\u0639\u0650\u0646\u0651\u0650\u0643",
+        "seoname": "taank-515292"
+    },
+    {
+        "id_location": 368906,
+        "id_location_parent": 368882,
+        "name": "\u062a\u0650\u0644\u0652\u0641\u0650\u064a\u062a",
+        "seoname": "tlfyt-515293"
+    },
+    {
+        "id_location": 368907,
+        "id_location_parent": 368882,
+        "name": "\u062c\u064e\u0628\u064e\u0639\u0652",
+        "seoname": "gbaa-515294"
+    },
+    {
+        "id_location": 368908,
+        "id_location_parent": 368882,
+        "name": "\u062c\u064e\u0644\u0652\u0628\u064f\u0648\u0646",
+        "seoname": "glbon-515295"
+    },
+    {
+        "id_location": 368909,
+        "id_location_parent": 368882,
+        "name": "\u062c\u064e\u0644\u0652\u0642\u064e\u0645\u064f\u0648\u0633",
+        "seoname": "glkmos-515296"
+    },
+    {
+        "id_location": 368910,
+        "id_location_parent": 368882,
+        "name": "\u062c\u0650\u0646\u064a\u0646",
+        "seoname": "gnyn-515297"
+    },
+    {
+        "id_location": 368911,
+        "id_location_parent": 368882,
+        "name": "\u062e\u0650\u0631\u0652\u0628\u0650\u0629 \u0639\u064e\u0628\u0652\u062f\u064e \u0627\u0644\u0644\u0647 \u0627\u0644\u064a\u0648\u0646\u0650\u0633",
+        "seoname": "khrb-aabd-allh-alyons-515298"
+    },
+    {
+        "id_location": 368912,
+        "id_location_parent": 368882,
+        "name": "\u062f\u0650\u064a\u0631 \u0627\u0628\u0648 \u0636\u064e\u0639\u064a\u0641",
+        "seoname": "dyr-abo-daayf-515299"
+    },
+    {
+        "id_location": 368913,
+        "id_location_parent": 368882,
+        "name": "\u062f\u0650\u064a\u0631 \u063a\u064e\u0632\u0627\u0644\u064e\u0629",
+        "seoname": "dyr-ghzal-515300"
+    },
+    {
+        "id_location": 368914,
+        "id_location_parent": 368882,
+        "name": "\u0631\u064e\u0627\u0628\u0627",
+        "seoname": "raba-515301"
+    },
+    {
+        "id_location": 368915,
+        "id_location_parent": 368882,
+        "name": "\u0631\u064f\u0645\u0651\u064e\u0627\u0646\u064e\u0629",
+        "seoname": "rman-515302"
+    },
+    {
+        "id_location": 368916,
+        "id_location_parent": 368882,
+        "name": "\u0632\u064e\u0628\u064f\u0648\u0628\u064e\u0627",
+        "seoname": "zboba-515303"
+    },
+    {
+        "id_location": 368917,
+        "id_location_parent": 368882,
+        "name": "\u0632\u064e\u0628\u0652\u062f\u064e\u0629 \u0627\u0644\u062c\u062f\u064a\u062f\u0629",
+        "seoname": "zbd-algdyd-515304"
+    },
+    {
+        "id_location": 368918,
+        "id_location_parent": 368882,
+        "name": "\u0633\u0650\u064a\u0631\u0650\u064a\u0633",
+        "seoname": "syrys-515305"
+    },
+    {
+        "id_location": 368919,
+        "id_location_parent": 368882,
+        "name": "\u0633\u064a\u0644\u064e\u0629\u0652 \u0627\u0644\u062d\u0627\u0631\u0650\u062b\u0650\u064a\u0651\u064e\u0629",
+        "seoname": "syl-alharthy-515306"
+    },
+    {
+        "id_location": 368920,
+        "id_location_parent": 368882,
+        "name": "\u0633\u064a\u0644\u064e\u0629 \u0627\u0644\u0638\u064e\u0647\u0652\u0631",
+        "seoname": "syl-althhr-515307"
+    },
+    {
+        "id_location": 368921,
+        "id_location_parent": 368882,
+        "name": "\u0635\u0627\u0646\u0648\u0631",
+        "seoname": "sanor-515308"
+    },
+    {
+        "id_location": 368922,
+        "id_location_parent": 368882,
+        "name": "\u0635\u0650\u064a\u0631",
+        "seoname": "syr-515309"
+    },
+    {
+        "id_location": 368923,
+        "id_location_parent": 368882,
+        "name": "\u0637\u0648\u0631\u064e\u0629",
+        "seoname": "tor-515310"
+    },
+    {
+        "id_location": 368924,
+        "id_location_parent": 368882,
+        "name": "\u0638\u064e\u0647\u0652\u0631 \u0627\u0644\u0645\u064e\u0627\u0644\u0650\u062d",
+        "seoname": "thhr-almalh-515311"
+    },
+    {
+        "id_location": 368925,
+        "id_location_parent": 368882,
+        "name": "\u0639\u064e\u0627\u0646\u0650\u064a\u0646",
+        "seoname": "aaanyn-515312"
+    },
+    {
+        "id_location": 368926,
+        "id_location_parent": 368882,
+        "name": "\u0639\u064e\u062c\u0651\u0650\u0629",
+        "seoname": "aag-515313"
+    },
+    {
+        "id_location": 368927,
+        "id_location_parent": 368882,
+        "name": "\u0639\u064e\u0631\u0651\u064e\u0627\u0628\u064e\u0629",
+        "seoname": "aarab-515314"
+    },
+    {
+        "id_location": 368928,
+        "id_location_parent": 368882,
+        "name": "\u0639\u064e\u0631\u0651\u064e\u0627\u0646\u064e\u0629",
+        "seoname": "aaran-515315"
+    },
+    {
+        "id_location": 368929,
+        "id_location_parent": 368882,
+        "name": "\u0641\u064e\u0642\u0651\u064f\u0648\u0639\u064e\u0629",
+        "seoname": "fkoaa-515316"
+    },
+    {
+        "id_location": 368930,
+        "id_location_parent": 368882,
+        "name": "\u0642\u064e\u0628\u0627\u0637\u0652\u064a\u064e\u0629",
+        "seoname": "kbaty-515317"
+    },
+    {
+        "id_location": 368931,
+        "id_location_parent": 368882,
+        "name": "\u0643\u064e\u0641\u0652\u0631 \u062f\u0627\u0646",
+        "seoname": "kfr-dan-515318"
+    },
+    {
+        "id_location": 368932,
+        "id_location_parent": 368882,
+        "name": "\u0643\u064e\u0641\u0652\u0631 \u0631\u064e\u0627\u0639\u064a",
+        "seoname": "kfr-raaay-515319"
+    },
+    {
+        "id_location": 368933,
+        "id_location_parent": 368882,
+        "name": "\u0643\u064e\u0641\u0652\u0631 \u0642\u064f\u0648\u062f",
+        "seoname": "kfr-kod-515320"
+    },
+    {
+        "id_location": 368934,
+        "id_location_parent": 368882,
+        "name": "\u0643\u064f\u0641\u064e\u064a\u0652\u0631\u0650\u062a\u0652",
+        "seoname": "kfyrt-515321"
+    },
+    {
+        "id_location": 368935,
+        "id_location_parent": 368882,
+        "name": "\u0645\u0650\u0631\u0652\u0643\u064e\u0629",
+        "seoname": "mrk-515322"
+    },
+    {
+        "id_location": 368936,
+        "id_location_parent": 368882,
+        "name": "\u0645\u0650\u0633\u0650\u0644\u0652\u064a\u064e\u0629",
+        "seoname": "msly-515323"
+    },
+    {
+        "id_location": 368937,
+        "id_location_parent": 368882,
+        "name": "\u0645\u064e\u0634\u0652\u0631\u0648\u0639 \u0628\u0650\u064a\u062a \u0642\u0627\u062f (\u0627\u0644\u0634\u064e\u0645\u064e\u0627\u0644\u064a)",
+        "seoname": "mshroaa-byt-kad-alshmaly-515324"
+    },
+    {
+        "id_location": 368938,
+        "id_location_parent": 368882,
+        "name": "\u0645\u064e\u064a\u0652\u062b\u064e\u0644\u0648\u0646",
+        "seoname": "mythlon-515325"
+    },
+    {
+        "id_location": 368939,
+        "id_location_parent": 368882,
+        "name": "\u0646\u064e\u0632\u0652\u0644\u064e\u0629 \u0627\u0644\u0634\u064e\u064a\u0652\u062e \u0632\u064e\u064a\u0652\u062f",
+        "seoname": "nzl-alshykh-zyd-515326"
+    },
+    {
+        "id_location": 368940,
+        "id_location_parent": 368882,
+        "name": "\u0648\u0627\u062f\u064a \u0627\u0644\u0636\u064e\u0628\u0650\u0639 (\u0639\u0627\u0628\u0627 \u0627\u0644\u0634\u064e\u0631\u0652\u0642\u064a\u0651\u0650\u0629)",
+        "seoname": "oady-aldbaa-aaaba-alshrky-515327"
+    },
+    {
+        "id_location": 368941,
+        "id_location_parent": 368882,
+        "name": "\u064a\u064e\u0639\u0652\u0628\u064e\u062f\u0652",
+        "seoname": "yaabd-515328"
+    },
+    {
+        "id_location": 368942,
+        "id_location_parent": 1,
+        "name": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0637\u0648\u0644\u0643\u0631\u0645",
+        "seoname": "mhafth-tolkrm-782967"
+    },
+    {
+        "id_location": 368943,
+        "id_location_parent": 368942,
+        "name": "\u0627\u0644\u062c\u0627\u0631\u0648\u0634\u0650\u064a\u0651\u064e\u0629",
+        "seoname": "algaroshy-515329"
+    },
+    {
+        "id_location": 368944,
+        "id_location_parent": 368942,
+        "name": "\u0627\u0644\u0631\u064e\u0627\u0633",
+        "seoname": "alras-515330"
+    },
+    {
+        "id_location": 368945,
+        "id_location_parent": 368942,
+        "name": "\u0627\u0644\u0646\u064e\u0632\u0652\u0644\u064e\u0629 \u0627\u0644\u0634\u064e\u0631\u0652\u0642\u064a\u0651\u0650\u0629",
+        "seoname": "alnzl-alshrky-515331"
+    },
+    {
+        "id_location": 368946,
+        "id_location_parent": 368942,
+        "name": "\u0625\u0643\u062a\u064e\u0627\u0628\u064e\u0627",
+        "seoname": "aktaba-515332"
+    },
+    {
+        "id_location": 368947,
+        "id_location_parent": 368942,
+        "name": "\u0628\u0627\u0642\u064e\u0629 \u0627\u0644\u0634\u064e\u0631\u0652\u0642\u064a\u0651\u0650\u0629 \u0648\u0627\u0644\u0646\u0632\u0644\u0627\u062a",
+        "seoname": "bak-alshrky-oalnzlat-515333"
+    },
+    {
+        "id_location": 368948,
+        "id_location_parent": 368942,
+        "name": "\u0628\u064e\u0644\u0652\u0639\u0627",
+        "seoname": "blaaa-515334"
+    },
+    {
+        "id_location": 368949,
+        "id_location_parent": 368942,
+        "name": "\u0628\u0650\u064a\u062a \u0644\u0650\u064a\u062f",
+        "seoname": "byt-lyd-515335"
+    },
+    {
+        "id_location": 368950,
+        "id_location_parent": 368942,
+        "name": "\u062e\u0650\u0631\u0652\u0628\u064e\u0629 \u062c\u0652\u0628\u0627\u0631\u0629",
+        "seoname": "khrb-gbar-515336"
+    },
+    {
+        "id_location": 368951,
+        "id_location_parent": 368942,
+        "name": "\u062f\u0650\u064a\u0631 \u0627\u0644\u063a\u064f\u0635\u064f\u0648\u0646",
+        "seoname": "dyr-alghson-515337"
+    },
+    {
+        "id_location": 368952,
+        "id_location_parent": 368942,
+        "name": "\u0631\u064e\u0627\u0645\u0650\u064a\u0646",
+        "seoname": "ramyn-515338"
+    },
+    {
+        "id_location": 368953,
+        "id_location_parent": 368942,
+        "name": "\u0632\u064e\u064a\u0652\u062a\u064e\u0627",
+        "seoname": "zyta-515339"
+    },
+    {
+        "id_location": 368954,
+        "id_location_parent": 368942,
+        "name": "\u0633\u064e\u0641\u0651\u064e\u0627\u0631\u0650\u064a\u0646",
+        "seoname": "sfaryn-515340"
+    },
+    {
+        "id_location": 368955,
+        "id_location_parent": 368942,
+        "name": "\u0634\u064f\u0648\u0641\u064e\u0629",
+        "seoname": "shof-515341"
+    },
+    {
+        "id_location": 368956,
+        "id_location_parent": 368942,
+        "name": "\u0635\u064e\u064a\u0652\u062f\u0627",
+        "seoname": "syda-515342"
+    },
+    {
+        "id_location": 368957,
+        "id_location_parent": 368942,
+        "name": "\u0637\u064f\u0648\u0644\u0643\u064e\u0631\u0652\u0645",
+        "seoname": "tolkrm-515343"
+    },
+    {
+        "id_location": 368958,
+        "id_location_parent": 368942,
+        "name": "\u0639\u064e\u062a\u0651\u0650\u064a\u0644",
+        "seoname": "aatyl-515344"
+    },
+    {
+        "id_location": 368959,
+        "id_location_parent": 368942,
+        "name": "\u0639\u0650\u0644\u0627\u0651\u064e\u0631",
+        "seoname": "aalar-515345"
+    },
+    {
+        "id_location": 368960,
+        "id_location_parent": 368942,
+        "name": "\u0639\u064e\u0646\u064e\u0628\u0652\u062a\u0627",
+        "seoname": "aanbta-515346"
+    },
+    {
+        "id_location": 368961,
+        "id_location_parent": 368942,
+        "name": "\u0641\u064e\u0631\u0652\u0639\u064f\u0648\u0646",
+        "seoname": "fraaon-515347"
+    },
+    {
+        "id_location": 368962,
+        "id_location_parent": 368942,
+        "name": "\u0642\u064e\u0641\u0651\u0650\u064a\u0646",
+        "seoname": "kfyn-515348"
+    },
+    {
+        "id_location": 368963,
+        "id_location_parent": 368942,
+        "name": "\u0643\u064e\u0641\u0652\u0631 \u0627\u0644\u0644\u064e\u0628\u064e\u062f",
+        "seoname": "kfr-allbd-515349"
+    },
+    {
+        "id_location": 368964,
+        "id_location_parent": 368942,
+        "name": "\u0643\u064e\u0641\u0652\u0631 \u062c\u064e\u0645\u0651\u064e\u0627\u0644",
+        "seoname": "kfr-gmal-515350"
+    },
+    {
+        "id_location": 368965,
+        "id_location_parent": 368942,
+        "name": "\u0643\u064e\u0641\u0652\u0631 \u0632\u0650\u064a\u0628\u064e\u0627\u062f",
+        "seoname": "kfr-zybad-515351"
+    },
+    {
+        "id_location": 368966,
+        "id_location_parent": 368942,
+        "name": "\u0643\u064e\u0641\u0652\u0631 \u0635\u064f\u0648\u0631",
+        "seoname": "kfr-sor-515352"
+    },
+    {
+        "id_location": 368967,
+        "id_location_parent": 368942,
+        "name": "\u0643\u064e\u0641\u0652\u0631 \u0639\u064e\u0628\u0651\u064f\u0648\u0634",
+        "seoname": "kfr-aabosh-515353"
+    },
+    {
+        "id_location": 368968,
+        "id_location_parent": 368942,
+        "name": "\u0643\u064f\u0648\u0631\u0652",
+        "seoname": "kor-515354"
+    },
+    {
+        "id_location": 368969,
+        "id_location_parent": 368942,
+        "name": "\u0646\u064e\u0632\u0652\u0644\u064e\u0629 \u0639\u0650\u064a\u0633\u0649",
+        "seoname": "nzl-aays-515355"
+    },
+    {
+        "id_location": 368970,
+        "id_location_parent": 1,
+        "name": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0637\u0648\u0628\u0627\u0633",
+        "seoname": "mhafth-tobas-782968"
+    },
+    {
+        "id_location": 368971,
+        "id_location_parent": 368970,
+        "name": "\u0627\u0644\u0639\u064e\u0642\u064e\u0628\u064e\u0629",
+        "seoname": "alaakb-515356"
+    },
+    {
+        "id_location": 368972,
+        "id_location_parent": 368970,
+        "name": "\u0627\u0644\u0645\u0627\u0644\u0650\u062d",
+        "seoname": "almalh-515357"
+    },
+    {
+        "id_location": 368973,
+        "id_location_parent": 368970,
+        "name": "\u0628\u064e\u0631\u0652\u062f\u064e\u0644\u064e\u0629",
+        "seoname": "brdl-515358"
+    },
+    {
+        "id_location": 368974,
+        "id_location_parent": 368970,
+        "name": "\u062a\u064e\u064a\u0627\u0633\u0650\u064a\u0631",
+        "seoname": "tyasyr-515359"
+    },
+    {
+        "id_location": 368975,
+        "id_location_parent": 368970,
+        "name": "\u062e\u0650\u0631\u0652\u0628\u0650\u0629 \u0639\u064e\u0627\u0637\u064f\u0648\u0641",
+        "seoname": "khrb-aaatof-515360"
+    },
+    {
+        "id_location": 368976,
+        "id_location_parent": 368970,
+        "name": "\u0637\u064e\u0645\u0651\u064f\u0648\u0646",
+        "seoname": "tmon-515361"
+    },
+    {
+        "id_location": 368977,
+        "id_location_parent": 368970,
+        "name": "\u0637\u064f\u0648\u0628\u064e\u0627\u0633",
+        "seoname": "tobas-515362"
+    },
+    {
+        "id_location": 368978,
+        "id_location_parent": 368970,
+        "name": "\u0627\u0644\u0646\u064e\u0635\u0651\u064e\u0627\u0631\u0650\u064a\u0651\u064e\u0629",
+        "seoname": "alnsary-515363"
+    },
+    {
+        "id_location": 368979,
+        "id_location_parent": 368970,
+        "name": "\u0625\u062c\u0652\u0646\u0650\u0633\u0650\u0646\u0652\u064a\u064e\u0627",
+        "seoname": "agnsnya-515364"
+    },
+    {
+        "id_location": 368980,
+        "id_location_parent": 368970,
+        "name": "\u0623\u064f\u0648\u062f\u064e\u0644\u0627\u064e",
+        "seoname": "aodla-515365"
+    },
+    {
+        "id_location": 368981,
+        "id_location_parent": 368970,
+        "name": "\u0623\u064f\u0648\u0635\u064e\u0631\u0650\u064a\u0646",
+        "seoname": "aosryn-515366"
+    },
+    {
+        "id_location": 368982,
+        "id_location_parent": 368970,
+        "name": "\u0628\u064f\u0631\u0652\u0642\u064e\u0629",
+        "seoname": "brk-515367"
+    },
+    {
+        "id_location": 368983,
+        "id_location_parent": 368970,
+        "name": "\u0628\u064e\u0632\u0651\u064e\u0627\u0631\u0652\u064a\u064e\u0629",
+        "seoname": "bzary-515368"
+    },
+    {
+        "id_location": 368984,
+        "id_location_parent": 368970,
+        "name": "\u0628\u064f\u0648\u0631\u0650\u064a\u0646",
+        "seoname": "boryn-515369"
+    },
+    {
+        "id_location": 368985,
+        "id_location_parent": 368970,
+        "name": "\u0628\u0650\u064a\u062a \u0625\u0650\u0645\u0631\u0650\u064a\u0646",
+        "seoname": "byt-amryn-515370"
+    },
+    {
+        "id_location": 368986,
+        "id_location_parent": 368970,
+        "name": "\u0628\u0650\u064a\u062a \u0625\u064a\u0628\u064e\u0627",
+        "seoname": "byt-ayba-515371"
+    },
+    {
+        "id_location": 368987,
+        "id_location_parent": 368970,
+        "name": "\u0628\u0650\u064a\u062a \u062d\u064e\u0633\u064e\u0646",
+        "seoname": "byt-hsn-515372"
+    },
+    {
+        "id_location": 368988,
+        "id_location_parent": 368970,
+        "name": "\u0628\u0650\u064a\u062a \u062f\u064e\u062c\u064e\u0646",
+        "seoname": "byt-dgn-515373"
+    },
+    {
+        "id_location": 368989,
+        "id_location_parent": 368970,
+        "name": "\u0628\u0650\u064a\u062a \u0641\u064f\u0648\u0631\u0650\u064a\u0643",
+        "seoname": "byt-foryk-515374"
+    },
+    {
+        "id_location": 368990,
+        "id_location_parent": 368970,
+        "name": "\u0628\u0650\u064a\u062a \u0648\u064e\u0632\u064e\u0646\u0652",
+        "seoname": "byt-ozn-515375"
+    },
+    {
+        "id_location": 368991,
+        "id_location_parent": 368970,
+        "name": "\u0628\u0650\u064a\u062a\u064e\u0627",
+        "seoname": "byta-515376"
+    },
+    {
+        "id_location": 368992,
+        "id_location_parent": 368970,
+        "name": "\u062a\u0650\u0644\u0651",
+        "seoname": "tl-515377"
+    },
+    {
+        "id_location": 368993,
+        "id_location_parent": 368970,
+        "name": "\u062a\u064e\u0644\u0652\u0641\u0650\u064a\u062a",
+        "seoname": "tlfyt-515378"
+    },
+    {
+        "id_location": 368994,
+        "id_location_parent": 368970,
+        "name": "\u062c\u064e\u0645\u0651\u064e\u0627\u0639\u0650\u064a\u0646",
+        "seoname": "gmaaayn-515379"
+    },
+    {
+        "id_location": 368995,
+        "id_location_parent": 368970,
+        "name": "\u062c\u064f\u0648\u0631\u0650\u064a\u0634",
+        "seoname": "gorysh-515380"
+    },
+    {
+        "id_location": 368996,
+        "id_location_parent": 368970,
+        "name": "\u062f\u064f\u0648\u0652\u0645\u064e\u0627",
+        "seoname": "doma-515381"
+    },
+    {
+        "id_location": 368997,
+        "id_location_parent": 368970,
+        "name": "\u062f\u0650\u064a\u0631 \u0627\u0644\u062d\u064e\u0637\u064e\u0628",
+        "seoname": "dyr-alhtb-515382"
+    },
+    {
+        "id_location": 368998,
+        "id_location_parent": 368970,
+        "name": "\u0631\u064f\u0648\u062c\u0650\u064a\u0628",
+        "seoname": "rogyb-515383"
+    },
+    {
+        "id_location": 368999,
+        "id_location_parent": 368970,
+        "name": "\u0632\u064e\u0648\u064e\u0627\u062a\u0627",
+        "seoname": "zoata-515384"
+    },
+    {
+        "id_location": 369000,
+        "id_location_parent": 368970,
+        "name": "\u0633\u0627\u0644\u0650\u0645",
+        "seoname": "salm-515385"
+    },
+    {
+        "id_location": 369001,
+        "id_location_parent": 368970,
+        "name": "\u0633\u064e\u0628\u064e\u0633\u0652\u0637\u0650\u064a\u0629",
+        "seoname": "sbsty-515386"
+    },
+    {
+        "id_location": 369002,
+        "id_location_parent": 368970,
+        "name": "\u0635\u064e\u0631\u0651\u064e\u0629",
+        "seoname": "sr-515387"
+    },
+    {
+        "id_location": 369003,
+        "id_location_parent": 368970,
+        "name": "\u0637\u064e\u0644\u0651\u064f\u0648\u0632\u0629",
+        "seoname": "tloz-515388"
+    },
+    {
+        "id_location": 369004,
+        "id_location_parent": 368970,
+        "name": "\u0639\u0650\u0631\u064e\u0627\u0642 \u0628\u064f\u0648\u0631\u0650\u064a\u0646",
+        "seoname": "aarak-boryn-515389"
+    },
+    {
+        "id_location": 369005,
+        "id_location_parent": 368970,
+        "name": "\u0639\u064e\u0632\u0652\u0645\u064f\u0648\u0637",
+        "seoname": "aazmot-515390"
+    },
+    {
+        "id_location": 369006,
+        "id_location_parent": 368970,
+        "name": "\u0639\u064e\u0635\u064a\u0631\u064e\u0629 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0651\u064e\u0629",
+        "seoname": "aasyr-alshmaly-515391"
+    },
+    {
+        "id_location": 369007,
+        "id_location_parent": 368970,
+        "name": "\u0639\u064e\u0635\u0650\u064a\u0631\u064e\u0629 \u0627\u0644\u0642\u0650\u0628\u0652\u0644\u0650\u064a\u0651\u064e\u0629",
+        "seoname": "aasyr-alkbly-515392"
+    },
+    {
+        "id_location": 369008,
+        "id_location_parent": 368970,
+        "name": "\u0639\u064e\u0642\u0652\u0631\u064e\u0628\u064e\u0627",
+        "seoname": "aakrba-515393"
+    },
+    {
+        "id_location": 369009,
+        "id_location_parent": 368970,
+        "name": "\u0639\u064e\u0645\u0651\u064f\u0648\u0631\u0652\u064a\u064e\u0629",
+        "seoname": "aamory-515394"
+    },
+    {
+        "id_location": 369010,
+        "id_location_parent": 368970,
+        "name": "\u0639\u064e\u0648\u064e\u0631\u0652\u062a\u0627",
+        "seoname": "aaorta-515395"
+    },
+    {
+        "id_location": 369011,
+        "id_location_parent": 368970,
+        "name": "\u0639\u064f\u0648\u0631\u0650\u064a\u0641",
+        "seoname": "aaoryf-515396"
+    },
+    {
+        "id_location": 369012,
+        "id_location_parent": 368970,
+        "name": "\u0639\u0650\u064a\u0652\u0646 \u0634\u0650\u0628\u0652\u0644\u0650\u064a",
+        "seoname": "aayn-shbly-515397"
+    },
+    {
+        "id_location": 369013,
+        "id_location_parent": 368970,
+        "name": "\u0639\u064e\u064a\u0652\u0646\u064e\u0628\u064f\u0648\u0633",
+        "seoname": "aaynbos-515398"
+    },
+    {
+        "id_location": 369014,
+        "id_location_parent": 368970,
+        "name": "\u0641\u064f\u0631\u064f\u0648\u0634 \u0628\u0650\u064a\u062a \u062f\u064e\u062c\u064e\u0646",
+        "seoname": "frosh-byt-dgn-515399"
+    },
+    {
+        "id_location": 369015,
+        "id_location_parent": 368970,
+        "name": "\u0642\u064f\u0648\u0635\u0650\u064a\u0646",
+        "seoname": "kosyn-515400"
+    },
+    {
+        "id_location": 369016,
+        "id_location_parent": 368970,
+        "name": "\u0643\u064e\u0641\u0652\u0631 \u0642\u064e\u0644\u0651\u0650\u064a\u0644",
+        "seoname": "kfr-klyl-515401"
+    },
+    {
+        "id_location": 369017,
+        "id_location_parent": 368970,
+        "name": "\u0645\u064e\u0627\u062f\u064e\u0645\u0627",
+        "seoname": "madma-515402"
+    },
+    {
+        "id_location": 369018,
+        "id_location_parent": 368970,
+        "name": "\u0645\u064e\u062c\u0652\u062f\u064e\u0644\u0652 \u0628\u064e\u0646\u064a \u0641\u0627\u0636\u0650\u0644",
+        "seoname": "mgdl-bny-fadl-515403"
+    },
+    {
+        "id_location": 369019,
+        "id_location_parent": 368970,
+        "name": "\u0646\u0627\u0628\u0652\u0644\u064f\u0633",
+        "seoname": "nabls-515404"
+    },
+    {
+        "id_location": 369020,
+        "id_location_parent": 368970,
+        "name": "\u0646\u0650\u0635\u0652\u0641 \u062c\u064f\u0628\u064e\u064a\u0652\u0644",
+        "seoname": "nsf-gbyl-515405"
+    },
+    {
+        "id_location": 369021,
+        "id_location_parent": 368970,
+        "name": "\u064a\u0627\u0635\u0650\u064a\u062f",
+        "seoname": "yasyd-515406"
+    },
+    {
+        "id_location": 369022,
+        "id_location_parent": 368970,
+        "name": "\u064a\u0650\u062a\u0652\u0645\u064e\u0627",
+        "seoname": "ytma-515407"
+    },
+    {
+        "id_location": 369023,
+        "id_location_parent": 1,
+        "name": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0642\u0644\u0642\u064a\u0644\u064a\u0629",
+        "seoname": "mhafth-klkyly-782969"
+    },
+    {
+        "id_location": 369024,
+        "id_location_parent": 369023,
+        "name": "\u0627\u0644\u0639\u0632\u0628 \u0627\u0644\u063a\u0631\u0628\u064a",
+        "seoname": "alaazb-alghrby-515408"
+    },
+    {
+        "id_location": 369025,
+        "id_location_parent": 369023,
+        "name": "\u0627\u0644\u0641\u064f\u0646\u0652\u062f\u064f\u0642",
+        "seoname": "alfndk-515409"
+    },
+    {
+        "id_location": 369026,
+        "id_location_parent": 369023,
+        "name": "\u0627\u0644\u0646\u064e\u0628\u0650\u064a \u0625\u0644\u064a\u064e\u0627\u0633",
+        "seoname": "alnby-alyas-515410"
+    },
+    {
+        "id_location": 369027,
+        "id_location_parent": 369023,
+        "name": "\u0625\u0650\u0645\u0651\u064e\u0627\u062a\u0650\u064a\u0646",
+        "seoname": "amatyn-515411"
+    },
+    {
+        "id_location": 369028,
+        "id_location_parent": 369023,
+        "name": "\u0628\u0627\u0642\u064e\u0629\u0652 \u0627\u0644\u062d\u064e\u0637\u064e\u0628",
+        "seoname": "bak-alhtb-515412"
+    },
+    {
+        "id_location": 369029,
+        "id_location_parent": 369023,
+        "name": "\u0628\u0650\u064a\u062a \u0623\u064e\u0645\u064a\u0646",
+        "seoname": "byt-amyn-515413"
+    },
+    {
+        "id_location": 369030,
+        "id_location_parent": 369023,
+        "name": "\u062c\u0650\u0646\u0652\u0635\u064e\u0627\u0641\u064f\u0648\u0637",
+        "seoname": "gnsafot-515414"
+    },
+    {
+        "id_location": 369031,
+        "id_location_parent": 369023,
+        "name": "\u062c\u0650\u064a\u0652\u062a",
+        "seoname": "gyt-515415"
+    },
+    {
+        "id_location": 369032,
+        "id_location_parent": 369023,
+        "name": "\u062c\u064e\u064a\u0651\u064f\u0648\u0633",
+        "seoname": "gyos-515416"
+    },
+    {
+        "id_location": 369033,
+        "id_location_parent": 369023,
+        "name": "\u062d\u064e\u0628\u0652\u0644\u064e\u0629",
+        "seoname": "hbl-515417"
+    },
+    {
+        "id_location": 369034,
+        "id_location_parent": 369023,
+        "name": "\u062d\u064e\u062c\u0651\u064e\u0629",
+        "seoname": "hg-515418"
+    },
+    {
+        "id_location": 369035,
+        "id_location_parent": 369023,
+        "name": "\u062e\u0650\u0631\u0652\u0628\u0650\u0629 \u0635\u0650\u064a\u0652\u0631",
+        "seoname": "khrb-syr-515419"
+    },
+    {
+        "id_location": 369036,
+        "id_location_parent": 369023,
+        "name": "\u0631\u0627\u0633 \u0639\u064e\u0637\u0650\u064a\u0651\u064e\u0629",
+        "seoname": "ras-aaty-515420"
+    },
+    {
+        "id_location": 369037,
+        "id_location_parent": 369023,
+        "name": "\u0633\u064e\u0646\u0651\u064a\u0631\u0652\u064a\u064e\u0627",
+        "seoname": "snyrya-515421"
+    },
+    {
+        "id_location": 369038,
+        "id_location_parent": 369023,
+        "name": "\u0639\u064e\u0631\u064e\u0628 \u0623\u0628\u0648 \u0641\u064e\u0631\u0652\u062f\u064e\u0629",
+        "seoname": "aarb-abo-frd-515422"
+    },
+    {
+        "id_location": 369039,
+        "id_location_parent": 369023,
+        "name": "\u0639\u064e\u0631\u064e\u0628 \u0627\u0644\u0631\u064e\u0645\u0627\u0636\u0650\u064a\u0646 \u0627\u0644\u062c\u064e\u0646\u064f\u0648\u0628\u064a",
+        "seoname": "aarb-alrmadyn-algnoby-515423"
+    },
+    {
+        "id_location": 369040,
+        "id_location_parent": 369023,
+        "name": "\u0639\u064e\u0631\u064e\u0628 \u0627\u0644\u0631\u064e\u0645\u0627\u0636\u0650\u064a\u0646 \u0627\u0644\u0634\u064e\u0645\u064e\u0627\u0644\u064a",
+        "seoname": "aarb-alrmadyn-alshmaly-515424"
+    },
+    {
+        "id_location": 369041,
+        "id_location_parent": 369023,
+        "name": "\u0639\u064e\u0632\u0651\u064f\u0648\u0646",
+        "seoname": "aazon-515425"
+    },
+    {
+        "id_location": 369042,
+        "id_location_parent": 369023,
+        "name": "\u0639\u064e\u0632\u0651\u064f\u0648\u0646 \u0639\u064e\u062a\u0652\u0645\u064e\u0629",
+        "seoname": "aazon-aatm-515426"
+    },
+    {
+        "id_location": 369043,
+        "id_location_parent": 369023,
+        "name": "\u0639\u064e\u0633\u0652\u0644\u064e\u0629",
+        "seoname": "aasl-515427"
+    },
+    {
+        "id_location": 369044,
+        "id_location_parent": 369023,
+        "name": "\u0641\u064e\u0644\u0627\u0645\u0650\u064a\u0629",
+        "seoname": "flamy-515428"
+    },
+    {
+        "id_location": 369045,
+        "id_location_parent": 369023,
+        "name": "\u0642\u064e\u0644\u0652\u0642\u0650\u064a\u0644\u0652\u064a\u064e\u0629",
+        "seoname": "klkyly-515429"
+    },
+    {
+        "id_location": 369046,
+        "id_location_parent": 369023,
+        "name": "\u0643\u064e\u0641\u0652\u0631 \u062b\u064f\u0644\u0652\u062b",
+        "seoname": "kfr-thlth-515430"
+    },
+    {
+        "id_location": 369047,
+        "id_location_parent": 369023,
+        "name": "\u0643\u064e\u0641\u0652\u0631 \u0642\u064e\u062f\u0651\u064f\u0648\u0645",
+        "seoname": "kfr-kdom-515431"
+    },
+    {
+        "id_location": 369048,
+        "id_location_parent": 1,
+        "name": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0633\u0644\u0641\u064a\u062a",
+        "seoname": "mhafth-slfyt-782970"
+    },
+    {
+        "id_location": 369049,
+        "id_location_parent": 369048,
+        "name": "\u0625\u0633\u0652\u0643\u064e\u0627\u0643\u064e\u0627",
+        "seoname": "askaka-515432"
+    },
+    {
+        "id_location": 369050,
+        "id_location_parent": 369048,
+        "name": "\u0627\u0644\u0632\u064e\u0627\u0648\u0650\u064a\u064e\u0629",
+        "seoname": "alzaoy-515433"
+    },
+    {
+        "id_location": 369051,
+        "id_location_parent": 369048,
+        "name": "\u0628\u0650\u062f\u0652\u064a\u064e\u0627",
+        "seoname": "bdya-515434"
+    },
+    {
+        "id_location": 369052,
+        "id_location_parent": 369048,
+        "name": "\u0628\u0652\u0631\u064f\u0648\u0642\u0650\u064a\u0646",
+        "seoname": "brokyn-515435"
+    },
+    {
+        "id_location": 369053,
+        "id_location_parent": 369048,
+        "name": "\u062d\u064e\u0627\u0631\u0650\u0633",
+        "seoname": "hars-515436"
+    },
+    {
+        "id_location": 369054,
+        "id_location_parent": 369048,
+        "name": "\u062f\u0650\u064a\u0631 \u0625\u0633\u062a\u0652\u064a\u0627",
+        "seoname": "dyr-astya-515437"
+    },
+    {
+        "id_location": 369055,
+        "id_location_parent": 369048,
+        "name": "\u062f\u0650\u064a\u0631 \u0628\u064e\u0644\u0651\u064f\u0648\u0637",
+        "seoname": "dyr-blot-515438"
+    },
+    {
+        "id_location": 369056,
+        "id_location_parent": 369048,
+        "name": "\u0631\u064e\u0627\u0641\u0627\u062a",
+        "seoname": "rafat-515439"
+    },
+    {
+        "id_location": 369057,
+        "id_location_parent": 369048,
+        "name": "\u0633\u064e\u0631\u0652\u0637\u064e\u0629",
+        "seoname": "srt-515440"
+    },
+    {
+        "id_location": 369058,
+        "id_location_parent": 369048,
+        "name": "\u0641\u064e\u0631\u0652\u062e\u064e\u0629",
+        "seoname": "frkh-515441"
+    },
+    {
+        "id_location": 369059,
+        "id_location_parent": 369048,
+        "name": "\u0642\u0650\u064a\u0631\u064e\u0629",
+        "seoname": "kyr-515442"
+    },
+    {
+        "id_location": 369060,
+        "id_location_parent": 369048,
+        "name": "\u0643\u064e\u0641\u0652\u0631 \u0627\u0644\u062f\u0650\u064a\u0643",
+        "seoname": "kfr-aldyk-515443"
+    },
+    {
+        "id_location": 369061,
+        "id_location_parent": 369048,
+        "name": "\u0643\u0650\u0641\u0650\u0644\u0652 \u062d\u064e\u0627\u0631\u0650\u0633",
+        "seoname": "kfl-hars-515444"
+    },
+    {
+        "id_location": 369062,
+        "id_location_parent": 369048,
+        "name": "\u0645\u064e\u0631\u0652\u062f\u064e\u0627",
+        "seoname": "mrda-515445"
+    },
+    {
+        "id_location": 369063,
+        "id_location_parent": 369048,
+        "name": "\u0645\u064e\u0633\u0652\u062d\u064e\u0629",
+        "seoname": "msh-515446"
+    },
+    {
+        "id_location": 369064,
+        "id_location_parent": 369048,
+        "name": "\u064a\u064e\u0627\u0633\u064f\u0648\u0641",
+        "seoname": "yasof-515447"
+    },
+    {
+        "id_location": 369065,
+        "id_location_parent": 1,
+        "name": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0631\u0627\u0645 \u0627\u0644\u0644\u0647 \u0648\u0627\u0644\u0628\u064a\u0631\u0629",
+        "seoname": "mhafth-ram-allh-oalbyr-782971"
+    },
+    {
+        "id_location": 369066,
+        "id_location_parent": 369065,
+        "name": "\u0627\u0644\u0627\u062a\u062d\u0627\u062f",
+        "seoname": "alathad-515448"
+    },
+    {
+        "id_location": 369067,
+        "id_location_parent": 369065,
+        "name": "\u0627\u0644\u0628\u0650\u064a\u0631\u064e\u0629",
+        "seoname": "albyr-515449"
+    },
+    {
+        "id_location": 369068,
+        "id_location_parent": 369065,
+        "name": "\u0627\u0644\u062c\u0627\u0646\u0650\u064a\u064e\u0629",
+        "seoname": "algany-515450"
+    },
+    {
+        "id_location": 369069,
+        "id_location_parent": 369065,
+        "name": "\u0627\u0644\u0632\u064a\u062a\u0648\u0646\u0629",
+        "seoname": "alzyton-515451"
+    },
+    {
+        "id_location": 369070,
+        "id_location_parent": 369065,
+        "name": "\u0627\u0644\u0637\u064e\u064a\u0652\u0628\u064e\u0629",
+        "seoname": "altyb-515452"
+    },
+    {
+        "id_location": 369071,
+        "id_location_parent": 369065,
+        "name": "\u0627\u0644\u0637\u064a\u0631\u064e\u0629",
+        "seoname": "altyr-515453"
+    },
+    {
+        "id_location": 369072,
+        "id_location_parent": 369065,
+        "name": "\u0627\u0644\u0644\u064f\u0628\u0651\u064e\u0646\u0652 \u0627\u0644\u063a\u064e\u0631\u0652\u0628\u064a",
+        "seoname": "allbn-alghrby-515454"
+    },
+    {
+        "id_location": 369073,
+        "id_location_parent": 369065,
+        "name": "\u0627\u0644\u0645\u0650\u062f\u0652\u064a\u064e\u0629",
+        "seoname": "almdy-515455"
+    },
+    {
+        "id_location": 369074,
+        "id_location_parent": 369065,
+        "name": "\u0627\u0644\u0645\u064e\u0632\u0652\u0631\u064e\u0639\u064e\u0629 \u0627\u0644\u0634\u064e\u0631\u0652\u0642\u0650\u064a\u0651\u064e\u0629",
+        "seoname": "almzraa-alshrky-515456"
+    },
+    {
+        "id_location": 369075,
+        "id_location_parent": 369065,
+        "name": "\u0627\u0644\u0645\u064f\u063a\u064e\u064a\u0651\u0650\u0631",
+        "seoname": "almghyr-515457"
+    },
+    {
+        "id_location": 369076,
+        "id_location_parent": 369065,
+        "name": "\u0627\u0644\u0646\u064e\u0628\u064a \u0635\u0627\u0644\u0650\u062d",
+        "seoname": "alnby-salh-515458"
+    },
+    {
+        "id_location": 369077,
+        "id_location_parent": 369065,
+        "name": "\u0623\u0645\u0651\u064f \u0635\u064e\u0641\u064e\u0627",
+        "seoname": "am-sfa-515459"
+    },
+    {
+        "id_location": 369078,
+        "id_location_parent": 369065,
+        "name": "\u0628\u064f\u062f\u0652\u0631\u064f\u0633",
+        "seoname": "bdrs-515460"
+    },
+    {
+        "id_location": 369079,
+        "id_location_parent": 369065,
+        "name": "\u0628\u064f\u0631\u0652\u0642\u064e\u0629",
+        "seoname": "brk-515461"
+    },
+    {
+        "id_location": 369080,
+        "id_location_parent": 369065,
+        "name": "\u0628\u064f\u0631\u0652\u0647\u064e\u0627\u0645",
+        "seoname": "brham-515462"
+    },
+    {
+        "id_location": 369081,
+        "id_location_parent": 369065,
+        "name": "\u0628\u0650\u0644\u0652\u0639\u0650\u064a\u0646",
+        "seoname": "blaayn-515463"
+    },
+    {
+        "id_location": 369082,
+        "id_location_parent": 369065,
+        "name": "\u0628\u0646\u064a \u0632\u064a\u062f \u0627\u0644\u0634\u0631\u0642\u064a\u0629",
+        "seoname": "bny-zyd-alshrky-515464"
+    },
+    {
+        "id_location": 369083,
+        "id_location_parent": 369065,
+        "name": "\u0628\u064e\u0646\u064a \u0632\u0650\u064a\u0652\u062f (\u0627\u0644\u063a\u0631\u0628\u064a\u0629)",
+        "seoname": "bny-zyd-alghrby-515465"
+    },
+    {
+        "id_location": 369084,
+        "id_location_parent": 369065,
+        "name": "\u0628\u0650\u064a\u062a \u0633\u0650\u064a\u0631\u064e\u0627",
+        "seoname": "byt-syra-515466"
+    },
+    {
+        "id_location": 369085,
+        "id_location_parent": 369065,
+        "name": "\u0628\u0650\u064a\u062a \u0639\u064f\u0648\u0652\u0631\u0652 \u0627\u0644\u062a\u064e\u062d\u0652\u062a\u064e\u0627",
+        "seoname": "byt-aaor-althta-515467"
+    },
+    {
+        "id_location": 369086,
+        "id_location_parent": 369065,
+        "name": "\u0628\u0650\u064a\u062a \u0639\u064f\u0648\u0652\u0631 \u0627\u0644\u0641\u064f\u0648\u0642\u064e\u0627",
+        "seoname": "byt-aaor-alfoka-515468"
+    },
+    {
+        "id_location": 369087,
+        "id_location_parent": 369065,
+        "name": "\u0628\u0650\u064a\u062a \u0644\u0650\u0642\u0652\u064a\u0627",
+        "seoname": "byt-lkya-515469"
+    },
+    {
+        "id_location": 369088,
+        "id_location_parent": 369065,
+        "name": "\u0628\u0650\u064a\u062a\u064f\u0648\u0646\u0652\u064a\u0627",
+        "seoname": "bytonya-515470"
+    },
+    {
+        "id_location": 369089,
+        "id_location_parent": 369065,
+        "name": "\u0628\u064e\u064a\u0652\u062a\u0650\u064a\u0646",
+        "seoname": "bytyn-515471"
+    },
+    {
+        "id_location": 369090,
+        "id_location_parent": 369065,
+        "name": "\u0628\u0650\u064a\u0631\u0632\u064a\u062a",
+        "seoname": "byrzyt-515472"
+    },
+    {
+        "id_location": 369091,
+        "id_location_parent": 369065,
+        "name": "\u062a\u064f\u0631\u0652\u0645\u064f\u0633\u0639\u064e\u064a\u0651\u064e\u0627",
+        "seoname": "trmsaaya-515473"
+    },
+    {
+        "id_location": 369092,
+        "id_location_parent": 369065,
+        "name": "\u062c\u0650\u0641\u0652\u0646\u064e\u0627",
+        "seoname": "gfna-515474"
+    },
+    {
+        "id_location": 369093,
+        "id_location_parent": 369065,
+        "name": "\u062c\u0650\u0644\u0652\u062c\u0650\u064a\u0644\u0650\u064a\u0651\u064e\u0627",
+        "seoname": "glgylya-515475"
+    },
+    {
+        "id_location": 369094,
+        "id_location_parent": 369065,
+        "name": "\u062c\u0650\u064a\u0652\u0628\u064a\u0627",
+        "seoname": "gybya-515476"
+    },
+    {
+        "id_location": 369095,
+        "id_location_parent": 369065,
+        "name": "\u062e\u0650\u0631\u0652\u0628\u064e\u0629\u0652 \u0623\u0628\u0648 \u0641\u064e\u0644\u0627\u064e\u062d",
+        "seoname": "khrb-abo-flah-515477"
+    },
+    {
+        "id_location": 369096,
+        "id_location_parent": 369065,
+        "name": "\u062e\u064e\u0631\u0652\u0628\u064e\u062b\u0627 \u0627\u0644\u0645\u0650\u0635\u0652\u0628\u0627\u062d",
+        "seoname": "khrbtha-almsbah-515478"
+    },
+    {
+        "id_location": 369097,
+        "id_location_parent": 369065,
+        "name": "\u062e\u064e\u0631\u0652\u0628\u064e\u062b\u0627 \u0628\u064e\u0646\u0650\u064a \u062d\u064e\u0627\u0631\u0650\u062b",
+        "seoname": "khrbtha-bny-harth-515479"
+    },
+    {
+        "id_location": 369098,
+        "id_location_parent": 369065,
+        "name": "\u062f\u064f\u0648\u0631\u0627 \u0627\u0644\u0642\u064e\u0631\u0650\u0639",
+        "seoname": "dora-alkraa-515480"
+    },
+    {
+        "id_location": 369099,
+        "id_location_parent": 369065,
+        "name": "\u062f\u0650\u064a\u0631 \u0625\u0628\u0632\u0650\u064a\u0639",
+        "seoname": "dyr-abzyaa-515481"
+    },
+    {
+        "id_location": 369100,
+        "id_location_parent": 369065,
+        "name": "\u062f\u0650\u064a\u0631 \u0623\u0628\u0648 \u0645\u064e\u0634\u0652\u0639\u064e\u0644\u0652",
+        "seoname": "dyr-abo-mshaal-515482"
+    },
+    {
+        "id_location": 369101,
+        "id_location_parent": 369065,
+        "name": "\u062f\u0650\u064a\u0631 \u0627\u0644\u0633\u064f\u0648\u062f\u064e\u0627\u0646",
+        "seoname": "dyr-alsodan-515483"
+    },
+    {
+        "id_location": 369102,
+        "id_location_parent": 369065,
+        "name": "\u062f\u0650\u064a\u0631 \u062c\u064e\u0631\u0650\u064a\u0652\u0631",
+        "seoname": "dyr-gryr-515484"
+    },
+    {
+        "id_location": 369103,
+        "id_location_parent": 369065,
+        "name": "\u062f\u0650\u064a\u0631 \u062f\u064f\u0628\u0652\u0648\u064e\u0627\u0646",
+        "seoname": "dyr-dboan-515485"
+    },
+    {
+        "id_location": 369104,
+        "id_location_parent": 369065,
+        "name": "\u062f\u0650\u064a\u0631 \u0642\u0650\u062f\u0651\u0650\u064a\u0633",
+        "seoname": "dyr-kdys-515486"
+    },
+    {
+        "id_location": 369105,
+        "id_location_parent": 369065,
+        "name": "\u062f\u0650\u064a\u0631 \u0646\u0650\u0638\u064e\u0627\u0645",
+        "seoname": "dyr-ntham-515487"
+    },
+    {
+        "id_location": 369106,
+        "id_location_parent": 369065,
+        "name": "\u0631\u064e\u0627\u0633 \u0643\u064e\u0631\u0652\u0643\u064e\u0631\u0652",
+        "seoname": "ras-krkr-515488"
+    },
+    {
+        "id_location": 369107,
+        "id_location_parent": 369065,
+        "name": "\u0631\u0627\u0645\u064e \u0627\u0644\u0644\u0647",
+        "seoname": "ram-allh-515489"
+    },
+    {
+        "id_location": 369108,
+        "id_location_parent": 369065,
+        "name": "\u0631\u064e\u0645\u0651\u064f\u0648\u0646",
+        "seoname": "rmon-515490"
+    },
+    {
+        "id_location": 369109,
+        "id_location_parent": 369065,
+        "name": "\u0631\u064e\u0646\u0652\u062a\u0650\u064a\u0633",
+        "seoname": "rntys-515491"
+    },
+    {
+        "id_location": 369110,
+        "id_location_parent": 369065,
+        "name": "\u0633\u0650\u0644\u0652\u0648\u0627\u062f",
+        "seoname": "sload-515492"
+    },
+    {
+        "id_location": 369111,
+        "id_location_parent": 369065,
+        "name": "\u0633\u0650\u0646\u0652\u062c\u0650\u0644",
+        "seoname": "sngl-515493"
+    },
+    {
+        "id_location": 369112,
+        "id_location_parent": 369065,
+        "name": "\u0634\u0650\u0628\u0652\u062a\u0650\u064a\u0646",
+        "seoname": "shbtyn-515494"
+    },
+    {
+        "id_location": 369113,
+        "id_location_parent": 369065,
+        "name": "\u0634\u064f\u0642\u0652\u0628\u064e\u0627",
+        "seoname": "shkba-515495"
+    },
+    {
+        "id_location": 369114,
+        "id_location_parent": 369065,
+        "name": "\u0635\u064f\u0631\u0652\u062f\u064e\u0627 \u0648\u0627\u0628\u0648 \u0642\u064e\u0634\u0651",
+        "seoname": "srda-oabo-ksh-515496"
+    },
+    {
+        "id_location": 369115,
+        "id_location_parent": 369065,
+        "name": "\u0635\u064e\u0641\u0651\u064e\u0627",
+        "seoname": "sfa-515497"
+    },
+    {
+        "id_location": 369116,
+        "id_location_parent": 369065,
+        "name": "\u0639\u0627\u0628\u064f\u0648\u062f",
+        "seoname": "aaabod-515498"
+    },
+    {
+        "id_location": 369117,
+        "id_location_parent": 369065,
+        "name": "\u0639\u0650\u0628\u0652\u0648\u064e\u064a\u0652\u0646",
+        "seoname": "aaboyn-515499"
+    },
+    {
+        "id_location": 369118,
+        "id_location_parent": 369065,
+        "name": "\u0639\u064e\u062c\u0651\u064f\u0648\u0644",
+        "seoname": "aagol-515500"
+    },
+    {
+        "id_location": 369119,
+        "id_location_parent": 369065,
+        "name": "\u0639\u064e\u0637\u064e\u0627\u0631\u064e\u0629",
+        "seoname": "aatar-515501"
+    },
+    {
+        "id_location": 369120,
+        "id_location_parent": 369065,
+        "name": "\u0639\u0650\u064a\u0652\u0646 \u0633\u0650\u064a\u0646\u0652\u064a\u0627",
+        "seoname": "aayn-synya-515502"
+    },
+    {
+        "id_location": 369121,
+        "id_location_parent": 369065,
+        "name": "\u0639\u0650\u064a\u0652\u0646 \u0639\u064e\u0631\u0650\u064a\u0643",
+        "seoname": "aayn-aaryk-515503"
+    },
+    {
+        "id_location": 369122,
+        "id_location_parent": 369065,
+        "name": "\u0639\u0650\u064a\u0652\u0646 \u0642\u0650\u064a\u0646\u064a\u0627",
+        "seoname": "aayn-kynya-515504"
+    },
+    {
+        "id_location": 369123,
+        "id_location_parent": 369065,
+        "name": "\u0639\u0650\u064a\u0652\u0646 \u064a\u064e\u0628\u0652\u0631\u0648\u062f",
+        "seoname": "aayn-ybrod-515505"
+    },
+    {
+        "id_location": 369124,
+        "id_location_parent": 369065,
+        "name": "\u0642\u0650\u0628\u0652\u064a\u064e\u0627",
+        "seoname": "kbya-515506"
+    },
+    {
+        "id_location": 369125,
+        "id_location_parent": 369065,
+        "name": "\u0642\u064e\u0631\u064e\u0627\u0648\u064e\u0629 \u0628\u064e\u0646\u064a \u0632\u0650\u064a\u0652\u062f",
+        "seoname": "krao-bny-zyd-515507"
+    },
+    {
+        "id_location": 369126,
+        "id_location_parent": 369065,
+        "name": "\u0643\u064e\u0641\u0652\u0631 \u0639\u0650\u064a\u0652\u0646",
+        "seoname": "kfr-aayn-515508"
+    },
+    {
+        "id_location": 369127,
+        "id_location_parent": 369065,
+        "name": "\u0643\u064e\u0641\u0652\u0631 \u0645\u064e\u0627\u0644\u0650\u0643",
+        "seoname": "kfr-malk-515509"
+    },
+    {
+        "id_location": 369128,
+        "id_location_parent": 369065,
+        "name": "\u0643\u064e\u0641\u0652\u0631 \u0646\u0650\u0639\u0652\u0645\u064e\u0629",
+        "seoname": "kfr-naam-515510"
+    },
+    {
+        "id_location": 369129,
+        "id_location_parent": 369065,
+        "name": "\u0643\u064f\u0648\u0628\u064e\u0631",
+        "seoname": "kobr-515511"
+    },
+    {
+        "id_location": 369130,
+        "id_location_parent": 369065,
+        "name": "\u0646\u0650\u0639\u0652\u0644\u0650\u064a\u0646",
+        "seoname": "naalyn-515512"
+    },
+    {
+        "id_location": 369131,
+        "id_location_parent": 369065,
+        "name": "\u064a\u064e\u0628\u0652\u0631\u064f\u0648\u062f",
+        "seoname": "ybrod-515513"
+    },
+    {
+        "id_location": 369132,
+        "id_location_parent": 1,
+        "name": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0623\u0631\u064a\u062d\u0627 ",
+        "seoname": "mhafth-aryha-782972"
+    },
+    {
+        "id_location": 369133,
+        "id_location_parent": 369132,
+        "name": "\u0623\u0631\u064a\u062d\u0627",
+        "seoname": "aryha-515514"
+    },
+    {
+        "id_location": 369134,
+        "id_location_parent": 369132,
+        "name": "\u0627\u0644\u062c\u0650\u0641\u0652\u062a\u0652\u0644\u0650\u0643",
+        "seoname": "algftlk-515515"
+    },
+    {
+        "id_location": 369135,
+        "id_location_parent": 369132,
+        "name": "\u0627\u0644\u0632\u064f\u0628\u064e\u064a\u0652\u062f\u0627\u062a",
+        "seoname": "alzbydat-515516"
+    },
+    {
+        "id_location": 369136,
+        "id_location_parent": 369132,
+        "name": "\u0627\u0644\u0639\u0648\u062c\u064e\u0627",
+        "seoname": "alaaoga-515517"
+    },
+    {
+        "id_location": 369137,
+        "id_location_parent": 369132,
+        "name": "\u0627\u0644\u0646\u064f\u0648\u064e\u064a\u0652\u0639\u0650\u0645\u064e\u0629 \u0648\u0639\u0650\u064a\u0652\u0646 \u0627\u0644\u062f\u0652\u064a\u0648\u0643 \u0627\u0644\u0641\u064f\u0648\u0642\u0627",
+        "seoname": "alnoyaam-oaayn-aldyok-alfoka-515518"
+    },
+    {
+        "id_location": 369138,
+        "id_location_parent": 369132,
+        "name": "\u0641\u064e\u0635\u064e\u0627\u064a\u0650\u0644",
+        "seoname": "fsayl-515519"
+    },
+    {
+        "id_location": 369139,
+        "id_location_parent": 369132,
+        "name": "\u0645\u064e\u0631\u0652\u062c \u0627\u0644\u063a\u064e\u0632\u0627\u0644",
+        "seoname": "mrg-alghzal-515520"
+    },
+    {
+        "id_location": 369140,
+        "id_location_parent": 369132,
+        "name": "\u0645\u064e\u0631\u0652\u062c \u0646\u064e\u0639\u0652\u062c\u064e\u0629",
+        "seoname": "mrg-naag-515521"
+    },
+    {
+        "id_location": 369141,
+        "id_location_parent": 1,
+        "name": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u064a\u062a \u0644\u062d\u0645",
+        "seoname": "mhafth-byt-lhm-782973"
+    },
+    {
+        "id_location": 369142,
+        "id_location_parent": 369141,
+        "name": "\u0627\u0644\u062c\u064e\u0628\u0652\u0639\u064e\u0629",
+        "seoname": "algbaa-515522"
+    },
+    {
+        "id_location": 369143,
+        "id_location_parent": 369141,
+        "name": "\u0627\u0644\u062e\u064e\u0627\u0635 ",
+        "seoname": "alkhas-515523"
+    },
+    {
+        "id_location": 369144,
+        "id_location_parent": 369141,
+        "name": "\u0627\u0644\u062e\u064e\u0636\u0650\u0631",
+        "seoname": "alkhdr-515524"
+    },
+    {
+        "id_location": 369145,
+        "id_location_parent": 369141,
+        "name": "\u0627\u0644\u062f\u0652\u0648\u062d\u064e\u0629",
+        "seoname": "aldoh-515525"
+    },
+    {
+        "id_location": 369146,
+        "id_location_parent": 369141,
+        "name": "\u0627\u0644\u0634\u064e\u0648\u064e\u0627\u0648\u0652\u0631\u064e\u0629",
+        "seoname": "alshoaor-515526"
+    },
+    {
+        "id_location": 369147,
+        "id_location_parent": 369141,
+        "name": "\u0627\u0644\u0639\u064f\u0628\u064e\u064a\u0652\u062f\u0650\u064a\u0651\u064e\u0629",
+        "seoname": "alaabydy-515527"
+    },
+    {
+        "id_location": 369148,
+        "id_location_parent": 369141,
+        "name": "\u0627\u0644\u0645\u064e\u0639\u0652\u0635\u064e\u0631\u064e\u0629",
+        "seoname": "almaasr-515528"
+    },
+    {
+        "id_location": 369149,
+        "id_location_parent": 369141,
+        "name": "\u0627\u0644\u0645\u064e\u0646\u0650\u064a\u0651\u0650\u0627",
+        "seoname": "almnya-515529"
+    },
+    {
+        "id_location": 369150,
+        "id_location_parent": 369141,
+        "name": "\u0627\u0644\u0648\u064e\u0644\u064e\u062c\u064e\u0629",
+        "seoname": "alolg-515530"
+    },
+    {
+        "id_location": 369151,
+        "id_location_parent": 369141,
+        "name": "\u0625\u0631\u0652\u0637\u064e\u0627\u0633",
+        "seoname": "artas-515531"
+    },
+    {
+        "id_location": 369152,
+        "id_location_parent": 369141,
+        "name": "\u0623\u064f\u0645\u0651\u064f \u0633\u064e\u0644\u0652\u0645\u064f\u0648\u0646\u064e\u0629",
+        "seoname": "am-slmon-515532"
+    },
+    {
+        "id_location": 369153,
+        "id_location_parent": 369141,
+        "name": "\u0628\u064e\u062a\u0651\u0650\u064a\u0631",
+        "seoname": "btyr-515533"
+    },
+    {
+        "id_location": 369154,
+        "id_location_parent": 369141,
+        "name": "\u0628\u0650\u064a\u062a \u062a\u064e\u0639\u0652\u0645\u064e\u0631",
+        "seoname": "byt-taamr-515534"
+    },
+    {
+        "id_location": 369155,
+        "id_location_parent": 369141,
+        "name": "\u0628\u0650\u064a\u062a \u062c\u064e\u0627\u0644\u0627",
+        "seoname": "byt-gala-515535"
+    },
+    {
+        "id_location": 369156,
+        "id_location_parent": 369141,
+        "name": "\u0628\u0650\u064a\u062a \u0633\u0627\u062d\u0648\u0631",
+        "seoname": "byt-sahor-515536"
+    },
+    {
+        "id_location": 369157,
+        "id_location_parent": 369141,
+        "name": "\u0628\u0650\u064a\u062a \u0641\u064e\u062c\u0651\u064e\u0627\u0631",
+        "seoname": "byt-fgar-515537"
+    },
+    {
+        "id_location": 369158,
+        "id_location_parent": 369141,
+        "name": "\u0628\u0650\u064a\u062a \u0644\u064e\u062d\u0652\u0645",
+        "seoname": "byt-lhm-515538"
+    },
+    {
+        "id_location": 369159,
+        "id_location_parent": 369141,
+        "name": "\u062a\u064f\u0642\u064f\u0648\u0639",
+        "seoname": "tkoaa-515539"
+    },
+    {
+        "id_location": 369160,
+        "id_location_parent": 369141,
+        "name": "\u062c\u0646\u0627\u062a\u0627 (\u0628\u062f\u0651\u064e \u0641\u0644\u0648\u062d)",
+        "seoname": "gnata-bd-floh-515540"
+    },
+    {
+        "id_location": 369161,
+        "id_location_parent": 369141,
+        "name": "\u062c\u0652\u0648\u0631\u064e\u0629 \u0627\u0644\u0634\u064e\u0645\u0652\u0639\u064e\u0629",
+        "seoname": "gor-alshmaa-515541"
+    },
+    {
+        "id_location": 369162,
+        "id_location_parent": 369141,
+        "name": "\u062d\u064f\u0648\u0633\u064e\u0627\u0646",
+        "seoname": "hosan-515542"
+    },
+    {
+        "id_location": 369163,
+        "id_location_parent": 369141,
+        "name": "\u062e\u064e\u0644\u0651\u0650\u0629 \u0627\u0644\u062d\u064e\u062f\u0651\u064e\u0627\u062f\u0652",
+        "seoname": "khl-alhdad-515543"
+    },
+    {
+        "id_location": 369164,
+        "id_location_parent": 369141,
+        "name": "\u062e\u064e\u0644\u0651\u064e\u0629 \u0627\u0644\u0646\u064f\u0639\u0652\u0645\u064e\u0627\u0646",
+        "seoname": "khl-alnaaman-515544"
+    },
+    {
+        "id_location": 369165,
+        "id_location_parent": 369141,
+        "name": "\u062e\u064e\u0644\u0651\u0650\u0629\u0652 \u0633\u064e\u0643\u064e\u0627\u0631\u0652\u064a\u064e\u0627",
+        "seoname": "khl-skarya-515545"
+    },
+    {
+        "id_location": 369166,
+        "id_location_parent": 369141,
+        "name": "\u062f\u0627\u0631 \u0635\u0644\u0627\u062d",
+        "seoname": "dar-slah-515546"
+    },
+    {
+        "id_location": 369167,
+        "id_location_parent": 369141,
+        "name": "\u0632\u064e\u0639\u0652\u062a\u064e\u0631\u064e\u0629",
+        "seoname": "zaatr-515547"
+    },
+    {
+        "id_location": 369168,
+        "id_location_parent": 369141,
+        "name": "\u0639\u064e\u0631\u064e\u0628\u0652 \u0627\u0644\u0631\u064e\u0634\u0627\u064a\u0652\u062f\u0650\u0629",
+        "seoname": "aarb-alrshayd-515548"
+    },
+    {
+        "id_location": 369169,
+        "id_location_parent": 369141,
+        "name": "\u0643\u0650\u064a\u0633\u064e\u0627\u0646",
+        "seoname": "kysan-515549"
+    },
+    {
+        "id_location": 369170,
+        "id_location_parent": 369141,
+        "name": "\u0645\u064e\u0631\u064e\u0627\u062d \u0631\u064e\u0628\u064e\u0627\u062d",
+        "seoname": "mrah-rbah-515550"
+    },
+    {
+        "id_location": 369171,
+        "id_location_parent": 369141,
+        "name": "\u0645\u064e\u0631\u0627\u062d \u0645\u064e\u0639\u064e\u0644\u0627\u0651\u064e",
+        "seoname": "mrah-maala-515551"
+    },
+    {
+        "id_location": 369172,
+        "id_location_parent": 369141,
+        "name": "\u0646\u064e\u062d\u0651\u064e\u0627\u0644\u064a\u0646",
+        "seoname": "nhalyn-515552"
+    },
+    {
+        "id_location": 369173,
+        "id_location_parent": 369141,
+        "name": "\u0647\u0650\u0646\u0652\u062f\u064e\u0627\u0632\u064e\u0629 \u0648\u0628\u064f\u0631\u064e\u064a\u0652\u0636\u0650\u0639\u064e\u0629",
+        "seoname": "hndaz-obrydaa-515553"
+    },
+    {
+        "id_location": 369174,
+        "id_location_parent": 369141,
+        "name": "\u0648\u0627\u062f\u064a \u0627\u0644\u0646\u0650\u064a\u0635\u0652",
+        "seoname": "oady-alnys-515554"
+    },
+    {
+        "id_location": 369175,
+        "id_location_parent": 369141,
+        "name": "\u0648\u0627\u062f\u064a \u0631\u064e\u062d\u0651\u064e\u0627\u0644",
+        "seoname": "oady-rhal-515555"
+    },
+    {
+        "id_location": 369176,
+        "id_location_parent": 369141,
+        "name": "\u0648\u0627\u062f\u064a \u0641\u064f\u0648\u0643\u0650\u064a\u0646",
+        "seoname": "oady-fokyn-515556"
+    },
+    {
+        "id_location": 369177,
+        "id_location_parent": 1,
+        "name": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u062e\u0644\u064a\u0644",
+        "seoname": "mhafth-alkhlyl-782974"
+    }
+]

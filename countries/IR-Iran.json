@@ -1,0 +1,374 @@
+[
+    {
+        "id_location": 250253,
+        "id_location_parent": 1,
+        "name": "Antrim",
+        "seoname": "antrim-743144"
+    },
+    {
+        "id_location": 250254,
+        "id_location_parent": 250253,
+        "name": "Antrim",
+        "seoname": "antrim-37174"
+    },
+    {
+        "id_location": 250255,
+        "id_location_parent": 250253,
+        "name": "Ballyclare",
+        "seoname": "ballyclare-37175"
+    },
+    {
+        "id_location": 250256,
+        "id_location_parent": 250253,
+        "name": "Ballygalley",
+        "seoname": "ballygalley-37176"
+    },
+    {
+        "id_location": 250257,
+        "id_location_parent": 250253,
+        "name": "Ballymena",
+        "seoname": "ballymena-37177"
+    },
+    {
+        "id_location": 250258,
+        "id_location_parent": 250253,
+        "name": "Ballymoney",
+        "seoname": "ballymoney-37178"
+    },
+    {
+        "id_location": 250259,
+        "id_location_parent": 250253,
+        "name": "Belfast",
+        "seoname": "belfast-37179"
+    },
+    {
+        "id_location": 250260,
+        "id_location_parent": 250253,
+        "name": "Bushmills",
+        "seoname": "bushmills-37180"
+    },
+    {
+        "id_location": 250261,
+        "id_location_parent": 250253,
+        "name": "Carnlough",
+        "seoname": "carnlough-37181"
+    },
+    {
+        "id_location": 250262,
+        "id_location_parent": 250253,
+        "name": "Carrickfergus",
+        "seoname": "carrickfergus-37182"
+    },
+    {
+        "id_location": 250263,
+        "id_location_parent": 250253,
+        "name": "Castlerock",
+        "seoname": "castlerock-37183"
+    },
+    {
+        "id_location": 250264,
+        "id_location_parent": 250253,
+        "name": "Derry",
+        "seoname": "derry-37184"
+    },
+    {
+        "id_location": 250265,
+        "id_location_parent": 250253,
+        "name": "Dunadry",
+        "seoname": "dunadry-37185"
+    },
+    {
+        "id_location": 250266,
+        "id_location_parent": 250253,
+        "name": "Dunluce",
+        "seoname": "dunluce-37186"
+    },
+    {
+        "id_location": 250267,
+        "id_location_parent": 250253,
+        "name": "Dunmurry",
+        "seoname": "dunmurry-37187"
+    },
+    {
+        "id_location": 250268,
+        "id_location_parent": 250253,
+        "name": "Giant'S Causeway",
+        "seoname": "giants-causeway-37188"
+    },
+    {
+        "id_location": 250269,
+        "id_location_parent": 250253,
+        "name": "Hillsborough",
+        "seoname": "hillsborough-37189"
+    },
+    {
+        "id_location": 250270,
+        "id_location_parent": 250253,
+        "name": "Larne",
+        "seoname": "larne-37190"
+    },
+    {
+        "id_location": 250271,
+        "id_location_parent": 250253,
+        "name": "Newtownabbey",
+        "seoname": "newtownabbey-37191"
+    },
+    {
+        "id_location": 250272,
+        "id_location_parent": 250253,
+        "name": "Nutts Corner",
+        "seoname": "nutts-corner-37192"
+    },
+    {
+        "id_location": 250273,
+        "id_location_parent": 250253,
+        "name": "Parkgate",
+        "seoname": "parkgate-37193"
+    },
+    {
+        "id_location": 250274,
+        "id_location_parent": 250253,
+        "name": "Portballintrae",
+        "seoname": "portballintrae-37194"
+    },
+    {
+        "id_location": 250275,
+        "id_location_parent": 250253,
+        "name": "Portrush",
+        "seoname": "portrush-37195"
+    },
+    {
+        "id_location": 250276,
+        "id_location_parent": 250253,
+        "name": "Stoneyford",
+        "seoname": "stoneyford-37196"
+    },
+    {
+        "id_location": 250277,
+        "id_location_parent": 250253,
+        "name": "Sydenham",
+        "seoname": "sydenham-37197"
+    },
+    {
+        "id_location": 250278,
+        "id_location_parent": 250253,
+        "name": "Templepatrick",
+        "seoname": "templepatrick-37198"
+    },
+    {
+        "id_location": 250279,
+        "id_location_parent": 250253,
+        "name": "Toomebridge",
+        "seoname": "toomebridge-37199"
+    },
+    {
+        "id_location": 250280,
+        "id_location_parent": 1,
+        "name": "Armagh",
+        "seoname": "armagh-743171"
+    },
+    {
+        "id_location": 250281,
+        "id_location_parent": 250280,
+        "name": "Armagh",
+        "seoname": "armagh-37200"
+    },
+    {
+        "id_location": 250282,
+        "id_location_parent": 250280,
+        "name": "Banbridge",
+        "seoname": "banbridge-37201"
+    },
+    {
+        "id_location": 250283,
+        "id_location_parent": 250280,
+        "name": "Camlough",
+        "seoname": "camlough-37202"
+    },
+    {
+        "id_location": 250284,
+        "id_location_parent": 250280,
+        "name": "Craigavon",
+        "seoname": "craigavon-37203"
+    },
+    {
+        "id_location": 250285,
+        "id_location_parent": 250280,
+        "name": "Kilmore",
+        "seoname": "kilmore-37204"
+    },
+    {
+        "id_location": 250286,
+        "id_location_parent": 250280,
+        "name": "Lurgan",
+        "seoname": "lurgan-37205"
+    },
+    {
+        "id_location": 250287,
+        "id_location_parent": 1,
+        "name": "Down",
+        "seoname": "down-743178"
+    },
+    {
+        "id_location": 250288,
+        "id_location_parent": 250287,
+        "name": "Ardglass",
+        "seoname": "ardglass-37206"
+    },
+    {
+        "id_location": 250289,
+        "id_location_parent": 250287,
+        "name": "Ards",
+        "seoname": "ards-37207"
+    },
+    {
+        "id_location": 250290,
+        "id_location_parent": 250287,
+        "name": "Ballynahinch",
+        "seoname": "ballynahinch-37208"
+    },
+    {
+        "id_location": 250291,
+        "id_location_parent": 250287,
+        "name": "Bangor",
+        "seoname": "bangor-37209"
+    },
+    {
+        "id_location": 250292,
+        "id_location_parent": 250287,
+        "name": "Cockermouth",
+        "seoname": "cockermouth-37210"
+    },
+    {
+        "id_location": 250293,
+        "id_location_parent": 250287,
+        "name": "Crawfordsburn",
+        "seoname": "crawfordsburn-37211"
+    },
+    {
+        "id_location": 250294,
+        "id_location_parent": 250287,
+        "name": "Downpatrick",
+        "seoname": "downpatrick-37212"
+    },
+    {
+        "id_location": 250295,
+        "id_location_parent": 250287,
+        "name": "Holywood",
+        "seoname": "holywood-37213"
+    },
+    {
+        "id_location": 250296,
+        "id_location_parent": 250287,
+        "name": "Kilmore",
+        "seoname": "kilmore-37214"
+    },
+    {
+        "id_location": 250297,
+        "id_location_parent": 250287,
+        "name": "Newcastle",
+        "seoname": "newcastle-37215"
+    },
+    {
+        "id_location": 250298,
+        "id_location_parent": 250287,
+        "name": "Newry",
+        "seoname": "newry-37216"
+    },
+    {
+        "id_location": 250299,
+        "id_location_parent": 250287,
+        "name": "Newtownards",
+        "seoname": "newtownards-37217"
+    },
+    {
+        "id_location": 250300,
+        "id_location_parent": 250287,
+        "name": "Portaferry",
+        "seoname": "portaferry-37218"
+    },
+    {
+        "id_location": 250301,
+        "id_location_parent": 1,
+        "name": "Fermanagh",
+        "seoname": "fermanagh-743192"
+    },
+    {
+        "id_location": 250302,
+        "id_location_parent": 250301,
+        "name": "Belleek",
+        "seoname": "belleek-37219"
+    },
+    {
+        "id_location": 250303,
+        "id_location_parent": 250301,
+        "name": "Enniskillen",
+        "seoname": "enniskillen-37220"
+    },
+    {
+        "id_location": 250304,
+        "id_location_parent": 250301,
+        "name": "Holywell",
+        "seoname": "holywell-37221"
+    },
+    {
+        "id_location": 250305,
+        "id_location_parent": 1,
+        "name": "Tyrone",
+        "seoname": "tyrone-743196"
+    },
+    {
+        "id_location": 250306,
+        "id_location_parent": 250305,
+        "name": "Cookstown",
+        "seoname": "cookstown-37222"
+    },
+    {
+        "id_location": 250307,
+        "id_location_parent": 250305,
+        "name": "Drummond",
+        "seoname": "drummond-37223"
+    },
+    {
+        "id_location": 250308,
+        "id_location_parent": 250305,
+        "name": "Dungannon",
+        "seoname": "dungannon-37224"
+    },
+    {
+        "id_location": 250309,
+        "id_location_parent": 250305,
+        "name": "Omagh",
+        "seoname": "omagh-37225"
+    },
+    {
+        "id_location": 250310,
+        "id_location_parent": 1,
+        "name": "Londonderry",
+        "seoname": "londonderry-743201"
+    },
+    {
+        "id_location": 250311,
+        "id_location_parent": 250310,
+        "name": "Coleraine",
+        "seoname": "coleraine-37226"
+    },
+    {
+        "id_location": 250312,
+        "id_location_parent": 250310,
+        "name": "Limavady",
+        "seoname": "limavady-37227"
+    },
+    {
+        "id_location": 250313,
+        "id_location_parent": 250310,
+        "name": "Londonderry",
+        "seoname": "londonderry-37228"
+    },
+    {
+        "id_location": 250314,
+        "id_location_parent": 250310,
+        "name": "Portstewart",
+        "seoname": "portstewart-37229"
+    }
+]

@@ -1,0 +1,422 @@
+[
+    {
+        "id_location": 331416,
+        "id_location_parent": 1,
+        "name": "Central",
+        "seoname": "central-778086"
+    },
+    {
+        "id_location": 331417,
+        "id_location_parent": 331416,
+        "name": "Port Moresby",
+        "seoname": "port-moresby-41970"
+    },
+    {
+        "id_location": 331418,
+        "id_location_parent": 331416,
+        "name": "Konedobu",
+        "seoname": "konedobu-41971"
+    },
+    {
+        "id_location": 331419,
+        "id_location_parent": 331416,
+        "name": "Soqeri",
+        "seoname": "soqeri-41972"
+    },
+    {
+        "id_location": 331420,
+        "id_location_parent": 331416,
+        "name": "Taurama",
+        "seoname": "taurama-41973"
+    },
+    {
+        "id_location": 331421,
+        "id_location_parent": 331416,
+        "name": "Woitape",
+        "seoname": "woitape-41974"
+    },
+    {
+        "id_location": 331422,
+        "id_location_parent": 331416,
+        "name": "Yule Island",
+        "seoname": "yule-island-41975"
+    },
+    {
+        "id_location": 331423,
+        "id_location_parent": 1,
+        "name": "Simbu",
+        "seoname": "simbu-778093"
+    },
+    {
+        "id_location": 331424,
+        "id_location_parent": 331423,
+        "name": "Kundiawa",
+        "seoname": "kundiawa-41976"
+    },
+    {
+        "id_location": 331425,
+        "id_location_parent": 1,
+        "name": "Highlands Orientales",
+        "seoname": "highlands-orientales-778095"
+    },
+    {
+        "id_location": 331426,
+        "id_location_parent": 331425,
+        "name": "Goroka",
+        "seoname": "goroka-41977"
+    },
+    {
+        "id_location": 331427,
+        "id_location_parent": 331425,
+        "name": "Kainantu",
+        "seoname": "kainantu-41978"
+    },
+    {
+        "id_location": 331428,
+        "id_location_parent": 1,
+        "name": "Nueva Breta\u00f1a del Este",
+        "seoname": "nueva-bretana-del-este-778098"
+    },
+    {
+        "id_location": 331429,
+        "id_location_parent": 331428,
+        "name": "Rabaul",
+        "seoname": "rabaul-41979"
+    },
+    {
+        "id_location": 331430,
+        "id_location_parent": 331428,
+        "name": "Kokopo",
+        "seoname": "kokopo-41980"
+    },
+    {
+        "id_location": 331431,
+        "id_location_parent": 1,
+        "name": "Sepik del Este",
+        "seoname": "sepik-del-este-778101"
+    },
+    {
+        "id_location": 331432,
+        "id_location_parent": 331431,
+        "name": "Angoram",
+        "seoname": "angoram-41981"
+    },
+    {
+        "id_location": 331433,
+        "id_location_parent": 331431,
+        "name": "Kaminimbit",
+        "seoname": "kaminimbit-41982"
+    },
+    {
+        "id_location": 331434,
+        "id_location_parent": 331431,
+        "name": "Karawari",
+        "seoname": "karawari-41983"
+    },
+    {
+        "id_location": 331435,
+        "id_location_parent": 331431,
+        "name": "Timbunke",
+        "seoname": "timbunke-41984"
+    },
+    {
+        "id_location": 331436,
+        "id_location_parent": 331431,
+        "name": "Wewak",
+        "seoname": "wewak-41985"
+    },
+    {
+        "id_location": 331437,
+        "id_location_parent": 331431,
+        "name": "Aitape",
+        "seoname": "aitape-41986"
+    },
+    {
+        "id_location": 331438,
+        "id_location_parent": 331431,
+        "name": "Ambunti",
+        "seoname": "ambunti-41987"
+    },
+    {
+        "id_location": 331439,
+        "id_location_parent": 1,
+        "name": "Enga",
+        "seoname": "enga-778109"
+    },
+    {
+        "id_location": 331440,
+        "id_location_parent": 331439,
+        "name": "Laiagam",
+        "seoname": "laiagam-41988"
+    },
+    {
+        "id_location": 331441,
+        "id_location_parent": 331439,
+        "name": "Porgera",
+        "seoname": "porgera-41989"
+    },
+    {
+        "id_location": 331442,
+        "id_location_parent": 331439,
+        "name": "Wabag",
+        "seoname": "wabag-41990"
+    },
+    {
+        "id_location": 331443,
+        "id_location_parent": 1,
+        "name": "Golfo",
+        "seoname": "golfo-778113"
+    },
+    {
+        "id_location": 331444,
+        "id_location_parent": 331443,
+        "name": "Kerema",
+        "seoname": "kerema-41991"
+    },
+    {
+        "id_location": 331445,
+        "id_location_parent": 331443,
+        "name": "Kikori",
+        "seoname": "kikori-41992"
+    },
+    {
+        "id_location": 331446,
+        "id_location_parent": 331443,
+        "name": "Malalaua",
+        "seoname": "malalaua-41993"
+    },
+    {
+        "id_location": 331447,
+        "id_location_parent": 1,
+        "name": "Madang",
+        "seoname": "madang-778117"
+    },
+    {
+        "id_location": 331448,
+        "id_location_parent": 331447,
+        "name": "Madang",
+        "seoname": "madang-41994"
+    },
+    {
+        "id_location": 331449,
+        "id_location_parent": 331447,
+        "name": "Gusap",
+        "seoname": "gusap-41995"
+    },
+    {
+        "id_location": 331450,
+        "id_location_parent": 331447,
+        "name": "Finschhafen",
+        "seoname": "finschhafen-41996"
+    },
+    {
+        "id_location": 331451,
+        "id_location_parent": 1,
+        "name": "Manus",
+        "seoname": "manus-778121"
+    },
+    {
+        "id_location": 331452,
+        "id_location_parent": 331451,
+        "name": "Lorengau",
+        "seoname": "lorengau-41997"
+    },
+    {
+        "id_location": 331453,
+        "id_location_parent": 331451,
+        "name": "Manus",
+        "seoname": "manus-41998"
+    },
+    {
+        "id_location": 331454,
+        "id_location_parent": 1,
+        "name": "Milne Bay",
+        "seoname": "milne-bay-778124"
+    },
+    {
+        "id_location": 331455,
+        "id_location_parent": 331454,
+        "name": "Alotau",
+        "seoname": "alotau-41999"
+    },
+    {
+        "id_location": 331456,
+        "id_location_parent": 331454,
+        "name": "Esa'ala",
+        "seoname": "esaala-42000"
+    },
+    {
+        "id_location": 331457,
+        "id_location_parent": 331454,
+        "name": "Losuia",
+        "seoname": "losuia-42001"
+    },
+    {
+        "id_location": 331458,
+        "id_location_parent": 331454,
+        "name": "Samarai",
+        "seoname": "samarai-42002"
+    },
+    {
+        "id_location": 331459,
+        "id_location_parent": 1,
+        "name": "Morobe",
+        "seoname": "morobe-778129"
+    },
+    {
+        "id_location": 331460,
+        "id_location_parent": 331459,
+        "name": "Lae",
+        "seoname": "lae-42003"
+    },
+    {
+        "id_location": 331461,
+        "id_location_parent": 331459,
+        "name": "Bulolo",
+        "seoname": "bulolo-42004"
+    },
+    {
+        "id_location": 331462,
+        "id_location_parent": 331459,
+        "name": "Finschafen",
+        "seoname": "finschafen-42005"
+    },
+    {
+        "id_location": 331463,
+        "id_location_parent": 331459,
+        "name": "Sialum",
+        "seoname": "sialum-42006"
+    },
+    {
+        "id_location": 331464,
+        "id_location_parent": 331459,
+        "name": "Wau",
+        "seoname": "wau-42007"
+    },
+    {
+        "id_location": 331465,
+        "id_location_parent": 1,
+        "name": "Nueva Irlanda",
+        "seoname": "nueva-irlanda-778135"
+    },
+    {
+        "id_location": 331466,
+        "id_location_parent": 331465,
+        "name": "Kavieng",
+        "seoname": "kavieng-42008"
+    },
+    {
+        "id_location": 331467,
+        "id_location_parent": 331465,
+        "name": "Lihir Island",
+        "seoname": "lihir-island-42009"
+    },
+    {
+        "id_location": 331468,
+        "id_location_parent": 331465,
+        "name": "Namatanai",
+        "seoname": "namatanai-42010"
+    },
+    {
+        "id_location": 331469,
+        "id_location_parent": 1,
+        "name": "Oro",
+        "seoname": "oro-778139"
+    },
+    {
+        "id_location": 331470,
+        "id_location_parent": 331469,
+        "name": "Popondetta",
+        "seoname": "popondetta-42011"
+    },
+    {
+        "id_location": 331471,
+        "id_location_parent": 331469,
+        "name": "Kokoda",
+        "seoname": "kokoda-42012"
+    },
+    {
+        "id_location": 331472,
+        "id_location_parent": 1,
+        "name": "Bougainville",
+        "seoname": "bougainville-778142"
+    },
+    {
+        "id_location": 331473,
+        "id_location_parent": 331472,
+        "name": "Arawa",
+        "seoname": "arawa-42013"
+    },
+    {
+        "id_location": 331474,
+        "id_location_parent": 1,
+        "name": "Highlands del Sur",
+        "seoname": "highlands-del-sur-778144"
+    },
+    {
+        "id_location": 331475,
+        "id_location_parent": 331474,
+        "name": "Mendi",
+        "seoname": "mendi-42014"
+    },
+    {
+        "id_location": 331476,
+        "id_location_parent": 331474,
+        "name": "Tari",
+        "seoname": "tari-42015"
+    },
+    {
+        "id_location": 331477,
+        "id_location_parent": 1,
+        "name": "Occidental",
+        "seoname": "occidental-778147"
+    },
+    {
+        "id_location": 331478,
+        "id_location_parent": 331477,
+        "name": "Daru",
+        "seoname": "daru-42016"
+    },
+    {
+        "id_location": 331479,
+        "id_location_parent": 331477,
+        "name": "Bensbach",
+        "seoname": "bensbach-42017"
+    },
+    {
+        "id_location": 331480,
+        "id_location_parent": 331477,
+        "name": "Minj",
+        "seoname": "minj-42018"
+    },
+    {
+        "id_location": 331481,
+        "id_location_parent": 331477,
+        "name": "Mount Hagen",
+        "seoname": "mount-hagen-42019"
+    },
+    {
+        "id_location": 331482,
+        "id_location_parent": 1,
+        "name": "Highlands Occidentales",
+        "seoname": "highlands-occidentales-778152"
+    },
+    {
+        "id_location": 331483,
+        "id_location_parent": 331482,
+        "name": "Mount Hagen",
+        "seoname": "mount-hagen-42020"
+    },
+    {
+        "id_location": 331484,
+        "id_location_parent": 1,
+        "name": "Sandaun",
+        "seoname": "sandaun-778154"
+    },
+    {
+        "id_location": 331485,
+        "id_location_parent": 331484,
+        "name": "Vanimo",
+        "seoname": "vanimo-42021"
+    }
+]

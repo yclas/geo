@@ -1,0 +1,1886 @@
+[
+    {
+        "id_location": 389105,
+        "id_location_parent": 1,
+        "name": "Blekinge",
+        "seoname": "blekinge-781926"
+    },
+    {
+        "id_location": 389106,
+        "id_location_parent": 389105,
+        "name": "Karlshamn",
+        "seoname": "karlshamn-409198"
+    },
+    {
+        "id_location": 389107,
+        "id_location_parent": 389105,
+        "name": "Olofstr\u00f6m",
+        "seoname": "olofstrom-409199"
+    },
+    {
+        "id_location": 389108,
+        "id_location_parent": 389105,
+        "name": "S\u00f6lvesborg",
+        "seoname": "solvesborg-409200"
+    },
+    {
+        "id_location": 389109,
+        "id_location_parent": 389105,
+        "name": "Ronneby",
+        "seoname": "ronneby-409201"
+    },
+    {
+        "id_location": 389110,
+        "id_location_parent": 389105,
+        "name": "Karlskrona",
+        "seoname": "karlskrona-409202"
+    },
+    {
+        "id_location": 389111,
+        "id_location_parent": 1,
+        "name": "Dalarnas",
+        "seoname": "dalarnas-781927"
+    },
+    {
+        "id_location": 389112,
+        "id_location_parent": 389111,
+        "name": "Mora",
+        "seoname": "mora-409203"
+    },
+    {
+        "id_location": 389113,
+        "id_location_parent": 389111,
+        "name": "S\u00e4ter",
+        "seoname": "sater-409204"
+    },
+    {
+        "id_location": 389114,
+        "id_location_parent": 389111,
+        "name": "Gagnef",
+        "seoname": "gagnef-409205"
+    },
+    {
+        "id_location": 389115,
+        "id_location_parent": 389111,
+        "name": "\u00c4lvdalen",
+        "seoname": "alvdalen-409206"
+    },
+    {
+        "id_location": 389116,
+        "id_location_parent": 389111,
+        "name": "Vansbro",
+        "seoname": "vansbro-409207"
+    },
+    {
+        "id_location": 389117,
+        "id_location_parent": 389111,
+        "name": "R\u00e4ttvik",
+        "seoname": "rattvik-409208"
+    },
+    {
+        "id_location": 389118,
+        "id_location_parent": 389111,
+        "name": "Smedjebacken",
+        "seoname": "smedjebacken-409209"
+    },
+    {
+        "id_location": 389119,
+        "id_location_parent": 389111,
+        "name": "Malung",
+        "seoname": "malung-409210"
+    },
+    {
+        "id_location": 389120,
+        "id_location_parent": 389111,
+        "name": "Orsa",
+        "seoname": "orsa-409211"
+    },
+    {
+        "id_location": 389121,
+        "id_location_parent": 389111,
+        "name": "Leksand",
+        "seoname": "leksand-409212"
+    },
+    {
+        "id_location": 389122,
+        "id_location_parent": 389111,
+        "name": "Hedemora",
+        "seoname": "hedemora-409213"
+    },
+    {
+        "id_location": 389123,
+        "id_location_parent": 389111,
+        "name": "Ludvika",
+        "seoname": "ludvika-409214"
+    },
+    {
+        "id_location": 389124,
+        "id_location_parent": 389111,
+        "name": "Avesta",
+        "seoname": "avesta-409215"
+    },
+    {
+        "id_location": 389125,
+        "id_location_parent": 389111,
+        "name": "Falun",
+        "seoname": "falun-409216"
+    },
+    {
+        "id_location": 389126,
+        "id_location_parent": 389111,
+        "name": "Borl\u00e4nge",
+        "seoname": "borlange-409217"
+    },
+    {
+        "id_location": 389127,
+        "id_location_parent": 1,
+        "name": "G\u00e4vleborgs",
+        "seoname": "gavleborgs-781928"
+    },
+    {
+        "id_location": 389128,
+        "id_location_parent": 389127,
+        "name": "Ljusdal",
+        "seoname": "ljusdal-409218"
+    },
+    {
+        "id_location": 389129,
+        "id_location_parent": 389127,
+        "name": "Nordanstig",
+        "seoname": "nordanstig-409219"
+    },
+    {
+        "id_location": 389130,
+        "id_location_parent": 389127,
+        "name": "Ovan\u00e5ker",
+        "seoname": "ovanaker-409220"
+    },
+    {
+        "id_location": 389131,
+        "id_location_parent": 389127,
+        "name": "Sandviken",
+        "seoname": "sandviken-409221"
+    },
+    {
+        "id_location": 389132,
+        "id_location_parent": 389127,
+        "name": "S\u00f6derhamn",
+        "seoname": "soderhamn-409222"
+    },
+    {
+        "id_location": 389133,
+        "id_location_parent": 389127,
+        "name": "Ockelbo",
+        "seoname": "ockelbo-409223"
+    },
+    {
+        "id_location": 389134,
+        "id_location_parent": 389127,
+        "name": "Hofors",
+        "seoname": "hofors-409224"
+    },
+    {
+        "id_location": 389135,
+        "id_location_parent": 389127,
+        "name": "Bolln\u00e4s",
+        "seoname": "bollnas-409225"
+    },
+    {
+        "id_location": 389136,
+        "id_location_parent": 389127,
+        "name": "Hudiksvall",
+        "seoname": "hudiksvall-409226"
+    },
+    {
+        "id_location": 389137,
+        "id_location_parent": 389127,
+        "name": "G\u00e4vle",
+        "seoname": "gavle-409227"
+    },
+    {
+        "id_location": 389138,
+        "id_location_parent": 1,
+        "name": "Gotlands",
+        "seoname": "gotlands-781929"
+    },
+    {
+        "id_location": 389139,
+        "id_location_parent": 389138,
+        "name": "Gotland",
+        "seoname": "gotland-409228"
+    },
+    {
+        "id_location": 389140,
+        "id_location_parent": 1,
+        "name": "Hallands",
+        "seoname": "hallands-781930"
+    },
+    {
+        "id_location": 389141,
+        "id_location_parent": 389140,
+        "name": "Halmstad",
+        "seoname": "halmstad-409229"
+    },
+    {
+        "id_location": 389142,
+        "id_location_parent": 389140,
+        "name": "Hylte",
+        "seoname": "hylte-409230"
+    },
+    {
+        "id_location": 389143,
+        "id_location_parent": 389140,
+        "name": "Laholm",
+        "seoname": "laholm-409231"
+    },
+    {
+        "id_location": 389144,
+        "id_location_parent": 389140,
+        "name": "Falkenberg",
+        "seoname": "falkenberg-409232"
+    },
+    {
+        "id_location": 389145,
+        "id_location_parent": 389140,
+        "name": "Kungsbacka",
+        "seoname": "kungsbacka-409233"
+    },
+    {
+        "id_location": 389146,
+        "id_location_parent": 389140,
+        "name": "Varberg",
+        "seoname": "varberg-409234"
+    },
+    {
+        "id_location": 389147,
+        "id_location_parent": 1,
+        "name": "J\u00e4mtlands",
+        "seoname": "jamtlands-781931"
+    },
+    {
+        "id_location": 389148,
+        "id_location_parent": 389147,
+        "name": "Berg",
+        "seoname": "berg-409235"
+    },
+    {
+        "id_location": 389149,
+        "id_location_parent": 389147,
+        "name": "Br\u00e4cke",
+        "seoname": "bracke-409236"
+    },
+    {
+        "id_location": 389150,
+        "id_location_parent": 389147,
+        "name": "H\u00e4rjedalen",
+        "seoname": "harjedalen-409237"
+    },
+    {
+        "id_location": 389151,
+        "id_location_parent": 389147,
+        "name": "Ragunda",
+        "seoname": "ragunda-409238"
+    },
+    {
+        "id_location": 389152,
+        "id_location_parent": 389147,
+        "name": "Str\u00f6msund",
+        "seoname": "stromsund-409239"
+    },
+    {
+        "id_location": 389153,
+        "id_location_parent": 389147,
+        "name": "\u00c5re",
+        "seoname": "are-409240"
+    },
+    {
+        "id_location": 389154,
+        "id_location_parent": 389147,
+        "name": "Krokom",
+        "seoname": "krokom-409241"
+    },
+    {
+        "id_location": 389155,
+        "id_location_parent": 389147,
+        "name": "\u00d6stersund",
+        "seoname": "ostersund-409242"
+    },
+    {
+        "id_location": 389156,
+        "id_location_parent": 1,
+        "name": "J\u00f6nk\u00f6pings",
+        "seoname": "jonkopings-781932"
+    },
+    {
+        "id_location": 389157,
+        "id_location_parent": 389156,
+        "name": "Habo",
+        "seoname": "habo-409243"
+    },
+    {
+        "id_location": 389158,
+        "id_location_parent": 389156,
+        "name": "S\u00e4vsj\u00f6",
+        "seoname": "savsjo-409244"
+    },
+    {
+        "id_location": 389159,
+        "id_location_parent": 389156,
+        "name": "Tran\u00e5s",
+        "seoname": "tranas-409245"
+    },
+    {
+        "id_location": 389160,
+        "id_location_parent": 389156,
+        "name": "Aneby",
+        "seoname": "aneby-409246"
+    },
+    {
+        "id_location": 389161,
+        "id_location_parent": 389156,
+        "name": "Gnosj\u00f6",
+        "seoname": "gnosjo-409247"
+    },
+    {
+        "id_location": 389162,
+        "id_location_parent": 389156,
+        "name": "Vaggeryd",
+        "seoname": "vaggeryd-409248"
+    },
+    {
+        "id_location": 389163,
+        "id_location_parent": 389156,
+        "name": "Mullsj\u00f6",
+        "seoname": "mullsjo-409249"
+    },
+    {
+        "id_location": 389164,
+        "id_location_parent": 389156,
+        "name": "Eksj\u00f6",
+        "seoname": "eksjo-409250"
+    },
+    {
+        "id_location": 389165,
+        "id_location_parent": 389156,
+        "name": "Gislaved",
+        "seoname": "gislaved-409251"
+    },
+    {
+        "id_location": 389166,
+        "id_location_parent": 389156,
+        "name": "Vetlanda",
+        "seoname": "vetlanda-409252"
+    },
+    {
+        "id_location": 389167,
+        "id_location_parent": 389156,
+        "name": "N\u00e4ssj\u00f6",
+        "seoname": "nassjo-409253"
+    },
+    {
+        "id_location": 389168,
+        "id_location_parent": 389156,
+        "name": "J\u00f6nk\u00f6ping",
+        "seoname": "jonkoping-409254"
+    },
+    {
+        "id_location": 389169,
+        "id_location_parent": 1,
+        "name": "Kalmar",
+        "seoname": "kalmar-781933"
+    },
+    {
+        "id_location": 389170,
+        "id_location_parent": 389169,
+        "name": "Nybro",
+        "seoname": "nybro-409255"
+    },
+    {
+        "id_location": 389171,
+        "id_location_parent": 389169,
+        "name": "Oskarshamn",
+        "seoname": "oskarshamn-409256"
+    },
+    {
+        "id_location": 389172,
+        "id_location_parent": 389169,
+        "name": "V\u00e4stervik",
+        "seoname": "vastervik-409257"
+    },
+    {
+        "id_location": 389173,
+        "id_location_parent": 389169,
+        "name": "M\u00f6rbyl\u00e5nga",
+        "seoname": "morbylanga-409258"
+    },
+    {
+        "id_location": 389174,
+        "id_location_parent": 389169,
+        "name": "Tors\u00e5s",
+        "seoname": "torsas-409259"
+    },
+    {
+        "id_location": 389175,
+        "id_location_parent": 389169,
+        "name": "H\u00f6gsby",
+        "seoname": "hogsby-409260"
+    },
+    {
+        "id_location": 389176,
+        "id_location_parent": 389169,
+        "name": "Borgholm",
+        "seoname": "borgholm-409261"
+    },
+    {
+        "id_location": 389177,
+        "id_location_parent": 389169,
+        "name": "M\u00f6nster\u00e5s",
+        "seoname": "monsteras-409262"
+    },
+    {
+        "id_location": 389178,
+        "id_location_parent": 389169,
+        "name": "Emmaboda",
+        "seoname": "emmaboda-409263"
+    },
+    {
+        "id_location": 389179,
+        "id_location_parent": 389169,
+        "name": "Hultsfred",
+        "seoname": "hultsfred-409264"
+    },
+    {
+        "id_location": 389180,
+        "id_location_parent": 389169,
+        "name": "Vimmerby",
+        "seoname": "vimmerby-409265"
+    },
+    {
+        "id_location": 389181,
+        "id_location_parent": 389169,
+        "name": "V\u00e4rnamo",
+        "seoname": "varnamo-409266"
+    },
+    {
+        "id_location": 389182,
+        "id_location_parent": 389169,
+        "name": "Kalmar",
+        "seoname": "kalmar-409267"
+    },
+    {
+        "id_location": 389183,
+        "id_location_parent": 1,
+        "name": "Kronobergs",
+        "seoname": "kronobergs-781934"
+    },
+    {
+        "id_location": 389184,
+        "id_location_parent": 389183,
+        "name": "Ljungby",
+        "seoname": "ljungby-409268"
+    },
+    {
+        "id_location": 389185,
+        "id_location_parent": 389183,
+        "name": "Uppvidinge",
+        "seoname": "uppvidinge-409269"
+    },
+    {
+        "id_location": 389186,
+        "id_location_parent": 389183,
+        "name": "\u00c4lmhult",
+        "seoname": "almhult-409270"
+    },
+    {
+        "id_location": 389187,
+        "id_location_parent": 389183,
+        "name": "Lessebo",
+        "seoname": "lessebo-409271"
+    },
+    {
+        "id_location": 389188,
+        "id_location_parent": 389183,
+        "name": "Tingsryd",
+        "seoname": "tingsryd-409272"
+    },
+    {
+        "id_location": 389189,
+        "id_location_parent": 389183,
+        "name": "Markaryd",
+        "seoname": "markaryd-409273"
+    },
+    {
+        "id_location": 389190,
+        "id_location_parent": 389183,
+        "name": "Alvesta",
+        "seoname": "alvesta-409274"
+    },
+    {
+        "id_location": 389191,
+        "id_location_parent": 389183,
+        "name": "V\u00e4xj\u00f6",
+        "seoname": "vaxjo-409275"
+    },
+    {
+        "id_location": 389192,
+        "id_location_parent": 1,
+        "name": "Norrbottens",
+        "seoname": "norrbottens-781935"
+    },
+    {
+        "id_location": 389193,
+        "id_location_parent": 389192,
+        "name": "\u00d6verkalix",
+        "seoname": "overkalix-409276"
+    },
+    {
+        "id_location": 389194,
+        "id_location_parent": 389192,
+        "name": "Arjeplog",
+        "seoname": "arjeplog-409277"
+    },
+    {
+        "id_location": 389195,
+        "id_location_parent": 389192,
+        "name": "\u00d6vertorne\u00e5",
+        "seoname": "overtornea-409278"
+    },
+    {
+        "id_location": 389196,
+        "id_location_parent": 389192,
+        "name": "Pajala",
+        "seoname": "pajala-409279"
+    },
+    {
+        "id_location": 389197,
+        "id_location_parent": 389192,
+        "name": "Jokkmokk",
+        "seoname": "jokkmokk-409280"
+    },
+    {
+        "id_location": 389198,
+        "id_location_parent": 389192,
+        "name": "Arvidsjaur",
+        "seoname": "arvidsjaur-409281"
+    },
+    {
+        "id_location": 389199,
+        "id_location_parent": 389192,
+        "name": "Haparanda",
+        "seoname": "haparanda-409282"
+    },
+    {
+        "id_location": 389200,
+        "id_location_parent": 389192,
+        "name": "\u00c4lvsbyn",
+        "seoname": "alvsbyn-409283"
+    },
+    {
+        "id_location": 389201,
+        "id_location_parent": 389192,
+        "name": "Kalix",
+        "seoname": "kalix-409284"
+    },
+    {
+        "id_location": 389202,
+        "id_location_parent": 389192,
+        "name": "G\u00e4llivare",
+        "seoname": "gallivare-409285"
+    },
+    {
+        "id_location": 389203,
+        "id_location_parent": 389192,
+        "name": "Kiruna",
+        "seoname": "kiruna-409286"
+    },
+    {
+        "id_location": 389204,
+        "id_location_parent": 389192,
+        "name": "Boden",
+        "seoname": "boden-409287"
+    },
+    {
+        "id_location": 389205,
+        "id_location_parent": 389192,
+        "name": "Lule\u00e5",
+        "seoname": "lulea-409288"
+    },
+    {
+        "id_location": 389206,
+        "id_location_parent": 1,
+        "name": "\u00d6rebro",
+        "seoname": "orebro-781936"
+    },
+    {
+        "id_location": 389207,
+        "id_location_parent": 389206,
+        "name": "Kumla",
+        "seoname": "kumla-409289"
+    },
+    {
+        "id_location": 389208,
+        "id_location_parent": 389206,
+        "name": "Lekeberg",
+        "seoname": "lekeberg-409290"
+    },
+    {
+        "id_location": 389209,
+        "id_location_parent": 389206,
+        "name": "Lindesberg",
+        "seoname": "lindesberg-409291"
+    },
+    {
+        "id_location": 389210,
+        "id_location_parent": 389206,
+        "name": "Ljusnarsberg",
+        "seoname": "ljusnarsberg-409292"
+    },
+    {
+        "id_location": 389211,
+        "id_location_parent": 389206,
+        "name": "Nora",
+        "seoname": "nora-409293"
+    },
+    {
+        "id_location": 389212,
+        "id_location_parent": 389206,
+        "name": "Lax\u00e5",
+        "seoname": "laxa-409294"
+    },
+    {
+        "id_location": 389213,
+        "id_location_parent": 389206,
+        "name": "\u00d6rebro",
+        "seoname": "orebro-409295"
+    },
+    {
+        "id_location": 389214,
+        "id_location_parent": 1,
+        "name": "\u00d6sterg\u00f6tlands",
+        "seoname": "ostergotlands-781937"
+    },
+    {
+        "id_location": 389215,
+        "id_location_parent": 389214,
+        "name": "Vadstena",
+        "seoname": "vadstena-409296"
+    },
+    {
+        "id_location": 389216,
+        "id_location_parent": 389214,
+        "name": "Ydre",
+        "seoname": "ydre-409297"
+    },
+    {
+        "id_location": 389217,
+        "id_location_parent": 389214,
+        "name": "\u00d6desh\u00f6g",
+        "seoname": "odeshog-409298"
+    },
+    {
+        "id_location": 389218,
+        "id_location_parent": 389214,
+        "name": "Valdemarsvik",
+        "seoname": "valdemarsvik-409299"
+    },
+    {
+        "id_location": 389219,
+        "id_location_parent": 389214,
+        "name": "\u00c5tvidaberg",
+        "seoname": "atvidaberg-409300"
+    },
+    {
+        "id_location": 389220,
+        "id_location_parent": 389214,
+        "name": "S\u00f6derk\u00f6ping",
+        "seoname": "soderkoping-409301"
+    },
+    {
+        "id_location": 389221,
+        "id_location_parent": 389214,
+        "name": "Motala",
+        "seoname": "motala-409302"
+    },
+    {
+        "id_location": 389222,
+        "id_location_parent": 389214,
+        "name": "Norrk\u00f6ping",
+        "seoname": "norrkoping-409303"
+    },
+    {
+        "id_location": 389223,
+        "id_location_parent": 389214,
+        "name": "Link\u00f6ping",
+        "seoname": "linkoping-409304"
+    },
+    {
+        "id_location": 389224,
+        "id_location_parent": 1,
+        "name": "Sk\u00e5ne",
+        "seoname": "skane-781938"
+    },
+    {
+        "id_location": 389225,
+        "id_location_parent": 389224,
+        "name": "Burl\u00f6v",
+        "seoname": "burlov-409305"
+    },
+    {
+        "id_location": 389226,
+        "id_location_parent": 389224,
+        "name": "Klippan",
+        "seoname": "klippan-409306"
+    },
+    {
+        "id_location": 389227,
+        "id_location_parent": 389224,
+        "name": "Lund",
+        "seoname": "lund-409307"
+    },
+    {
+        "id_location": 389228,
+        "id_location_parent": 389224,
+        "name": "Perstorp",
+        "seoname": "perstorp-409308"
+    },
+    {
+        "id_location": 389229,
+        "id_location_parent": 389224,
+        "name": "Tomelillla",
+        "seoname": "tomelillla-409309"
+    },
+    {
+        "id_location": 389230,
+        "id_location_parent": 389224,
+        "name": "\u00d6stra G\u00f6inge",
+        "seoname": "ostra-goinge-409310"
+    },
+    {
+        "id_location": 389231,
+        "id_location_parent": 389224,
+        "name": "Sval\u00f6v",
+        "seoname": "svalov-409311"
+    },
+    {
+        "id_location": 389232,
+        "id_location_parent": 389224,
+        "name": "\u00d6rkelljunga",
+        "seoname": "orkelljunga-409312"
+    },
+    {
+        "id_location": 389233,
+        "id_location_parent": 389224,
+        "name": "B\u00e5stad",
+        "seoname": "bastad-409313"
+    },
+    {
+        "id_location": 389234,
+        "id_location_parent": 389224,
+        "name": "Vellinge",
+        "seoname": "vellinge-409314"
+    },
+    {
+        "id_location": 389235,
+        "id_location_parent": 389224,
+        "name": "Bjuv",
+        "seoname": "bjuv-409315"
+    },
+    {
+        "id_location": 389236,
+        "id_location_parent": 389224,
+        "name": "Sj\u00f6bo",
+        "seoname": "sjobo-409316"
+    },
+    {
+        "id_location": 389237,
+        "id_location_parent": 389224,
+        "name": "Simrishamn",
+        "seoname": "simrishamn-409317"
+    },
+    {
+        "id_location": 389238,
+        "id_location_parent": 389224,
+        "name": "H\u00f6rby",
+        "seoname": "horby-409318"
+    },
+    {
+        "id_location": 389239,
+        "id_location_parent": 389224,
+        "name": "Osby",
+        "seoname": "osby-409319"
+    },
+    {
+        "id_location": 389240,
+        "id_location_parent": 389224,
+        "name": "Skurup",
+        "seoname": "skurup-409320"
+    },
+    {
+        "id_location": 389241,
+        "id_location_parent": 389224,
+        "name": "H\u00f6\u00f6r",
+        "seoname": "hoor-409321"
+    },
+    {
+        "id_location": 389242,
+        "id_location_parent": 389224,
+        "name": "Brom\u00f6lla",
+        "seoname": "bromolla-409322"
+    },
+    {
+        "id_location": 389243,
+        "id_location_parent": 389224,
+        "name": "\u00c5storp",
+        "seoname": "astorp-409323"
+    },
+    {
+        "id_location": 389244,
+        "id_location_parent": 389224,
+        "name": "Lomma",
+        "seoname": "lomma-409324"
+    },
+    {
+        "id_location": 389245,
+        "id_location_parent": 389224,
+        "name": "Svedala",
+        "seoname": "svedala-409325"
+    },
+    {
+        "id_location": 389246,
+        "id_location_parent": 389224,
+        "name": "H\u00f6gan\u00e4s",
+        "seoname": "hoganas-409326"
+    },
+    {
+        "id_location": 389247,
+        "id_location_parent": 389224,
+        "name": "K\u00e4vlinge",
+        "seoname": "kavlinge-409327"
+    },
+    {
+        "id_location": 389248,
+        "id_location_parent": 389224,
+        "name": "Staffanstorp",
+        "seoname": "staffanstorp-409328"
+    },
+    {
+        "id_location": 389249,
+        "id_location_parent": 389224,
+        "name": "Esl\u00f6v",
+        "seoname": "eslov-409329"
+    },
+    {
+        "id_location": 389250,
+        "id_location_parent": 389224,
+        "name": "H\u00e4ssleholm",
+        "seoname": "hassleholm-409330"
+    },
+    {
+        "id_location": 389251,
+        "id_location_parent": 389224,
+        "name": "Ystad",
+        "seoname": "ystad-409331"
+    },
+    {
+        "id_location": 389252,
+        "id_location_parent": 389224,
+        "name": "\u00c4ngelholm",
+        "seoname": "angelholm-409332"
+    },
+    {
+        "id_location": 389253,
+        "id_location_parent": 389224,
+        "name": "Trelleborg",
+        "seoname": "trelleborg-409333"
+    },
+    {
+        "id_location": 389254,
+        "id_location_parent": 389224,
+        "name": "Landskrona",
+        "seoname": "landskrona-409334"
+    },
+    {
+        "id_location": 389255,
+        "id_location_parent": 389224,
+        "name": "Kristianstad",
+        "seoname": "kristianstad-409335"
+    },
+    {
+        "id_location": 389256,
+        "id_location_parent": 389224,
+        "name": "Helsingborg",
+        "seoname": "helsingborg-409336"
+    },
+    {
+        "id_location": 389257,
+        "id_location_parent": 389224,
+        "name": "Malm\u00f6",
+        "seoname": "malmo-409337"
+    },
+    {
+        "id_location": 389258,
+        "id_location_parent": 1,
+        "name": "S\u00f6dermanlands",
+        "seoname": "sodermanlands-781939"
+    },
+    {
+        "id_location": 389259,
+        "id_location_parent": 389258,
+        "name": "Katrineholm",
+        "seoname": "katrineholm-409338"
+    },
+    {
+        "id_location": 389260,
+        "id_location_parent": 389258,
+        "name": "Ving\u00e5ker",
+        "seoname": "vingaker-409339"
+    },
+    {
+        "id_location": 389261,
+        "id_location_parent": 389258,
+        "name": "Trosa",
+        "seoname": "trosa-409340"
+    },
+    {
+        "id_location": 389262,
+        "id_location_parent": 389258,
+        "name": "Gnesta",
+        "seoname": "gnesta-409341"
+    },
+    {
+        "id_location": 389263,
+        "id_location_parent": 389258,
+        "name": "Flen",
+        "seoname": "flen-409342"
+    },
+    {
+        "id_location": 389264,
+        "id_location_parent": 389258,
+        "name": "Oxel\u00f6sund",
+        "seoname": "oxelosund-409343"
+    },
+    {
+        "id_location": 389265,
+        "id_location_parent": 389258,
+        "name": "Str\u00e4ngn\u00e4s",
+        "seoname": "strangnas-409344"
+    },
+    {
+        "id_location": 389266,
+        "id_location_parent": 389258,
+        "name": "Nyk\u00f6ping",
+        "seoname": "nykoping-409345"
+    },
+    {
+        "id_location": 389267,
+        "id_location_parent": 389258,
+        "name": "Eskilstuna",
+        "seoname": "eskilstuna-409346"
+    },
+    {
+        "id_location": 389268,
+        "id_location_parent": 1,
+        "name": "Stockholms",
+        "seoname": "stockholms-781940"
+    },
+    {
+        "id_location": 389269,
+        "id_location_parent": 389268,
+        "name": "Botkyrka",
+        "seoname": "botkyrka-409347"
+    },
+    {
+        "id_location": 389270,
+        "id_location_parent": 389268,
+        "name": "Danderyd",
+        "seoname": "danderyd-409348"
+    },
+    {
+        "id_location": 389271,
+        "id_location_parent": 389268,
+        "name": "J\u00e4rf\u00e4lla",
+        "seoname": "jarfalla-409349"
+    },
+    {
+        "id_location": 389272,
+        "id_location_parent": 389268,
+        "name": "Nacka",
+        "seoname": "nacka-409350"
+    },
+    {
+        "id_location": 389273,
+        "id_location_parent": 389268,
+        "name": "Nykvarn",
+        "seoname": "nykvarn-409351"
+    },
+    {
+        "id_location": 389274,
+        "id_location_parent": 389268,
+        "name": "Stockholm",
+        "seoname": "stockholm-409352"
+    },
+    {
+        "id_location": 389275,
+        "id_location_parent": 389268,
+        "name": "Bromma",
+        "seoname": "bromma-409353"
+    },
+    {
+        "id_location": 389276,
+        "id_location_parent": 389268,
+        "name": "Enskede",
+        "seoname": "enskede-409354"
+    },
+    {
+        "id_location": 389277,
+        "id_location_parent": 389268,
+        "name": "Farsta",
+        "seoname": "farsta-409355"
+    },
+    {
+        "id_location": 389278,
+        "id_location_parent": 389268,
+        "name": "H\u00e4gersten",
+        "seoname": "hagersten-409356"
+    },
+    {
+        "id_location": 389279,
+        "id_location_parent": 389268,
+        "name": "H\u00e4sselby-V\u00e4llingby",
+        "seoname": "hasselby-vallingby-409357"
+    },
+    {
+        "id_location": 389280,
+        "id_location_parent": 389268,
+        "name": "Katarina-Sofia",
+        "seoname": "katarina-sofia-409358"
+    },
+    {
+        "id_location": 389281,
+        "id_location_parent": 389268,
+        "name": "Kungsholmen",
+        "seoname": "kungsholmen-409359"
+    },
+    {
+        "id_location": 389282,
+        "id_location_parent": 389268,
+        "name": "Maria-Gamla stan",
+        "seoname": "maria-gamla-stan-409360"
+    },
+    {
+        "id_location": 389283,
+        "id_location_parent": 389268,
+        "name": "Norrmalm",
+        "seoname": "norrmalm-409361"
+    },
+    {
+        "id_location": 389284,
+        "id_location_parent": 389268,
+        "name": "Skarpn\u00e4ck",
+        "seoname": "skarpnack-409362"
+    },
+    {
+        "id_location": 389285,
+        "id_location_parent": 389268,
+        "name": "Sk\u00e4rholmen",
+        "seoname": "skarholmen-409363"
+    },
+    {
+        "id_location": 389286,
+        "id_location_parent": 389268,
+        "name": "Sp\u00e5nga",
+        "seoname": "spanga-409364"
+    },
+    {
+        "id_location": 389287,
+        "id_location_parent": 389268,
+        "name": "S\u00f6dermalm",
+        "seoname": "sodermalm-409365"
+    },
+    {
+        "id_location": 389288,
+        "id_location_parent": 389268,
+        "name": "Vant\u00f6r",
+        "seoname": "vantor-409366"
+    },
+    {
+        "id_location": 389289,
+        "id_location_parent": 389268,
+        "name": "\u00c4lvsj\u00f6",
+        "seoname": "alvsjo-409367"
+    },
+    {
+        "id_location": 389290,
+        "id_location_parent": 389268,
+        "name": "\u00d6stermalm",
+        "seoname": "ostermalm-409368"
+    },
+    {
+        "id_location": 389291,
+        "id_location_parent": 389268,
+        "name": "Tyres\u00f6",
+        "seoname": "tyreso-409369"
+    },
+    {
+        "id_location": 389292,
+        "id_location_parent": 389268,
+        "name": "T\u00e4by",
+        "seoname": "taby-409370"
+    },
+    {
+        "id_location": 389293,
+        "id_location_parent": 389268,
+        "name": "Upplands Bro",
+        "seoname": "upplands-bro-409371"
+    },
+    {
+        "id_location": 389294,
+        "id_location_parent": 389268,
+        "name": "V\u00e4rmd\u00f6",
+        "seoname": "varmdo-409372"
+    },
+    {
+        "id_location": 389295,
+        "id_location_parent": 389268,
+        "name": "\u00d6ster\u00e5ker",
+        "seoname": "osteraker-409373"
+    },
+    {
+        "id_location": 389296,
+        "id_location_parent": 389268,
+        "name": "Vaxholm",
+        "seoname": "vaxholm-409374"
+    },
+    {
+        "id_location": 389297,
+        "id_location_parent": 389268,
+        "name": "Sigtuna",
+        "seoname": "sigtuna-409375"
+    },
+    {
+        "id_location": 389298,
+        "id_location_parent": 389268,
+        "name": "Eker\u00f6",
+        "seoname": "ekero-409376"
+    },
+    {
+        "id_location": 389299,
+        "id_location_parent": 389268,
+        "name": "Salem",
+        "seoname": "salem-409377"
+    },
+    {
+        "id_location": 389300,
+        "id_location_parent": 389268,
+        "name": "Nyn\u00e4shamn",
+        "seoname": "nynashamn-409378"
+    },
+    {
+        "id_location": 389301,
+        "id_location_parent": 389268,
+        "name": "Norrt\u00e4lje",
+        "seoname": "norrtalje-409379"
+    },
+    {
+        "id_location": 389302,
+        "id_location_parent": 389268,
+        "name": "Vallentuna",
+        "seoname": "vallentuna-409380"
+    },
+    {
+        "id_location": 389303,
+        "id_location_parent": 389268,
+        "name": "Sundbyberg",
+        "seoname": "sundbyberg-409381"
+    },
+    {
+        "id_location": 389304,
+        "id_location_parent": 389268,
+        "name": "Upplands V\u00e4sby",
+        "seoname": "upplands-vasby-409382"
+    },
+    {
+        "id_location": 389305,
+        "id_location_parent": 389268,
+        "name": "Liding\u00f6",
+        "seoname": "lidingo-409383"
+    },
+    {
+        "id_location": 389306,
+        "id_location_parent": 389268,
+        "name": "Sollentuna",
+        "seoname": "sollentuna-409384"
+    },
+    {
+        "id_location": 389307,
+        "id_location_parent": 389268,
+        "name": "S\u00f6dert\u00e4lje",
+        "seoname": "sodertalje-409385"
+    },
+    {
+        "id_location": 389308,
+        "id_location_parent": 389268,
+        "name": "Solna",
+        "seoname": "solna-409386"
+    },
+    {
+        "id_location": 389309,
+        "id_location_parent": 389268,
+        "name": "Haninge",
+        "seoname": "haninge-409387"
+    },
+    {
+        "id_location": 389310,
+        "id_location_parent": 389268,
+        "name": "Huddinge",
+        "seoname": "huddinge-409388"
+    },
+    {
+        "id_location": 389311,
+        "id_location_parent": 389268,
+        "name": "Kista",
+        "seoname": "kista-409389"
+    },
+    {
+        "id_location": 389312,
+        "id_location_parent": 1,
+        "name": "Uppsala",
+        "seoname": "uppsala-781941"
+    },
+    {
+        "id_location": 389313,
+        "id_location_parent": 389312,
+        "name": "H\u00e5bo",
+        "seoname": "habo-409390"
+    },
+    {
+        "id_location": 389314,
+        "id_location_parent": 389312,
+        "name": "Uppsala",
+        "seoname": "uppsala-409391"
+    },
+    {
+        "id_location": 389315,
+        "id_location_parent": 389312,
+        "name": "\u00c4lvkarleby",
+        "seoname": "alvkarleby-409392"
+    },
+    {
+        "id_location": 389316,
+        "id_location_parent": 389312,
+        "name": "\u00d6sthammar",
+        "seoname": "osthammar-409393"
+    },
+    {
+        "id_location": 389317,
+        "id_location_parent": 389312,
+        "name": "Tierp",
+        "seoname": "tierp-409394"
+    },
+    {
+        "id_location": 389318,
+        "id_location_parent": 389312,
+        "name": "Knivsta",
+        "seoname": "knivsta-409395"
+    },
+    {
+        "id_location": 389319,
+        "id_location_parent": 389312,
+        "name": "Enk\u00f6ping",
+        "seoname": "enkoping-409396"
+    },
+    {
+        "id_location": 389320,
+        "id_location_parent": 1,
+        "name": "V\u00e4rmlands",
+        "seoname": "varmlands-781942"
+    },
+    {
+        "id_location": 389321,
+        "id_location_parent": 389320,
+        "name": "Hammar\u00f6",
+        "seoname": "hammaro-409397"
+    },
+    {
+        "id_location": 389322,
+        "id_location_parent": 389320,
+        "name": "Kil",
+        "seoname": "kil-409398"
+    },
+    {
+        "id_location": 389323,
+        "id_location_parent": 389320,
+        "name": "Kristineholm",
+        "seoname": "kristineholm-409399"
+    },
+    {
+        "id_location": 389324,
+        "id_location_parent": 389320,
+        "name": "Torsby",
+        "seoname": "torsby-409400"
+    },
+    {
+        "id_location": 389325,
+        "id_location_parent": 389320,
+        "name": "Eda",
+        "seoname": "eda-409401"
+    },
+    {
+        "id_location": 389326,
+        "id_location_parent": 389320,
+        "name": "Storfors",
+        "seoname": "storfors-409402"
+    },
+    {
+        "id_location": 389327,
+        "id_location_parent": 389320,
+        "name": "\u00c5rj\u00e4ng",
+        "seoname": "arjang-409403"
+    },
+    {
+        "id_location": 389328,
+        "id_location_parent": 389320,
+        "name": "Munkfors",
+        "seoname": "munkfors-409404"
+    },
+    {
+        "id_location": 389329,
+        "id_location_parent": 389320,
+        "name": "Sunne",
+        "seoname": "sunne-409405"
+    },
+    {
+        "id_location": 389330,
+        "id_location_parent": 389320,
+        "name": "Grums",
+        "seoname": "grums-409406"
+    },
+    {
+        "id_location": 389331,
+        "id_location_parent": 389320,
+        "name": "Hagfors",
+        "seoname": "hagfors-409407"
+    },
+    {
+        "id_location": 389332,
+        "id_location_parent": 389320,
+        "name": "Filipstad",
+        "seoname": "filipstad-409408"
+    },
+    {
+        "id_location": 389333,
+        "id_location_parent": 389320,
+        "name": "Forshaga",
+        "seoname": "forshaga-409409"
+    },
+    {
+        "id_location": 389334,
+        "id_location_parent": 389320,
+        "name": "S\u00e4ffle",
+        "seoname": "saffle-409410"
+    },
+    {
+        "id_location": 389335,
+        "id_location_parent": 389320,
+        "name": "Arvika",
+        "seoname": "arvika-409411"
+    },
+    {
+        "id_location": 389336,
+        "id_location_parent": 389320,
+        "name": "Karlstad",
+        "seoname": "karlstad-409412"
+    },
+    {
+        "id_location": 389337,
+        "id_location_parent": 1,
+        "name": "V\u00e4sterbottens",
+        "seoname": "vasterbottens-781943"
+    },
+    {
+        "id_location": 389338,
+        "id_location_parent": 389337,
+        "name": "Norsj\u00f6",
+        "seoname": "norsjo-409413"
+    },
+    {
+        "id_location": 389339,
+        "id_location_parent": 389337,
+        "name": "Mal\u00e5",
+        "seoname": "mala-409414"
+    },
+    {
+        "id_location": 389340,
+        "id_location_parent": 389337,
+        "name": "Bjurholm",
+        "seoname": "bjurholm-409415"
+    },
+    {
+        "id_location": 389341,
+        "id_location_parent": 389337,
+        "name": "Sorsele",
+        "seoname": "sorsele-409416"
+    },
+    {
+        "id_location": 389342,
+        "id_location_parent": 389337,
+        "name": "Dorotea",
+        "seoname": "dorotea-409417"
+    },
+    {
+        "id_location": 389343,
+        "id_location_parent": 389337,
+        "name": "\u00c5sele",
+        "seoname": "asele-409418"
+    },
+    {
+        "id_location": 389344,
+        "id_location_parent": 389337,
+        "name": "Robertsfors",
+        "seoname": "robertsfors-409419"
+    },
+    {
+        "id_location": 389345,
+        "id_location_parent": 389337,
+        "name": "Storuman",
+        "seoname": "storuman-409420"
+    },
+    {
+        "id_location": 389346,
+        "id_location_parent": 389337,
+        "name": "Vindeln",
+        "seoname": "vindeln-409421"
+    },
+    {
+        "id_location": 389347,
+        "id_location_parent": 389337,
+        "name": "Nordmaling",
+        "seoname": "nordmaling-409422"
+    },
+    {
+        "id_location": 389348,
+        "id_location_parent": 389337,
+        "name": "Vilhelmina",
+        "seoname": "vilhelmina-409423"
+    },
+    {
+        "id_location": 389349,
+        "id_location_parent": 389337,
+        "name": "V\u00e4nn\u00e4s",
+        "seoname": "vannas-409424"
+    },
+    {
+        "id_location": 389350,
+        "id_location_parent": 389337,
+        "name": "Lycksele",
+        "seoname": "lycksele-409425"
+    },
+    {
+        "id_location": 389351,
+        "id_location_parent": 389337,
+        "name": "Skellefte\u00e5",
+        "seoname": "skelleftea-409426"
+    },
+    {
+        "id_location": 389352,
+        "id_location_parent": 389337,
+        "name": "Ume\u00e5",
+        "seoname": "umea-409427"
+    },
+    {
+        "id_location": 389353,
+        "id_location_parent": 1,
+        "name": "V\u00e4sternorrlands",
+        "seoname": "vasternorrlands-781944"
+    },
+    {
+        "id_location": 389354,
+        "id_location_parent": 389353,
+        "name": "\u00c5nge",
+        "seoname": "ange-409428"
+    },
+    {
+        "id_location": 389355,
+        "id_location_parent": 389353,
+        "name": "Kramfors",
+        "seoname": "kramfors-409429"
+    },
+    {
+        "id_location": 389356,
+        "id_location_parent": 389353,
+        "name": "Sollefte\u00e5",
+        "seoname": "solleftea-409430"
+    },
+    {
+        "id_location": 389357,
+        "id_location_parent": 389353,
+        "name": "Timr\u00e5",
+        "seoname": "timra-409431"
+    },
+    {
+        "id_location": 389358,
+        "id_location_parent": 389353,
+        "name": "H\u00e4rn\u00f6sand",
+        "seoname": "harnosand-409432"
+    },
+    {
+        "id_location": 389359,
+        "id_location_parent": 389353,
+        "name": "\u00d6rnsk\u00f6ldsvik",
+        "seoname": "ornskoldsvik-409433"
+    },
+    {
+        "id_location": 389360,
+        "id_location_parent": 389353,
+        "name": "Sundsvall",
+        "seoname": "sundsvall-409434"
+    },
+    {
+        "id_location": 389361,
+        "id_location_parent": 1,
+        "name": "V\u00e4stmanlands",
+        "seoname": "vastmanlands-781945"
+    },
+    {
+        "id_location": 389362,
+        "id_location_parent": 389361,
+        "name": "Heby",
+        "seoname": "heby-409435"
+    },
+    {
+        "id_location": 389363,
+        "id_location_parent": 389361,
+        "name": "K\u00f6ping",
+        "seoname": "koping-409436"
+    },
+    {
+        "id_location": 389364,
+        "id_location_parent": 389361,
+        "name": "Skinnskatteberg",
+        "seoname": "skinnskatteberg-409437"
+    },
+    {
+        "id_location": 389365,
+        "id_location_parent": 389361,
+        "name": "Norberg",
+        "seoname": "norberg-409438"
+    },
+    {
+        "id_location": 389366,
+        "id_location_parent": 389361,
+        "name": "Kungs\u00f6r",
+        "seoname": "kungsor-409439"
+    },
+    {
+        "id_location": 389367,
+        "id_location_parent": 389361,
+        "name": "Surahammar",
+        "seoname": "surahammar-409440"
+    },
+    {
+        "id_location": 389368,
+        "id_location_parent": 389361,
+        "name": "Hallstahammar",
+        "seoname": "hallstahammar-409441"
+    },
+    {
+        "id_location": 389369,
+        "id_location_parent": 389361,
+        "name": "Arboga",
+        "seoname": "arboga-409442"
+    },
+    {
+        "id_location": 389370,
+        "id_location_parent": 389361,
+        "name": "Fagersta",
+        "seoname": "fagersta-409443"
+    },
+    {
+        "id_location": 389371,
+        "id_location_parent": 389361,
+        "name": "Sala",
+        "seoname": "sala-409444"
+    },
+    {
+        "id_location": 389372,
+        "id_location_parent": 389361,
+        "name": "V\u00e4ster\u00e5s",
+        "seoname": "vasteras-409445"
+    },
+    {
+        "id_location": 389373,
+        "id_location_parent": 1,
+        "name": "V\u00e4stra G\u00f6talands",
+        "seoname": "vastra-gotalands-781946"
+    },
+    {
+        "id_location": 389374,
+        "id_location_parent": 389373,
+        "name": "Dals-Ed",
+        "seoname": "dals-ed-409446"
+    },
+    {
+        "id_location": 389375,
+        "id_location_parent": 389373,
+        "name": "Karlsborg",
+        "seoname": "karlsborg-409447"
+    },
+    {
+        "id_location": 389376,
+        "id_location_parent": 389373,
+        "name": "Mark",
+        "seoname": "mark-409448"
+    },
+    {
+        "id_location": 389377,
+        "id_location_parent": 389373,
+        "name": "Orust",
+        "seoname": "orust-409449"
+    },
+    {
+        "id_location": 389378,
+        "id_location_parent": 389373,
+        "name": "Skara",
+        "seoname": "skara-409450"
+    },
+    {
+        "id_location": 389379,
+        "id_location_parent": 389373,
+        "name": "Soten\u00e4s",
+        "seoname": "sotenas-409451"
+    },
+    {
+        "id_location": 389380,
+        "id_location_parent": 389373,
+        "name": "Stegungsund",
+        "seoname": "stegungsund-409452"
+    },
+    {
+        "id_location": 389381,
+        "id_location_parent": 389373,
+        "name": "Tanum",
+        "seoname": "tanum-409453"
+    },
+    {
+        "id_location": 389382,
+        "id_location_parent": 389373,
+        "name": "Tj\u00f6rn",
+        "seoname": "tjorn-409454"
+    },
+    {
+        "id_location": 389383,
+        "id_location_parent": 389373,
+        "name": "Essunga",
+        "seoname": "essunga-409455"
+    },
+    {
+        "id_location": 389384,
+        "id_location_parent": 389373,
+        "name": "H\u00e4rryda",
+        "seoname": "harryda-409456"
+    },
+    {
+        "id_location": 389385,
+        "id_location_parent": 389373,
+        "name": "Gullsp\u00e5ng",
+        "seoname": "gullspang-409457"
+    },
+    {
+        "id_location": 389386,
+        "id_location_parent": 389373,
+        "name": "F\u00e4rgelanda",
+        "seoname": "fargelanda-409458"
+    },
+    {
+        "id_location": 389387,
+        "id_location_parent": 389373,
+        "name": "Gr\u00e4storp",
+        "seoname": "grastorp-409459"
+    },
+    {
+        "id_location": 389388,
+        "id_location_parent": 389373,
+        "name": "Tranemo",
+        "seoname": "tranemo-409460"
+    },
+    {
+        "id_location": 389389,
+        "id_location_parent": 389373,
+        "name": "\u00d6cker\u00f6",
+        "seoname": "ockero-409461"
+    },
+    {
+        "id_location": 389390,
+        "id_location_parent": 389373,
+        "name": "Svenljunga",
+        "seoname": "svenljunga-409462"
+    },
+    {
+        "id_location": 389391,
+        "id_location_parent": 389373,
+        "name": "Munkedal",
+        "seoname": "munkedal-409463"
+    },
+    {
+        "id_location": 389392,
+        "id_location_parent": 389373,
+        "name": "Herrljunga",
+        "seoname": "herrljunga-409464"
+    },
+    {
+        "id_location": 389393,
+        "id_location_parent": 389373,
+        "name": "Vara",
+        "seoname": "vara-409465"
+    },
+    {
+        "id_location": 389394,
+        "id_location_parent": 389373,
+        "name": "Mellerud",
+        "seoname": "mellerud-409466"
+    },
+    {
+        "id_location": 389395,
+        "id_location_parent": 389373,
+        "name": "T\u00f6reboda",
+        "seoname": "toreboda-409467"
+    },
+    {
+        "id_location": 389396,
+        "id_location_parent": 389373,
+        "name": "G\u00f6tene",
+        "seoname": "gotene-409468"
+    },
+    {
+        "id_location": 389397,
+        "id_location_parent": 389373,
+        "name": "Lilla Edet",
+        "seoname": "lilla-edet-409469"
+    },
+    {
+        "id_location": 389398,
+        "id_location_parent": 389373,
+        "name": "V\u00e5rg\u00e5rda",
+        "seoname": "vargarda-409470"
+    },
+    {
+        "id_location": 389399,
+        "id_location_parent": 389373,
+        "name": "Hjo",
+        "seoname": "hjo-409471"
+    },
+    {
+        "id_location": 389400,
+        "id_location_parent": 389373,
+        "name": "Str\u00f6mstad",
+        "seoname": "stromstad-409472"
+    },
+    {
+        "id_location": 389401,
+        "id_location_parent": 389373,
+        "name": "Lysekil",
+        "seoname": "lysekil-409473"
+    },
+    {
+        "id_location": 389402,
+        "id_location_parent": 389373,
+        "name": "Tidaholm",
+        "seoname": "tidaholm-409474"
+    },
+    {
+        "id_location": 389403,
+        "id_location_parent": 389373,
+        "name": "Tibro",
+        "seoname": "tibro-409475"
+    },
+    {
+        "id_location": 389404,
+        "id_location_parent": 389373,
+        "name": "Ulricehamn",
+        "seoname": "ulricehamn-409476"
+    },
+    {
+        "id_location": 389405,
+        "id_location_parent": 389373,
+        "name": "\u00c5m\u00e5l",
+        "seoname": "amal-409477"
+    },
+    {
+        "id_location": 389406,
+        "id_location_parent": 389373,
+        "name": "Mariestad",
+        "seoname": "mariestad-409478"
+    },
+    {
+        "id_location": 389407,
+        "id_location_parent": 389373,
+        "name": "Falk\u00f6ping",
+        "seoname": "falkoping-409479"
+    },
+    {
+        "id_location": 389408,
+        "id_location_parent": 389373,
+        "name": "Lerum",
+        "seoname": "lerum-409480"
+    },
+    {
+        "id_location": 389409,
+        "id_location_parent": 389373,
+        "name": "Kung\u00e4lv",
+        "seoname": "kungalv-409481"
+    },
+    {
+        "id_location": 389410,
+        "id_location_parent": 389373,
+        "name": "V\u00e4nersborg",
+        "seoname": "vanersborg-409482"
+    },
+    {
+        "id_location": 389411,
+        "id_location_parent": 389373,
+        "name": "Lidk\u00f6ping",
+        "seoname": "lidkoping-409483"
+    },
+    {
+        "id_location": 389412,
+        "id_location_parent": 389373,
+        "name": "Partille",
+        "seoname": "partille-409484"
+    },
+    {
+        "id_location": 389413,
+        "id_location_parent": 389373,
+        "name": "Uddevalla",
+        "seoname": "uddevalla-409485"
+    },
+    {
+        "id_location": 389414,
+        "id_location_parent": 389373,
+        "name": "Sk\u00f6vde",
+        "seoname": "skovde-409486"
+    },
+    {
+        "id_location": 389415,
+        "id_location_parent": 389373,
+        "name": "Trollh\u00e4ttan",
+        "seoname": "trollhattan-409487"
+    },
+    {
+        "id_location": 389416,
+        "id_location_parent": 389373,
+        "name": "M\u00f6lndal",
+        "seoname": "molndal-409488"
+    },
+    {
+        "id_location": 389417,
+        "id_location_parent": 389373,
+        "name": "Bor\u00e5s",
+        "seoname": "boras-409489"
+    },
+    {
+        "id_location": 389418,
+        "id_location_parent": 389373,
+        "name": "G\u00f6teborg",
+        "seoname": "goteborg-409490"
+    }
+]

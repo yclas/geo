@@ -1,0 +1,5864 @@
+[
+    {
+        "id_location": 389796,
+        "id_location_parent": 1,
+        "name": "Adana",
+        "seoname": "adana-781956"
+    },
+    {
+        "id_location": 389797,
+        "id_location_parent": 389796,
+        "name": "Alada\u011f",
+        "seoname": "aladag-409519"
+    },
+    {
+        "id_location": 389798,
+        "id_location_parent": 389796,
+        "name": "Ceyhan",
+        "seoname": "ceyhan-409520"
+    },
+    {
+        "id_location": 389799,
+        "id_location_parent": 389796,
+        "name": "Feke",
+        "seoname": "feke-409521"
+    },
+    {
+        "id_location": 389800,
+        "id_location_parent": 389796,
+        "name": "Karaisal\u0131",
+        "seoname": "karaisali-409522"
+    },
+    {
+        "id_location": 389801,
+        "id_location_parent": 389796,
+        "name": "Karata\u015f",
+        "seoname": "karatas-409523"
+    },
+    {
+        "id_location": 389802,
+        "id_location_parent": 389796,
+        "name": "Kozan",
+        "seoname": "kozan-409524"
+    },
+    {
+        "id_location": 389803,
+        "id_location_parent": 389796,
+        "name": "Pozant\u0131",
+        "seoname": "pozanti-409525"
+    },
+    {
+        "id_location": 389804,
+        "id_location_parent": 389796,
+        "name": "Saimbeyli",
+        "seoname": "saimbeyli-409526"
+    },
+    {
+        "id_location": 389805,
+        "id_location_parent": 389796,
+        "name": "Sar\u0131\u00e7am",
+        "seoname": "saricam-409527"
+    },
+    {
+        "id_location": 389806,
+        "id_location_parent": 389796,
+        "name": "Seyhan",
+        "seoname": "seyhan-409528"
+    },
+    {
+        "id_location": 389807,
+        "id_location_parent": 389796,
+        "name": "Tufanbeyli",
+        "seoname": "tufanbeyli-409529"
+    },
+    {
+        "id_location": 389808,
+        "id_location_parent": 389796,
+        "name": "Y\u00fcre\u011fir",
+        "seoname": "yuregir-409530"
+    },
+    {
+        "id_location": 389809,
+        "id_location_parent": 389796,
+        "name": "\u00c7ukurova",
+        "seoname": "cukurova-409531"
+    },
+    {
+        "id_location": 389810,
+        "id_location_parent": 389796,
+        "name": "\u0130mamo\u011flu",
+        "seoname": "imamoglu-409532"
+    },
+    {
+        "id_location": 389811,
+        "id_location_parent": 389796,
+        "name": "Yumurtal\u0131k",
+        "seoname": "yumurtalik-409533"
+    },
+    {
+        "id_location": 389812,
+        "id_location_parent": 1,
+        "name": "Ad\u0131yaman",
+        "seoname": "adiyaman-781957"
+    },
+    {
+        "id_location": 389813,
+        "id_location_parent": 389812,
+        "name": "Besni",
+        "seoname": "besni-409534"
+    },
+    {
+        "id_location": 389814,
+        "id_location_parent": 389812,
+        "name": "Gerger",
+        "seoname": "gerger-409535"
+    },
+    {
+        "id_location": 389815,
+        "id_location_parent": 389812,
+        "name": "G\u00f6lba\u015f\u0131",
+        "seoname": "golbasi-409536"
+    },
+    {
+        "id_location": 389816,
+        "id_location_parent": 389812,
+        "name": "Kahta",
+        "seoname": "kahta-409537"
+    },
+    {
+        "id_location": 389817,
+        "id_location_parent": 389812,
+        "name": "Merkez",
+        "seoname": "merkez-409538"
+    },
+    {
+        "id_location": 389818,
+        "id_location_parent": 389812,
+        "name": "Samsat",
+        "seoname": "samsat-409539"
+    },
+    {
+        "id_location": 389819,
+        "id_location_parent": 389812,
+        "name": "Sincik",
+        "seoname": "sincik-409540"
+    },
+    {
+        "id_location": 389820,
+        "id_location_parent": 389812,
+        "name": "Tut",
+        "seoname": "tut-409541"
+    },
+    {
+        "id_location": 389821,
+        "id_location_parent": 389812,
+        "name": "\u00c7elikhan",
+        "seoname": "celikhan-409542"
+    },
+    {
+        "id_location": 389822,
+        "id_location_parent": 1,
+        "name": "Afyon",
+        "seoname": "afyon-781958"
+    },
+    {
+        "id_location": 389823,
+        "id_location_parent": 389822,
+        "name": "Bayat",
+        "seoname": "bayat-409543"
+    },
+    {
+        "id_location": 389824,
+        "id_location_parent": 389822,
+        "name": "Ba\u015fmak\u00e7\u0131",
+        "seoname": "basmakci-409544"
+    },
+    {
+        "id_location": 389825,
+        "id_location_parent": 389822,
+        "name": "Dinar",
+        "seoname": "dinar-409545"
+    },
+    {
+        "id_location": 389826,
+        "id_location_parent": 389822,
+        "name": "Evciler",
+        "seoname": "evciler-409546"
+    },
+    {
+        "id_location": 389827,
+        "id_location_parent": 389822,
+        "name": "Hocalar",
+        "seoname": "hocalar-409547"
+    },
+    {
+        "id_location": 389828,
+        "id_location_parent": 389822,
+        "name": "K\u0131z\u0131l\u00f6ren",
+        "seoname": "kiziloren-409548"
+    },
+    {
+        "id_location": 389829,
+        "id_location_parent": 389822,
+        "name": "Sand\u0131kl\u0131",
+        "seoname": "sandikli-409549"
+    },
+    {
+        "id_location": 389830,
+        "id_location_parent": 389822,
+        "name": "Sincanl\u0131",
+        "seoname": "sincanli-409550"
+    },
+    {
+        "id_location": 389831,
+        "id_location_parent": 389822,
+        "name": "\u00c7ay",
+        "seoname": "cay-409551"
+    },
+    {
+        "id_location": 389832,
+        "id_location_parent": 389822,
+        "name": "\u00c7obanlar",
+        "seoname": "cobanlar-409552"
+    },
+    {
+        "id_location": 389833,
+        "id_location_parent": 389822,
+        "name": "\u0130hsaniye",
+        "seoname": "ihsaniye-409553"
+    },
+    {
+        "id_location": 389834,
+        "id_location_parent": 389822,
+        "name": "\u015euhut",
+        "seoname": "suhut-409554"
+    },
+    {
+        "id_location": 389835,
+        "id_location_parent": 389822,
+        "name": "Dazk\u0131r\u0131",
+        "seoname": "dazkiri-409555"
+    },
+    {
+        "id_location": 389836,
+        "id_location_parent": 389822,
+        "name": "Sultanda\u011f\u0131",
+        "seoname": "sultandagi-409556"
+    },
+    {
+        "id_location": 389837,
+        "id_location_parent": 389822,
+        "name": "\u0130scehisar",
+        "seoname": "iscehisar-409557"
+    },
+    {
+        "id_location": 389838,
+        "id_location_parent": 389822,
+        "name": "Emirda\u011f",
+        "seoname": "emirdag-409558"
+    },
+    {
+        "id_location": 389839,
+        "id_location_parent": 389822,
+        "name": "Bolvadin",
+        "seoname": "bolvadin-409559"
+    },
+    {
+        "id_location": 389840,
+        "id_location_parent": 1,
+        "name": "A\u011fr\u0131",
+        "seoname": "agri-781959"
+    },
+    {
+        "id_location": 389841,
+        "id_location_parent": 389840,
+        "name": "Diyadin",
+        "seoname": "diyadin-409560"
+    },
+    {
+        "id_location": 389842,
+        "id_location_parent": 389840,
+        "name": "Do\u011fubeyaz\u0131t",
+        "seoname": "dogubeyazit-409561"
+    },
+    {
+        "id_location": 389843,
+        "id_location_parent": 389840,
+        "name": "Ele\u015fkirt",
+        "seoname": "eleskirt-409562"
+    },
+    {
+        "id_location": 389844,
+        "id_location_parent": 389840,
+        "name": "Hamur",
+        "seoname": "hamur-409563"
+    },
+    {
+        "id_location": 389845,
+        "id_location_parent": 389840,
+        "name": "Patnos",
+        "seoname": "patnos-409564"
+    },
+    {
+        "id_location": 389846,
+        "id_location_parent": 389840,
+        "name": "Ta\u015fl\u0131\u00e7ay",
+        "seoname": "taslicay-409565"
+    },
+    {
+        "id_location": 389847,
+        "id_location_parent": 389840,
+        "name": "Tutak",
+        "seoname": "tutak-409566"
+    },
+    {
+        "id_location": 389848,
+        "id_location_parent": 1,
+        "name": "Aksaray",
+        "seoname": "aksaray-781960"
+    },
+    {
+        "id_location": 389849,
+        "id_location_parent": 389848,
+        "name": "A\u011fa\u00e7\u00f6ren",
+        "seoname": "agacoren-409567"
+    },
+    {
+        "id_location": 389850,
+        "id_location_parent": 389848,
+        "name": "Eskil",
+        "seoname": "eskil-409568"
+    },
+    {
+        "id_location": 389851,
+        "id_location_parent": 389848,
+        "name": "G\u00fcla\u011fa\u00e7",
+        "seoname": "gulagac-409569"
+    },
+    {
+        "id_location": 389852,
+        "id_location_parent": 389848,
+        "name": "Ortak\u00f6y",
+        "seoname": "ortakoy-409570"
+    },
+    {
+        "id_location": 389853,
+        "id_location_parent": 389848,
+        "name": "Sar\u0131yah\u015fi",
+        "seoname": "sariyahsi-409571"
+    },
+    {
+        "id_location": 389854,
+        "id_location_parent": 1,
+        "name": "Amasya",
+        "seoname": "amasya-781961"
+    },
+    {
+        "id_location": 389855,
+        "id_location_parent": 389854,
+        "name": "Hamam\u00f6z\u00fc",
+        "seoname": "hamamozu-409572"
+    },
+    {
+        "id_location": 389856,
+        "id_location_parent": 389854,
+        "name": "G\u00f6yn\u00fccek",
+        "seoname": "goynucek-409573"
+    },
+    {
+        "id_location": 389857,
+        "id_location_parent": 389854,
+        "name": "G\u00fcm\u00fc\u015fhac\u0131k\u00f6y",
+        "seoname": "gumushacikoy-409574"
+    },
+    {
+        "id_location": 389858,
+        "id_location_parent": 389854,
+        "name": "Ta\u015fova",
+        "seoname": "tasova-409575"
+    },
+    {
+        "id_location": 389859,
+        "id_location_parent": 389854,
+        "name": "Suluova",
+        "seoname": "suluova-409576"
+    },
+    {
+        "id_location": 389860,
+        "id_location_parent": 389854,
+        "name": "Merzifon",
+        "seoname": "merzifon-409577"
+    },
+    {
+        "id_location": 389861,
+        "id_location_parent": 1,
+        "name": "Ankara",
+        "seoname": "ankara-781962"
+    },
+    {
+        "id_location": 389862,
+        "id_location_parent": 389861,
+        "name": "Akyurt",
+        "seoname": "akyurt-409578"
+    },
+    {
+        "id_location": 389863,
+        "id_location_parent": 389861,
+        "name": "Alt\u0131nda\u011f",
+        "seoname": "altindag-409579"
+    },
+    {
+        "id_location": 389864,
+        "id_location_parent": 389861,
+        "name": "Bala",
+        "seoname": "bala-409580"
+    },
+    {
+        "id_location": 389865,
+        "id_location_parent": 389861,
+        "name": "Elmada\u011f",
+        "seoname": "elmadag-409581"
+    },
+    {
+        "id_location": 389866,
+        "id_location_parent": 389861,
+        "name": "Etimesgut",
+        "seoname": "etimesgut-409582"
+    },
+    {
+        "id_location": 389867,
+        "id_location_parent": 389861,
+        "name": "Evren",
+        "seoname": "evren-409583"
+    },
+    {
+        "id_location": 389868,
+        "id_location_parent": 389861,
+        "name": "G\u00fcd\u00fcl",
+        "seoname": "gudul-409584"
+    },
+    {
+        "id_location": 389869,
+        "id_location_parent": 389861,
+        "name": "Haymana",
+        "seoname": "haymana-409585"
+    },
+    {
+        "id_location": 389870,
+        "id_location_parent": 389861,
+        "name": "Kalecik",
+        "seoname": "kalecik-409586"
+    },
+    {
+        "id_location": 389871,
+        "id_location_parent": 389861,
+        "name": "Kazan",
+        "seoname": "kazan-409587"
+    },
+    {
+        "id_location": 389872,
+        "id_location_parent": 389861,
+        "name": "Ke\u00e7i\u00f6ren",
+        "seoname": "kecioren-409588"
+    },
+    {
+        "id_location": 389873,
+        "id_location_parent": 389861,
+        "name": "Mamak",
+        "seoname": "mamak-409589"
+    },
+    {
+        "id_location": 389874,
+        "id_location_parent": 389861,
+        "name": "Polatl\u0131",
+        "seoname": "polatli-409590"
+    },
+    {
+        "id_location": 389875,
+        "id_location_parent": 389861,
+        "name": "Pursaklar",
+        "seoname": "pursaklar-409591"
+    },
+    {
+        "id_location": 389876,
+        "id_location_parent": 389861,
+        "name": "Sincan",
+        "seoname": "sincan-409592"
+    },
+    {
+        "id_location": 389877,
+        "id_location_parent": 389861,
+        "name": "Yenimahalle",
+        "seoname": "yenimahalle-409593"
+    },
+    {
+        "id_location": 389878,
+        "id_location_parent": 389861,
+        "name": "\u00c7aml\u0131dere",
+        "seoname": "camlidere-409594"
+    },
+    {
+        "id_location": 389879,
+        "id_location_parent": 389861,
+        "name": "\u00c7ubuk",
+        "seoname": "cubuk-409595"
+    },
+    {
+        "id_location": 389880,
+        "id_location_parent": 389861,
+        "name": "Aya\u015f",
+        "seoname": "ayas-409596"
+    },
+    {
+        "id_location": 389881,
+        "id_location_parent": 389861,
+        "name": "K\u0131z\u0131lcahamam",
+        "seoname": "kizilcahamam-409597"
+    },
+    {
+        "id_location": 389882,
+        "id_location_parent": 389861,
+        "name": "Nall\u0131han",
+        "seoname": "nallihan-409598"
+    },
+    {
+        "id_location": 389883,
+        "id_location_parent": 389861,
+        "name": "Beypazar\u0131",
+        "seoname": "beypazari-409599"
+    },
+    {
+        "id_location": 389884,
+        "id_location_parent": 389861,
+        "name": "\u015eerefliko\u00e7hisar",
+        "seoname": "sereflikochisar-409600"
+    },
+    {
+        "id_location": 389885,
+        "id_location_parent": 389861,
+        "name": "\u00c7ankaya",
+        "seoname": "cankaya-409601"
+    },
+    {
+        "id_location": 389886,
+        "id_location_parent": 1,
+        "name": "Antalya",
+        "seoname": "antalya-781963"
+    },
+    {
+        "id_location": 389887,
+        "id_location_parent": 389886,
+        "name": "Odaba\u015f\u0131 K\u00f6y\u00fc",
+        "seoname": "odabasi-koyu-409602"
+    },
+    {
+        "id_location": 389888,
+        "id_location_parent": 389886,
+        "name": "Ye\u015filyayla K\u00f6y\u00fc",
+        "seoname": "yesilyayla-koyu-409603"
+    },
+    {
+        "id_location": 389889,
+        "id_location_parent": 389886,
+        "name": "Akseki",
+        "seoname": "akseki-409604"
+    },
+    {
+        "id_location": 389890,
+        "id_location_parent": 389886,
+        "name": "Aksu",
+        "seoname": "aksu-409605"
+    },
+    {
+        "id_location": 389891,
+        "id_location_parent": 389886,
+        "name": "D\u00f6\u015femealt\u0131",
+        "seoname": "dosemealti-409606"
+    },
+    {
+        "id_location": 389892,
+        "id_location_parent": 389886,
+        "name": "Elmal\u0131",
+        "seoname": "elmali-409607"
+    },
+    {
+        "id_location": 389893,
+        "id_location_parent": 389886,
+        "name": "Gazipa\u015fa",
+        "seoname": "gazipasa-409608"
+    },
+    {
+        "id_location": 389894,
+        "id_location_parent": 389886,
+        "name": "G\u00fcndo\u011fmu\u015f",
+        "seoname": "gundogmus-409609"
+    },
+    {
+        "id_location": 389895,
+        "id_location_parent": 389886,
+        "name": "Kadriye",
+        "seoname": "kadriye-409610"
+    },
+    {
+        "id_location": 389896,
+        "id_location_parent": 389886,
+        "name": "Kale",
+        "seoname": "kale-409611"
+    },
+    {
+        "id_location": 389897,
+        "id_location_parent": 389886,
+        "name": "Ka\u015f",
+        "seoname": "kas-409612"
+    },
+    {
+        "id_location": 389898,
+        "id_location_parent": 389886,
+        "name": "Kemer",
+        "seoname": "kemer-409613"
+    },
+    {
+        "id_location": 389899,
+        "id_location_parent": 389886,
+        "name": "Kepez",
+        "seoname": "kepez-409614"
+    },
+    {
+        "id_location": 389900,
+        "id_location_parent": 389886,
+        "name": "Konyaalt\u0131",
+        "seoname": "konyaalti-409615"
+    },
+    {
+        "id_location": 389901,
+        "id_location_parent": 389886,
+        "name": "Kumluca",
+        "seoname": "kumluca-409616"
+    },
+    {
+        "id_location": 389902,
+        "id_location_parent": 389886,
+        "name": "Muratpa\u015fa",
+        "seoname": "muratpasa-409617"
+    },
+    {
+        "id_location": 389903,
+        "id_location_parent": 389886,
+        "name": "Serik",
+        "seoname": "serik-409618"
+    },
+    {
+        "id_location": 389904,
+        "id_location_parent": 389886,
+        "name": "S\u00f6\u011f\u00fct",
+        "seoname": "sogut-409619"
+    },
+    {
+        "id_location": 389905,
+        "id_location_parent": 389886,
+        "name": "\u0130brad\u0131",
+        "seoname": "ibradi-409620"
+    },
+    {
+        "id_location": 389906,
+        "id_location_parent": 389886,
+        "name": "Finike",
+        "seoname": "finike-409622"
+    },
+    {
+        "id_location": 389907,
+        "id_location_parent": 389886,
+        "name": "Demre",
+        "seoname": "demre-409623"
+    },
+    {
+        "id_location": 389908,
+        "id_location_parent": 389886,
+        "name": "Korkuteli",
+        "seoname": "korkuteli-409624"
+    },
+    {
+        "id_location": 389909,
+        "id_location_parent": 389886,
+        "name": "Manavgat",
+        "seoname": "manavgat-409625"
+    },
+    {
+        "id_location": 389910,
+        "id_location_parent": 389886,
+        "name": "Alanya",
+        "seoname": "alanya-409626"
+    },
+    {
+        "id_location": 389911,
+        "id_location_parent": 1,
+        "name": "Ardahan",
+        "seoname": "ardahan-781964"
+    },
+    {
+        "id_location": 389912,
+        "id_location_parent": 389911,
+        "name": "Hanak",
+        "seoname": "hanak-409627"
+    },
+    {
+        "id_location": 389913,
+        "id_location_parent": 389911,
+        "name": "\u00c7\u0131ld\u0131r",
+        "seoname": "cildir-409628"
+    },
+    {
+        "id_location": 389914,
+        "id_location_parent": 389911,
+        "name": "Damal",
+        "seoname": "damal-409629"
+    },
+    {
+        "id_location": 389915,
+        "id_location_parent": 389911,
+        "name": "Posof",
+        "seoname": "posof-409630"
+    },
+    {
+        "id_location": 389916,
+        "id_location_parent": 389911,
+        "name": "G\u00f6le",
+        "seoname": "gole-409631"
+    },
+    {
+        "id_location": 389917,
+        "id_location_parent": 1,
+        "name": "Artvin",
+        "seoname": "artvin-781965"
+    },
+    {
+        "id_location": 389918,
+        "id_location_parent": 389917,
+        "name": "Ardanu\u00e7",
+        "seoname": "ardanuc-409632"
+    },
+    {
+        "id_location": 389919,
+        "id_location_parent": 389917,
+        "name": "Arhavi",
+        "seoname": "arhavi-409633"
+    },
+    {
+        "id_location": 389920,
+        "id_location_parent": 389917,
+        "name": "Bor\u00e7ka",
+        "seoname": "borcka-409634"
+    },
+    {
+        "id_location": 389921,
+        "id_location_parent": 389917,
+        "name": "Hopa",
+        "seoname": "hopa-409635"
+    },
+    {
+        "id_location": 389922,
+        "id_location_parent": 389917,
+        "name": "Murgul",
+        "seoname": "murgul-409636"
+    },
+    {
+        "id_location": 389923,
+        "id_location_parent": 389917,
+        "name": "Yusufeli",
+        "seoname": "yusufeli-409637"
+    },
+    {
+        "id_location": 389924,
+        "id_location_parent": 389917,
+        "name": "\u015eav\u015fat",
+        "seoname": "savsat-409638"
+    },
+    {
+        "id_location": 389925,
+        "id_location_parent": 1,
+        "name": "Ayd\u0131n",
+        "seoname": "aydin-781966"
+    },
+    {
+        "id_location": 389926,
+        "id_location_parent": 389925,
+        "name": "Bozdo\u011fan",
+        "seoname": "bozdogan-409639"
+    },
+    {
+        "id_location": 389927,
+        "id_location_parent": 389925,
+        "name": "Karacasu",
+        "seoname": "karacasu-409640"
+    },
+    {
+        "id_location": 389928,
+        "id_location_parent": 389925,
+        "name": "Karpuzlu",
+        "seoname": "karpuzlu-409641"
+    },
+    {
+        "id_location": 389929,
+        "id_location_parent": 389925,
+        "name": "Kuyucak",
+        "seoname": "kuyucak-409642"
+    },
+    {
+        "id_location": 389930,
+        "id_location_parent": 389925,
+        "name": "K\u00f6\u015fk",
+        "seoname": "kosk-409643"
+    },
+    {
+        "id_location": 389931,
+        "id_location_parent": 389925,
+        "name": "S\u00f6ke",
+        "seoname": "soke-409644"
+    },
+    {
+        "id_location": 389932,
+        "id_location_parent": 389925,
+        "name": "Yenipazar",
+        "seoname": "yenipazar-409645"
+    },
+    {
+        "id_location": 389933,
+        "id_location_parent": 389925,
+        "name": "\u00c7ine",
+        "seoname": "cine-409646"
+    },
+    {
+        "id_location": 389934,
+        "id_location_parent": 389925,
+        "name": "Sultanhisar",
+        "seoname": "sultanhisar-409647"
+    },
+    {
+        "id_location": 389935,
+        "id_location_parent": 389925,
+        "name": "Buharkent",
+        "seoname": "buharkent-409648"
+    },
+    {
+        "id_location": 389936,
+        "id_location_parent": 389925,
+        "name": "Ko\u00e7arl\u0131",
+        "seoname": "kocarli-409649"
+    },
+    {
+        "id_location": 389937,
+        "id_location_parent": 389925,
+        "name": "Germencik",
+        "seoname": "germencik-409650"
+    },
+    {
+        "id_location": 389938,
+        "id_location_parent": 389925,
+        "name": "\u0130ncirliova",
+        "seoname": "incirliova-409651"
+    },
+    {
+        "id_location": 389939,
+        "id_location_parent": 389925,
+        "name": "Didim",
+        "seoname": "didim-409652"
+    },
+    {
+        "id_location": 389940,
+        "id_location_parent": 389925,
+        "name": "Ku\u015fadas\u0131",
+        "seoname": "kusadasi-409653"
+    },
+    {
+        "id_location": 389941,
+        "id_location_parent": 389925,
+        "name": "Nazilli",
+        "seoname": "nazilli-409654"
+    },
+    {
+        "id_location": 389942,
+        "id_location_parent": 1,
+        "name": "Bal\u0131kesir",
+        "seoname": "balikesir-781967"
+    },
+    {
+        "id_location": 389943,
+        "id_location_parent": 389942,
+        "name": "Ayval\u0131k",
+        "seoname": "ayvalik-409655"
+    },
+    {
+        "id_location": 389944,
+        "id_location_parent": 389942,
+        "name": "Burhaniye",
+        "seoname": "burhaniye-409656"
+    },
+    {
+        "id_location": 389945,
+        "id_location_parent": 389942,
+        "name": "Edremit",
+        "seoname": "edremit-409657"
+    },
+    {
+        "id_location": 389946,
+        "id_location_parent": 389942,
+        "name": "G\u00f6me\u00e7",
+        "seoname": "gomec-409658"
+    },
+    {
+        "id_location": 389947,
+        "id_location_parent": 389942,
+        "name": "G\u00f6nen",
+        "seoname": "gonen-409659"
+    },
+    {
+        "id_location": 389948,
+        "id_location_parent": 389942,
+        "name": "Sava\u015ftepe",
+        "seoname": "savastepe-409660"
+    },
+    {
+        "id_location": 389949,
+        "id_location_parent": 389942,
+        "name": "Susurluk",
+        "seoname": "susurluk-409661"
+    },
+    {
+        "id_location": 389950,
+        "id_location_parent": 389942,
+        "name": "Balya",
+        "seoname": "balya-409662"
+    },
+    {
+        "id_location": 389951,
+        "id_location_parent": 389942,
+        "name": "Marmara",
+        "seoname": "marmara-409663"
+    },
+    {
+        "id_location": 389952,
+        "id_location_parent": 389942,
+        "name": "Manyas",
+        "seoname": "manyas-409664"
+    },
+    {
+        "id_location": 389953,
+        "id_location_parent": 389942,
+        "name": "Kepsut",
+        "seoname": "kepsut-409665"
+    },
+    {
+        "id_location": 389954,
+        "id_location_parent": 389942,
+        "name": "\u0130vrindi",
+        "seoname": "ivrindi-409666"
+    },
+    {
+        "id_location": 389955,
+        "id_location_parent": 389942,
+        "name": "S\u0131nd\u0131rg\u0131",
+        "seoname": "sindirgi-409667"
+    },
+    {
+        "id_location": 389956,
+        "id_location_parent": 389942,
+        "name": "Havran",
+        "seoname": "havran-409668"
+    },
+    {
+        "id_location": 389957,
+        "id_location_parent": 389942,
+        "name": "Bigadi\u00e7",
+        "seoname": "bigadic-409669"
+    },
+    {
+        "id_location": 389958,
+        "id_location_parent": 389942,
+        "name": "Dursunbey",
+        "seoname": "dursunbey-409670"
+    },
+    {
+        "id_location": 389959,
+        "id_location_parent": 389942,
+        "name": "Erdek",
+        "seoname": "erdek-409671"
+    },
+    {
+        "id_location": 389960,
+        "id_location_parent": 389942,
+        "name": "Band\u0131rma",
+        "seoname": "bandirma-409672"
+    },
+    {
+        "id_location": 389961,
+        "id_location_parent": 1,
+        "name": "Bart\u0131n",
+        "seoname": "bartin-781968"
+    },
+    {
+        "id_location": 389962,
+        "id_location_parent": 389961,
+        "name": "Ulus",
+        "seoname": "ulus-409673"
+    },
+    {
+        "id_location": 389963,
+        "id_location_parent": 389961,
+        "name": "Kuruca\u015file",
+        "seoname": "kurucasile-409674"
+    },
+    {
+        "id_location": 389964,
+        "id_location_parent": 389961,
+        "name": "Amasra",
+        "seoname": "amasra-409675"
+    },
+    {
+        "id_location": 389965,
+        "id_location_parent": 1,
+        "name": "Batman",
+        "seoname": "batman-781969"
+    },
+    {
+        "id_location": 389966,
+        "id_location_parent": 389965,
+        "name": "Kozluk",
+        "seoname": "kozluk-409676"
+    },
+    {
+        "id_location": 389967,
+        "id_location_parent": 389965,
+        "name": "Hasankeyf",
+        "seoname": "hasankeyf-409677"
+    },
+    {
+        "id_location": 389968,
+        "id_location_parent": 389965,
+        "name": "Gerc\u00fc\u015f",
+        "seoname": "gercus-409678"
+    },
+    {
+        "id_location": 389969,
+        "id_location_parent": 389965,
+        "name": "Be\u015firi",
+        "seoname": "besiri-409679"
+    },
+    {
+        "id_location": 389970,
+        "id_location_parent": 389965,
+        "name": "Sason",
+        "seoname": "sason-409680"
+    },
+    {
+        "id_location": 389971,
+        "id_location_parent": 1,
+        "name": "Bayburt",
+        "seoname": "bayburt-781970"
+    },
+    {
+        "id_location": 389972,
+        "id_location_parent": 389971,
+        "name": "Ayd\u0131ntepe",
+        "seoname": "aydintepe-409681"
+    },
+    {
+        "id_location": 389973,
+        "id_location_parent": 389971,
+        "name": "Demir\u00f6z\u00fc",
+        "seoname": "demirozu-409682"
+    },
+    {
+        "id_location": 389974,
+        "id_location_parent": 1,
+        "name": "Bilecik",
+        "seoname": "bilecik-781971"
+    },
+    {
+        "id_location": 389975,
+        "id_location_parent": 389974,
+        "name": "Boz\u00fcy\u00fck",
+        "seoname": "bozuyuk-409683"
+    },
+    {
+        "id_location": 389976,
+        "id_location_parent": 389974,
+        "name": "\u0130nhisar",
+        "seoname": "inhisar-409684"
+    },
+    {
+        "id_location": 389977,
+        "id_location_parent": 389974,
+        "name": "Pazaryeri",
+        "seoname": "pazaryeri-409685"
+    },
+    {
+        "id_location": 389978,
+        "id_location_parent": 389974,
+        "name": "G\u00f6lpazar\u0131",
+        "seoname": "golpazari-409686"
+    },
+    {
+        "id_location": 389979,
+        "id_location_parent": 389974,
+        "name": "Osmaneli",
+        "seoname": "osmaneli-409687"
+    },
+    {
+        "id_location": 389980,
+        "id_location_parent": 1,
+        "name": "Bing\u00f6l",
+        "seoname": "bingol-781972"
+    },
+    {
+        "id_location": 389981,
+        "id_location_parent": 389980,
+        "name": "Adakl\u0131",
+        "seoname": "adakli-409688"
+    },
+    {
+        "id_location": 389982,
+        "id_location_parent": 389980,
+        "name": "Gen\u00e7",
+        "seoname": "genc-409689"
+    },
+    {
+        "id_location": 389983,
+        "id_location_parent": 389980,
+        "name": "Karl\u0131ova",
+        "seoname": "karliova-409690"
+    },
+    {
+        "id_location": 389984,
+        "id_location_parent": 389980,
+        "name": "K\u0131\u011f\u0131",
+        "seoname": "kigi-409691"
+    },
+    {
+        "id_location": 389985,
+        "id_location_parent": 389980,
+        "name": "Solhan",
+        "seoname": "solhan-409692"
+    },
+    {
+        "id_location": 389986,
+        "id_location_parent": 389980,
+        "name": "Yayladere",
+        "seoname": "yayladere-409693"
+    },
+    {
+        "id_location": 389987,
+        "id_location_parent": 389980,
+        "name": "Yedisu",
+        "seoname": "yedisu-409694"
+    },
+    {
+        "id_location": 389988,
+        "id_location_parent": 1,
+        "name": "Bitlis",
+        "seoname": "bitlis-781973"
+    },
+    {
+        "id_location": 389989,
+        "id_location_parent": 389988,
+        "name": "Adilcevaz",
+        "seoname": "adilcevaz-409695"
+    },
+    {
+        "id_location": 389990,
+        "id_location_parent": 389988,
+        "name": "Ahlat",
+        "seoname": "ahlat-409696"
+    },
+    {
+        "id_location": 389991,
+        "id_location_parent": 389988,
+        "name": "G\u00fcroymak",
+        "seoname": "guroymak-409697"
+    },
+    {
+        "id_location": 389992,
+        "id_location_parent": 389988,
+        "name": "Hizan",
+        "seoname": "hizan-409698"
+    },
+    {
+        "id_location": 389993,
+        "id_location_parent": 389988,
+        "name": "Mutki",
+        "seoname": "mutki-409699"
+    },
+    {
+        "id_location": 389994,
+        "id_location_parent": 389988,
+        "name": "Tatvan",
+        "seoname": "tatvan-409700"
+    },
+    {
+        "id_location": 389995,
+        "id_location_parent": 1,
+        "name": "Bolu",
+        "seoname": "bolu-781974"
+    },
+    {
+        "id_location": 389996,
+        "id_location_parent": 389995,
+        "name": "Gerede",
+        "seoname": "gerede-409701"
+    },
+    {
+        "id_location": 389997,
+        "id_location_parent": 389995,
+        "name": "Mengen",
+        "seoname": "mengen-409702"
+    },
+    {
+        "id_location": 389998,
+        "id_location_parent": 389995,
+        "name": "K\u0131br\u0131sc\u0131k",
+        "seoname": "kibriscik-409703"
+    },
+    {
+        "id_location": 389999,
+        "id_location_parent": 389995,
+        "name": "D\u00f6rtdivan",
+        "seoname": "dortdivan-409704"
+    },
+    {
+        "id_location": 390000,
+        "id_location_parent": 389995,
+        "name": "Seben",
+        "seoname": "seben-409705"
+    },
+    {
+        "id_location": 390001,
+        "id_location_parent": 389995,
+        "name": "G\u00f6yn\u00fck",
+        "seoname": "goynuk-409706"
+    },
+    {
+        "id_location": 390002,
+        "id_location_parent": 389995,
+        "name": "Mudurnu",
+        "seoname": "mudurnu-409707"
+    },
+    {
+        "id_location": 390003,
+        "id_location_parent": 389995,
+        "name": "Yeni\u00e7a\u011fa",
+        "seoname": "yenicaga-409708"
+    },
+    {
+        "id_location": 390004,
+        "id_location_parent": 1,
+        "name": "Burdur",
+        "seoname": "burdur-781975"
+    },
+    {
+        "id_location": 390005,
+        "id_location_parent": 390004,
+        "name": "Alt\u0131nyayla",
+        "seoname": "altinyayla-409709"
+    },
+    {
+        "id_location": 390006,
+        "id_location_parent": 390004,
+        "name": "Bucak",
+        "seoname": "bucak-409710"
+    },
+    {
+        "id_location": 390007,
+        "id_location_parent": 390004,
+        "name": "G\u00f6lhisar",
+        "seoname": "golhisar-409711"
+    },
+    {
+        "id_location": 390008,
+        "id_location_parent": 390004,
+        "name": "Karamanl\u0131",
+        "seoname": "karamanli-409712"
+    },
+    {
+        "id_location": 390009,
+        "id_location_parent": 390004,
+        "name": "Ye\u015filova",
+        "seoname": "yesilova-409713"
+    },
+    {
+        "id_location": 390010,
+        "id_location_parent": 390004,
+        "name": "\u00c7avd\u0131r",
+        "seoname": "cavdir-409714"
+    },
+    {
+        "id_location": 390011,
+        "id_location_parent": 390004,
+        "name": "\u00c7eltik\u00e7i",
+        "seoname": "celtikci-409715"
+    },
+    {
+        "id_location": 390012,
+        "id_location_parent": 390004,
+        "name": "A\u011flasun",
+        "seoname": "aglasun-409716"
+    },
+    {
+        "id_location": 390013,
+        "id_location_parent": 390004,
+        "name": "Tefenni",
+        "seoname": "tefenni-409717"
+    },
+    {
+        "id_location": 390014,
+        "id_location_parent": 1,
+        "name": "Bursa",
+        "seoname": "bursa-781976"
+    },
+    {
+        "id_location": 390015,
+        "id_location_parent": 390014,
+        "name": "Harmanc\u0131k",
+        "seoname": "harmancik-409718"
+    },
+    {
+        "id_location": 390016,
+        "id_location_parent": 390014,
+        "name": "Keles",
+        "seoname": "keles-409719"
+    },
+    {
+        "id_location": 390017,
+        "id_location_parent": 390014,
+        "name": "Mustafakemalpa\u015fa",
+        "seoname": "mustafakemalpasa-409720"
+    },
+    {
+        "id_location": 390018,
+        "id_location_parent": 390014,
+        "name": "Nil\u00fcfer",
+        "seoname": "nilufer-409721"
+    },
+    {
+        "id_location": 390019,
+        "id_location_parent": 390014,
+        "name": "Orhangazi",
+        "seoname": "orhangazi-409722"
+    },
+    {
+        "id_location": 390020,
+        "id_location_parent": 390014,
+        "name": "Osmangazi",
+        "seoname": "osmangazi-409723"
+    },
+    {
+        "id_location": 390021,
+        "id_location_parent": 390014,
+        "name": "Yeni\u015fehir",
+        "seoname": "yenisehir-409724"
+    },
+    {
+        "id_location": 390022,
+        "id_location_parent": 390014,
+        "name": "Y\u0131ld\u0131r\u0131m",
+        "seoname": "yildirim-409725"
+    },
+    {
+        "id_location": 390023,
+        "id_location_parent": 390014,
+        "name": "B\u00fcy\u00fckorhan",
+        "seoname": "buyukorhan-409726"
+    },
+    {
+        "id_location": 390024,
+        "id_location_parent": 390014,
+        "name": "Orhaneli",
+        "seoname": "orhaneli-409727"
+    },
+    {
+        "id_location": 390025,
+        "id_location_parent": 390014,
+        "name": "\u0130znik",
+        "seoname": "iznik-409728"
+    },
+    {
+        "id_location": 390026,
+        "id_location_parent": 390014,
+        "name": "Mudanya",
+        "seoname": "mudanya-409729"
+    },
+    {
+        "id_location": 390027,
+        "id_location_parent": 390014,
+        "name": "G\u00fcrsu",
+        "seoname": "gursu-409730"
+    },
+    {
+        "id_location": 390028,
+        "id_location_parent": 390014,
+        "name": "Kestel",
+        "seoname": "kestel-409731"
+    },
+    {
+        "id_location": 390029,
+        "id_location_parent": 390014,
+        "name": "Karacabey",
+        "seoname": "karacabey-409732"
+    },
+    {
+        "id_location": 390030,
+        "id_location_parent": 390014,
+        "name": "Gemlik",
+        "seoname": "gemlik-409733"
+    },
+    {
+        "id_location": 390031,
+        "id_location_parent": 390014,
+        "name": "\u0130neg\u00f6l",
+        "seoname": "inegol-409734"
+    },
+    {
+        "id_location": 390032,
+        "id_location_parent": 1,
+        "name": "\u00c7anakkale",
+        "seoname": "canakkale-781977"
+    },
+    {
+        "id_location": 390033,
+        "id_location_parent": 390032,
+        "name": "Bayrami\u00e7",
+        "seoname": "bayramic-409735"
+    },
+    {
+        "id_location": 390034,
+        "id_location_parent": 390032,
+        "name": "Biga",
+        "seoname": "biga-409736"
+    },
+    {
+        "id_location": 390035,
+        "id_location_parent": 390032,
+        "name": "Bozcaada",
+        "seoname": "bozcaada-409737"
+    },
+    {
+        "id_location": 390036,
+        "id_location_parent": 390032,
+        "name": "Eceabat",
+        "seoname": "eceabat-409738"
+    },
+    {
+        "id_location": 390037,
+        "id_location_parent": 390032,
+        "name": "Ezine",
+        "seoname": "ezine-409739"
+    },
+    {
+        "id_location": 390038,
+        "id_location_parent": 390032,
+        "name": "Gelibolu",
+        "seoname": "gelibolu-409740"
+    },
+    {
+        "id_location": 390039,
+        "id_location_parent": 390032,
+        "name": "G\u00f6k\u00e7eada",
+        "seoname": "gokceada-409741"
+    },
+    {
+        "id_location": 390040,
+        "id_location_parent": 390032,
+        "name": "Lapseki",
+        "seoname": "lapseki-409742"
+    },
+    {
+        "id_location": 390041,
+        "id_location_parent": 390032,
+        "name": "\u00c7an",
+        "seoname": "can-409743"
+    },
+    {
+        "id_location": 390042,
+        "id_location_parent": 1,
+        "name": "\u00c7ank\u0131r\u0131",
+        "seoname": "cankiri-781978"
+    },
+    {
+        "id_location": 390043,
+        "id_location_parent": 390042,
+        "name": "Kur\u015funlu",
+        "seoname": "kursunlu-409744"
+    },
+    {
+        "id_location": 390044,
+        "id_location_parent": 390042,
+        "name": "K\u0131z\u0131l\u0131rmak",
+        "seoname": "kizilirmak-409745"
+    },
+    {
+        "id_location": 390045,
+        "id_location_parent": 390042,
+        "name": "Orta",
+        "seoname": "orta-409746"
+    },
+    {
+        "id_location": 390046,
+        "id_location_parent": 390042,
+        "name": "Yaprakl\u0131",
+        "seoname": "yaprakli-409747"
+    },
+    {
+        "id_location": 390047,
+        "id_location_parent": 390042,
+        "name": "\u00c7erke\u015f",
+        "seoname": "cerkes-409748"
+    },
+    {
+        "id_location": 390048,
+        "id_location_parent": 390042,
+        "name": "Bayram\u00f6ren",
+        "seoname": "bayramoren-409749"
+    },
+    {
+        "id_location": 390049,
+        "id_location_parent": 390042,
+        "name": "Atkaracalar",
+        "seoname": "atkaracalar-409750"
+    },
+    {
+        "id_location": 390050,
+        "id_location_parent": 390042,
+        "name": "Eldivan",
+        "seoname": "eldivan-409751"
+    },
+    {
+        "id_location": 390051,
+        "id_location_parent": 390042,
+        "name": "Korgun",
+        "seoname": "korgun-409752"
+    },
+    {
+        "id_location": 390052,
+        "id_location_parent": 390042,
+        "name": "\u015eaban\u00f6z\u00fc",
+        "seoname": "sabanozu-409753"
+    },
+    {
+        "id_location": 390053,
+        "id_location_parent": 390042,
+        "name": "Ilgaz",
+        "seoname": "ilgaz-409754"
+    },
+    {
+        "id_location": 390054,
+        "id_location_parent": 1,
+        "name": "\u00c7orum",
+        "seoname": "corum-781979"
+    },
+    {
+        "id_location": 390055,
+        "id_location_parent": 390054,
+        "name": "Alaca",
+        "seoname": "alaca-409755"
+    },
+    {
+        "id_location": 390056,
+        "id_location_parent": 390054,
+        "name": "Bo\u011fazkale",
+        "seoname": "bogazkale-409756"
+    },
+    {
+        "id_location": 390057,
+        "id_location_parent": 390054,
+        "name": "Dodurga",
+        "seoname": "dodurga-409757"
+    },
+    {
+        "id_location": 390058,
+        "id_location_parent": 390054,
+        "name": "Karg\u0131",
+        "seoname": "kargi-409758"
+    },
+    {
+        "id_location": 390059,
+        "id_location_parent": 390054,
+        "name": "O\u011fuzlar",
+        "seoname": "oguzlar-409759"
+    },
+    {
+        "id_location": 390060,
+        "id_location_parent": 390054,
+        "name": "La\u00e7in",
+        "seoname": "lacin-409760"
+    },
+    {
+        "id_location": 390061,
+        "id_location_parent": 390054,
+        "name": "Mecit\u00f6z\u00fc",
+        "seoname": "mecitozu-409761"
+    },
+    {
+        "id_location": 390062,
+        "id_location_parent": 390054,
+        "name": "U\u011furluda\u011f",
+        "seoname": "ugurludag-409762"
+    },
+    {
+        "id_location": 390063,
+        "id_location_parent": 390054,
+        "name": "\u0130skilip",
+        "seoname": "iskilip-409763"
+    },
+    {
+        "id_location": 390064,
+        "id_location_parent": 390054,
+        "name": "Osmanc\u0131k",
+        "seoname": "osmancik-409764"
+    },
+    {
+        "id_location": 390065,
+        "id_location_parent": 390054,
+        "name": "Sungurlu",
+        "seoname": "sungurlu-409765"
+    },
+    {
+        "id_location": 390066,
+        "id_location_parent": 1,
+        "name": "Denizli",
+        "seoname": "denizli-781980"
+    },
+    {
+        "id_location": 390067,
+        "id_location_parent": 390066,
+        "name": "Akk\u00f6y",
+        "seoname": "akkoy-409766"
+    },
+    {
+        "id_location": 390068,
+        "id_location_parent": 390066,
+        "name": "Baklan",
+        "seoname": "baklan-409767"
+    },
+    {
+        "id_location": 390069,
+        "id_location_parent": 390066,
+        "name": "Bekilli",
+        "seoname": "bekilli-409768"
+    },
+    {
+        "id_location": 390070,
+        "id_location_parent": 390066,
+        "name": "Beya\u011fa\u00e7",
+        "seoname": "beyagac-409769"
+    },
+    {
+        "id_location": 390071,
+        "id_location_parent": 390066,
+        "name": "Bozkurt",
+        "seoname": "bozkurt-409770"
+    },
+    {
+        "id_location": 390072,
+        "id_location_parent": 390066,
+        "name": "G\u00fcney",
+        "seoname": "guney-409771"
+    },
+    {
+        "id_location": 390073,
+        "id_location_parent": 390066,
+        "name": "Sarayk\u00f6y",
+        "seoname": "saraykoy-409772"
+    },
+    {
+        "id_location": 390074,
+        "id_location_parent": 390066,
+        "name": "\u00c7al",
+        "seoname": "cal-409773"
+    },
+    {
+        "id_location": 390075,
+        "id_location_parent": 390066,
+        "name": "\u00c7ameli",
+        "seoname": "cameli-409774"
+    },
+    {
+        "id_location": 390076,
+        "id_location_parent": 390066,
+        "name": "\u00c7ardak",
+        "seoname": "cardak-409775"
+    },
+    {
+        "id_location": 390077,
+        "id_location_parent": 390066,
+        "name": "\u00c7ivril",
+        "seoname": "civril-409776"
+    },
+    {
+        "id_location": 390078,
+        "id_location_parent": 390066,
+        "name": "Babada\u011f",
+        "seoname": "babadag-409777"
+    },
+    {
+        "id_location": 390079,
+        "id_location_parent": 390066,
+        "name": "Honaz",
+        "seoname": "honaz-409778"
+    },
+    {
+        "id_location": 390080,
+        "id_location_parent": 390066,
+        "name": "Ac\u0131payam",
+        "seoname": "acipayam-409779"
+    },
+    {
+        "id_location": 390081,
+        "id_location_parent": 390066,
+        "name": "Tavas",
+        "seoname": "tavas-409780"
+    },
+    {
+        "id_location": 390082,
+        "id_location_parent": 390066,
+        "name": "Buldan",
+        "seoname": "buldan-409781"
+    },
+    {
+        "id_location": 390083,
+        "id_location_parent": 390066,
+        "name": "Serinhisar",
+        "seoname": "serinhisar-409782"
+    },
+    {
+        "id_location": 390084,
+        "id_location_parent": 1,
+        "name": "Diyarbak\u0131r",
+        "seoname": "diyarbakir-781981"
+    },
+    {
+        "id_location": 390085,
+        "id_location_parent": 390084,
+        "name": "Ba\u011flar",
+        "seoname": "baglar-409783"
+    },
+    {
+        "id_location": 390086,
+        "id_location_parent": 390084,
+        "name": "Bismil",
+        "seoname": "bismil-409784"
+    },
+    {
+        "id_location": 390087,
+        "id_location_parent": 390084,
+        "name": "E\u011fil",
+        "seoname": "egil-409785"
+    },
+    {
+        "id_location": 390088,
+        "id_location_parent": 390084,
+        "name": "Hani",
+        "seoname": "hani-409786"
+    },
+    {
+        "id_location": 390089,
+        "id_location_parent": 390084,
+        "name": "Kayap\u0131nar",
+        "seoname": "kayapinar-409787"
+    },
+    {
+        "id_location": 390090,
+        "id_location_parent": 390084,
+        "name": "Kocak\u00f6y",
+        "seoname": "kocakoy-409788"
+    },
+    {
+        "id_location": 390091,
+        "id_location_parent": 390084,
+        "name": "Kulp",
+        "seoname": "kulp-409789"
+    },
+    {
+        "id_location": 390092,
+        "id_location_parent": 390084,
+        "name": "Lice",
+        "seoname": "lice-409790"
+    },
+    {
+        "id_location": 390093,
+        "id_location_parent": 390084,
+        "name": "Silvan",
+        "seoname": "silvan-409791"
+    },
+    {
+        "id_location": 390094,
+        "id_location_parent": 390084,
+        "name": "Sur",
+        "seoname": "sur-409792"
+    },
+    {
+        "id_location": 390095,
+        "id_location_parent": 390084,
+        "name": "\u00c7ermik",
+        "seoname": "cermik-409793"
+    },
+    {
+        "id_location": 390096,
+        "id_location_parent": 390084,
+        "name": "\u00c7\u00fcng\u00fc\u015f",
+        "seoname": "cungus-409794"
+    },
+    {
+        "id_location": 390097,
+        "id_location_parent": 390084,
+        "name": "\u00c7\u0131nar",
+        "seoname": "cinar-409795"
+    },
+    {
+        "id_location": 390098,
+        "id_location_parent": 390084,
+        "name": "Dicle",
+        "seoname": "dicle-409796"
+    },
+    {
+        "id_location": 390099,
+        "id_location_parent": 390084,
+        "name": "Hazro",
+        "seoname": "hazro-409797"
+    },
+    {
+        "id_location": 390100,
+        "id_location_parent": 390084,
+        "name": "Ergani",
+        "seoname": "ergani-409798"
+    },
+    {
+        "id_location": 390101,
+        "id_location_parent": 1,
+        "name": "D\u00fczce",
+        "seoname": "duzce-781982"
+    },
+    {
+        "id_location": 390102,
+        "id_location_parent": 390101,
+        "name": "Cumayeri",
+        "seoname": "cumayeri-409799"
+    },
+    {
+        "id_location": 390103,
+        "id_location_parent": 390101,
+        "name": "G\u00f6lyaka",
+        "seoname": "golyaka-409800"
+    },
+    {
+        "id_location": 390104,
+        "id_location_parent": 390101,
+        "name": "G\u00fcm\u00fc\u015fova",
+        "seoname": "gumusova-409801"
+    },
+    {
+        "id_location": 390105,
+        "id_location_parent": 390101,
+        "name": "Kayna\u015fl\u0131",
+        "seoname": "kaynasli-409802"
+    },
+    {
+        "id_location": 390106,
+        "id_location_parent": 390101,
+        "name": "Y\u0131\u011f\u0131lca",
+        "seoname": "yigilca-409803"
+    },
+    {
+        "id_location": 390107,
+        "id_location_parent": 390101,
+        "name": "\u00c7ilimli",
+        "seoname": "cilimli-409804"
+    },
+    {
+        "id_location": 390108,
+        "id_location_parent": 390101,
+        "name": "Ak\u00e7akoca",
+        "seoname": "akcakoca-409805"
+    },
+    {
+        "id_location": 390109,
+        "id_location_parent": 1,
+        "name": "Edirne",
+        "seoname": "edirne-781983"
+    },
+    {
+        "id_location": 390110,
+        "id_location_parent": 390109,
+        "name": "S\u00fcleo\u011flu",
+        "seoname": "suleoglu-409806"
+    },
+    {
+        "id_location": 390111,
+        "id_location_parent": 390109,
+        "name": "S\u00fclo\u011flu",
+        "seoname": "suloglu-409807"
+    },
+    {
+        "id_location": 390112,
+        "id_location_parent": 390109,
+        "name": "Lalapa\u015fa",
+        "seoname": "lalapasa-409808"
+    },
+    {
+        "id_location": 390113,
+        "id_location_parent": 390109,
+        "name": "Meri\u00e7",
+        "seoname": "meric-409809"
+    },
+    {
+        "id_location": 390114,
+        "id_location_parent": 390109,
+        "name": "Enez",
+        "seoname": "enez-409810"
+    },
+    {
+        "id_location": 390115,
+        "id_location_parent": 390109,
+        "name": "Havsa",
+        "seoname": "havsa-409811"
+    },
+    {
+        "id_location": 390116,
+        "id_location_parent": 390109,
+        "name": "\u0130psala",
+        "seoname": "ipsala-409812"
+    },
+    {
+        "id_location": 390117,
+        "id_location_parent": 390109,
+        "name": "Uzunk\u00f6pr\u00fc",
+        "seoname": "uzunkopru-409813"
+    },
+    {
+        "id_location": 390118,
+        "id_location_parent": 390109,
+        "name": "Ke\u015fan",
+        "seoname": "kesan-409814"
+    },
+    {
+        "id_location": 390119,
+        "id_location_parent": 1,
+        "name": "Elaz\u0131\u011f",
+        "seoname": "elazig-781984"
+    },
+    {
+        "id_location": 390120,
+        "id_location_parent": 390119,
+        "name": "Ar\u0131cak",
+        "seoname": "aricak-409815"
+    },
+    {
+        "id_location": 390121,
+        "id_location_parent": 390119,
+        "name": "A\u011f\u0131n",
+        "seoname": "agin-409816"
+    },
+    {
+        "id_location": 390122,
+        "id_location_parent": 390119,
+        "name": "Karako\u00e7an",
+        "seoname": "karakocan-409817"
+    },
+    {
+        "id_location": 390123,
+        "id_location_parent": 390119,
+        "name": "Maden",
+        "seoname": "maden-409818"
+    },
+    {
+        "id_location": 390124,
+        "id_location_parent": 390119,
+        "name": "Palu",
+        "seoname": "palu-409819"
+    },
+    {
+        "id_location": 390125,
+        "id_location_parent": 390119,
+        "name": "Sivrice",
+        "seoname": "sivrice-409820"
+    },
+    {
+        "id_location": 390126,
+        "id_location_parent": 390119,
+        "name": "Alacakaya",
+        "seoname": "alacakaya-409821"
+    },
+    {
+        "id_location": 390127,
+        "id_location_parent": 390119,
+        "name": "Keban",
+        "seoname": "keban-409822"
+    },
+    {
+        "id_location": 390128,
+        "id_location_parent": 390119,
+        "name": "Baskil",
+        "seoname": "baskil-409823"
+    },
+    {
+        "id_location": 390129,
+        "id_location_parent": 390119,
+        "name": "Kovanc\u0131lar",
+        "seoname": "kovancilar-409824"
+    },
+    {
+        "id_location": 390130,
+        "id_location_parent": 1,
+        "name": "Erzincan",
+        "seoname": "erzincan-781985"
+    },
+    {
+        "id_location": 390131,
+        "id_location_parent": 390130,
+        "name": "Kemah",
+        "seoname": "kemah-409825"
+    },
+    {
+        "id_location": 390132,
+        "id_location_parent": 390130,
+        "name": "Kemaliye",
+        "seoname": "kemaliye-409826"
+    },
+    {
+        "id_location": 390133,
+        "id_location_parent": 390130,
+        "name": "Otlukbeli",
+        "seoname": "otlukbeli-409827"
+    },
+    {
+        "id_location": 390134,
+        "id_location_parent": 390130,
+        "name": "Refahiye",
+        "seoname": "refahiye-409828"
+    },
+    {
+        "id_location": 390135,
+        "id_location_parent": 390130,
+        "name": "Tercan",
+        "seoname": "tercan-409829"
+    },
+    {
+        "id_location": 390136,
+        "id_location_parent": 390130,
+        "name": "\u00c7ay\u0131rl\u0131",
+        "seoname": "cayirli-409830"
+    },
+    {
+        "id_location": 390137,
+        "id_location_parent": 390130,
+        "name": "\u00dcz\u00fcml\u00fc",
+        "seoname": "uzumlu-409831"
+    },
+    {
+        "id_location": 390138,
+        "id_location_parent": 390130,
+        "name": "\u0130li\u00e7",
+        "seoname": "ilic-409832"
+    },
+    {
+        "id_location": 390139,
+        "id_location_parent": 1,
+        "name": "Erzurum",
+        "seoname": "erzurum-781986"
+    },
+    {
+        "id_location": 390140,
+        "id_location_parent": 390139,
+        "name": "Aziziye",
+        "seoname": "aziziye-409833"
+    },
+    {
+        "id_location": 390141,
+        "id_location_parent": 390139,
+        "name": "A\u015fkale",
+        "seoname": "askale-409834"
+    },
+    {
+        "id_location": 390142,
+        "id_location_parent": 390139,
+        "name": "H\u0131n\u0131s",
+        "seoname": "hinis-409835"
+    },
+    {
+        "id_location": 390143,
+        "id_location_parent": 390139,
+        "name": "Il\u0131ca",
+        "seoname": "ilica-409836"
+    },
+    {
+        "id_location": 390144,
+        "id_location_parent": 390139,
+        "name": "Karayaz\u0131",
+        "seoname": "karayazi-409837"
+    },
+    {
+        "id_location": 390145,
+        "id_location_parent": 390139,
+        "name": "Kara\u00e7oban",
+        "seoname": "karacoban-409838"
+    },
+    {
+        "id_location": 390146,
+        "id_location_parent": 390139,
+        "name": "K\u00f6pr\u00fck\u00f6y",
+        "seoname": "koprukoy-409839"
+    },
+    {
+        "id_location": 390147,
+        "id_location_parent": 390139,
+        "name": "Oltu",
+        "seoname": "oltu-409840"
+    },
+    {
+        "id_location": 390148,
+        "id_location_parent": 390139,
+        "name": "Paland\u00f6ken",
+        "seoname": "palandoken-409841"
+    },
+    {
+        "id_location": 390149,
+        "id_location_parent": 390139,
+        "name": "Pazaryolu",
+        "seoname": "pazaryolu-409842"
+    },
+    {
+        "id_location": 390150,
+        "id_location_parent": 390139,
+        "name": "Tekman",
+        "seoname": "tekman-409843"
+    },
+    {
+        "id_location": 390151,
+        "id_location_parent": 390139,
+        "name": "Uzundere",
+        "seoname": "uzundere-409844"
+    },
+    {
+        "id_location": 390152,
+        "id_location_parent": 390139,
+        "name": "Yakutiye",
+        "seoname": "yakutiye-409845"
+    },
+    {
+        "id_location": 390153,
+        "id_location_parent": 390139,
+        "name": "\u00c7at",
+        "seoname": "cat-409846"
+    },
+    {
+        "id_location": 390154,
+        "id_location_parent": 390139,
+        "name": "\u0130spir",
+        "seoname": "ispir-409847"
+    },
+    {
+        "id_location": 390155,
+        "id_location_parent": 390139,
+        "name": "Olur",
+        "seoname": "olur-409848"
+    },
+    {
+        "id_location": 390156,
+        "id_location_parent": 390139,
+        "name": "\u015eenkaya",
+        "seoname": "senkaya-409849"
+    },
+    {
+        "id_location": 390157,
+        "id_location_parent": 390139,
+        "name": "Tortum",
+        "seoname": "tortum-409850"
+    },
+    {
+        "id_location": 390158,
+        "id_location_parent": 390139,
+        "name": "Narman",
+        "seoname": "narman-409851"
+    },
+    {
+        "id_location": 390159,
+        "id_location_parent": 390139,
+        "name": "Horasan",
+        "seoname": "horasan-409852"
+    },
+    {
+        "id_location": 390160,
+        "id_location_parent": 390139,
+        "name": "Pasinler",
+        "seoname": "pasinler-409853"
+    },
+    {
+        "id_location": 390161,
+        "id_location_parent": 1,
+        "name": "Eski\u015fehir",
+        "seoname": "eskisehir-781987"
+    },
+    {
+        "id_location": 390162,
+        "id_location_parent": 390161,
+        "name": "Alpu",
+        "seoname": "alpu-409854"
+    },
+    {
+        "id_location": 390163,
+        "id_location_parent": 390161,
+        "name": "G\u00fcny\u00fcz\u00fc",
+        "seoname": "gunyuzu-409855"
+    },
+    {
+        "id_location": 390164,
+        "id_location_parent": 390161,
+        "name": "Han",
+        "seoname": "han-409856"
+    },
+    {
+        "id_location": 390165,
+        "id_location_parent": 390161,
+        "name": "Mahmudiye",
+        "seoname": "mahmudiye-409857"
+    },
+    {
+        "id_location": 390166,
+        "id_location_parent": 390161,
+        "name": "Mihal\u0131\u00e7c\u0131k",
+        "seoname": "mihaliccik-409858"
+    },
+    {
+        "id_location": 390167,
+        "id_location_parent": 390161,
+        "name": "Odunpazar\u0131",
+        "seoname": "odunpazari-409859"
+    },
+    {
+        "id_location": 390168,
+        "id_location_parent": 390161,
+        "name": "Sivrihisar",
+        "seoname": "sivrihisar-409860"
+    },
+    {
+        "id_location": 390169,
+        "id_location_parent": 390161,
+        "name": "Tepeba\u015f\u0131",
+        "seoname": "tepebasi-409861"
+    },
+    {
+        "id_location": 390170,
+        "id_location_parent": 390161,
+        "name": "\u00c7ifteler",
+        "seoname": "cifteler-409862"
+    },
+    {
+        "id_location": 390171,
+        "id_location_parent": 390161,
+        "name": "\u0130n\u00f6n\u00fc",
+        "seoname": "inonu-409863"
+    },
+    {
+        "id_location": 390172,
+        "id_location_parent": 390161,
+        "name": "Seyitgazi",
+        "seoname": "seyitgazi-409864"
+    },
+    {
+        "id_location": 390173,
+        "id_location_parent": 390161,
+        "name": "Beylikova",
+        "seoname": "beylikova-409865"
+    },
+    {
+        "id_location": 390174,
+        "id_location_parent": 390161,
+        "name": "Mihalgazi",
+        "seoname": "mihalgazi-409866"
+    },
+    {
+        "id_location": 390175,
+        "id_location_parent": 390161,
+        "name": "Sar\u0131cakaya",
+        "seoname": "saricakaya-409867"
+    },
+    {
+        "id_location": 390176,
+        "id_location_parent": 1,
+        "name": "Gaziantep",
+        "seoname": "gaziantep-781988"
+    },
+    {
+        "id_location": 390177,
+        "id_location_parent": 390176,
+        "name": "Nizip",
+        "seoname": "nizip-409868"
+    },
+    {
+        "id_location": 390178,
+        "id_location_parent": 390176,
+        "name": "Nurda\u011f\u0131",
+        "seoname": "nurdagi-409869"
+    },
+    {
+        "id_location": 390179,
+        "id_location_parent": 390176,
+        "name": "O\u011fuzeli",
+        "seoname": "oguzeli-409870"
+    },
+    {
+        "id_location": 390180,
+        "id_location_parent": 390176,
+        "name": "Yavuzeli",
+        "seoname": "yavuzeli-409871"
+    },
+    {
+        "id_location": 390181,
+        "id_location_parent": 390176,
+        "name": "\u015eahinbey",
+        "seoname": "sahinbey-409872"
+    },
+    {
+        "id_location": 390182,
+        "id_location_parent": 390176,
+        "name": "\u015eehitkamil",
+        "seoname": "sehitkamil-409873"
+    },
+    {
+        "id_location": 390183,
+        "id_location_parent": 390176,
+        "name": "\u0130slahiye",
+        "seoname": "islahiye-409874"
+    },
+    {
+        "id_location": 390184,
+        "id_location_parent": 390176,
+        "name": "Araban",
+        "seoname": "araban-409875"
+    },
+    {
+        "id_location": 390185,
+        "id_location_parent": 390176,
+        "name": "Karkam\u0131\u015f",
+        "seoname": "karkamis-409876"
+    },
+    {
+        "id_location": 390186,
+        "id_location_parent": 1,
+        "name": "Giresun",
+        "seoname": "giresun-781989"
+    },
+    {
+        "id_location": 390187,
+        "id_location_parent": 390186,
+        "name": "Alucra",
+        "seoname": "alucra-409877"
+    },
+    {
+        "id_location": 390188,
+        "id_location_parent": 390186,
+        "name": "Bulancak",
+        "seoname": "bulancak-409878"
+    },
+    {
+        "id_location": 390189,
+        "id_location_parent": 390186,
+        "name": "Dereli",
+        "seoname": "dereli-409879"
+    },
+    {
+        "id_location": 390190,
+        "id_location_parent": 390186,
+        "name": "Do\u011fankent",
+        "seoname": "dogankent-409880"
+    },
+    {
+        "id_location": 390191,
+        "id_location_parent": 390186,
+        "name": "Espiye",
+        "seoname": "espiye-409881"
+    },
+    {
+        "id_location": 390192,
+        "id_location_parent": 390186,
+        "name": "Eynesil",
+        "seoname": "eynesil-409882"
+    },
+    {
+        "id_location": 390193,
+        "id_location_parent": 390186,
+        "name": "G\u00f6rele",
+        "seoname": "gorele-409883"
+    },
+    {
+        "id_location": 390194,
+        "id_location_parent": 390186,
+        "name": "G\u00fcce",
+        "seoname": "guce-409884"
+    },
+    {
+        "id_location": 390195,
+        "id_location_parent": 390186,
+        "name": "Ke\u015fap",
+        "seoname": "kesap-409885"
+    },
+    {
+        "id_location": 390196,
+        "id_location_parent": 390186,
+        "name": "Tirebolu",
+        "seoname": "tirebolu-409886"
+    },
+    {
+        "id_location": 390197,
+        "id_location_parent": 390186,
+        "name": "\u00c7amoluk",
+        "seoname": "camoluk-409887"
+    },
+    {
+        "id_location": 390198,
+        "id_location_parent": 390186,
+        "name": "\u00c7anak\u00e7\u0131",
+        "seoname": "canakci-409888"
+    },
+    {
+        "id_location": 390199,
+        "id_location_parent": 390186,
+        "name": "\u015eebinkarahisar",
+        "seoname": "sebinkarahisar-409889"
+    },
+    {
+        "id_location": 390200,
+        "id_location_parent": 390186,
+        "name": "Ya\u011fl\u0131dere",
+        "seoname": "yaglidere-409890"
+    },
+    {
+        "id_location": 390201,
+        "id_location_parent": 390186,
+        "name": "Piraziz",
+        "seoname": "piraziz-409891"
+    },
+    {
+        "id_location": 390202,
+        "id_location_parent": 1,
+        "name": "Girne",
+        "seoname": "girne-781990"
+    },
+    {
+        "id_location": 390203,
+        "id_location_parent": 390202,
+        "name": "Girne",
+        "seoname": "girne-409892"
+    },
+    {
+        "id_location": 390204,
+        "id_location_parent": 390202,
+        "name": "\u00c7aml\u0131bel",
+        "seoname": "camlibel-409893"
+    },
+    {
+        "id_location": 390205,
+        "id_location_parent": 1,
+        "name": "G\u00fcm\u00fc\u015fhane",
+        "seoname": "gumushane-781991"
+    },
+    {
+        "id_location": 390206,
+        "id_location_parent": 390205,
+        "name": "Kelkit",
+        "seoname": "kelkit-409894"
+    },
+    {
+        "id_location": 390207,
+        "id_location_parent": 390205,
+        "name": "K\u00f6se",
+        "seoname": "kose-409895"
+    },
+    {
+        "id_location": 390208,
+        "id_location_parent": 390205,
+        "name": "K\u00fcrt\u00fcn",
+        "seoname": "kurtun-409896"
+    },
+    {
+        "id_location": 390209,
+        "id_location_parent": 390205,
+        "name": "Torul",
+        "seoname": "torul-409897"
+    },
+    {
+        "id_location": 390210,
+        "id_location_parent": 390205,
+        "name": "\u015eiran",
+        "seoname": "siran-409898"
+    },
+    {
+        "id_location": 390211,
+        "id_location_parent": 1,
+        "name": "G\u00fczelyurt",
+        "seoname": "guzelyurt-781992"
+    },
+    {
+        "id_location": 390212,
+        "id_location_parent": 390211,
+        "name": "G\u00fczelyurt",
+        "seoname": "guzelyurt-409899"
+    },
+    {
+        "id_location": 390213,
+        "id_location_parent": 390211,
+        "name": "Lefke",
+        "seoname": "lefke-409900"
+    },
+    {
+        "id_location": 390214,
+        "id_location_parent": 1,
+        "name": "Hakkari",
+        "seoname": "hakkari-781993"
+    },
+    {
+        "id_location": 390215,
+        "id_location_parent": 390214,
+        "name": "Y\u00fcksekova",
+        "seoname": "yuksekova-409901"
+    },
+    {
+        "id_location": 390216,
+        "id_location_parent": 390214,
+        "name": "\u00c7ukurca",
+        "seoname": "cukurca-409902"
+    },
+    {
+        "id_location": 390217,
+        "id_location_parent": 390214,
+        "name": "\u015eemdinli",
+        "seoname": "semdinli-409903"
+    },
+    {
+        "id_location": 390218,
+        "id_location_parent": 1,
+        "name": "Hatay",
+        "seoname": "hatay-781994"
+    },
+    {
+        "id_location": 390219,
+        "id_location_parent": 390218,
+        "name": "Alt\u0131n\u00f6z\u00fc",
+        "seoname": "altinozu-409904"
+    },
+    {
+        "id_location": 390220,
+        "id_location_parent": 390218,
+        "name": "Belen",
+        "seoname": "belen-409905"
+    },
+    {
+        "id_location": 390221,
+        "id_location_parent": 390218,
+        "name": "D\u00f6rtyol",
+        "seoname": "dortyol-409906"
+    },
+    {
+        "id_location": 390222,
+        "id_location_parent": 390218,
+        "name": "Erzin",
+        "seoname": "erzin-409907"
+    },
+    {
+        "id_location": 390223,
+        "id_location_parent": 390218,
+        "name": "Hassa",
+        "seoname": "hassa-409908"
+    },
+    {
+        "id_location": 390224,
+        "id_location_parent": 390218,
+        "name": "K\u0131r\u0131khan",
+        "seoname": "kirikhan-409909"
+    },
+    {
+        "id_location": 390225,
+        "id_location_parent": 390218,
+        "name": "Reyhanl\u0131",
+        "seoname": "reyhanli-409910"
+    },
+    {
+        "id_location": 390226,
+        "id_location_parent": 390218,
+        "name": "Samanda\u011f",
+        "seoname": "samandag-409911"
+    },
+    {
+        "id_location": 390227,
+        "id_location_parent": 390218,
+        "name": "Yaylada\u011f\u0131",
+        "seoname": "yayladagi-409912"
+    },
+    {
+        "id_location": 390228,
+        "id_location_parent": 390218,
+        "name": "\u0130skenderun",
+        "seoname": "iskenderun-409913"
+    },
+    {
+        "id_location": 390229,
+        "id_location_parent": 390218,
+        "name": "Kumlu",
+        "seoname": "kumlu-409914"
+    },
+    {
+        "id_location": 390230,
+        "id_location_parent": 390218,
+        "name": "Antakya",
+        "seoname": "antakya-409915"
+    },
+    {
+        "id_location": 390231,
+        "id_location_parent": 1,
+        "name": "I\u011fd\u0131r",
+        "seoname": "igdir-781995"
+    },
+    {
+        "id_location": 390232,
+        "id_location_parent": 390231,
+        "name": "Aral\u0131k",
+        "seoname": "aralik-409916"
+    },
+    {
+        "id_location": 390233,
+        "id_location_parent": 390231,
+        "name": "Karakoyunlu",
+        "seoname": "karakoyunlu-409917"
+    },
+    {
+        "id_location": 390234,
+        "id_location_parent": 390231,
+        "name": "Tuzluca",
+        "seoname": "tuzluca-409918"
+    },
+    {
+        "id_location": 390235,
+        "id_location_parent": 1,
+        "name": "\u0130skele",
+        "seoname": "iskele-781996"
+    },
+    {
+        "id_location": 390236,
+        "id_location_parent": 390235,
+        "name": "Mehmet\u00e7ik",
+        "seoname": "mehmetcik-409919"
+    },
+    {
+        "id_location": 390237,
+        "id_location_parent": 390235,
+        "name": "\u0130skele",
+        "seoname": "iskele-409920"
+    },
+    {
+        "id_location": 390238,
+        "id_location_parent": 1,
+        "name": "Isparta",
+        "seoname": "isparta-781997"
+    },
+    {
+        "id_location": 390239,
+        "id_location_parent": 390238,
+        "name": "Atabey",
+        "seoname": "atabey-409921"
+    },
+    {
+        "id_location": 390240,
+        "id_location_parent": 390238,
+        "name": "S\u00fct\u00e7\u00fcler",
+        "seoname": "sutculer-409922"
+    },
+    {
+        "id_location": 390241,
+        "id_location_parent": 390238,
+        "name": "Yeni\u015farbademli",
+        "seoname": "yenisarbademli-409923"
+    },
+    {
+        "id_location": 390242,
+        "id_location_parent": 390238,
+        "name": "Gelendost",
+        "seoname": "gelendost-409924"
+    },
+    {
+        "id_location": 390243,
+        "id_location_parent": 390238,
+        "name": "Ke\u00e7iborlu",
+        "seoname": "keciborlu-409925"
+    },
+    {
+        "id_location": 390244,
+        "id_location_parent": 390238,
+        "name": "Uluborlu",
+        "seoname": "uluborlu-409926"
+    },
+    {
+        "id_location": 390245,
+        "id_location_parent": 390238,
+        "name": "Senirkent",
+        "seoname": "senirkent-409927"
+    },
+    {
+        "id_location": 390246,
+        "id_location_parent": 390238,
+        "name": "E\u011firdir",
+        "seoname": "egirdir-409928"
+    },
+    {
+        "id_location": 390247,
+        "id_location_parent": 390238,
+        "name": "\u015earkikaraa\u011fa\u00e7",
+        "seoname": "sarkikaraagac-409929"
+    },
+    {
+        "id_location": 390248,
+        "id_location_parent": 390238,
+        "name": "Yalva\u00e7",
+        "seoname": "yalvac-409930"
+    },
+    {
+        "id_location": 390249,
+        "id_location_parent": 1,
+        "name": "\u0130stanbul",
+        "seoname": "istanbul-781998"
+    },
+    {
+        "id_location": 390250,
+        "id_location_parent": 390249,
+        "name": "Adalar",
+        "seoname": "adalar-409931"
+    },
+    {
+        "id_location": 390251,
+        "id_location_parent": 390249,
+        "name": "Arnavutk\u00f6y",
+        "seoname": "arnavutkoy-409932"
+    },
+    {
+        "id_location": 390252,
+        "id_location_parent": 390249,
+        "name": "Avc\u0131lar",
+        "seoname": "avcilar-409933"
+    },
+    {
+        "id_location": 390253,
+        "id_location_parent": 390249,
+        "name": "Bak\u0131rk\u00f6y",
+        "seoname": "bakirkoy-409934"
+    },
+    {
+        "id_location": 390254,
+        "id_location_parent": 390249,
+        "name": "Bayrampa\u015fa",
+        "seoname": "bayrampasa-409935"
+    },
+    {
+        "id_location": 390255,
+        "id_location_parent": 390249,
+        "name": "Ba\u011fc\u0131lar",
+        "seoname": "bagcilar-409936"
+    },
+    {
+        "id_location": 390256,
+        "id_location_parent": 390249,
+        "name": "Beykoz",
+        "seoname": "beykoz-409937"
+    },
+    {
+        "id_location": 390257,
+        "id_location_parent": 390249,
+        "name": "Beyo\u011flu",
+        "seoname": "beyoglu-409938"
+    },
+    {
+        "id_location": 390258,
+        "id_location_parent": 390249,
+        "name": "Be\u015fikta\u015f",
+        "seoname": "besiktas-409939"
+    },
+    {
+        "id_location": 390259,
+        "id_location_parent": 390249,
+        "name": "B\u00fcy\u00fck\u00e7ekmece",
+        "seoname": "buyukcekmece-409940"
+    },
+    {
+        "id_location": 390260,
+        "id_location_parent": 390249,
+        "name": "Emin\u00f6n\u00fc",
+        "seoname": "eminonu-409941"
+    },
+    {
+        "id_location": 390261,
+        "id_location_parent": 390249,
+        "name": "Esenler",
+        "seoname": "esenler-409942"
+    },
+    {
+        "id_location": 390262,
+        "id_location_parent": 390249,
+        "name": "Esenyurt",
+        "seoname": "esenyurt-409943"
+    },
+    {
+        "id_location": 390263,
+        "id_location_parent": 390249,
+        "name": "Ey\u00fcp",
+        "seoname": "eyup-409944"
+    },
+    {
+        "id_location": 390264,
+        "id_location_parent": 390249,
+        "name": "Fatih",
+        "seoname": "fatih-409945"
+    },
+    {
+        "id_location": 390265,
+        "id_location_parent": 390249,
+        "name": "Gaziosmanpa\u015fa",
+        "seoname": "gaziosmanpasa-409946"
+    },
+    {
+        "id_location": 390266,
+        "id_location_parent": 390249,
+        "name": "G\u00fcng\u00f6ren",
+        "seoname": "gungoren-409947"
+    },
+    {
+        "id_location": 390267,
+        "id_location_parent": 390249,
+        "name": "Kad\u0131k\u00f6y",
+        "seoname": "kadikoy-409948"
+    },
+    {
+        "id_location": 390268,
+        "id_location_parent": 390249,
+        "name": "Kartal",
+        "seoname": "kartal-409949"
+    },
+    {
+        "id_location": 390269,
+        "id_location_parent": 390249,
+        "name": "Ka\u011f\u0131thane",
+        "seoname": "kagithane-409950"
+    },
+    {
+        "id_location": 390270,
+        "id_location_parent": 390249,
+        "name": "K\u00fc\u00e7\u00fck\u00e7ekmece",
+        "seoname": "kucukcekmece-409951"
+    },
+    {
+        "id_location": 390271,
+        "id_location_parent": 390249,
+        "name": "Maltepe",
+        "seoname": "maltepe-409952"
+    },
+    {
+        "id_location": 390272,
+        "id_location_parent": 390249,
+        "name": "Pendik",
+        "seoname": "pendik-409953"
+    },
+    {
+        "id_location": 390273,
+        "id_location_parent": 390249,
+        "name": "Sar\u0131yer",
+        "seoname": "sariyer-409954"
+    },
+    {
+        "id_location": 390274,
+        "id_location_parent": 390249,
+        "name": "Tuzla",
+        "seoname": "tuzla-409955"
+    },
+    {
+        "id_location": 390275,
+        "id_location_parent": 390249,
+        "name": "\u00c7ekmek\u00f6y",
+        "seoname": "cekmekoy-409956"
+    },
+    {
+        "id_location": 390276,
+        "id_location_parent": 390249,
+        "name": "\u00dcsk\u00fcdar",
+        "seoname": "uskudar-409957"
+    },
+    {
+        "id_location": 390277,
+        "id_location_parent": 390249,
+        "name": "\u015ei\u015fli",
+        "seoname": "sisli-409958"
+    },
+    {
+        "id_location": 390278,
+        "id_location_parent": 390249,
+        "name": "\u015eile",
+        "seoname": "sile-409959"
+    },
+    {
+        "id_location": 390279,
+        "id_location_parent": 390249,
+        "name": "\u00c7atalca",
+        "seoname": "catalca-409960"
+    },
+    {
+        "id_location": 390280,
+        "id_location_parent": 390249,
+        "name": "Silivri",
+        "seoname": "silivri-409961"
+    },
+    {
+        "id_location": 390281,
+        "id_location_parent": 390249,
+        "name": "Beylikd\u00fcz\u00fc",
+        "seoname": "beylikduzu-409962"
+    },
+    {
+        "id_location": 390282,
+        "id_location_parent": 390249,
+        "name": "Ba\u015fak\u015fehir",
+        "seoname": "basaksehir-409963"
+    },
+    {
+        "id_location": 390283,
+        "id_location_parent": 390249,
+        "name": "Sancaktepe",
+        "seoname": "sancaktepe-409964"
+    },
+    {
+        "id_location": 390284,
+        "id_location_parent": 390249,
+        "name": "Sultanbeyli",
+        "seoname": "sultanbeyli-409965"
+    },
+    {
+        "id_location": 390285,
+        "id_location_parent": 390249,
+        "name": "Zeytinburnu",
+        "seoname": "zeytinburnu-409966"
+    },
+    {
+        "id_location": 390286,
+        "id_location_parent": 390249,
+        "name": "Ata\u015fehir",
+        "seoname": "atasehir-409967"
+    },
+    {
+        "id_location": 390287,
+        "id_location_parent": 390249,
+        "name": "Sultangazi",
+        "seoname": "sultangazi-409968"
+    },
+    {
+        "id_location": 390288,
+        "id_location_parent": 390249,
+        "name": "\u00dcmraniye",
+        "seoname": "umraniye-409969"
+    },
+    {
+        "id_location": 390289,
+        "id_location_parent": 390249,
+        "name": "Bah\u00e7elievler",
+        "seoname": "bahcelievler-409970"
+    },
+    {
+        "id_location": 390290,
+        "id_location_parent": 1,
+        "name": "\u0130zmir",
+        "seoname": "izmir-781999"
+    },
+    {
+        "id_location": 390291,
+        "id_location_parent": 390290,
+        "name": "Alia\u011fa",
+        "seoname": "aliaga-409971"
+    },
+    {
+        "id_location": 390292,
+        "id_location_parent": 390290,
+        "name": "Bal\u00e7ova",
+        "seoname": "balcova-409972"
+    },
+    {
+        "id_location": 390293,
+        "id_location_parent": 390290,
+        "name": "Bayrakl\u0131",
+        "seoname": "bayrakli-409973"
+    },
+    {
+        "id_location": 390294,
+        "id_location_parent": 390290,
+        "name": "Bay\u0131nd\u0131r",
+        "seoname": "bayindir-409974"
+    },
+    {
+        "id_location": 390295,
+        "id_location_parent": 390290,
+        "name": "Beyda\u011f",
+        "seoname": "beydag-409975"
+    },
+    {
+        "id_location": 390296,
+        "id_location_parent": 390290,
+        "name": "Bornova",
+        "seoname": "bornova-409976"
+    },
+    {
+        "id_location": 390297,
+        "id_location_parent": 390290,
+        "name": "Buca",
+        "seoname": "buca-409977"
+    },
+    {
+        "id_location": 390298,
+        "id_location_parent": 390290,
+        "name": "Dikili",
+        "seoname": "dikili-409978"
+    },
+    {
+        "id_location": 390299,
+        "id_location_parent": 390290,
+        "name": "Gaziemir",
+        "seoname": "gaziemir-409979"
+    },
+    {
+        "id_location": 390300,
+        "id_location_parent": 390290,
+        "name": "G\u00fczelbah\u00e7e",
+        "seoname": "guzelbahce-409980"
+    },
+    {
+        "id_location": 390301,
+        "id_location_parent": 390290,
+        "name": "Karaba\u011flar",
+        "seoname": "karabaglar-409981"
+    },
+    {
+        "id_location": 390302,
+        "id_location_parent": 390290,
+        "name": "Karaburun",
+        "seoname": "karaburun-409982"
+    },
+    {
+        "id_location": 390303,
+        "id_location_parent": 390290,
+        "name": "Kar\u015f\u0131yaka",
+        "seoname": "karsiyaka-409983"
+    },
+    {
+        "id_location": 390304,
+        "id_location_parent": 390290,
+        "name": "Kemalpa\u015fa",
+        "seoname": "kemalpasa-409984"
+    },
+    {
+        "id_location": 390305,
+        "id_location_parent": 390290,
+        "name": "Kiraz",
+        "seoname": "kiraz-409985"
+    },
+    {
+        "id_location": 390306,
+        "id_location_parent": 390290,
+        "name": "Konak",
+        "seoname": "konak-409986"
+    },
+    {
+        "id_location": 390307,
+        "id_location_parent": 390290,
+        "name": "K\u0131n\u0131k",
+        "seoname": "kinik-409987"
+    },
+    {
+        "id_location": 390308,
+        "id_location_parent": 390290,
+        "name": "Narl\u0131dere",
+        "seoname": "narlidere-409988"
+    },
+    {
+        "id_location": 390309,
+        "id_location_parent": 390290,
+        "name": "Sel\u00e7uk",
+        "seoname": "selcuk-409989"
+    },
+    {
+        "id_location": 390310,
+        "id_location_parent": 390290,
+        "name": "Urla",
+        "seoname": "urla-409990"
+    },
+    {
+        "id_location": 390311,
+        "id_location_parent": 390290,
+        "name": "\u00c7e\u015fme",
+        "seoname": "cesme-409991"
+    },
+    {
+        "id_location": 390312,
+        "id_location_parent": 390290,
+        "name": "\u00c7i\u011fli",
+        "seoname": "cigli-409992"
+    },
+    {
+        "id_location": 390313,
+        "id_location_parent": 390290,
+        "name": "\u00d6demi\u015f",
+        "seoname": "odemis-409993"
+    },
+    {
+        "id_location": 390314,
+        "id_location_parent": 390290,
+        "name": "Torbal\u0131",
+        "seoname": "torbali-409994"
+    },
+    {
+        "id_location": 390315,
+        "id_location_parent": 390290,
+        "name": "Fo\u00e7a",
+        "seoname": "foca-409995"
+    },
+    {
+        "id_location": 390316,
+        "id_location_parent": 390290,
+        "name": "Seferihisar",
+        "seoname": "seferihisar-409996"
+    },
+    {
+        "id_location": 390317,
+        "id_location_parent": 390290,
+        "name": "Menderes",
+        "seoname": "menderes-409997"
+    },
+    {
+        "id_location": 390318,
+        "id_location_parent": 390290,
+        "name": "Tire",
+        "seoname": "tire-409998"
+    },
+    {
+        "id_location": 390319,
+        "id_location_parent": 390290,
+        "name": "Menemen",
+        "seoname": "menemen-409999"
+    },
+    {
+        "id_location": 390320,
+        "id_location_parent": 390290,
+        "name": "Bergama",
+        "seoname": "bergama-410000"
+    },
+    {
+        "id_location": 390321,
+        "id_location_parent": 1,
+        "name": "Kahramanmara\u015f",
+        "seoname": "kahramanmaras-782000"
+    },
+    {
+        "id_location": 390322,
+        "id_location_parent": 390321,
+        "name": "Af\u015fin",
+        "seoname": "afsin-410001"
+    },
+    {
+        "id_location": 390323,
+        "id_location_parent": 390321,
+        "name": "And\u0131r\u0131n",
+        "seoname": "andirin-410002"
+    },
+    {
+        "id_location": 390324,
+        "id_location_parent": 390321,
+        "name": "Ekin\u00f6z\u00fc",
+        "seoname": "ekinozu-410003"
+    },
+    {
+        "id_location": 390325,
+        "id_location_parent": 390321,
+        "name": "Elbistan",
+        "seoname": "elbistan-410004"
+    },
+    {
+        "id_location": 390326,
+        "id_location_parent": 390321,
+        "name": "G\u00f6ksun",
+        "seoname": "goksun-410005"
+    },
+    {
+        "id_location": 390327,
+        "id_location_parent": 390321,
+        "name": "Nurhak",
+        "seoname": "nurhak-410006"
+    },
+    {
+        "id_location": 390328,
+        "id_location_parent": 390321,
+        "name": "Pazarc\u0131k",
+        "seoname": "pazarcik-410007"
+    },
+    {
+        "id_location": 390329,
+        "id_location_parent": 390321,
+        "name": "\u00c7a\u011flayancerit",
+        "seoname": "caglayancerit-410008"
+    },
+    {
+        "id_location": 390330,
+        "id_location_parent": 390321,
+        "name": "T\u00fcrko\u011flu",
+        "seoname": "turkoglu-410009"
+    },
+    {
+        "id_location": 390331,
+        "id_location_parent": 1,
+        "name": "Karab\u00fck",
+        "seoname": "karabuk-782001"
+    },
+    {
+        "id_location": 390332,
+        "id_location_parent": 390331,
+        "name": "Eskipazar",
+        "seoname": "eskipazar-410010"
+    },
+    {
+        "id_location": 390333,
+        "id_location_parent": 390331,
+        "name": "Ovac\u0131k",
+        "seoname": "ovacik-410011"
+    },
+    {
+        "id_location": 390334,
+        "id_location_parent": 390331,
+        "name": "Yenice",
+        "seoname": "yenice-410012"
+    },
+    {
+        "id_location": 390335,
+        "id_location_parent": 390331,
+        "name": "Eflani",
+        "seoname": "eflani-410013"
+    },
+    {
+        "id_location": 390336,
+        "id_location_parent": 390331,
+        "name": "Safranbolu",
+        "seoname": "safranbolu-410014"
+    },
+    {
+        "id_location": 390337,
+        "id_location_parent": 1,
+        "name": "Karaman",
+        "seoname": "karaman-782002"
+    },
+    {
+        "id_location": 390338,
+        "id_location_parent": 390337,
+        "name": "Ayranc\u0131",
+        "seoname": "ayranci-410015"
+    },
+    {
+        "id_location": 390339,
+        "id_location_parent": 390337,
+        "name": "Ba\u015fyayla",
+        "seoname": "basyayla-410016"
+    },
+    {
+        "id_location": 390340,
+        "id_location_parent": 390337,
+        "name": "Kaz\u0131mkarabekir",
+        "seoname": "kazimkarabekir-410017"
+    },
+    {
+        "id_location": 390341,
+        "id_location_parent": 390337,
+        "name": "Sar\u0131veliler",
+        "seoname": "sariveliler-410018"
+    },
+    {
+        "id_location": 390342,
+        "id_location_parent": 390337,
+        "name": "Ermenek",
+        "seoname": "ermenek-410019"
+    },
+    {
+        "id_location": 390343,
+        "id_location_parent": 1,
+        "name": "Kars",
+        "seoname": "kars-782003"
+    },
+    {
+        "id_location": 390344,
+        "id_location_parent": 390343,
+        "name": "Akyaka",
+        "seoname": "akyaka-410020"
+    },
+    {
+        "id_location": 390345,
+        "id_location_parent": 390343,
+        "name": "Arpa\u00e7ay",
+        "seoname": "arpacay-410021"
+    },
+    {
+        "id_location": 390346,
+        "id_location_parent": 390343,
+        "name": "Ka\u011f\u0131zman",
+        "seoname": "kagizman-410022"
+    },
+    {
+        "id_location": 390347,
+        "id_location_parent": 390343,
+        "name": "Sar\u0131kam\u0131\u015f",
+        "seoname": "sarikamis-410023"
+    },
+    {
+        "id_location": 390348,
+        "id_location_parent": 390343,
+        "name": "Selim",
+        "seoname": "selim-410024"
+    },
+    {
+        "id_location": 390349,
+        "id_location_parent": 390343,
+        "name": "Susuz",
+        "seoname": "susuz-410025"
+    },
+    {
+        "id_location": 390350,
+        "id_location_parent": 390343,
+        "name": "Digor",
+        "seoname": "digor-410026"
+    },
+    {
+        "id_location": 390351,
+        "id_location_parent": 1,
+        "name": "Kastamonu",
+        "seoname": "kastamonu-782004"
+    },
+    {
+        "id_location": 390352,
+        "id_location_parent": 390351,
+        "name": "A\u011fl\u0131",
+        "seoname": "agli-410027"
+    },
+    {
+        "id_location": 390353,
+        "id_location_parent": 390351,
+        "name": "Cide",
+        "seoname": "cide-410028"
+    },
+    {
+        "id_location": 390354,
+        "id_location_parent": 390351,
+        "name": "Do\u011fanyurt",
+        "seoname": "doganyurt-410029"
+    },
+    {
+        "id_location": 390355,
+        "id_location_parent": 390351,
+        "name": "K\u00fcre",
+        "seoname": "kure-410030"
+    },
+    {
+        "id_location": 390356,
+        "id_location_parent": 390351,
+        "name": "P\u0131narba\u015f\u0131",
+        "seoname": "pinarbasi-410031"
+    },
+    {
+        "id_location": 390357,
+        "id_location_parent": 390351,
+        "name": "Ta\u015fk\u00f6pr\u00fc",
+        "seoname": "taskopru-410032"
+    },
+    {
+        "id_location": 390358,
+        "id_location_parent": 390351,
+        "name": "\u00c7atalzeytin",
+        "seoname": "catalzeytin-410033"
+    },
+    {
+        "id_location": 390359,
+        "id_location_parent": 390351,
+        "name": "\u015eenpazar",
+        "seoname": "senpazar-410034"
+    },
+    {
+        "id_location": 390360,
+        "id_location_parent": 390351,
+        "name": "Han\u00f6n\u00fc",
+        "seoname": "hanonu-410035"
+    },
+    {
+        "id_location": 390361,
+        "id_location_parent": 390351,
+        "name": "\u0130hsangazi",
+        "seoname": "ihsangazi-410036"
+    },
+    {
+        "id_location": 390362,
+        "id_location_parent": 390351,
+        "name": "Seydiler",
+        "seoname": "seydiler-410037"
+    },
+    {
+        "id_location": 390363,
+        "id_location_parent": 390351,
+        "name": "Azdavay",
+        "seoname": "azdavay-410038"
+    },
+    {
+        "id_location": 390364,
+        "id_location_parent": 390351,
+        "name": "Abana",
+        "seoname": "abana-410039"
+    },
+    {
+        "id_location": 390365,
+        "id_location_parent": 390351,
+        "name": "Daday",
+        "seoname": "daday-410040"
+    },
+    {
+        "id_location": 390366,
+        "id_location_parent": 390351,
+        "name": "Ara\u00e7",
+        "seoname": "arac-410041"
+    },
+    {
+        "id_location": 390367,
+        "id_location_parent": 390351,
+        "name": "Devrekani",
+        "seoname": "devrekani-410042"
+    },
+    {
+        "id_location": 390368,
+        "id_location_parent": 390351,
+        "name": "\u0130nebolu",
+        "seoname": "inebolu-410043"
+    },
+    {
+        "id_location": 390369,
+        "id_location_parent": 390351,
+        "name": "Tosya",
+        "seoname": "tosya-410044"
+    },
+    {
+        "id_location": 390370,
+        "id_location_parent": 1,
+        "name": "Kayseri",
+        "seoname": "kayseri-782005"
+    },
+    {
+        "id_location": 390371,
+        "id_location_parent": 390370,
+        "name": "B\u00fcnyan",
+        "seoname": "bunyan-410045"
+    },
+    {
+        "id_location": 390372,
+        "id_location_parent": 390370,
+        "name": "Develi",
+        "seoname": "develi-410046"
+    },
+    {
+        "id_location": 390373,
+        "id_location_parent": 390370,
+        "name": "Felahiye",
+        "seoname": "felahiye-410047"
+    },
+    {
+        "id_location": 390374,
+        "id_location_parent": 390370,
+        "name": "Hac\u0131lar",
+        "seoname": "hacilar-410048"
+    },
+    {
+        "id_location": 390375,
+        "id_location_parent": 390370,
+        "name": "Kocasinan",
+        "seoname": "kocasinan-410049"
+    },
+    {
+        "id_location": 390376,
+        "id_location_parent": 390370,
+        "name": "Melikgazi",
+        "seoname": "melikgazi-410050"
+    },
+    {
+        "id_location": 390377,
+        "id_location_parent": 390370,
+        "name": "Sar\u0131o\u011flan",
+        "seoname": "sarioglan-410051"
+    },
+    {
+        "id_location": 390378,
+        "id_location_parent": 390370,
+        "name": "Sar\u0131z",
+        "seoname": "sariz-410052"
+    },
+    {
+        "id_location": 390379,
+        "id_location_parent": 390370,
+        "name": "Talas",
+        "seoname": "talas-410053"
+    },
+    {
+        "id_location": 390380,
+        "id_location_parent": 390370,
+        "name": "Tomarza",
+        "seoname": "tomarza-410054"
+    },
+    {
+        "id_location": 390381,
+        "id_location_parent": 390370,
+        "name": "Yahyal\u0131",
+        "seoname": "yahyali-410055"
+    },
+    {
+        "id_location": 390382,
+        "id_location_parent": 390370,
+        "name": "Ye\u015filhisar",
+        "seoname": "yesilhisar-410056"
+    },
+    {
+        "id_location": 390383,
+        "id_location_parent": 390370,
+        "name": "\u00d6zvatan",
+        "seoname": "ozvatan-410057"
+    },
+    {
+        "id_location": 390384,
+        "id_location_parent": 390370,
+        "name": "\u0130ncesu",
+        "seoname": "incesu-410058"
+    },
+    {
+        "id_location": 390385,
+        "id_location_parent": 390370,
+        "name": "Akk\u0131\u015fla",
+        "seoname": "akkisla-410059"
+    },
+    {
+        "id_location": 390386,
+        "id_location_parent": 1,
+        "name": "Kilis",
+        "seoname": "kilis-782006"
+    },
+    {
+        "id_location": 390387,
+        "id_location_parent": 390386,
+        "name": "Elbeyli",
+        "seoname": "elbeyli-410060"
+    },
+    {
+        "id_location": 390388,
+        "id_location_parent": 390386,
+        "name": "Musabeyli",
+        "seoname": "musabeyli-410061"
+    },
+    {
+        "id_location": 390389,
+        "id_location_parent": 390386,
+        "name": "Polateli",
+        "seoname": "polateli-410062"
+    },
+    {
+        "id_location": 390390,
+        "id_location_parent": 1,
+        "name": "K\u0131r\u0131kkale",
+        "seoname": "kirikkale-782007"
+    },
+    {
+        "id_location": 390391,
+        "id_location_parent": 390390,
+        "name": "Bah\u015fili",
+        "seoname": "bahsili-410063"
+    },
+    {
+        "id_location": 390392,
+        "id_location_parent": 390390,
+        "name": "Delice",
+        "seoname": "delice-410064"
+    },
+    {
+        "id_location": 390393,
+        "id_location_parent": 390390,
+        "name": "Karake\u00e7ili",
+        "seoname": "karakecili-410065"
+    },
+    {
+        "id_location": 390394,
+        "id_location_parent": 390390,
+        "name": "Keskin",
+        "seoname": "keskin-410066"
+    },
+    {
+        "id_location": 390395,
+        "id_location_parent": 390390,
+        "name": "Sulakyurt",
+        "seoname": "sulakyurt-410067"
+    },
+    {
+        "id_location": 390396,
+        "id_location_parent": 390390,
+        "name": "Yah\u015fihan",
+        "seoname": "yahsihan-410068"
+    },
+    {
+        "id_location": 390397,
+        "id_location_parent": 390390,
+        "name": "\u00c7elebi",
+        "seoname": "celebi-410069"
+    },
+    {
+        "id_location": 390398,
+        "id_location_parent": 390390,
+        "name": "Bal\u0131\u015feyh",
+        "seoname": "baliseyh-410070"
+    },
+    {
+        "id_location": 390399,
+        "id_location_parent": 1,
+        "name": "K\u0131rklareli",
+        "seoname": "kirklareli-782008"
+    },
+    {
+        "id_location": 390400,
+        "id_location_parent": 390399,
+        "name": "Demirk\u00f6y",
+        "seoname": "demirkoy-410071"
+    },
+    {
+        "id_location": 390401,
+        "id_location_parent": 390399,
+        "name": "P\u0131narhisar",
+        "seoname": "pinarhisar-410072"
+    },
+    {
+        "id_location": 390402,
+        "id_location_parent": 390399,
+        "name": "Kof\u00e7az",
+        "seoname": "kofcaz-410073"
+    },
+    {
+        "id_location": 390403,
+        "id_location_parent": 390399,
+        "name": "Pehlivank\u00f6y",
+        "seoname": "pehlivankoy-410074"
+    },
+    {
+        "id_location": 390404,
+        "id_location_parent": 390399,
+        "name": "Vize",
+        "seoname": "vize-410075"
+    },
+    {
+        "id_location": 390405,
+        "id_location_parent": 390399,
+        "name": "Babaeski",
+        "seoname": "babaeski-410076"
+    },
+    {
+        "id_location": 390406,
+        "id_location_parent": 390399,
+        "name": "L\u00fcleburgaz",
+        "seoname": "luleburgaz-410077"
+    },
+    {
+        "id_location": 390407,
+        "id_location_parent": 1,
+        "name": "K\u0131r\u015fehir",
+        "seoname": "kirsehir-782009"
+    },
+    {
+        "id_location": 390408,
+        "id_location_parent": 390407,
+        "name": "Akp\u0131nar",
+        "seoname": "akpinar-410078"
+    },
+    {
+        "id_location": 390409,
+        "id_location_parent": 390407,
+        "name": "Ak\u00e7akent",
+        "seoname": "akcakent-410079"
+    },
+    {
+        "id_location": 390410,
+        "id_location_parent": 390407,
+        "name": "Boztepe",
+        "seoname": "boztepe-410080"
+    },
+    {
+        "id_location": 390411,
+        "id_location_parent": 390407,
+        "name": "Kaman",
+        "seoname": "kaman-410081"
+    },
+    {
+        "id_location": 390412,
+        "id_location_parent": 390407,
+        "name": "\u00c7i\u00e7ekda\u011f\u0131",
+        "seoname": "cicekdagi-410082"
+    },
+    {
+        "id_location": 390413,
+        "id_location_parent": 390407,
+        "name": "Mucur",
+        "seoname": "mucur-410083"
+    },
+    {
+        "id_location": 390414,
+        "id_location_parent": 1,
+        "name": "Kocaeli",
+        "seoname": "kocaeli-782010"
+    },
+    {
+        "id_location": 390415,
+        "id_location_parent": 390414,
+        "name": "Ba\u015fiskele",
+        "seoname": "basiskele-410084"
+    },
+    {
+        "id_location": 390416,
+        "id_location_parent": 390414,
+        "name": "Dar\u0131ca",
+        "seoname": "darica-410085"
+    },
+    {
+        "id_location": 390417,
+        "id_location_parent": 390414,
+        "name": "Derince",
+        "seoname": "derince-410086"
+    },
+    {
+        "id_location": 390418,
+        "id_location_parent": 390414,
+        "name": "Dilovas\u0131",
+        "seoname": "dilovasi-410087"
+    },
+    {
+        "id_location": 390419,
+        "id_location_parent": 390414,
+        "name": "G\u00f6lc\u00fck",
+        "seoname": "golcuk-410088"
+    },
+    {
+        "id_location": 390420,
+        "id_location_parent": 390414,
+        "name": "Karam\u00fcrsel",
+        "seoname": "karamursel-410089"
+    },
+    {
+        "id_location": 390421,
+        "id_location_parent": 390414,
+        "name": "Kartepe",
+        "seoname": "kartepe-410090"
+    },
+    {
+        "id_location": 390422,
+        "id_location_parent": 390414,
+        "name": "T\u00fct\u00fcn\u00e7iftlik",
+        "seoname": "tutunciftlik-410091"
+    },
+    {
+        "id_location": 390423,
+        "id_location_parent": 390414,
+        "name": "\u00c7ay\u0131rova",
+        "seoname": "cayirova-410092"
+    },
+    {
+        "id_location": 390424,
+        "id_location_parent": 390414,
+        "name": "Kand\u0131ra",
+        "seoname": "kandira-410093"
+    },
+    {
+        "id_location": 390425,
+        "id_location_parent": 390414,
+        "name": "K\u00f6rfez",
+        "seoname": "korfez-410094"
+    },
+    {
+        "id_location": 390426,
+        "id_location_parent": 390414,
+        "name": "\u0130zmit",
+        "seoname": "izmit-410095"
+    },
+    {
+        "id_location": 390427,
+        "id_location_parent": 390414,
+        "name": "Gebze",
+        "seoname": "gebze-410096"
+    },
+    {
+        "id_location": 390428,
+        "id_location_parent": 1,
+        "name": "Konya",
+        "seoname": "konya-782011"
+    },
+    {
+        "id_location": 390429,
+        "id_location_parent": 390428,
+        "name": "Ah\u0131rl\u0131",
+        "seoname": "ahirli-410097"
+    },
+    {
+        "id_location": 390430,
+        "id_location_parent": 390428,
+        "name": "Ak\u00f6ren",
+        "seoname": "akoren-410098"
+    },
+    {
+        "id_location": 390431,
+        "id_location_parent": 390428,
+        "name": "Bozk\u0131r",
+        "seoname": "bozkir-410099"
+    },
+    {
+        "id_location": 390432,
+        "id_location_parent": 390428,
+        "name": "Derbent",
+        "seoname": "derbent-410100"
+    },
+    {
+        "id_location": 390433,
+        "id_location_parent": 390428,
+        "name": "Emirgazi",
+        "seoname": "emirgazi-410101"
+    },
+    {
+        "id_location": 390434,
+        "id_location_parent": 390428,
+        "name": "G\u00fcneys\u0131n\u0131r",
+        "seoname": "guneysinir-410102"
+    },
+    {
+        "id_location": 390435,
+        "id_location_parent": 390428,
+        "name": "H\u00fcy\u00fck",
+        "seoname": "huyuk-410103"
+    },
+    {
+        "id_location": 390436,
+        "id_location_parent": 390428,
+        "name": "Ilg\u0131n",
+        "seoname": "ilgin-410104"
+    },
+    {
+        "id_location": 390437,
+        "id_location_parent": 390428,
+        "name": "Karap\u0131nar",
+        "seoname": "karapinar-410105"
+    },
+    {
+        "id_location": 390438,
+        "id_location_parent": 390428,
+        "name": "Karatay",
+        "seoname": "karatay-410106"
+    },
+    {
+        "id_location": 390439,
+        "id_location_parent": 390428,
+        "name": "Kulu",
+        "seoname": "kulu-410107"
+    },
+    {
+        "id_location": 390440,
+        "id_location_parent": 390428,
+        "name": "Kurthasanl\u0131",
+        "seoname": "kurthasanli-410108"
+    },
+    {
+        "id_location": 390441,
+        "id_location_parent": 390428,
+        "name": "Meram",
+        "seoname": "meram-410109"
+    },
+    {
+        "id_location": 390442,
+        "id_location_parent": 390428,
+        "name": "Sel\u00e7uklu",
+        "seoname": "selcuklu-410110"
+    },
+    {
+        "id_location": 390443,
+        "id_location_parent": 390428,
+        "name": "\u00c7eltik",
+        "seoname": "celtik-410111"
+    },
+    {
+        "id_location": 390444,
+        "id_location_parent": 390428,
+        "name": "Halkap\u0131nar",
+        "seoname": "halkapinar-410112"
+    },
+    {
+        "id_location": 390445,
+        "id_location_parent": 390428,
+        "name": "Derebucak",
+        "seoname": "derebucak-410113"
+    },
+    {
+        "id_location": 390446,
+        "id_location_parent": 390428,
+        "name": "Tuzlukcu",
+        "seoname": "tuzlukcu-410114"
+    },
+    {
+        "id_location": 390447,
+        "id_location_parent": 390428,
+        "name": "Yal\u0131h\u00fcy\u00fck",
+        "seoname": "yalihuyuk-410115"
+    },
+    {
+        "id_location": 390448,
+        "id_location_parent": 390428,
+        "name": "Do\u011fanhisar",
+        "seoname": "doganhisar-410116"
+    },
+    {
+        "id_location": 390449,
+        "id_location_parent": 390428,
+        "name": "Saray\u00f6n\u00fc",
+        "seoname": "sarayonu-410117"
+    },
+    {
+        "id_location": 390450,
+        "id_location_parent": 390428,
+        "name": "Ta\u015fkent",
+        "seoname": "taskent-410118"
+    },
+    {
+        "id_location": 390451,
+        "id_location_parent": 390428,
+        "name": "Alt\u0131nekin",
+        "seoname": "altinekin-410119"
+    },
+    {
+        "id_location": 390452,
+        "id_location_parent": 390428,
+        "name": "Cihanbeyli",
+        "seoname": "cihanbeyli-410120"
+    },
+    {
+        "id_location": 390453,
+        "id_location_parent": 390428,
+        "name": "Yunak",
+        "seoname": "yunak-410121"
+    },
+    {
+        "id_location": 390454,
+        "id_location_parent": 390428,
+        "name": "Kad\u0131nhan\u0131",
+        "seoname": "kadinhani-410122"
+    },
+    {
+        "id_location": 390455,
+        "id_location_parent": 390428,
+        "name": "Hadim",
+        "seoname": "hadim-410123"
+    },
+    {
+        "id_location": 390456,
+        "id_location_parent": 390428,
+        "name": "Bey\u015fehir",
+        "seoname": "beysehir-410124"
+    },
+    {
+        "id_location": 390457,
+        "id_location_parent": 390428,
+        "name": "\u00c7umra",
+        "seoname": "cumra-410125"
+    },
+    {
+        "id_location": 390458,
+        "id_location_parent": 390428,
+        "name": "Seydi\u015fehir",
+        "seoname": "seydisehir-410126"
+    },
+    {
+        "id_location": 390459,
+        "id_location_parent": 390428,
+        "name": "Ak\u015fehir",
+        "seoname": "aksehir-410127"
+    },
+    {
+        "id_location": 390460,
+        "id_location_parent": 390428,
+        "name": "Ere\u011fli",
+        "seoname": "eregli-410128"
+    },
+    {
+        "id_location": 390461,
+        "id_location_parent": 1,
+        "name": "K\u00fctahya",
+        "seoname": "kutahya-782012"
+    },
+    {
+        "id_location": 390462,
+        "id_location_parent": 390461,
+        "name": "Alt\u0131nta\u015f",
+        "seoname": "altintas-410129"
+    },
+    {
+        "id_location": 390463,
+        "id_location_parent": 390461,
+        "name": "Domani\u00e7",
+        "seoname": "domanic-410130"
+    },
+    {
+        "id_location": 390464,
+        "id_location_parent": 390461,
+        "name": "Dumlup\u0131nar",
+        "seoname": "dumlupinar-410131"
+    },
+    {
+        "id_location": 390465,
+        "id_location_parent": 390461,
+        "name": "Hisarc\u0131k",
+        "seoname": "hisarcik-410132"
+    },
+    {
+        "id_location": 390466,
+        "id_location_parent": 390461,
+        "name": "Tav\u015fanl\u0131",
+        "seoname": "tavsanli-410133"
+    },
+    {
+        "id_location": 390467,
+        "id_location_parent": 390461,
+        "name": "\u00c7avdarhisar",
+        "seoname": "cavdarhisar-410134"
+    },
+    {
+        "id_location": 390468,
+        "id_location_parent": 390461,
+        "name": "\u015eaphane",
+        "seoname": "saphane-410135"
+    },
+    {
+        "id_location": 390469,
+        "id_location_parent": 390461,
+        "name": "Aslanapa",
+        "seoname": "aslanapa-410136"
+    },
+    {
+        "id_location": 390470,
+        "id_location_parent": 390461,
+        "name": "Pazarlar",
+        "seoname": "pazarlar-410137"
+    },
+    {
+        "id_location": 390471,
+        "id_location_parent": 390461,
+        "name": "Gediz",
+        "seoname": "gediz-410138"
+    },
+    {
+        "id_location": 390472,
+        "id_location_parent": 390461,
+        "name": "Emet",
+        "seoname": "emet-410139"
+    },
+    {
+        "id_location": 390473,
+        "id_location_parent": 390461,
+        "name": "Simav",
+        "seoname": "simav-410140"
+    },
+    {
+        "id_location": 390474,
+        "id_location_parent": 1,
+        "name": "Lefko\u015fa",
+        "seoname": "lefkosa-782013"
+    },
+    {
+        "id_location": 390475,
+        "id_location_parent": 390474,
+        "name": "De\u011firmenlik",
+        "seoname": "degirmenlik-410141"
+    },
+    {
+        "id_location": 390476,
+        "id_location_parent": 390474,
+        "name": "G\u00f6nyeli",
+        "seoname": "gonyeli-410142"
+    },
+    {
+        "id_location": 390477,
+        "id_location_parent": 390474,
+        "name": "Lefko\u015fa",
+        "seoname": "lefkosa-410143"
+    },
+    {
+        "id_location": 390478,
+        "id_location_parent": 1,
+        "name": "Magosa",
+        "seoname": "magosa-782014"
+    },
+    {
+        "id_location": 390479,
+        "id_location_parent": 390478,
+        "name": "Akdo\u011fan",
+        "seoname": "akdogan-410144"
+    },
+    {
+        "id_location": 390480,
+        "id_location_parent": 390478,
+        "name": "Gazima\u011fusa",
+        "seoname": "gazimagusa-410145"
+    },
+    {
+        "id_location": 390481,
+        "id_location_parent": 390478,
+        "name": "Ge\u00e7itkale",
+        "seoname": "gecitkale-410146"
+    },
+    {
+        "id_location": 390482,
+        "id_location_parent": 1,
+        "name": "Malatya",
+        "seoname": "malatya-782015"
+    },
+    {
+        "id_location": 390483,
+        "id_location_parent": 390482,
+        "name": "Ak\u00e7ada\u011f",
+        "seoname": "akcadag-410147"
+    },
+    {
+        "id_location": 390484,
+        "id_location_parent": 390482,
+        "name": "Arapgir",
+        "seoname": "arapgir-410148"
+    },
+    {
+        "id_location": 390485,
+        "id_location_parent": 390482,
+        "name": "Arapkir",
+        "seoname": "arapkir-410149"
+    },
+    {
+        "id_location": 390486,
+        "id_location_parent": 390482,
+        "name": "Battalgazi",
+        "seoname": "battalgazi-410150"
+    },
+    {
+        "id_location": 390487,
+        "id_location_parent": 390482,
+        "name": "Do\u011fanyol",
+        "seoname": "doganyol-410151"
+    },
+    {
+        "id_location": 390488,
+        "id_location_parent": 390482,
+        "name": "Do\u011fan\u015fehir",
+        "seoname": "dogansehir-410152"
+    },
+    {
+        "id_location": 390489,
+        "id_location_parent": 390482,
+        "name": "Hekimhan",
+        "seoname": "hekimhan-410153"
+    },
+    {
+        "id_location": 390490,
+        "id_location_parent": 390482,
+        "name": "Kuluncak",
+        "seoname": "kuluncak-410154"
+    },
+    {
+        "id_location": 390491,
+        "id_location_parent": 390482,
+        "name": "P\u00f6t\u00fcrge",
+        "seoname": "poturge-410155"
+    },
+    {
+        "id_location": 390492,
+        "id_location_parent": 390482,
+        "name": "Yaz\u0131han",
+        "seoname": "yazihan-410156"
+    },
+    {
+        "id_location": 390493,
+        "id_location_parent": 390482,
+        "name": "Ye\u015filyurt",
+        "seoname": "yesilyurt-410157"
+    },
+    {
+        "id_location": 390494,
+        "id_location_parent": 390482,
+        "name": "Arguvan",
+        "seoname": "arguvan-410158"
+    },
+    {
+        "id_location": 390495,
+        "id_location_parent": 390482,
+        "name": "Darende",
+        "seoname": "darende-410159"
+    },
+    {
+        "id_location": 390496,
+        "id_location_parent": 1,
+        "name": "Manisa",
+        "seoname": "manisa-782016"
+    },
+    {
+        "id_location": 390497,
+        "id_location_parent": 390496,
+        "name": "Ahmetli",
+        "seoname": "ahmetli-410160"
+    },
+    {
+        "id_location": 390498,
+        "id_location_parent": 390496,
+        "name": "Akhisar",
+        "seoname": "akhisar-410161"
+    },
+    {
+        "id_location": 390499,
+        "id_location_parent": 390496,
+        "name": "Demirci",
+        "seoname": "demirci-410162"
+    },
+    {
+        "id_location": 390500,
+        "id_location_parent": 390496,
+        "name": "Kula",
+        "seoname": "kula-410163"
+    },
+    {
+        "id_location": 390501,
+        "id_location_parent": 390496,
+        "name": "K\u00f6pr\u00fcba\u015f\u0131",
+        "seoname": "koprubasi-410164"
+    },
+    {
+        "id_location": 390502,
+        "id_location_parent": 390496,
+        "name": "K\u0131rka\u011fa\u00e7",
+        "seoname": "kirkagac-410165"
+    },
+    {
+        "id_location": 390503,
+        "id_location_parent": 390496,
+        "name": "Salihli",
+        "seoname": "salihli-410166"
+    },
+    {
+        "id_location": 390504,
+        "id_location_parent": 390496,
+        "name": "Sar\u0131g\u00f6l",
+        "seoname": "sarigol-410167"
+    },
+    {
+        "id_location": 390505,
+        "id_location_parent": 390496,
+        "name": "Soma",
+        "seoname": "soma-410168"
+    },
+    {
+        "id_location": 390506,
+        "id_location_parent": 390496,
+        "name": "Turgutlu",
+        "seoname": "turgutlu-410169"
+    },
+    {
+        "id_location": 390507,
+        "id_location_parent": 390496,
+        "name": "Selendi",
+        "seoname": "selendi-410170"
+    },
+    {
+        "id_location": 390508,
+        "id_location_parent": 390496,
+        "name": "G\u00f6rdes",
+        "seoname": "gordes-410171"
+    },
+    {
+        "id_location": 390509,
+        "id_location_parent": 390496,
+        "name": "G\u00f6lmarmara",
+        "seoname": "golmarmara-410172"
+    },
+    {
+        "id_location": 390510,
+        "id_location_parent": 390496,
+        "name": "Saruhanl\u0131",
+        "seoname": "saruhanli-410173"
+    },
+    {
+        "id_location": 390511,
+        "id_location_parent": 390496,
+        "name": "Ala\u015fehir",
+        "seoname": "alasehir-410174"
+    },
+    {
+        "id_location": 390512,
+        "id_location_parent": 1,
+        "name": "Mardin",
+        "seoname": "mardin-782017"
+    },
+    {
+        "id_location": 390513,
+        "id_location_parent": 390512,
+        "name": "Derik",
+        "seoname": "derik-410175"
+    },
+    {
+        "id_location": 390514,
+        "id_location_parent": 390512,
+        "name": "K\u0131z\u0131ltepe",
+        "seoname": "kiziltepe-410176"
+    },
+    {
+        "id_location": 390515,
+        "id_location_parent": 390512,
+        "name": "Maz\u0131da\u011f\u0131",
+        "seoname": "mazidagi-410177"
+    },
+    {
+        "id_location": 390516,
+        "id_location_parent": 390512,
+        "name": "Midyat",
+        "seoname": "midyat-410178"
+    },
+    {
+        "id_location": 390517,
+        "id_location_parent": 390512,
+        "name": "Nusaybin",
+        "seoname": "nusaybin-410179"
+    },
+    {
+        "id_location": 390518,
+        "id_location_parent": 390512,
+        "name": "Ye\u015filli",
+        "seoname": "yesilli-410180"
+    },
+    {
+        "id_location": 390519,
+        "id_location_parent": 390512,
+        "name": "\u00d6merli",
+        "seoname": "omerli-410181"
+    },
+    {
+        "id_location": 390520,
+        "id_location_parent": 390512,
+        "name": "Savur",
+        "seoname": "savur-410182"
+    },
+    {
+        "id_location": 390521,
+        "id_location_parent": 390512,
+        "name": "Darge\u00e7it",
+        "seoname": "dargecit-410183"
+    },
+    {
+        "id_location": 390522,
+        "id_location_parent": 1,
+        "name": "Mersin",
+        "seoname": "mersin-782018"
+    },
+    {
+        "id_location": 390523,
+        "id_location_parent": 390522,
+        "name": "Akdeniz",
+        "seoname": "akdeniz-410184"
+    },
+    {
+        "id_location": 390524,
+        "id_location_parent": 390522,
+        "name": "Ayd\u0131nc\u0131k",
+        "seoname": "aydincik-410185"
+    },
+    {
+        "id_location": 390525,
+        "id_location_parent": 390522,
+        "name": "Bozyaz\u0131",
+        "seoname": "bozyazi-410186"
+    },
+    {
+        "id_location": 390526,
+        "id_location_parent": 390522,
+        "name": "Erdemli",
+        "seoname": "erdemli-410187"
+    },
+    {
+        "id_location": 390527,
+        "id_location_parent": 390522,
+        "name": "Mezitli",
+        "seoname": "mezitli-410188"
+    },
+    {
+        "id_location": 390528,
+        "id_location_parent": 390522,
+        "name": "Mut",
+        "seoname": "mut-410189"
+    },
+    {
+        "id_location": 390529,
+        "id_location_parent": 390522,
+        "name": "Toroslar",
+        "seoname": "toroslar-410190"
+    },
+    {
+        "id_location": 390530,
+        "id_location_parent": 390522,
+        "name": "\u00c7aml\u0131yayla",
+        "seoname": "camliyayla-410191"
+    },
+    {
+        "id_location": 390531,
+        "id_location_parent": 390522,
+        "name": "G\u00fclnar",
+        "seoname": "gulnar-410192"
+    },
+    {
+        "id_location": 390532,
+        "id_location_parent": 390522,
+        "name": "Anamur",
+        "seoname": "anamur-410193"
+    },
+    {
+        "id_location": 390533,
+        "id_location_parent": 390522,
+        "name": "Silifke",
+        "seoname": "silifke-410194"
+    },
+    {
+        "id_location": 390534,
+        "id_location_parent": 390522,
+        "name": "Tarsus",
+        "seoname": "tarsus-410195"
+    },
+    {
+        "id_location": 390535,
+        "id_location_parent": 1,
+        "name": "Mu\u011fla",
+        "seoname": "mugla-782019"
+    },
+    {
+        "id_location": 390536,
+        "id_location_parent": 390535,
+        "name": "Bodrum",
+        "seoname": "bodrum-410196"
+    },
+    {
+        "id_location": 390537,
+        "id_location_parent": 390535,
+        "name": "Fethiye",
+        "seoname": "fethiye-410197"
+    },
+    {
+        "id_location": 390538,
+        "id_location_parent": 390535,
+        "name": "Kavakl\u0131dere",
+        "seoname": "kavaklidere-410198"
+    },
+    {
+        "id_location": 390539,
+        "id_location_parent": 390535,
+        "name": "K\u00f6yce\u011fiz",
+        "seoname": "koycegiz-410199"
+    },
+    {
+        "id_location": 390540,
+        "id_location_parent": 390535,
+        "name": "Ortaca",
+        "seoname": "ortaca-410200"
+    },
+    {
+        "id_location": 390541,
+        "id_location_parent": 390535,
+        "name": "Ula",
+        "seoname": "ula-410201"
+    },
+    {
+        "id_location": 390542,
+        "id_location_parent": 390535,
+        "name": "Yata\u011fan",
+        "seoname": "yatagan-410202"
+    },
+    {
+        "id_location": 390543,
+        "id_location_parent": 390535,
+        "name": "Dat\u00e7a",
+        "seoname": "datca-410203"
+    },
+    {
+        "id_location": 390544,
+        "id_location_parent": 390535,
+        "name": "Dalaman",
+        "seoname": "dalaman-410204"
+    },
+    {
+        "id_location": 390545,
+        "id_location_parent": 390535,
+        "name": "Marmaris",
+        "seoname": "marmaris-410205"
+    },
+    {
+        "id_location": 390546,
+        "id_location_parent": 390535,
+        "name": "Milas",
+        "seoname": "milas-410206"
+    },
+    {
+        "id_location": 390547,
+        "id_location_parent": 1,
+        "name": "Mu\u015f",
+        "seoname": "mus-782020"
+    },
+    {
+        "id_location": 390548,
+        "id_location_parent": 390547,
+        "name": "Bulan\u0131k",
+        "seoname": "bulanik-410207"
+    },
+    {
+        "id_location": 390549,
+        "id_location_parent": 390547,
+        "name": "Hask\u00f6y",
+        "seoname": "haskoy-410208"
+    },
+    {
+        "id_location": 390550,
+        "id_location_parent": 390547,
+        "name": "Korkut",
+        "seoname": "korkut-410209"
+    },
+    {
+        "id_location": 390551,
+        "id_location_parent": 390547,
+        "name": "Malazgirt",
+        "seoname": "malazgirt-410210"
+    },
+    {
+        "id_location": 390552,
+        "id_location_parent": 390547,
+        "name": "Varto",
+        "seoname": "varto-410211"
+    },
+    {
+        "id_location": 390553,
+        "id_location_parent": 1,
+        "name": "Nev\u015fehir",
+        "seoname": "nevsehir-782021"
+    },
+    {
+        "id_location": 390554,
+        "id_location_parent": 390553,
+        "name": "Avanos",
+        "seoname": "avanos-410212"
+    },
+    {
+        "id_location": 390555,
+        "id_location_parent": 390553,
+        "name": "Derinkuyu",
+        "seoname": "derinkuyu-410213"
+    },
+    {
+        "id_location": 390556,
+        "id_location_parent": 390553,
+        "name": "Kozakl\u0131",
+        "seoname": "kozakli-410214"
+    },
+    {
+        "id_location": 390557,
+        "id_location_parent": 390553,
+        "name": "Ac\u0131g\u00f6l",
+        "seoname": "acigol-410215"
+    },
+    {
+        "id_location": 390558,
+        "id_location_parent": 390553,
+        "name": "Hac\u0131bekta\u015f",
+        "seoname": "hacibektas-410216"
+    },
+    {
+        "id_location": 390559,
+        "id_location_parent": 390553,
+        "name": "G\u00fcl\u015fehir",
+        "seoname": "gulsehir-410217"
+    },
+    {
+        "id_location": 390560,
+        "id_location_parent": 390553,
+        "name": "\u00dcrg\u00fcp",
+        "seoname": "urgup-410218"
+    },
+    {
+        "id_location": 390561,
+        "id_location_parent": 1,
+        "name": "Ni\u011fde",
+        "seoname": "nigde-782022"
+    },
+    {
+        "id_location": 390562,
+        "id_location_parent": 390561,
+        "name": "Uluk\u0131\u015fla",
+        "seoname": "ulukisla-410219"
+    },
+    {
+        "id_location": 390563,
+        "id_location_parent": 390561,
+        "name": "\u00c7amard\u0131",
+        "seoname": "camardi-410220"
+    },
+    {
+        "id_location": 390564,
+        "id_location_parent": 390561,
+        "name": "\u00c7iftlik",
+        "seoname": "ciftlik-410221"
+    },
+    {
+        "id_location": 390565,
+        "id_location_parent": 390561,
+        "name": "Altunhisar",
+        "seoname": "altunhisar-410222"
+    },
+    {
+        "id_location": 390566,
+        "id_location_parent": 390561,
+        "name": "Bor",
+        "seoname": "bor-410223"
+    },
+    {
+        "id_location": 390567,
+        "id_location_parent": 1,
+        "name": "Ordu",
+        "seoname": "ordu-782023"
+    },
+    {
+        "id_location": 390568,
+        "id_location_parent": 390567,
+        "name": "Akku\u015f",
+        "seoname": "akkus-410224"
+    },
+    {
+        "id_location": 390569,
+        "id_location_parent": 390567,
+        "name": "Aybast\u0131",
+        "seoname": "aybasti-410225"
+    },
+    {
+        "id_location": 390570,
+        "id_location_parent": 390567,
+        "name": "Fatsa",
+        "seoname": "fatsa-410226"
+    },
+    {
+        "id_location": 390571,
+        "id_location_parent": 390567,
+        "name": "G\u00f6lk\u00f6y",
+        "seoname": "golkoy-410227"
+    },
+    {
+        "id_location": 390572,
+        "id_location_parent": 390567,
+        "name": "G\u00fclyal\u0131",
+        "seoname": "gulyali-410228"
+    },
+    {
+        "id_location": 390573,
+        "id_location_parent": 390567,
+        "name": "G\u00fcrgentepe",
+        "seoname": "gurgentepe-410229"
+    },
+    {
+        "id_location": 390574,
+        "id_location_parent": 390567,
+        "name": "Kabad\u00fcz",
+        "seoname": "kabaduz-410230"
+    },
+    {
+        "id_location": 390575,
+        "id_location_parent": 390567,
+        "name": "Kabata\u015f",
+        "seoname": "kabatas-410231"
+    },
+    {
+        "id_location": 390576,
+        "id_location_parent": 390567,
+        "name": "Korgan",
+        "seoname": "korgan-410232"
+    },
+    {
+        "id_location": 390577,
+        "id_location_parent": 390567,
+        "name": "Kumru",
+        "seoname": "kumru-410233"
+    },
+    {
+        "id_location": 390578,
+        "id_location_parent": 390567,
+        "name": "Mesudiye",
+        "seoname": "mesudiye-410234"
+    },
+    {
+        "id_location": 390579,
+        "id_location_parent": 390567,
+        "name": "Per\u015fembe",
+        "seoname": "persembe-410235"
+    },
+    {
+        "id_location": 390580,
+        "id_location_parent": 390567,
+        "name": "\u00c7ama\u015f",
+        "seoname": "camas-410236"
+    },
+    {
+        "id_location": 390581,
+        "id_location_parent": 390567,
+        "name": "\u00c7atalp\u0131nar",
+        "seoname": "catalpinar-410237"
+    },
+    {
+        "id_location": 390582,
+        "id_location_parent": 390567,
+        "name": "\u00c7ayba\u015f\u0131",
+        "seoname": "caybasi-410238"
+    },
+    {
+        "id_location": 390583,
+        "id_location_parent": 390567,
+        "name": "\u00dcnye",
+        "seoname": "unye-410239"
+    },
+    {
+        "id_location": 390584,
+        "id_location_parent": 390567,
+        "name": "\u0130kizce",
+        "seoname": "ikizce-410240"
+    },
+    {
+        "id_location": 390585,
+        "id_location_parent": 390567,
+        "name": "Ulubey",
+        "seoname": "ulubey-410241"
+    },
+    {
+        "id_location": 390586,
+        "id_location_parent": 1,
+        "name": "Osmaniye",
+        "seoname": "osmaniye-782024"
+    },
+    {
+        "id_location": 390587,
+        "id_location_parent": 390586,
+        "name": "Bah\u00e7e",
+        "seoname": "bahce-410242"
+    },
+    {
+        "id_location": 390588,
+        "id_location_parent": 390586,
+        "name": "D\u00fczi\u00e7i",
+        "seoname": "duzici-410243"
+    },
+    {
+        "id_location": 390589,
+        "id_location_parent": 390586,
+        "name": "Hasanbeyli",
+        "seoname": "hasanbeyli-410244"
+    },
+    {
+        "id_location": 390590,
+        "id_location_parent": 390586,
+        "name": "Sumbas",
+        "seoname": "sumbas-410245"
+    },
+    {
+        "id_location": 390591,
+        "id_location_parent": 390586,
+        "name": "Toprakkale",
+        "seoname": "toprakkale-410246"
+    },
+    {
+        "id_location": 390592,
+        "id_location_parent": 390586,
+        "name": "Kadirli",
+        "seoname": "kadirli-410247"
+    },
+    {
+        "id_location": 390593,
+        "id_location_parent": 1,
+        "name": "Rize",
+        "seoname": "rize-782025"
+    },
+    {
+        "id_location": 390594,
+        "id_location_parent": 390593,
+        "name": "Arde\u015fen",
+        "seoname": "ardesen-410248"
+    },
+    {
+        "id_location": 390595,
+        "id_location_parent": 390593,
+        "name": "Derepazar\u0131",
+        "seoname": "derepazari-410249"
+    },
+    {
+        "id_location": 390596,
+        "id_location_parent": 390593,
+        "name": "F\u0131nd\u0131kl\u0131",
+        "seoname": "findikli-410250"
+    },
+    {
+        "id_location": 390597,
+        "id_location_parent": 390593,
+        "name": "G\u00fcneysu",
+        "seoname": "guneysu-410251"
+    },
+    {
+        "id_location": 390598,
+        "id_location_parent": 390593,
+        "name": "Hem\u015fin",
+        "seoname": "hemsin-410252"
+    },
+    {
+        "id_location": 390599,
+        "id_location_parent": 390593,
+        "name": "Kalkandere",
+        "seoname": "kalkandere-410253"
+    },
+    {
+        "id_location": 390600,
+        "id_location_parent": 390593,
+        "name": "\u00c7aml\u0131hem\u015fin",
+        "seoname": "camlihemsin-410254"
+    },
+    {
+        "id_location": 390601,
+        "id_location_parent": 390593,
+        "name": "\u00c7ayeli",
+        "seoname": "cayeli-410255"
+    },
+    {
+        "id_location": 390602,
+        "id_location_parent": 390593,
+        "name": "\u0130kizdere",
+        "seoname": "ikizdere-410256"
+    },
+    {
+        "id_location": 390603,
+        "id_location_parent": 390593,
+        "name": "\u0130yidere",
+        "seoname": "iyidere-410257"
+    },
+    {
+        "id_location": 390604,
+        "id_location_parent": 390593,
+        "name": "Pazar",
+        "seoname": "pazar-410258"
+    },
+    {
+        "id_location": 390605,
+        "id_location_parent": 1,
+        "name": "Sakarya",
+        "seoname": "sakarya-782026"
+    },
+    {
+        "id_location": 390606,
+        "id_location_parent": 390605,
+        "name": "Akyaz\u0131",
+        "seoname": "akyazi-410259"
+    },
+    {
+        "id_location": 390607,
+        "id_location_parent": 390605,
+        "name": "Arifiye",
+        "seoname": "arifiye-410260"
+    },
+    {
+        "id_location": 390608,
+        "id_location_parent": 390605,
+        "name": "Erenler",
+        "seoname": "erenler-410261"
+    },
+    {
+        "id_location": 390609,
+        "id_location_parent": 390605,
+        "name": "Hendek",
+        "seoname": "hendek-410262"
+    },
+    {
+        "id_location": 390610,
+        "id_location_parent": 390605,
+        "name": "Karap\u00fcr\u00e7ek",
+        "seoname": "karapurcek-410263"
+    },
+    {
+        "id_location": 390611,
+        "id_location_parent": 390605,
+        "name": "Karasu",
+        "seoname": "karasu-410264"
+    },
+    {
+        "id_location": 390612,
+        "id_location_parent": 390605,
+        "name": "Kaynarca",
+        "seoname": "kaynarca-410265"
+    },
+    {
+        "id_location": 390613,
+        "id_location_parent": 390605,
+        "name": "Kocaali",
+        "seoname": "kocaali-410266"
+    },
+    {
+        "id_location": 390614,
+        "id_location_parent": 390605,
+        "name": "Sapanca",
+        "seoname": "sapanca-410267"
+    },
+    {
+        "id_location": 390615,
+        "id_location_parent": 390605,
+        "name": "Serdivan",
+        "seoname": "serdivan-410268"
+    },
+    {
+        "id_location": 390616,
+        "id_location_parent": 390605,
+        "name": "S\u00f6\u011f\u00fctl\u00fc",
+        "seoname": "sogutlu-410269"
+    },
+    {
+        "id_location": 390617,
+        "id_location_parent": 390605,
+        "name": "Tarakl\u0131",
+        "seoname": "tarakli-410270"
+    },
+    {
+        "id_location": 390618,
+        "id_location_parent": 390605,
+        "name": "Pamukova",
+        "seoname": "pamukova-410271"
+    },
+    {
+        "id_location": 390619,
+        "id_location_parent": 390605,
+        "name": "Geyve",
+        "seoname": "geyve-410272"
+    },
+    {
+        "id_location": 390620,
+        "id_location_parent": 390605,
+        "name": "Ferizli",
+        "seoname": "ferizli-410273"
+    },
+    {
+        "id_location": 390621,
+        "id_location_parent": 390605,
+        "name": "Adapazar\u0131",
+        "seoname": "adapazari-410274"
+    },
+    {
+        "id_location": 390622,
+        "id_location_parent": 1,
+        "name": "Samsun",
+        "seoname": "samsun-782027"
+    },
+    {
+        "id_location": 390623,
+        "id_location_parent": 390622,
+        "name": "Ala\u00e7am",
+        "seoname": "alacam-410275"
+    },
+    {
+        "id_location": 390624,
+        "id_location_parent": 390622,
+        "name": "Asarc\u0131k",
+        "seoname": "asarcik-410276"
+    },
+    {
+        "id_location": 390625,
+        "id_location_parent": 390622,
+        "name": "Atakum",
+        "seoname": "atakum-410277"
+    },
+    {
+        "id_location": 390626,
+        "id_location_parent": 390622,
+        "name": "Ayvac\u0131k",
+        "seoname": "ayvacik-410278"
+    },
+    {
+        "id_location": 390627,
+        "id_location_parent": 390622,
+        "name": "Canik",
+        "seoname": "canik-410279"
+    },
+    {
+        "id_location": 390628,
+        "id_location_parent": 390622,
+        "name": "Kavak",
+        "seoname": "kavak-410280"
+    },
+    {
+        "id_location": 390629,
+        "id_location_parent": 390622,
+        "name": "Ladik",
+        "seoname": "ladik-410281"
+    },
+    {
+        "id_location": 390630,
+        "id_location_parent": 390622,
+        "name": "Ondokuzmay\u0131s",
+        "seoname": "ondokuzmayis-410282"
+    },
+    {
+        "id_location": 390631,
+        "id_location_parent": 390622,
+        "name": "Sal\u0131pazar\u0131",
+        "seoname": "salipazari-410283"
+    },
+    {
+        "id_location": 390632,
+        "id_location_parent": 390622,
+        "name": "Tekkek\u00f6y",
+        "seoname": "tekkekoy-410284"
+    },
+    {
+        "id_location": 390633,
+        "id_location_parent": 390622,
+        "name": "Terme",
+        "seoname": "terme-410285"
+    },
+    {
+        "id_location": 390634,
+        "id_location_parent": 390622,
+        "name": "\u0130lkad\u0131m",
+        "seoname": "ilkadim-410286"
+    },
+    {
+        "id_location": 390635,
+        "id_location_parent": 390622,
+        "name": "\u00c7ar\u015famba",
+        "seoname": "carsamba-410287"
+    },
+    {
+        "id_location": 390636,
+        "id_location_parent": 390622,
+        "name": "Yakakent",
+        "seoname": "yakakent-410288"
+    },
+    {
+        "id_location": 390637,
+        "id_location_parent": 390622,
+        "name": "Havza",
+        "seoname": "havza-410289"
+    },
+    {
+        "id_location": 390638,
+        "id_location_parent": 390622,
+        "name": "Vezirk\u00f6pr\u00fc",
+        "seoname": "vezirkopru-410290"
+    },
+    {
+        "id_location": 390639,
+        "id_location_parent": 390622,
+        "name": "Bafra",
+        "seoname": "bafra-410291"
+    },
+    {
+        "id_location": 390640,
+        "id_location_parent": 1,
+        "name": "\u015eanl\u0131urfa",
+        "seoname": "sanliurfa-782028"
+    },
+    {
+        "id_location": 390641,
+        "id_location_parent": 390640,
+        "name": "Ak\u00e7akale",
+        "seoname": "akcakale-410292"
+    },
+    {
+        "id_location": 390642,
+        "id_location_parent": 390640,
+        "name": "Birecik",
+        "seoname": "birecik-410293"
+    },
+    {
+        "id_location": 390643,
+        "id_location_parent": 390640,
+        "name": "Bozova",
+        "seoname": "bozova-410294"
+    },
+    {
+        "id_location": 390644,
+        "id_location_parent": 390640,
+        "name": "Halfeti",
+        "seoname": "halfeti-410295"
+    },
+    {
+        "id_location": 390645,
+        "id_location_parent": 390640,
+        "name": "Hilvan",
+        "seoname": "hilvan-410296"
+    },
+    {
+        "id_location": 390646,
+        "id_location_parent": 390640,
+        "name": "Siverek",
+        "seoname": "siverek-410297"
+    },
+    {
+        "id_location": 390647,
+        "id_location_parent": 390640,
+        "name": "Viran\u015fehir",
+        "seoname": "viransehir-410298"
+    },
+    {
+        "id_location": 390648,
+        "id_location_parent": 390640,
+        "name": "Harran",
+        "seoname": "harran-410299"
+    },
+    {
+        "id_location": 390649,
+        "id_location_parent": 390640,
+        "name": "Ceylanp\u0131nar",
+        "seoname": "ceylanpinar-410300"
+    },
+    {
+        "id_location": 390650,
+        "id_location_parent": 390640,
+        "name": "Suru\u00e7",
+        "seoname": "suruc-410301"
+    },
+    {
+        "id_location": 390651,
+        "id_location_parent": 1,
+        "name": "Siirt",
+        "seoname": "siirt-782029"
+    },
+    {
+        "id_location": 390652,
+        "id_location_parent": 390651,
+        "name": "Ayd\u0131nlar",
+        "seoname": "aydinlar-410302"
+    },
+    {
+        "id_location": 390653,
+        "id_location_parent": 390651,
+        "name": "Baykan",
+        "seoname": "baykan-410303"
+    },
+    {
+        "id_location": 390654,
+        "id_location_parent": 390651,
+        "name": "Kurtalan",
+        "seoname": "kurtalan-410304"
+    },
+    {
+        "id_location": 390655,
+        "id_location_parent": 390651,
+        "name": "Pervari",
+        "seoname": "pervari-410305"
+    },
+    {
+        "id_location": 390656,
+        "id_location_parent": 390651,
+        "name": "\u015eirvan",
+        "seoname": "sirvan-410306"
+    },
+    {
+        "id_location": 390657,
+        "id_location_parent": 390651,
+        "name": "Eruh",
+        "seoname": "eruh-410307"
+    },
+    {
+        "id_location": 390658,
+        "id_location_parent": 1,
+        "name": "Sinop",
+        "seoname": "sinop-782030"
+    },
+    {
+        "id_location": 390659,
+        "id_location_parent": 390658,
+        "name": "Dikmen",
+        "seoname": "dikmen-410308"
+    },
+    {
+        "id_location": 390660,
+        "id_location_parent": 390658,
+        "name": "Sarayd\u00fcz\u00fc",
+        "seoname": "sarayduzu-410309"
+    },
+    {
+        "id_location": 390661,
+        "id_location_parent": 390658,
+        "name": "T\u00fcrkeli",
+        "seoname": "turkeli-410310"
+    },
+    {
+        "id_location": 390662,
+        "id_location_parent": 390658,
+        "name": "Erfelek",
+        "seoname": "erfelek-410311"
+    },
+    {
+        "id_location": 390663,
+        "id_location_parent": 390658,
+        "name": "Gerze",
+        "seoname": "gerze-410312"
+    },
+    {
+        "id_location": 390664,
+        "id_location_parent": 390658,
+        "name": "Dura\u011fan",
+        "seoname": "duragan-410313"
+    },
+    {
+        "id_location": 390665,
+        "id_location_parent": 390658,
+        "name": "Ayanc\u0131k",
+        "seoname": "ayancik-410314"
+    },
+    {
+        "id_location": 390666,
+        "id_location_parent": 390658,
+        "name": "Boyabat",
+        "seoname": "boyabat-410315"
+    },
+    {
+        "id_location": 390667,
+        "id_location_parent": 1,
+        "name": "\u015e\u0131rnak",
+        "seoname": "sirnak-782031"
+    },
+    {
+        "id_location": 390668,
+        "id_location_parent": 390667,
+        "name": "Beyt\u00fc\u015f\u015febap",
+        "seoname": "beytussebap-410316"
+    },
+    {
+        "id_location": 390669,
+        "id_location_parent": 390667,
+        "name": "Cizre",
+        "seoname": "cizre-410317"
+    },
+    {
+        "id_location": 390670,
+        "id_location_parent": 390667,
+        "name": "Uludere",
+        "seoname": "uludere-410318"
+    },
+    {
+        "id_location": 390671,
+        "id_location_parent": 390667,
+        "name": "\u0130dil",
+        "seoname": "idil-410319"
+    },
+    {
+        "id_location": 390672,
+        "id_location_parent": 390667,
+        "name": "G\u00fc\u00e7l\u00fckonak",
+        "seoname": "guclukonak-410320"
+    },
+    {
+        "id_location": 390673,
+        "id_location_parent": 390667,
+        "name": "Silopi",
+        "seoname": "silopi-410321"
+    },
+    {
+        "id_location": 390674,
+        "id_location_parent": 1,
+        "name": "Sivas",
+        "seoname": "sivas-782032"
+    },
+    {
+        "id_location": 390675,
+        "id_location_parent": 390674,
+        "name": "Ak\u0131nc\u0131lar",
+        "seoname": "akincilar-410322"
+    },
+    {
+        "id_location": 390676,
+        "id_location_parent": 390674,
+        "name": "Divri\u011fi",
+        "seoname": "divrigi-410323"
+    },
+    {
+        "id_location": 390677,
+        "id_location_parent": 390674,
+        "name": "Do\u011fan\u015far",
+        "seoname": "dogansar-410324"
+    },
+    {
+        "id_location": 390678,
+        "id_location_parent": 390674,
+        "name": "Gemerek",
+        "seoname": "gemerek-410325"
+    },
+    {
+        "id_location": 390679,
+        "id_location_parent": 390674,
+        "name": "G\u00f6lova",
+        "seoname": "golova-410326"
+    },
+    {
+        "id_location": 390680,
+        "id_location_parent": 390674,
+        "name": "Hafik",
+        "seoname": "hafik-410327"
+    },
+    {
+        "id_location": 390681,
+        "id_location_parent": 390674,
+        "name": "Kangal",
+        "seoname": "kangal-410328"
+    },
+    {
+        "id_location": 390682,
+        "id_location_parent": 390674,
+        "name": "Koyulhisar",
+        "seoname": "koyulhisar-410329"
+    },
+    {
+        "id_location": 390683,
+        "id_location_parent": 390674,
+        "name": "Su\u015fehri",
+        "seoname": "susehri-410330"
+    },
+    {
+        "id_location": 390684,
+        "id_location_parent": 390674,
+        "name": "Ula\u015f",
+        "seoname": "ulas-410331"
+    },
+    {
+        "id_location": 390685,
+        "id_location_parent": 390674,
+        "name": "Y\u0131ld\u0131zeli",
+        "seoname": "yildizeli-410332"
+    },
+    {
+        "id_location": 390686,
+        "id_location_parent": 390674,
+        "name": "Zara",
+        "seoname": "zara-410333"
+    },
+    {
+        "id_location": 390687,
+        "id_location_parent": 390674,
+        "name": "\u015eark\u0131\u015fla",
+        "seoname": "sarkisla-410334"
+    },
+    {
+        "id_location": 390688,
+        "id_location_parent": 390674,
+        "name": "\u0130mranl\u0131",
+        "seoname": "imranli-410335"
+    },
+    {
+        "id_location": 390689,
+        "id_location_parent": 390674,
+        "name": "G\u00fcr\u00fcn",
+        "seoname": "gurun-410336"
+    },
+    {
+        "id_location": 390690,
+        "id_location_parent": 1,
+        "name": "Tekirda\u011f",
+        "seoname": "tekirdag-782033"
+    },
+    {
+        "id_location": 390691,
+        "id_location_parent": 390690,
+        "name": "Muratl\u0131",
+        "seoname": "muratli-410337"
+    },
+    {
+        "id_location": 390692,
+        "id_location_parent": 390690,
+        "name": "Saray",
+        "seoname": "saray-410338"
+    },
+    {
+        "id_location": 390693,
+        "id_location_parent": 390690,
+        "name": "\u015eark\u00f6y",
+        "seoname": "sarkoy-410339"
+    },
+    {
+        "id_location": 390694,
+        "id_location_parent": 390690,
+        "name": "Marmaraere\u011flisi",
+        "seoname": "marmaraereglisi-410340"
+    },
+    {
+        "id_location": 390695,
+        "id_location_parent": 390690,
+        "name": "Malkara",
+        "seoname": "malkara-410341"
+    },
+    {
+        "id_location": 390696,
+        "id_location_parent": 390690,
+        "name": "Hayrabolu",
+        "seoname": "hayrabolu-410342"
+    },
+    {
+        "id_location": 390697,
+        "id_location_parent": 390690,
+        "name": "\u00c7erkezk\u00f6y",
+        "seoname": "cerkezkoy-410343"
+    },
+    {
+        "id_location": 390698,
+        "id_location_parent": 390690,
+        "name": "\u00c7orlu",
+        "seoname": "corlu-410344"
+    },
+    {
+        "id_location": 390699,
+        "id_location_parent": 1,
+        "name": "Tokat",
+        "seoname": "tokat-782034"
+    },
+    {
+        "id_location": 390700,
+        "id_location_parent": 390699,
+        "name": "Re\u015fadiye",
+        "seoname": "resadiye-410345"
+    },
+    {
+        "id_location": 390701,
+        "id_location_parent": 390699,
+        "name": "Sulusaray",
+        "seoname": "sulusaray-410346"
+    },
+    {
+        "id_location": 390702,
+        "id_location_parent": 390699,
+        "name": "Zile",
+        "seoname": "zile-410347"
+    },
+    {
+        "id_location": 390703,
+        "id_location_parent": 390699,
+        "name": "Artova",
+        "seoname": "artova-410348"
+    },
+    {
+        "id_location": 390704,
+        "id_location_parent": 390699,
+        "name": "Almus",
+        "seoname": "almus-410349"
+    },
+    {
+        "id_location": 390705,
+        "id_location_parent": 390699,
+        "name": "Ba\u015f\u00e7iftlik",
+        "seoname": "basciftlik-410350"
+    },
+    {
+        "id_location": 390706,
+        "id_location_parent": 390699,
+        "name": "Niksar",
+        "seoname": "niksar-410351"
+    },
+    {
+        "id_location": 390707,
+        "id_location_parent": 390699,
+        "name": "Erbaa",
+        "seoname": "erbaa-410352"
+    },
+    {
+        "id_location": 390708,
+        "id_location_parent": 390699,
+        "name": "Turhal",
+        "seoname": "turhal-410353"
+    },
+    {
+        "id_location": 390709,
+        "id_location_parent": 1,
+        "name": "Trabzon",
+        "seoname": "trabzon-782035"
+    },
+    {
+        "id_location": 390710,
+        "id_location_parent": 390709,
+        "name": "Ak\u00e7aabat",
+        "seoname": "akcaabat-410354"
+    },
+    {
+        "id_location": 390711,
+        "id_location_parent": 390709,
+        "name": "Arakl\u0131",
+        "seoname": "arakli-410355"
+    },
+    {
+        "id_location": 390712,
+        "id_location_parent": 390709,
+        "name": "Arsin",
+        "seoname": "arsin-410356"
+    },
+    {
+        "id_location": 390713,
+        "id_location_parent": 390709,
+        "name": "Be\u015fikd\u00fcz\u00fc",
+        "seoname": "besikduzu-410357"
+    },
+    {
+        "id_location": 390714,
+        "id_location_parent": 390709,
+        "name": "Dernekpazar\u0131",
+        "seoname": "dernekpazari-410358"
+    },
+    {
+        "id_location": 390715,
+        "id_location_parent": 390709,
+        "name": "D\u00fczk\u00f6y",
+        "seoname": "duzkoy-410359"
+    },
+    {
+        "id_location": 390716,
+        "id_location_parent": 390709,
+        "name": "Hayrat",
+        "seoname": "hayrat-410360"
+    },
+    {
+        "id_location": 390717,
+        "id_location_parent": 390709,
+        "name": "Ma\u00e7ka",
+        "seoname": "macka-410361"
+    },
+    {
+        "id_location": 390718,
+        "id_location_parent": 390709,
+        "name": "S\u00fcrmene",
+        "seoname": "surmene-410362"
+    },
+    {
+        "id_location": 390719,
+        "id_location_parent": 390709,
+        "name": "Tonya",
+        "seoname": "tonya-410363"
+    },
+    {
+        "id_location": 390720,
+        "id_location_parent": 390709,
+        "name": "Vakf\u0131kebir",
+        "seoname": "vakfikebir-410364"
+    },
+    {
+        "id_location": 390721,
+        "id_location_parent": 390709,
+        "name": "Yomra",
+        "seoname": "yomra-410365"
+    },
+    {
+        "id_location": 390722,
+        "id_location_parent": 390709,
+        "name": "\u00c7ar\u015f\u0131ba\u015f\u0131",
+        "seoname": "carsibasi-410366"
+    },
+    {
+        "id_location": 390723,
+        "id_location_parent": 390709,
+        "name": "\u00c7aykara",
+        "seoname": "caykara-410367"
+    },
+    {
+        "id_location": 390724,
+        "id_location_parent": 390709,
+        "name": "\u015ealpazar\u0131",
+        "seoname": "salpazari-410368"
+    },
+    {
+        "id_location": 390725,
+        "id_location_parent": 390709,
+        "name": "Of",
+        "seoname": "of-410369"
+    },
+    {
+        "id_location": 390726,
+        "id_location_parent": 1,
+        "name": "Tunceli",
+        "seoname": "tunceli-782036"
+    },
+    {
+        "id_location": 390727,
+        "id_location_parent": 390726,
+        "name": "Mazgirt",
+        "seoname": "mazgirt-410370"
+    },
+    {
+        "id_location": 390728,
+        "id_location_parent": 390726,
+        "name": "Naz\u0131miye",
+        "seoname": "nazimiye-410371"
+    },
+    {
+        "id_location": 390729,
+        "id_location_parent": 390726,
+        "name": "Pertek",
+        "seoname": "pertek-410372"
+    },
+    {
+        "id_location": 390730,
+        "id_location_parent": 390726,
+        "name": "\u00c7emi\u015fgezek",
+        "seoname": "cemisgezek-410373"
+    },
+    {
+        "id_location": 390731,
+        "id_location_parent": 390726,
+        "name": "P\u00fcl\u00fcm\u00fcr",
+        "seoname": "pulumur-410374"
+    },
+    {
+        "id_location": 390732,
+        "id_location_parent": 390726,
+        "name": "Hozat",
+        "seoname": "hozat-410375"
+    },
+    {
+        "id_location": 390733,
+        "id_location_parent": 1,
+        "name": "U\u015fak",
+        "seoname": "usak-782037"
+    },
+    {
+        "id_location": 390734,
+        "id_location_parent": 390733,
+        "name": "Banaz",
+        "seoname": "banaz-410376"
+    },
+    {
+        "id_location": 390735,
+        "id_location_parent": 390733,
+        "name": "E\u015fme",
+        "seoname": "esme-410377"
+    },
+    {
+        "id_location": 390736,
+        "id_location_parent": 390733,
+        "name": "Sivasl\u0131",
+        "seoname": "sivasli-410378"
+    },
+    {
+        "id_location": 390737,
+        "id_location_parent": 390733,
+        "name": "Karahall\u0131",
+        "seoname": "karahalli-410379"
+    },
+    {
+        "id_location": 390738,
+        "id_location_parent": 1,
+        "name": "Van",
+        "seoname": "van-782038"
+    },
+    {
+        "id_location": 390739,
+        "id_location_parent": 390738,
+        "name": "Bah\u00e7esaray",
+        "seoname": "bahcesaray-410380"
+    },
+    {
+        "id_location": 390740,
+        "id_location_parent": 390738,
+        "name": "Ba\u015fkale",
+        "seoname": "baskale-410381"
+    },
+    {
+        "id_location": 390741,
+        "id_location_parent": 390738,
+        "name": "Erci\u015f",
+        "seoname": "ercis-410382"
+    },
+    {
+        "id_location": 390742,
+        "id_location_parent": 390738,
+        "name": "Geva\u015f",
+        "seoname": "gevas-410383"
+    },
+    {
+        "id_location": 390743,
+        "id_location_parent": 390738,
+        "name": "G\u00fcrp\u0131nar",
+        "seoname": "gurpinar-410384"
+    },
+    {
+        "id_location": 390744,
+        "id_location_parent": 390738,
+        "name": "Muradiye",
+        "seoname": "muradiye-410385"
+    },
+    {
+        "id_location": 390745,
+        "id_location_parent": 390738,
+        "name": "\u00c7ald\u0131ran",
+        "seoname": "caldiran-410386"
+    },
+    {
+        "id_location": 390746,
+        "id_location_parent": 390738,
+        "name": "\u00c7atak",
+        "seoname": "catak-410387"
+    },
+    {
+        "id_location": 390747,
+        "id_location_parent": 390738,
+        "name": "\u00d6zalp",
+        "seoname": "ozalp-410388"
+    },
+    {
+        "id_location": 390748,
+        "id_location_parent": 1,
+        "name": "Yalova",
+        "seoname": "yalova-782039"
+    },
+    {
+        "id_location": 390749,
+        "id_location_parent": 390748,
+        "name": "Alt\u0131nova",
+        "seoname": "altinova-410389"
+    },
+    {
+        "id_location": 390750,
+        "id_location_parent": 390748,
+        "name": "Armutlu",
+        "seoname": "armutlu-410390"
+    },
+    {
+        "id_location": 390751,
+        "id_location_parent": 390748,
+        "name": "Termal",
+        "seoname": "termal-410391"
+    },
+    {
+        "id_location": 390752,
+        "id_location_parent": 390748,
+        "name": "\u00c7iftlikk\u00f6y",
+        "seoname": "ciftlikkoy-410392"
+    },
+    {
+        "id_location": 390753,
+        "id_location_parent": 390748,
+        "name": "\u00c7\u0131narc\u0131k",
+        "seoname": "cinarcik-410393"
+    },
+    {
+        "id_location": 390754,
+        "id_location_parent": 1,
+        "name": "Yozgat",
+        "seoname": "yozgat-782040"
+    },
+    {
+        "id_location": 390755,
+        "id_location_parent": 390754,
+        "name": "Bo\u011fazl\u0131yan",
+        "seoname": "bogazliyan-410394"
+    },
+    {
+        "id_location": 390756,
+        "id_location_parent": 390754,
+        "name": "Sar\u0131kaya",
+        "seoname": "sarikaya-410395"
+    },
+    {
+        "id_location": 390757,
+        "id_location_parent": 390754,
+        "name": "Sorgun",
+        "seoname": "sorgun-410396"
+    },
+    {
+        "id_location": 390758,
+        "id_location_parent": 390754,
+        "name": "Yerk\u00f6y",
+        "seoname": "yerkoy-410397"
+    },
+    {
+        "id_location": 390759,
+        "id_location_parent": 390754,
+        "name": "\u00c7and\u0131r",
+        "seoname": "candir-410398"
+    },
+    {
+        "id_location": 390760,
+        "id_location_parent": 390754,
+        "name": "\u00c7ay\u0131ralan",
+        "seoname": "cayiralan-410399"
+    },
+    {
+        "id_location": 390761,
+        "id_location_parent": 390754,
+        "name": "Kad\u0131\u015fehri",
+        "seoname": "kadisehri-410400"
+    },
+    {
+        "id_location": 390762,
+        "id_location_parent": 390754,
+        "name": "\u00c7ekerek",
+        "seoname": "cekerek-410401"
+    },
+    {
+        "id_location": 390763,
+        "id_location_parent": 390754,
+        "name": "Saraykent",
+        "seoname": "saraykent-410402"
+    },
+    {
+        "id_location": 390764,
+        "id_location_parent": 390754,
+        "name": "Yenifak\u0131l\u0131",
+        "seoname": "yenifakili-410403"
+    },
+    {
+        "id_location": 390765,
+        "id_location_parent": 390754,
+        "name": "\u015eefaatli",
+        "seoname": "sefaatli-410404"
+    },
+    {
+        "id_location": 390766,
+        "id_location_parent": 390754,
+        "name": "Akda\u011fmadeni",
+        "seoname": "akdagmadeni-410405"
+    },
+    {
+        "id_location": 390767,
+        "id_location_parent": 1,
+        "name": "Zonguldak",
+        "seoname": "zonguldak-782041"
+    },
+    {
+        "id_location": 390768,
+        "id_location_parent": 390767,
+        "name": "Devrek",
+        "seoname": "devrek-410406"
+    },
+    {
+        "id_location": 390769,
+        "id_location_parent": 390767,
+        "name": "Karadenizere\u011fli",
+        "seoname": "karadenizeregli-410407"
+    },
+    {
+        "id_location": 390770,
+        "id_location_parent": 390767,
+        "name": "G\u00f6k\u00e7ebey",
+        "seoname": "gokcebey-410408"
+    },
+    {
+        "id_location": 390771,
+        "id_location_parent": 390767,
+        "name": "Alapl\u0131",
+        "seoname": "alapli-410409"
+    },
+    {
+        "id_location": 390772,
+        "id_location_parent": 390767,
+        "name": "\u00c7aycuma",
+        "seoname": "caycuma-410410"
+    }
+]

@@ -1,0 +1,416 @@
+[
+    {
+        "id_location": 234130,
+        "id_location_parent": 1,
+        "name": "Barima-Waini",
+        "seoname": "barima-waini-745959"
+    },
+    {
+        "id_location": 234131,
+        "id_location_parent": 234130,
+        "name": "Mabaruma",
+        "seoname": "mabaruma-39900"
+    },
+    {
+        "id_location": 234132,
+        "id_location_parent": 234130,
+        "name": "Santa Rosa",
+        "seoname": "santa-rosa-39901"
+    },
+    {
+        "id_location": 234133,
+        "id_location_parent": 234130,
+        "name": "Moruca",
+        "seoname": "moruca-39902"
+    },
+    {
+        "id_location": 234134,
+        "id_location_parent": 234130,
+        "name": "Arakaka",
+        "seoname": "arakaka-39903"
+    },
+    {
+        "id_location": 234135,
+        "id_location_parent": 234130,
+        "name": "Hosororo",
+        "seoname": "hosororo-39904"
+    },
+    {
+        "id_location": 234136,
+        "id_location_parent": 234130,
+        "name": "Koriabo",
+        "seoname": "koriabo-39905"
+    },
+    {
+        "id_location": 234137,
+        "id_location_parent": 234130,
+        "name": "Towakaima",
+        "seoname": "towakaima-39906"
+    },
+    {
+        "id_location": 234138,
+        "id_location_parent": 234130,
+        "name": "Morawhanna",
+        "seoname": "morawhanna-39907"
+    },
+    {
+        "id_location": 234139,
+        "id_location_parent": 234130,
+        "name": "Matthew's Ridge",
+        "seoname": "matthews-ridge-39908"
+    },
+    {
+        "id_location": 234140,
+        "id_location_parent": 234130,
+        "name": "Port Kaituma",
+        "seoname": "port-kaituma-39909"
+    },
+    {
+        "id_location": 234141,
+        "id_location_parent": 1,
+        "name": "Cuyuni-Mazaruni",
+        "seoname": "cuyuni-mazaruni-745970"
+    },
+    {
+        "id_location": 234142,
+        "id_location_parent": 234141,
+        "name": "Bartica",
+        "seoname": "bartica-39910"
+    },
+    {
+        "id_location": 234143,
+        "id_location_parent": 234141,
+        "name": "Issano",
+        "seoname": "issano-39911"
+    },
+    {
+        "id_location": 234144,
+        "id_location_parent": 234141,
+        "name": "Kamikusa",
+        "seoname": "kamikusa-39912"
+    },
+    {
+        "id_location": 234145,
+        "id_location_parent": 234141,
+        "name": "Tumereng",
+        "seoname": "tumereng-39913"
+    },
+    {
+        "id_location": 234146,
+        "id_location_parent": 234141,
+        "name": "Imbaimadai",
+        "seoname": "imbaimadai-39914"
+    },
+    {
+        "id_location": 234147,
+        "id_location_parent": 234141,
+        "name": "Keweigek",
+        "seoname": "keweigek-39915"
+    },
+    {
+        "id_location": 234148,
+        "id_location_parent": 234141,
+        "name": "Kamarang",
+        "seoname": "kamarang-39916"
+    },
+    {
+        "id_location": 234149,
+        "id_location_parent": 234141,
+        "name": "Arimu Mine",
+        "seoname": "arimu-mine-39917"
+    },
+    {
+        "id_location": 234150,
+        "id_location_parent": 234141,
+        "name": "Peters Mine",
+        "seoname": "peters-mine-39918"
+    },
+    {
+        "id_location": 234151,
+        "id_location_parent": 234141,
+        "name": "Kartuni",
+        "seoname": "kartuni-39919"
+    },
+    {
+        "id_location": 234152,
+        "id_location_parent": 234141,
+        "name": "Isseneru",
+        "seoname": "isseneru-39920"
+    },
+    {
+        "id_location": 234153,
+        "id_location_parent": 1,
+        "name": "Demerara-Mahaica",
+        "seoname": "demerara-mahaica-745982"
+    },
+    {
+        "id_location": 234154,
+        "id_location_parent": 234153,
+        "name": "Georgetown",
+        "seoname": "georgetown-39921"
+    },
+    {
+        "id_location": 234155,
+        "id_location_parent": 234153,
+        "name": "Buxton",
+        "seoname": "buxton-39922"
+    },
+    {
+        "id_location": 234156,
+        "id_location_parent": 234153,
+        "name": "Paradise",
+        "seoname": "paradise-39923"
+    },
+    {
+        "id_location": 234157,
+        "id_location_parent": 234153,
+        "name": "Victoria",
+        "seoname": "victoria-39924"
+    },
+    {
+        "id_location": 234158,
+        "id_location_parent": 234153,
+        "name": "Enmore",
+        "seoname": "enmore-39925"
+    },
+    {
+        "id_location": 234159,
+        "id_location_parent": 1,
+        "name": "Berbice Oriental-Corentyne",
+        "seoname": "berbice-oriental-corentyne-745988"
+    },
+    {
+        "id_location": 234160,
+        "id_location_parent": 234159,
+        "name": "Nueva Amsterdam",
+        "seoname": "nueva-amsterdam-39926"
+    },
+    {
+        "id_location": 234161,
+        "id_location_parent": 234159,
+        "name": "Rose Hall",
+        "seoname": "rose-hall-39927"
+    },
+    {
+        "id_location": 234162,
+        "id_location_parent": 234159,
+        "name": "Mara",
+        "seoname": "mara-39928"
+    },
+    {
+        "id_location": 234163,
+        "id_location_parent": 234159,
+        "name": "Corriverton",
+        "seoname": "corriverton-39929"
+    },
+    {
+        "id_location": 234164,
+        "id_location_parent": 1,
+        "name": "Islas Essequibo-Demerara Occidental",
+        "seoname": "islas-essequibo-demerara-occidental-745993"
+    },
+    {
+        "id_location": 234165,
+        "id_location_parent": 234164,
+        "name": "Parika",
+        "seoname": "parika-39930"
+    },
+    {
+        "id_location": 234166,
+        "id_location_parent": 234164,
+        "name": "Vreed en Hoop",
+        "seoname": "vreed-en-hoop-39931"
+    },
+    {
+        "id_location": 234167,
+        "id_location_parent": 234164,
+        "name": "Uitvlugt",
+        "seoname": "uitvlugt-39932"
+    },
+    {
+        "id_location": 234168,
+        "id_location_parent": 234164,
+        "name": "Schoon Ord",
+        "seoname": "schoon-ord-39933"
+    },
+    {
+        "id_location": 234169,
+        "id_location_parent": 1,
+        "name": "Mahaica-Berbice",
+        "seoname": "mahaica-berbice-745998"
+    },
+    {
+        "id_location": 234170,
+        "id_location_parent": 234169,
+        "name": "Rosignol",
+        "seoname": "rosignol-39934"
+    },
+    {
+        "id_location": 234171,
+        "id_location_parent": 234169,
+        "name": "Helena",
+        "seoname": "helena-39935"
+    },
+    {
+        "id_location": 234172,
+        "id_location_parent": 234169,
+        "name": "Mahaicony",
+        "seoname": "mahaicony-39936"
+    },
+    {
+        "id_location": 234173,
+        "id_location_parent": 234169,
+        "name": "Fort Washington",
+        "seoname": "fort-washington-39937"
+    },
+    {
+        "id_location": 234174,
+        "id_location_parent": 1,
+        "name": "Pomeroon-Supenaam",
+        "seoname": "pomeroon-supenaam-746003"
+    },
+    {
+        "id_location": 234175,
+        "id_location_parent": 234174,
+        "name": "Anna Regina",
+        "seoname": "anna-regina-39938"
+    },
+    {
+        "id_location": 234176,
+        "id_location_parent": 234174,
+        "name": "Suddie",
+        "seoname": "suddie-39939"
+    },
+    {
+        "id_location": 234177,
+        "id_location_parent": 234174,
+        "name": "Spring Garden",
+        "seoname": "spring-garden-39940"
+    },
+    {
+        "id_location": 234178,
+        "id_location_parent": 234174,
+        "name": "Pickersgill",
+        "seoname": "pickersgill-39941"
+    },
+    {
+        "id_location": 234179,
+        "id_location_parent": 234174,
+        "name": "Charity",
+        "seoname": "charity-39942"
+    },
+    {
+        "id_location": 234180,
+        "id_location_parent": 1,
+        "name": "Potaro-Siparuni",
+        "seoname": "potaro-siparuni-746010"
+    },
+    {
+        "id_location": 234181,
+        "id_location_parent": 234180,
+        "name": "Kangaruma",
+        "seoname": "kangaruma-39944"
+    },
+    {
+        "id_location": 234182,
+        "id_location_parent": 234180,
+        "name": "Tumatumari",
+        "seoname": "tumatumari-39945"
+    },
+    {
+        "id_location": 234183,
+        "id_location_parent": 234180,
+        "name": "Saveretik",
+        "seoname": "saveretik-39946"
+    },
+    {
+        "id_location": 234184,
+        "id_location_parent": 234180,
+        "name": "Mahdia",
+        "seoname": "mahdia-39947"
+    },
+    {
+        "id_location": 234185,
+        "id_location_parent": 234180,
+        "name": "Potaro",
+        "seoname": "potaro-39948"
+    },
+    {
+        "id_location": 234186,
+        "id_location_parent": 234180,
+        "name": "Orinduik",
+        "seoname": "orinduik-39949"
+    },
+    {
+        "id_location": 234187,
+        "id_location_parent": 1,
+        "name": "Alto Demerara-Berbice",
+        "seoname": "alto-demerara-berbice-746017"
+    },
+    {
+        "id_location": 234188,
+        "id_location_parent": 234187,
+        "name": "Linden",
+        "seoname": "linden-39950"
+    },
+    {
+        "id_location": 234189,
+        "id_location_parent": 234187,
+        "name": "Ituni",
+        "seoname": "ituni-39951"
+    },
+    {
+        "id_location": 234190,
+        "id_location_parent": 234187,
+        "name": "Kalkuni",
+        "seoname": "kalkuni-39952"
+    },
+    {
+        "id_location": 234191,
+        "id_location_parent": 234187,
+        "name": "Kwakwani",
+        "seoname": "kwakwani-39953"
+    },
+    {
+        "id_location": 234192,
+        "id_location_parent": 234187,
+        "name": "Kurupakari",
+        "seoname": "kurupakari-39954"
+    },
+    {
+        "id_location": 234193,
+        "id_location_parent": 234187,
+        "name": "Rockstone",
+        "seoname": "rockstone-39955"
+    },
+    {
+        "id_location": 234194,
+        "id_location_parent": 234187,
+        "name": "Takama",
+        "seoname": "takama-39956"
+    },
+    {
+        "id_location": 234195,
+        "id_location_parent": 1,
+        "name": "Alto Takutu-Alto Essequibo",
+        "seoname": "alto-takutu-alto-essequibo-746025"
+    },
+    {
+        "id_location": 234196,
+        "id_location_parent": 234195,
+        "name": "Surama",
+        "seoname": "surama-39957"
+    },
+    {
+        "id_location": 234197,
+        "id_location_parent": 234195,
+        "name": "Isherton",
+        "seoname": "isherton-39958"
+    },
+    {
+        "id_location": 234198,
+        "id_location_parent": 234195,
+        "name": "Lethem",
+        "seoname": "lethem-39959"
+    }
+]

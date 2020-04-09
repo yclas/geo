@@ -1,0 +1,692 @@
+[
+    {
+        "id_location": 68227,
+        "id_location_parent": 1,
+        "name": "Belice",
+        "seoname": "belice-743442"
+    },
+    {
+        "id_location": 68228,
+        "id_location_parent": 68227,
+        "name": "Ambergris Caye",
+        "seoname": "ambergris-caye-37441"
+    },
+    {
+        "id_location": 68229,
+        "id_location_parent": 68227,
+        "name": "Belice",
+        "seoname": "belice-37442"
+    },
+    {
+        "id_location": 68230,
+        "id_location_parent": 1,
+        "name": "Cayo",
+        "seoname": "cayo-743445"
+    },
+    {
+        "id_location": 68231,
+        "id_location_parent": 68230,
+        "name": "Albaina",
+        "seoname": "albaina-37443"
+    },
+    {
+        "id_location": 68232,
+        "id_location_parent": 68230,
+        "name": "Arenal",
+        "seoname": "arenal-37444"
+    },
+    {
+        "id_location": 68233,
+        "id_location_parent": 68230,
+        "name": "Belmopan",
+        "seoname": "belmopan-37445"
+    },
+    {
+        "id_location": 68234,
+        "id_location_parent": 68230,
+        "name": "Benque Viejo del Carmen",
+        "seoname": "benque-viejo-del-carmen-37446"
+    },
+    {
+        "id_location": 68235,
+        "id_location_parent": 68230,
+        "name": "Buena Vista",
+        "seoname": "buena-vista-37447"
+    },
+    {
+        "id_location": 68236,
+        "id_location_parent": 68230,
+        "name": "Calla Creek",
+        "seoname": "calla-creek-37448"
+    },
+    {
+        "id_location": 68237,
+        "id_location_parent": 68230,
+        "name": "Chorro",
+        "seoname": "chorro-37449"
+    },
+    {
+        "id_location": 68238,
+        "id_location_parent": 68230,
+        "name": "Dry Creek Bank",
+        "seoname": "dry-creek-bank-37450"
+    },
+    {
+        "id_location": 68239,
+        "id_location_parent": 68230,
+        "name": "Garbutt's Falls",
+        "seoname": "garbutts-falls-37451"
+    },
+    {
+        "id_location": 68240,
+        "id_location_parent": 68230,
+        "name": "Roaring Creek",
+        "seoname": "roaring-creek-37452"
+    },
+    {
+        "id_location": 68241,
+        "id_location_parent": 68230,
+        "name": "San Antonio Cayo",
+        "seoname": "san-antonio-cayo-37453"
+    },
+    {
+        "id_location": 68242,
+        "id_location_parent": 68230,
+        "name": "San Ignacio",
+        "seoname": "san-ignacio-37454"
+    },
+    {
+        "id_location": 68243,
+        "id_location_parent": 68230,
+        "name": "San Jos\u00e9 Succotz",
+        "seoname": "san-jose-succotz-37455"
+    },
+    {
+        "id_location": 68244,
+        "id_location_parent": 68230,
+        "name": "Spanish Lookout",
+        "seoname": "spanish-lookout-37456"
+    },
+    {
+        "id_location": 68245,
+        "id_location_parent": 68230,
+        "name": "St. Margret's",
+        "seoname": "st-margrets-37457"
+    },
+    {
+        "id_location": 68246,
+        "id_location_parent": 68230,
+        "name": "Toro",
+        "seoname": "toro-37458"
+    },
+    {
+        "id_location": 68247,
+        "id_location_parent": 68230,
+        "name": "Vaca y Providencien",
+        "seoname": "vaca-y-providencien-37459"
+    },
+    {
+        "id_location": 68248,
+        "id_location_parent": 68230,
+        "name": "Valley of Peace",
+        "seoname": "valley-of-peace-37460"
+    },
+    {
+        "id_location": 68249,
+        "id_location_parent": 1,
+        "name": "Corozal",
+        "seoname": "corozal-743464"
+    },
+    {
+        "id_location": 68250,
+        "id_location_parent": 68249,
+        "name": "Benque Viejo",
+        "seoname": "benque-viejo-37461"
+    },
+    {
+        "id_location": 68251,
+        "id_location_parent": 68249,
+        "name": "Calcutta",
+        "seoname": "calcutta-37462"
+    },
+    {
+        "id_location": 68252,
+        "id_location_parent": 68249,
+        "name": "Campa Pita",
+        "seoname": "campa-pita-37463"
+    },
+    {
+        "id_location": 68253,
+        "id_location_parent": 68249,
+        "name": "Chacan Chac Mol",
+        "seoname": "chacan-chac-mol-37464"
+    },
+    {
+        "id_location": 68254,
+        "id_location_parent": 68249,
+        "name": "Chan Chen",
+        "seoname": "chan-chen-37465"
+    },
+    {
+        "id_location": 68255,
+        "id_location_parent": 68249,
+        "name": "Chunch",
+        "seoname": "chunch-37466"
+    },
+    {
+        "id_location": 68256,
+        "id_location_parent": 68249,
+        "name": "Chunox",
+        "seoname": "chunox-37467"
+    },
+    {
+        "id_location": 68257,
+        "id_location_parent": 68249,
+        "name": "Cocos",
+        "seoname": "cocos-37468"
+    },
+    {
+        "id_location": 68258,
+        "id_location_parent": 68249,
+        "name": "Consejo",
+        "seoname": "consejo-37469"
+    },
+    {
+        "id_location": 68259,
+        "id_location_parent": 68249,
+        "name": "Copper Bank",
+        "seoname": "copper-bank-37470"
+    },
+    {
+        "id_location": 68260,
+        "id_location_parent": 68249,
+        "name": "Corozal Town",
+        "seoname": "corozal-town-37471"
+    },
+    {
+        "id_location": 68261,
+        "id_location_parent": 68249,
+        "name": "Corozalito",
+        "seoname": "corozalito-37472"
+    },
+    {
+        "id_location": 68262,
+        "id_location_parent": 68249,
+        "name": "Cowpen",
+        "seoname": "cowpen-37473"
+    },
+    {
+        "id_location": 68263,
+        "id_location_parent": 68249,
+        "name": "Estero",
+        "seoname": "estero-37474"
+    },
+    {
+        "id_location": 68264,
+        "id_location_parent": 68249,
+        "name": "Laguna",
+        "seoname": "laguna-37475"
+    },
+    {
+        "id_location": 68265,
+        "id_location_parent": 68249,
+        "name": "Libertad",
+        "seoname": "libertad-37476"
+    },
+    {
+        "id_location": 68266,
+        "id_location_parent": 68249,
+        "name": "Little Belize",
+        "seoname": "little-belize-37477"
+    },
+    {
+        "id_location": 68267,
+        "id_location_parent": 68249,
+        "name": "Louisville",
+        "seoname": "louisville-37478"
+    },
+    {
+        "id_location": 68268,
+        "id_location_parent": 68249,
+        "name": "Paraiso",
+        "seoname": "paraiso-37479"
+    },
+    {
+        "id_location": 68269,
+        "id_location_parent": 68249,
+        "name": "Patchacan",
+        "seoname": "patchacan-37480"
+    },
+    {
+        "id_location": 68270,
+        "id_location_parent": 68249,
+        "name": "Progresso",
+        "seoname": "progresso-37481"
+    },
+    {
+        "id_location": 68271,
+        "id_location_parent": 68249,
+        "name": "Puebla Nueva",
+        "seoname": "puebla-nueva-37482"
+    },
+    {
+        "id_location": 68272,
+        "id_location_parent": 68249,
+        "name": "Ranchito",
+        "seoname": "ranchito-37483"
+    },
+    {
+        "id_location": 68273,
+        "id_location_parent": 68249,
+        "name": "Remate",
+        "seoname": "remate-37484"
+    },
+    {
+        "id_location": 68274,
+        "id_location_parent": 68249,
+        "name": "Saltillo",
+        "seoname": "saltillo-37485"
+    },
+    {
+        "id_location": 68275,
+        "id_location_parent": 68249,
+        "name": "San Joaqu\u00edn",
+        "seoname": "san-joaquin-37486"
+    },
+    {
+        "id_location": 68276,
+        "id_location_parent": 68249,
+        "name": "Sarteneja",
+        "seoname": "sarteneja-37487"
+    },
+    {
+        "id_location": 68277,
+        "id_location_parent": 68249,
+        "name": "Shipstern",
+        "seoname": "shipstern-37488"
+    },
+    {
+        "id_location": 68278,
+        "id_location_parent": 68249,
+        "name": "Tacistal",
+        "seoname": "tacistal-37489"
+    },
+    {
+        "id_location": 68279,
+        "id_location_parent": 68249,
+        "name": "Xaibe",
+        "seoname": "xaibe-37490"
+    },
+    {
+        "id_location": 68280,
+        "id_location_parent": 68249,
+        "name": "Xcanluum",
+        "seoname": "xcanluum-37491"
+    },
+    {
+        "id_location": 68281,
+        "id_location_parent": 1,
+        "name": "Orange Walk",
+        "seoname": "orange-walk-743496"
+    },
+    {
+        "id_location": 68282,
+        "id_location_parent": 68281,
+        "name": "August Pine Ridge",
+        "seoname": "august-pine-ridge-37492"
+    },
+    {
+        "id_location": 68283,
+        "id_location_parent": 68281,
+        "name": "Blue Creek Village",
+        "seoname": "blue-creek-village-37493"
+    },
+    {
+        "id_location": 68284,
+        "id_location_parent": 68281,
+        "name": "Carmelita",
+        "seoname": "carmelita-37494"
+    },
+    {
+        "id_location": 68285,
+        "id_location_parent": 68281,
+        "name": "Esperanza",
+        "seoname": "esperanza-37495"
+    },
+    {
+        "id_location": 68286,
+        "id_location_parent": 68281,
+        "name": "Guinea Grass Town",
+        "seoname": "guinea-grass-town-37496"
+    },
+    {
+        "id_location": 68287,
+        "id_location_parent": 68281,
+        "name": "Indian Church",
+        "seoname": "indian-church-37497"
+    },
+    {
+        "id_location": 68288,
+        "id_location_parent": 68281,
+        "name": "Little Bermudian Landing",
+        "seoname": "little-bermudian-landing-37498"
+    },
+    {
+        "id_location": 68289,
+        "id_location_parent": 68281,
+        "name": "Orange Walk Town",
+        "seoname": "orange-walk-town-37499"
+    },
+    {
+        "id_location": 68290,
+        "id_location_parent": 68281,
+        "name": "Piedregal",
+        "seoname": "piedregal-37500"
+    },
+    {
+        "id_location": 68291,
+        "id_location_parent": 68281,
+        "name": "Ramonal",
+        "seoname": "ramonal-37501"
+    },
+    {
+        "id_location": 68292,
+        "id_location_parent": 68281,
+        "name": "Rancho",
+        "seoname": "rancho-37502"
+    },
+    {
+        "id_location": 68293,
+        "id_location_parent": 68281,
+        "name": "Rejolla",
+        "seoname": "rejolla-37503"
+    },
+    {
+        "id_location": 68294,
+        "id_location_parent": 68281,
+        "name": "San Antonio",
+        "seoname": "san-antonio-37504"
+    },
+    {
+        "id_location": 68295,
+        "id_location_parent": 68281,
+        "name": "San Carlos",
+        "seoname": "san-carlos-37505"
+    },
+    {
+        "id_location": 68296,
+        "id_location_parent": 68281,
+        "name": "San Estevan",
+        "seoname": "san-estevan-37506"
+    },
+    {
+        "id_location": 68297,
+        "id_location_parent": 68281,
+        "name": "San Felipe",
+        "seoname": "san-felipe-37507"
+    },
+    {
+        "id_location": 68298,
+        "id_location_parent": 68281,
+        "name": "San Jos\u00e9",
+        "seoname": "san-jose-37508"
+    },
+    {
+        "id_location": 68299,
+        "id_location_parent": 68281,
+        "name": "San Juan Bank",
+        "seoname": "san-juan-bank-37509"
+    },
+    {
+        "id_location": 68300,
+        "id_location_parent": 68281,
+        "name": "San Lazaro",
+        "seoname": "san-lazaro-37510"
+    },
+    {
+        "id_location": 68301,
+        "id_location_parent": 68281,
+        "name": "San Pablo",
+        "seoname": "san-pablo-37511"
+    },
+    {
+        "id_location": 68302,
+        "id_location_parent": 68281,
+        "name": "San Roman",
+        "seoname": "san-roman-37512"
+    },
+    {
+        "id_location": 68303,
+        "id_location_parent": 68281,
+        "name": "Santa Cruz",
+        "seoname": "santa-cruz-37513"
+    },
+    {
+        "id_location": 68304,
+        "id_location_parent": 68281,
+        "name": "Shipyard",
+        "seoname": "shipyard-37514"
+    },
+    {
+        "id_location": 68305,
+        "id_location_parent": 68281,
+        "name": "Trial Farm",
+        "seoname": "trial-farm-37515"
+    },
+    {
+        "id_location": 68306,
+        "id_location_parent": 68281,
+        "name": "Trinidad",
+        "seoname": "trinidad-37516"
+    },
+    {
+        "id_location": 68307,
+        "id_location_parent": 68281,
+        "name": "Vaqueros",
+        "seoname": "vaqueros-37517"
+    },
+    {
+        "id_location": 68308,
+        "id_location_parent": 68281,
+        "name": "Wamil",
+        "seoname": "wamil-37518"
+    },
+    {
+        "id_location": 68309,
+        "id_location_parent": 68281,
+        "name": "Warrie Camp",
+        "seoname": "warrie-camp-37519"
+    },
+    {
+        "id_location": 68310,
+        "id_location_parent": 68281,
+        "name": "Xcanha",
+        "seoname": "xcanha-37520"
+    },
+    {
+        "id_location": 68311,
+        "id_location_parent": 68281,
+        "name": "Yo Creek",
+        "seoname": "yo-creek-37521"
+    },
+    {
+        "id_location": 68312,
+        "id_location_parent": 1,
+        "name": "Stann Creek",
+        "seoname": "stann-creek-743527"
+    },
+    {
+        "id_location": 68313,
+        "id_location_parent": 68312,
+        "name": "Alta Vista",
+        "seoname": "alta-vista-37522"
+    },
+    {
+        "id_location": 68314,
+        "id_location_parent": 68312,
+        "name": "Big Creek",
+        "seoname": "big-creek-37523"
+    },
+    {
+        "id_location": 68315,
+        "id_location_parent": 68312,
+        "name": "Commerce Bight",
+        "seoname": "commerce-bight-37524"
+    },
+    {
+        "id_location": 68316,
+        "id_location_parent": 68312,
+        "name": "Dancing Pool",
+        "seoname": "dancing-pool-37525"
+    },
+    {
+        "id_location": 68317,
+        "id_location_parent": 68312,
+        "name": "Dangriga",
+        "seoname": "dangriga-37526"
+    },
+    {
+        "id_location": 68318,
+        "id_location_parent": 68312,
+        "name": "Garifuna",
+        "seoname": "garifuna-37527"
+    },
+    {
+        "id_location": 68319,
+        "id_location_parent": 68312,
+        "name": "Georgetown",
+        "seoname": "georgetown-37528"
+    },
+    {
+        "id_location": 68320,
+        "id_location_parent": 68312,
+        "name": "Guana Church Bank",
+        "seoname": "guana-church-bank-37529"
+    },
+    {
+        "id_location": 68321,
+        "id_location_parent": 68312,
+        "name": "High Sand",
+        "seoname": "high-sand-37530"
+    },
+    {
+        "id_location": 68322,
+        "id_location_parent": 68312,
+        "name": "Hopkins",
+        "seoname": "hopkins-37531"
+    },
+    {
+        "id_location": 68323,
+        "id_location_parent": 68312,
+        "name": "Independence And Mango Creek",
+        "seoname": "independence-and-mango-creek-37532"
+    },
+    {
+        "id_location": 68324,
+        "id_location_parent": 68312,
+        "name": "Kendal",
+        "seoname": "kendal-37533"
+    },
+    {
+        "id_location": 68325,
+        "id_location_parent": 68312,
+        "name": "Lagarto Bank",
+        "seoname": "lagarto-bank-37534"
+    },
+    {
+        "id_location": 68326,
+        "id_location_parent": 68312,
+        "name": "Maya Mopan",
+        "seoname": "maya-mopan-37535"
+    },
+    {
+        "id_location": 68327,
+        "id_location_parent": 68312,
+        "name": "Middle Bank",
+        "seoname": "middle-bank-37536"
+    },
+    {
+        "id_location": 68328,
+        "id_location_parent": 68312,
+        "name": "Middlesex",
+        "seoname": "middlesex-37537"
+    },
+    {
+        "id_location": 68329,
+        "id_location_parent": 68312,
+        "name": "Mullins River",
+        "seoname": "mullins-river-37538"
+    },
+    {
+        "id_location": 68330,
+        "id_location_parent": 68312,
+        "name": "New Home",
+        "seoname": "new-home-37539"
+    },
+    {
+        "id_location": 68331,
+        "id_location_parent": 68312,
+        "name": "Placencia",
+        "seoname": "placencia-37540"
+    },
+    {
+        "id_location": 68332,
+        "id_location_parent": 68312,
+        "name": "Pomona",
+        "seoname": "pomona-37541"
+    },
+    {
+        "id_location": 68333,
+        "id_location_parent": 68312,
+        "name": "Quarry Hill",
+        "seoname": "quarry-hill-37542"
+    },
+    {
+        "id_location": 68334,
+        "id_location_parent": 68312,
+        "name": "Rancho Grande",
+        "seoname": "rancho-grande-37543"
+    },
+    {
+        "id_location": 68335,
+        "id_location_parent": 68312,
+        "name": "Red Bank",
+        "seoname": "red-bank-37544"
+    },
+    {
+        "id_location": 68336,
+        "id_location_parent": 68312,
+        "name": "Regalia",
+        "seoname": "regalia-37545"
+    },
+    {
+        "id_location": 68337,
+        "id_location_parent": 68312,
+        "name": "Sarawina",
+        "seoname": "sarawina-37546"
+    },
+    {
+        "id_location": 68338,
+        "id_location_parent": 68312,
+        "name": "Silver Creek Camp",
+        "seoname": "silver-creek-camp-37547"
+    },
+    {
+        "id_location": 68339,
+        "id_location_parent": 68312,
+        "name": "Sittee",
+        "seoname": "sittee-37548"
+    },
+    {
+        "id_location": 68340,
+        "id_location_parent": 1,
+        "name": "Toledo",
+        "seoname": "toledo-743555"
+    },
+    {
+        "id_location": 68341,
+        "id_location_parent": 68340,
+        "name": "Punta Gorda",
+        "seoname": "punta-gorda-37549"
+    }
+]
